@@ -1,0 +1,45 @@
+name: Cigar Monitor
+
+on:
+  schedule:
+    - cron: "*/10 * * * *"
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+concurrency:
+  group: cigar-monitor
+  cancel-in-progress: false
+
+jobs:
+  check:
+    runs-on: ubuntu-latest
+    timeout-minutes: 15
+    env:
+      SMTP_PASSWORD: ${{ secrets.SMTP_PASSWORD }}
+
+    steps:
+      - name: Check out repository
+        uses: actions/checkout@v4
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+
+      - name: Run monitor
+        working-directory: cigar-monitor
+        run: python monitor.py --config config.json --once
+
+      - name: Save monitor state
+        run: |
+          if git diff --quiet -- cigar-monitor/data/state.json; then
+            echo "No state changes."
+            exit 0
+          fi
+          git config user.name "cigar-monitor"
+          git config user.email "cigar-monitor@users.noreply.github.com"
+          git add cigar-monitor/data/state.json
+          git commit -m "Update cigar monitor state"
+          git push
