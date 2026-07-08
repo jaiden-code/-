@@ -769,7 +769,7 @@
           "id": "cohcigars:19480:21509",
           "name": "Montecristo - No.5 (20x5 盒)",
           "price": "$ 72.00",
-          "stock": "267",
+          "stock": "266",
           "url": "https://cn.cohcigars.com/cigars-montecristo"
         },
         "cohcigars:1951:23690": {
@@ -1490,7 +1490,7 @@
           "id": "cohcigars:23880:24709",
           "name": "Partagas - Serie E No.2 A/T (20x5 盒)",
           "price": "$ 75.00",
-          "stock": "66",
+          "stock": "65",
           "url": "https://cn.cohcigars.com/cigars-partagas"
         },
         "cohcigars:24167:25002": {
@@ -1595,7 +1595,7 @@
           "id": "cohcigars:24447:25294",
           "name": "Cohiba - Robustos A/T (88 盒)",
           "price": "$ 290.00",
-          "stock": "987",
+          "stock": "986",
           "url": "https://cn.cohcigars.com/cigars-cohiba"
         },
         "cohcigars:24448:25295": {
@@ -1742,7 +1742,7 @@
           "id": "cohcigars:260:21409",
           "name": "Jose L. Piedra - Cremas (5 盒)",
           "price": "$ 39.00",
-          "stock": "44",
+          "stock": "43",
           "url": "https://cn.cohcigars.com/cigars-jose-l.-piedra"
         },
         "cohcigars:262:375": {
@@ -1756,7 +1756,7 @@
           "id": "cohcigars:263:24306",
           "name": "Jose L. Piedra - Petit Cetros (5x2 盒)",
           "price": "$ 59.00",
-          "stock": "183",
+          "stock": "182",
           "url": "https://cn.cohcigars.com/cigars-jose-l.-piedra"
         },
         "cohcigars:2649:2950": {
@@ -2015,7 +2015,7 @@
           "id": "cohcigars:3048:3356",
           "name": "Singles 6 Stick Min - 1 x Partagas Serie P No.2 (1 盒)",
           "price": "$ 36.00",
-          "stock": "75",
+          "stock": "69",
           "url": "https://cn.cohcigars.com/cigars-singles-6-stick-min"
         },
         "cohcigars:3049:3357": {
@@ -2288,7 +2288,7 @@
           "id": "cohcigars:3495:3797",
           "name": "Singles 6 Stick Min - 1 x Montecristo No.4 (1 盒)",
           "price": "$ 23.00",
-          "stock": "9",
+          "stock": "3",
           "url": "https://cn.cohcigars.com/cigars-singles-6-stick-min"
         },
         "cohcigars:3496:3799": {
@@ -2442,14 +2442,14 @@
           "id": "cohcigars:396:17331",
           "name": "Cohiba - Siglo IV (3 盒)",
           "price": "$ 225.00",
-          "stock": "80",
+          "stock": "78",
           "url": "https://cn.cohcigars.com/cigars-cohiba"
         },
         "cohcigars:397:20574": {
           "id": "cohcigars:397:20574",
           "name": "Cohiba - Siglo V A/T (3 盒)",
           "price": "$ 395.00",
-          "stock": "49",
+          "stock": "47",
           "url": "https://cn.cohcigars.com/cigars-cohiba"
         },
         "cohcigars:4072:4372": {
@@ -2995,7 +2995,7 @@
           "id": "cohcigars:7221:7729",
           "name": "Singles 6 Stick Min - 1 x Montecristo No.3 (1 盒)",
           "price": "$ 31.00",
-          "stock": "94",
+          "stock": "88",
           "url": "https://cn.cohcigars.com/cigars-singles-6-stick-min"
         },
         "cohcigars:7226:7734": {
@@ -3440,8 +3440,8 @@
           "url": "https://cn.cohcigars.com/cigars-montecristo"
         }
       },
-      "last_checked": "2026-07-08T16:16:30+00:00",
-      "last_count": 490,
+      "last_checked": "2026-07-08T21:49:17+00:00",
+      "last_count": 485,
       "last_error": null,
       "previous": {
         "cohcigars:101:144": {
@@ -4204,7 +4204,7 @@
           "id": "cohcigars:19480:21509",
           "name": "Montecristo - No.5 (20x5 盒)",
           "price": "$ 72.00",
-          "stock": "267",
+          "stock": "266",
           "url": "https://cn.cohcigars.com/cigars-montecristo"
         },
         "cohcigars:1951:23690": {
@@ -4925,7 +4925,7 @@
           "id": "cohcigars:23880:24709",
           "name": "Partagas - Serie E No.2 A/T (20x5 盒)",
           "price": "$ 75.00",
-          "stock": "66",
+          "stock": "65",
           "url": "https://cn.cohcigars.com/cigars-partagas"
         },
         "cohcigars:24167:25002": {
@@ -5030,7 +5030,7 @@
           "id": "cohcigars:24447:25294",
           "name": "Cohiba - Robustos A/T (88 盒)",
           "price": "$ 290.00",
-          "stock": "987",
+          "stock": "986",
           "url": "https://cn.cohcigars.com/cigars-cohiba"
         },
         "cohcigars:24448:25295": {
@@ -5096,27 +5096,6 @@
           "stock": "70",
           "url": "https://cn.cohcigars.com/cigars-combinaciones"
         },
-        "cohcigars:251:355": {
-          "id": "cohcigars:251:355",
-          "name": "Trinidad - La Trova LCDH (24 盒)",
-          "price": "$ 605.00",
-          "stock": "17",
-          "url": "https://cn.cohcigars.com/cigars-trinidad"
-        },
-        "cohcigars:251:356": {
-          "id": "cohcigars:251:356",
-          "name": "Trinidad - La Trova LCDH (12 盒)",
-          "price": "$ 390.00",
-          "stock": "18",
-          "url": "https://cn.cohcigars.com/cigars-trinidad"
-        },
-        "cohcigars:252:358": {
-          "id": "cohcigars:252:358",
-          "name": "Trinidad - La Trova LCDH (12 盒)",
-          "price": "$ 1440.00",
-          "stock": "20",
-          "url": "https://cn.cohcigars.com/cigars-trinidad"
-        },
         "cohcigars:2564:20180": {
           "id": "cohcigars:2564:20180",
           "name": "Punch - Mini Reserva (20 x 5 盒)",
@@ -5177,7 +5156,7 @@
           "id": "cohcigars:260:21409",
           "name": "Jose L. Piedra - Cremas (5 盒)",
           "price": "$ 39.00",
-          "stock": "44",
+          "stock": "43",
           "url": "https://cn.cohcigars.com/cigars-jose-l.-piedra"
         },
         "cohcigars:262:375": {
@@ -5191,7 +5170,7 @@
           "id": "cohcigars:263:24306",
           "name": "Jose L. Piedra - Petit Cetros (5x2 盒)",
           "price": "$ 59.00",
-          "stock": "183",
+          "stock": "182",
           "url": "https://cn.cohcigars.com/cigars-jose-l.-piedra"
         },
         "cohcigars:2649:2950": {
@@ -5450,7 +5429,7 @@
           "id": "cohcigars:3048:3356",
           "name": "Singles 6 Stick Min - 1 x Partagas Serie P No.2 (1 盒)",
           "price": "$ 36.00",
-          "stock": "75",
+          "stock": "69",
           "url": "https://cn.cohcigars.com/cigars-singles-6-stick-min"
         },
         "cohcigars:3049:3357": {
@@ -5723,7 +5702,7 @@
           "id": "cohcigars:3495:3797",
           "name": "Singles 6 Stick Min - 1 x Montecristo No.4 (1 盒)",
           "price": "$ 23.00",
-          "stock": "9",
+          "stock": "3",
           "url": "https://cn.cohcigars.com/cigars-singles-6-stick-min"
         },
         "cohcigars:3496:3799": {
@@ -5877,14 +5856,14 @@
           "id": "cohcigars:396:17331",
           "name": "Cohiba - Siglo IV (3 盒)",
           "price": "$ 225.00",
-          "stock": "80",
+          "stock": "78",
           "url": "https://cn.cohcigars.com/cigars-cohiba"
         },
         "cohcigars:397:20574": {
           "id": "cohcigars:397:20574",
           "name": "Cohiba - Siglo V A/T (3 盒)",
           "price": "$ 395.00",
-          "stock": "49",
+          "stock": "47",
           "url": "https://cn.cohcigars.com/cigars-cohiba"
         },
         "cohcigars:4072:4372": {
@@ -5992,13 +5971,6 @@
           "stock": "97",
           "url": "https://cn.cohcigars.com/cigars-singles-6-stick-min"
         },
-        "cohcigars:4598:4903": {
-          "id": "cohcigars:4598:4903",
-          "name": "Trinidad - La Trova LCDH (12 盒)",
-          "price": "$ 1380.00",
-          "stock": "1",
-          "url": "https://cn.cohcigars.com/cigars-trinidad"
-        },
         "cohcigars:45:69": {
           "id": "cohcigars:45:69",
           "name": "Cohiba - Siglo I (25 盒)",
@@ -6047,13 +6019,6 @@
           "price": "$ 390.00",
           "stock": "51",
           "url": "https://cn.cohcigars.com/cigars-montecristo"
-        },
-        "cohcigars:4640:4953": {
-          "id": "cohcigars:4640:4953",
-          "name": "Trinidad - La Trova LCDH (12 盒)",
-          "price": "$ 590.00",
-          "stock": "17",
-          "url": "https://cn.cohcigars.com/cigars-trinidad"
         },
         "cohcigars:466:725": {
           "id": "cohcigars:466:725",
@@ -6430,7 +6395,7 @@
           "id": "cohcigars:7221:7729",
           "name": "Singles 6 Stick Min - 1 x Montecristo No.3 (1 盒)",
           "price": "$ 31.00",
-          "stock": "94",
+          "stock": "88",
           "url": "https://cn.cohcigars.com/cigars-singles-6-stick-min"
         },
         "cohcigars:7226:7734": {
@@ -8109,7 +8074,7 @@
           "url": "https://www.ihavanas.com/details.php?ptype=cigars&pid=Partagas"
         }
       },
-      "last_checked": "2026-07-08T16:16:08+00:00",
+      "last_checked": "2026-07-08T21:48:53+00:00",
       "last_count": 205,
       "last_error": null,
       "previous": {
