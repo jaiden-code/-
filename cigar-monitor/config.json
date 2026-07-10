@@ -171,6 +171,11 @@
       "url": "",
       "headers": {}
     },
+    "github_issue": {
+      "enabled": true,
+      "mention": "@jaiden-code",
+      "labels": []
+    },
     "smtp": {
       "enabled": true,
       "host": "smtp.office365.com",
