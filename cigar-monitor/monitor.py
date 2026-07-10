@@ -2,6 +2,7 @@
 import argparse
 import email.message
 import html
+import http.client
 import json
 import os
 import re
@@ -104,17 +105,27 @@ def save_json(path: Path, data: Any) -> None:
 
 
 def fetch(url: str, user_agent: str, timeout: int = 60) -> str:
-    req = urllib.request.Request(
-        url,
-        headers={
-            "User-Agent": user_agent,
-            "Accept": "text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8",
-            "Accept-Language": "en-US,en;q=0.9,zh-CN;q=0.8,zh;q=0.7",
-        },
-    )
-    with urllib.request.urlopen(req, timeout=timeout) as resp:
-        charset = resp.headers.get_content_charset() or "utf-8"
-        return resp.read().decode(charset, errors="replace")
+    last_error: Exception | None = None
+    for attempt in range(3):
+        req = urllib.request.Request(
+            url,
+            headers={
+                "User-Agent": user_agent,
+                "Accept": "text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8",
+                "Accept-Language": "en-US,en;q=0.9,zh-CN;q=0.8,zh;q=0.7",
+            },
+        )
+        try:
+            with urllib.request.urlopen(req, timeout=timeout) as resp:
+                charset = resp.headers.get_content_charset() or "utf-8"
+                return resp.read().decode(charset, errors="replace")
+        except (urllib.error.URLError, TimeoutError, OSError, http.client.HTTPException) as exc:
+            last_error = exc
+            if attempt < 2:
+                time.sleep(2 * (attempt + 1))
+                continue
+            raise
+    raise RuntimeError(f"Fetch failed without an exception: {url}") from last_error
 
 
 def normalize_id(name: str, url: str) -> str:
@@ -438,7 +449,7 @@ def check_once(config: dict[str, Any], config_path: Path) -> int:
                     int(config.get("request_timeout_seconds", 60)),
                 )
                 current.update(extract_products(page_html, page_target, page_url))
-            except (urllib.error.URLError, TimeoutError, OSError) as exc:
+            except (urllib.error.URLError, TimeoutError, OSError, http.client.HTTPException) as exc:
                 page_errors.append(f"{page_url}: {exc}")
 
         if page_errors:
