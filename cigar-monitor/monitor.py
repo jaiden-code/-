@@ -343,6 +343,40 @@ def format_event(target_name: str, event: dict[str, Any]) -> tuple[str, str]:
     return title, "\n".join(lines)
 
 
+def format_event_summary(target_name: str, event: dict[str, Any], index: int) -> str:
+    item = event["item"]
+    lines = [
+        f"{index}. {event_title(event['type'])}",
+        f"网站: {target_name}",
+        f"商品: {item.get('name', '')}",
+    ]
+    if event["type"] == "price_change":
+        lines.append(f"价格: {event.get('old_price')} -> {event.get('new_price')}")
+    elif event["type"] == "stock_increase":
+        lines.append(f"库存: {event.get('old_stock')} -> {event.get('new_stock')}")
+        if item.get("price"):
+            lines.append(f"价格: {item['price']}")
+    elif item.get("price"):
+        lines.append(f"价格: {item['price']}")
+    if item.get("stock") and event["type"] != "stock_increase":
+        lines.append(f"库存: {item['stock']}")
+    lines.append(f"链接: {item.get('url', '')}")
+    return "\n".join(lines)
+
+
+def format_digest(events: list[tuple[str, dict[str, Any]]]) -> tuple[str, str]:
+    title = f"雪茄监测提醒：{len(events)} 条更新"
+    lines = [
+        title,
+        f"时间: {datetime.now().strftime('%Y-%m-%d %H:%M:%S')}",
+        "",
+    ]
+    for index, (target_name, event) in enumerate(events, start=1):
+        lines.append(format_event_summary(target_name, event, index))
+        lines.append("")
+    return title, "\n".join(lines).rstrip()
+
+
 def post_json(url: str, payload: dict[str, Any], headers: dict[str, str] | None = None) -> None:
     body = json.dumps(payload, ensure_ascii=False).encode("utf-8")
     req = urllib.request.Request(
@@ -498,6 +532,7 @@ def check_once(config: dict[str, Any], config_path: Path) -> int:
         state_path = config_path.parent / state_path
     state = load_json(state_path, {"targets": {}})
     total_events = 0
+    digest_events: list[tuple[str, dict[str, Any]]] = []
 
     for target in config.get("targets", []):
         if not target.get("enabled", True):
@@ -535,17 +570,19 @@ def check_once(config: dict[str, Any], config_path: Path) -> int:
             print(f"Skipped state update for {name}: {len(page_errors)} page error(s).")
             continue
         events = diff_products(target, previous, ever_seen, current)
-
         for event in events:
-            title, message = format_event(name, event)
-            notify(config, title, message)
-            total_events += 1
+            digest_events.append((name, event))
+        total_events += len(events)
 
         target_state["previous"] = current
         target_state["ever_seen"] = {**ever_seen, **current}
         target_state["last_checked"] = now_iso()
         target_state["last_count"] = len(current)
         target_state["last_error"] = None
+
+    if digest_events:
+        title, message = format_digest(digest_events)
+        notify(config, title, message)
 
     save_json(state_path, state)
     return total_events
