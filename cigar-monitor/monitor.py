@@ -355,8 +355,41 @@ def post_json(url: str, payload: dict[str, Any], headers: dict[str, str] | None 
         pass
 
 
+def notify_github_issue(title: str, message: str, config: dict[str, Any]) -> None:
+    github_cfg = config.get("notifications", {}).get("github_issue", {})
+    if not github_cfg.get("enabled"):
+        return
+
+    token = os.environ.get("GITHUB_TOKEN") or github_cfg.get("token", "")
+    repository = os.environ.get("GITHUB_REPOSITORY") or github_cfg.get("repository", "")
+    if not token or not repository:
+        raise RuntimeError("GitHub issue notification is enabled but GITHUB_TOKEN or GITHUB_REPOSITORY is missing.")
+
+    mention = github_cfg.get("mention", "").strip()
+    body = f"{mention}\n\n{message}".strip() if mention else message
+    payload: dict[str, Any] = {
+        "title": title,
+        "body": body,
+    }
+    labels = github_cfg.get("labels", [])
+    if labels:
+        payload["labels"] = labels
+
+    post_json(
+        f"https://api.github.com/repos/{repository}/issues",
+        payload,
+        {
+            "Authorization": f"Bearer {token}",
+            "Accept": "application/vnd.github+json",
+            "X-GitHub-Api-Version": "2022-11-28",
+        },
+    )
+
+
 def notify(config: dict[str, Any], title: str, message: str) -> None:
     notifications = config.get("notifications", {})
+    delivery_errors: list[str] = []
+    delivered = False
 
     if notifications.get("console", {}).get("enabled", True):
         print("\n" + "=" * 72)
@@ -365,56 +398,98 @@ def notify(config: dict[str, Any], title: str, message: str) -> None:
 
     tg = notifications.get("telegram", {})
     if tg.get("enabled"):
-        token = tg["bot_token"]
-        chat_id = tg["chat_id"]
-        url = f"https://api.telegram.org/bot{token}/sendMessage"
-        post_json(url, {"chat_id": chat_id, "text": message, "disable_web_page_preview": False})
+        try:
+            token = tg["bot_token"]
+            chat_id = tg["chat_id"]
+            url = f"https://api.telegram.org/bot{token}/sendMessage"
+            post_json(url, {"chat_id": chat_id, "text": message, "disable_web_page_preview": False})
+            delivered = True
+        except Exception as exc:
+            delivery_errors.append(f"Telegram: {exc}")
 
     bark = notifications.get("bark", {})
     if bark.get("enabled"):
-        endpoint = bark["endpoint"].rstrip("/")
-        data = urllib.parse.urlencode({"title": title, "body": message}).encode("utf-8")
-        req = urllib.request.Request(endpoint, data=data, method="POST")
-        with urllib.request.urlopen(req, timeout=30):
-            pass
+        try:
+            endpoint = bark["endpoint"].rstrip("/")
+            data = urllib.parse.urlencode({"title": title, "body": message}).encode("utf-8")
+            req = urllib.request.Request(endpoint, data=data, method="POST")
+            with urllib.request.urlopen(req, timeout=30):
+                pass
+            delivered = True
+        except Exception as exc:
+            delivery_errors.append(f"Bark: {exc}")
 
     pushplus = notifications.get("pushplus", {})
     if pushplus.get("enabled"):
-        post_json(
-            "https://www.pushplus.plus/send",
-            {"token": pushplus["token"], "title": title, "content": message},
-        )
+        try:
+            post_json(
+                "https://www.pushplus.plus/send",
+                {"token": pushplus["token"], "title": title, "content": message},
+            )
+            delivered = True
+        except Exception as exc:
+            delivery_errors.append(f"PushPlus: {exc}")
 
     server_chan = notifications.get("server_chan", {})
     if server_chan.get("enabled"):
-        sendkey = server_chan["sendkey"]
-        post_json(f"https://sctapi.ftqq.com/{sendkey}.send", {"title": title, "desp": message})
+        try:
+            sendkey = server_chan["sendkey"]
+            post_json(f"https://sctapi.ftqq.com/{sendkey}.send", {"title": title, "desp": message})
+            delivered = True
+        except Exception as exc:
+            delivery_errors.append(f"ServerChan: {exc}")
 
     webhook = notifications.get("webhook", {})
     if webhook.get("enabled"):
-        post_json(webhook["url"], {"title": title, "message": message}, webhook.get("headers", {}))
+        try:
+            post_json(webhook["url"], {"title": title, "message": message}, webhook.get("headers", {}))
+            delivered = True
+        except Exception as exc:
+            delivery_errors.append(f"Webhook: {exc}")
 
     smtp_cfg = notifications.get("smtp", {})
     if smtp_cfg.get("enabled"):
-        smtp_host = os.environ.get("SMTP_HOST") or smtp_cfg["host"]
-        smtp_port = int(os.environ.get("SMTP_PORT") or smtp_cfg.get("port", 587))
-        smtp_username = os.environ.get("SMTP_USERNAME") or smtp_cfg["username"]
-        smtp_password = os.environ.get("SMTP_PASSWORD") or smtp_cfg["password"]
-        smtp_from = os.environ.get("SMTP_FROM") or smtp_cfg["from"]
-        smtp_to = os.environ.get("SMTP_TO") or smtp_cfg["to"]
-        if not smtp_password:
-            raise RuntimeError("SMTP password is empty. Set SMTP_PASSWORD in the cloud secret or config.json.")
+        try:
+            smtp_host = os.environ.get("SMTP_HOST") or smtp_cfg["host"]
+            smtp_port = int(os.environ.get("SMTP_PORT") or smtp_cfg.get("port", 587))
+            smtp_username = os.environ.get("SMTP_USERNAME") or smtp_cfg["username"]
+            smtp_password = os.environ.get("SMTP_PASSWORD") or smtp_cfg["password"]
+            smtp_from = os.environ.get("SMTP_FROM") or smtp_cfg["from"]
+            smtp_to = os.environ.get("SMTP_TO") or smtp_cfg["to"]
+            if not smtp_password:
+                raise RuntimeError("SMTP password is empty. Set SMTP_PASSWORD in the cloud secret or config.json.")
 
-        msg = email.message.EmailMessage()
-        msg["Subject"] = title
-        msg["From"] = smtp_from
-        msg["To"] = smtp_to
-        msg.set_content(message)
-        context = ssl.create_default_context()
-        with smtplib.SMTP(smtp_host, smtp_port, timeout=30) as server:
-            server.starttls(context=context)
-            server.login(smtp_username, smtp_password)
-            server.send_message(msg)
+            msg = email.message.EmailMessage()
+            msg["Subject"] = title
+            msg["From"] = smtp_from
+            msg["To"] = smtp_to
+            msg.set_content(message)
+            context = ssl.create_default_context()
+            with smtplib.SMTP(smtp_host, smtp_port, timeout=30) as server:
+                server.starttls(context=context)
+                server.login(smtp_username, smtp_password)
+                server.send_message(msg)
+            delivered = True
+        except Exception as exc:
+            delivery_errors.append(f"SMTP: {exc}")
+
+    if notifications.get("github_issue", {}).get("enabled"):
+        try:
+            notify_github_issue(title, message, config)
+            delivered = True
+        except Exception as exc:
+            delivery_errors.append(f"GitHub issue: {exc}")
+
+    if delivery_errors:
+        print("Notification warning: " + " | ".join(delivery_errors), file=sys.stderr)
+
+    active_channels = [
+        name
+        for name, channel in notifications.items()
+        if name != "console" and isinstance(channel, dict) and channel.get("enabled")
+    ]
+    if active_channels and not delivered:
+        raise RuntimeError("All non-console notification channels failed: " + " | ".join(delivery_errors))
 
 
 def check_once(config: dict[str, Any], config_path: Path) -> int:
