@@ -171,6 +171,12 @@
       "url": "",
       "headers": {}
     },
+    "github_issue": {
+      "enabled": true,
+      "fallback_only": true,
+      "mention": "@jaiden-code",
+      "labels": []
+    },
     "smtp": {
       "enabled": false,
       "host": "smtp.example.com",
