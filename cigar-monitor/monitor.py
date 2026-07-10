@@ -507,7 +507,8 @@ def notify(config: dict[str, Any], title: str, message: str) -> None:
         except Exception as exc:
             delivery_errors.append(f"SMTP: {exc}")
 
-    if notifications.get("github_issue", {}).get("enabled"):
+    github_issue_cfg = notifications.get("github_issue", {})
+    if github_issue_cfg.get("enabled") and (not github_issue_cfg.get("fallback_only", True) or not delivered):
         try:
             notify_github_issue(title, message, config)
             delivered = True
