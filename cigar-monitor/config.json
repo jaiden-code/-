@@ -1,6 +1,6 @@
 {
   "check_interval_seconds": 300,
-  "request_timeout_seconds": 90,
+  "request_timeout_seconds": 120,
   "state_file": "data/state.json",
   "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126 Safari/537.36",
   "targets": [
