@@ -140,7 +140,7 @@
       "exclude_keywords": [],
       "product_url_contains": [],
       "notify_on_new": true,
-      "notify_on_restock": true,
+      "notify_on_restock": false,
       "notify_on_price_change": true,
       "notify_on_stock_change": true
     }
