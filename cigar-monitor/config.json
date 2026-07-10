@@ -173,6 +173,7 @@
     },
     "github_issue": {
       "enabled": true,
+      "fallback_only": true,
       "mention": "@jaiden-code",
       "labels": []
     },
