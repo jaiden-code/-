@@ -524,7 +524,7 @@
           "id": "cohcigars:1556:17327",
           "name": "Cohiba - Robustos A/T (3 盒)",
           "price": "$ 255.00",
-          "stock": "195",
+          "stock": "194",
           "url": "https://cn.cohcigars.com/cigars-cohiba"
         },
         "cohcigars:1556:1751": {
@@ -1497,7 +1497,7 @@
           "id": "cohcigars:23879:24707",
           "name": "Montecristo - Mini 10x10 (20x5 盒)",
           "price": "$ 69.00",
-          "stock": "37",
+          "stock": "36",
           "url": "https://cn.cohcigars.com/cigars-montecristo"
         },
         "cohcigars:23880:24709": {
@@ -1777,7 +1777,7 @@
           "id": "cohcigars:263:24306",
           "name": "Jose L. Piedra - Petit Cetros (5x2 盒)",
           "price": "$ 59.00",
-          "stock": "179",
+          "stock": "178",
           "url": "https://cn.cohcigars.com/cigars-jose-l.-piedra"
         },
         "cohcigars:2649:2950": {
@@ -1798,7 +1798,7 @@
           "id": "cohcigars:265:23684",
           "name": "Romeo Y Julieta - Churchills A/T (20x5 盒)",
           "price": "$ 109.00",
-          "stock": "63",
+          "stock": "62",
           "url": "https://cn.cohcigars.com/cigars-romeo-y-julieta"
         },
         "cohcigars:2661:2968": {
@@ -2470,7 +2470,7 @@
           "id": "cohcigars:396:17331",
           "name": "Cohiba - Siglo IV (3 盒)",
           "price": "$ 225.00",
-          "stock": "77",
+          "stock": "76",
           "url": "https://cn.cohcigars.com/cigars-cohiba"
         },
         "cohcigars:397:20574": {
@@ -2743,7 +2743,7 @@
           "id": "cohcigars:4772:5156",
           "name": "Hoyo de Monterrey - Le Hoyo De Rio Seco A/T (15 盒)",
           "price": "$ 690.00",
-          "stock": "11",
+          "stock": "10",
           "url": "https://cn.cohcigars.com/cigars-hoyo-de-monterrey"
         },
         "cohcigars:4858:5279": {
@@ -3317,7 +3317,7 @@
           "id": "cohcigars:913:956",
           "name": "Rafael Gonzalez - Panetelas Extra (25 盒)",
           "price": "$ 170.00",
-          "stock": "14",
+          "stock": "13",
           "url": "https://cn.cohcigars.com/cigars-rafael-gonzalez"
         },
         "cohcigars:914:957": {
@@ -3482,8 +3482,8 @@
           "url": "https://cn.cohcigars.com/cigars-montecristo"
         }
       },
-      "last_checked": "2026-07-12T11:44:33+00:00",
-      "last_count": 494,
+      "last_checked": "2026-07-12T15:39:02+00:00",
+      "last_count": 493,
       "last_error": null,
       "previous": {
         "cohcigars:101:144": {
@@ -3596,13 +3596,6 @@
           "name": "Hoyo de Monterrey - 5 Pack- Short Hoyo Piramide EL 2011 (5 盒)",
           "price": "$ 420.00",
           "stock": "18",
-          "url": "https://cn.cohcigars.com/cigars-hoyo-de-monterrey"
-        },
-        "cohcigars:111:165": {
-          "id": "cohcigars:111:165",
-          "name": "Hoyo de Monterrey - Petit Robustos (25 盒)",
-          "price": "$ 580.00",
-          "stock": "1",
           "url": "https://cn.cohcigars.com/cigars-hoyo-de-monterrey"
         },
         "cohcigars:111:20573": {
@@ -3994,7 +3987,7 @@
           "id": "cohcigars:1556:17327",
           "name": "Cohiba - Robustos A/T (3 盒)",
           "price": "$ 255.00",
-          "stock": "195",
+          "stock": "194",
           "url": "https://cn.cohcigars.com/cigars-cohiba"
         },
         "cohcigars:1556:1751": {
@@ -4967,7 +4960,7 @@
           "id": "cohcigars:23879:24707",
           "name": "Montecristo - Mini 10x10 (20x5 盒)",
           "price": "$ 69.00",
-          "stock": "37",
+          "stock": "36",
           "url": "https://cn.cohcigars.com/cigars-montecristo"
         },
         "cohcigars:23880:24709": {
@@ -5247,7 +5240,7 @@
           "id": "cohcigars:263:24306",
           "name": "Jose L. Piedra - Petit Cetros (5x2 盒)",
           "price": "$ 59.00",
-          "stock": "179",
+          "stock": "178",
           "url": "https://cn.cohcigars.com/cigars-jose-l.-piedra"
         },
         "cohcigars:2649:2950": {
@@ -5268,7 +5261,7 @@
           "id": "cohcigars:265:23684",
           "name": "Romeo Y Julieta - Churchills A/T (20x5 盒)",
           "price": "$ 109.00",
-          "stock": "63",
+          "stock": "62",
           "url": "https://cn.cohcigars.com/cigars-romeo-y-julieta"
         },
         "cohcigars:2661:2968": {
@@ -5940,7 +5933,7 @@
           "id": "cohcigars:396:17331",
           "name": "Cohiba - Siglo IV (3 盒)",
           "price": "$ 225.00",
-          "stock": "77",
+          "stock": "76",
           "url": "https://cn.cohcigars.com/cigars-cohiba"
         },
         "cohcigars:397:20574": {
@@ -6206,7 +6199,7 @@
           "id": "cohcigars:4772:5156",
           "name": "Hoyo de Monterrey - Le Hoyo De Rio Seco A/T (15 盒)",
           "price": "$ 690.00",
-          "stock": "11",
+          "stock": "10",
           "url": "https://cn.cohcigars.com/cigars-hoyo-de-monterrey"
         },
         "cohcigars:4858:5279": {
@@ -6780,7 +6773,7 @@
           "id": "cohcigars:913:956",
           "name": "Rafael Gonzalez - Panetelas Extra (25 盒)",
           "price": "$ 170.00",
-          "stock": "14",
+          "stock": "13",
           "url": "https://cn.cohcigars.com/cigars-rafael-gonzalez"
         },
         "cohcigars:914:957": {
@@ -8179,7 +8172,7 @@
           "url": "https://www.ihavanas.com/details.php?ptype=cigars&pid=Partagas"
         }
       },
-      "last_checked": "2026-07-12T11:44:11+00:00",
+      "last_checked": "2026-07-12T15:38:42+00:00",
       "last_count": 205,
       "last_error": null,
       "previous": {
