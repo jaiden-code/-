@@ -293,7 +293,7 @@
           "id": "cohcigars:1231:1421",
           "name": "Montecristo - Double Edmundo (10 盒)",
           "price": "$ 425.00",
-          "stock": "2",
+          "stock": "1",
           "url": "https://cn.cohcigars.com/cigars-montecristo"
         },
         "cohcigars:1242:1402": {
@@ -335,7 +335,7 @@
           "id": "cohcigars:1252:1422",
           "name": "Montecristo - Petit No.2 (25 盒)",
           "price": "$ 665.00",
-          "stock": "3",
+          "stock": "2",
           "url": "https://cn.cohcigars.com/cigars-montecristo"
         },
         "cohcigars:1252:1430": {
@@ -993,7 +993,7 @@
           "id": "cohcigars:21281:22027",
           "name": "Ramon Allones - Absolutos EL 2024 (20 盒)",
           "price": "$ 1250.00",
-          "stock": "2",
+          "stock": "1",
           "url": "https://cn.cohcigars.com/cigars-ramon-allones"
         },
         "cohcigars:21282:22028": {
@@ -1686,7 +1686,7 @@
           "id": "cohcigars:251:355",
           "name": "Trinidad - Fundadores (24 盒)",
           "price": "$ 605.00",
-          "stock": "15",
+          "stock": "14",
           "url": "https://cn.cohcigars.com/cigars-trinidad"
         },
         "cohcigars:251:356": {
@@ -1777,7 +1777,7 @@
           "id": "cohcigars:263:24306",
           "name": "Jose L. Piedra - Petit Cetros (5x2 盒)",
           "price": "$ 59.00",
-          "stock": "178",
+          "stock": "177",
           "url": "https://cn.cohcigars.com/cigars-jose-l.-piedra"
         },
         "cohcigars:2649:2950": {
@@ -3482,7 +3482,7 @@
           "url": "https://cn.cohcigars.com/cigars-montecristo"
         }
       },
-      "last_checked": "2026-07-12T15:39:02+00:00",
+      "last_checked": "2026-07-12T19:58:02+00:00",
       "last_count": 493,
       "last_error": null,
       "previous": {
@@ -3756,7 +3756,7 @@
           "id": "cohcigars:1231:1421",
           "name": "Montecristo - Double Edmundo (10 盒)",
           "price": "$ 425.00",
-          "stock": "2",
+          "stock": "1",
           "url": "https://cn.cohcigars.com/cigars-montecristo"
         },
         "cohcigars:1242:1402": {
@@ -3798,7 +3798,7 @@
           "id": "cohcigars:1252:1422",
           "name": "Montecristo - Petit No.2 (25 盒)",
           "price": "$ 665.00",
-          "stock": "3",
+          "stock": "2",
           "url": "https://cn.cohcigars.com/cigars-montecristo"
         },
         "cohcigars:1252:1430": {
@@ -4456,7 +4456,7 @@
           "id": "cohcigars:21281:22027",
           "name": "Ramon Allones - Absolutos EL 2024 (20 盒)",
           "price": "$ 1250.00",
-          "stock": "2",
+          "stock": "1",
           "url": "https://cn.cohcigars.com/cigars-ramon-allones"
         },
         "cohcigars:21282:22028": {
@@ -5149,7 +5149,7 @@
           "id": "cohcigars:251:355",
           "name": "Trinidad - Fundadores (24 盒)",
           "price": "$ 605.00",
-          "stock": "15",
+          "stock": "14",
           "url": "https://cn.cohcigars.com/cigars-trinidad"
         },
         "cohcigars:251:356": {
@@ -5240,7 +5240,7 @@
           "id": "cohcigars:263:24306",
           "name": "Jose L. Piedra - Petit Cetros (5x2 盒)",
           "price": "$ 59.00",
-          "stock": "178",
+          "stock": "177",
           "url": "https://cn.cohcigars.com/cigars-jose-l.-piedra"
         },
         "cohcigars:2649:2950": {
@@ -8172,7 +8172,7 @@
           "url": "https://www.ihavanas.com/details.php?ptype=cigars&pid=Partagas"
         }
       },
-      "last_checked": "2026-07-12T15:38:42+00:00",
+      "last_checked": "2026-07-12T19:57:38+00:00",
       "last_count": 205,
       "last_error": null,
       "previous": {
