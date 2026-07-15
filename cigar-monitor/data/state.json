@@ -769,7 +769,7 @@
           "id": "cohcigars:1947:9595",
           "name": "Cohiba - Behike BHK 54 (20x5 盒)",
           "price": "$ 80.00",
-          "stock": "135",
+          "stock": "134",
           "url": "https://cn.cohcigars.com/cigars-cohiba"
         },
         "cohcigars:19480:21509": {
@@ -3510,8 +3510,8 @@
           "url": "https://cn.cohcigars.com/cigars-montecristo"
         }
       },
-      "last_checked": "2026-07-15T18:20:01+00:00",
-      "last_count": 496,
+      "last_checked": "2026-07-15T23:42:46+00:00",
+      "last_count": 495,
       "last_error": null,
       "previous": {
         "cohcigars:101:144": {
@@ -4267,7 +4267,7 @@
           "id": "cohcigars:1947:9595",
           "name": "Cohiba - Behike BHK 54 (20x5 盒)",
           "price": "$ 80.00",
-          "stock": "135",
+          "stock": "134",
           "url": "https://cn.cohcigars.com/cigars-cohiba"
         },
         "cohcigars:19480:21509": {
@@ -5262,13 +5262,6 @@
           "name": "Jose L. Piedra - Cremas (5 盒)",
           "price": "$ 39.00",
           "stock": "41",
-          "url": "https://cn.cohcigars.com/cigars-jose-l.-piedra"
-        },
-        "cohcigars:262:375": {
-          "id": "cohcigars:262:375",
-          "name": "Jose L. Piedra - Petit Cazadores (5x5 盒)",
-          "price": "$ 175.00",
-          "stock": "1",
           "url": "https://cn.cohcigars.com/cigars-jose-l.-piedra"
         },
         "cohcigars:263:24306": {
@@ -8221,7 +8214,7 @@
           "url": "https://www.ihavanas.com/details.php?ptype=cigars&pid=Partagas"
         }
       },
-      "last_checked": "2026-07-15T18:19:37+00:00",
+      "last_checked": "2026-07-15T23:42:23+00:00",
       "last_count": 204,
       "last_error": null,
       "previous": {
