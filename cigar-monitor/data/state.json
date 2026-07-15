@@ -636,7 +636,7 @@
           "id": "cohcigars:1735:1967",
           "name": "Hoyo de Monterrey - Le Hoyo de San Juan (10 盒)",
           "price": "$ 405.00",
-          "stock": "8",
+          "stock": "7",
           "url": "https://cn.cohcigars.com/cigars-hoyo-de-monterrey"
         },
         "cohcigars:1766:2001": {
@@ -769,7 +769,7 @@
           "id": "cohcigars:1947:9595",
           "name": "Cohiba - Behike BHK 54 (20x5 盒)",
           "price": "$ 80.00",
-          "stock": "136",
+          "stock": "135",
           "url": "https://cn.cohcigars.com/cigars-cohiba"
         },
         "cohcigars:19480:21509": {
@@ -2400,7 +2400,7 @@
           "id": "cohcigars:366:541",
           "name": "Hoyo de Monterrey - Epicure Especial (10 盒)",
           "price": "$ 355.00",
-          "stock": "14",
+          "stock": "13",
           "url": "https://cn.cohcigars.com/cigars-hoyo-de-monterrey"
         },
         "cohcigars:368:594": {
@@ -2512,7 +2512,7 @@
           "id": "cohcigars:409:641",
           "name": "H.Upmann - Magnum 50 A/T (15 盒)",
           "price": "$ 755.00",
-          "stock": "10",
+          "stock": "9",
           "url": "https://cn.cohcigars.com/cigars-h.upmann"
         },
         "cohcigars:4110:4410": {
@@ -2883,7 +2883,7 @@
           "id": "cohcigars:614:742",
           "name": "Bolivar - Royal Coronas A/T (10 盒)",
           "price": "$ 375.00",
-          "stock": "17",
+          "stock": "16",
           "url": "https://cn.cohcigars.com/cigars-bolivar"
         },
         "cohcigars:615:743": {
@@ -3510,8 +3510,8 @@
           "url": "https://cn.cohcigars.com/cigars-montecristo"
         }
       },
-      "last_checked": "2026-07-15T12:58:16+00:00",
-      "last_count": 497,
+      "last_checked": "2026-07-15T18:20:01+00:00",
+      "last_count": 496,
       "last_error": null,
       "previous": {
         "cohcigars:101:144": {
@@ -4134,7 +4134,7 @@
           "id": "cohcigars:1735:1967",
           "name": "Hoyo de Monterrey - Le Hoyo de San Juan (10 盒)",
           "price": "$ 405.00",
-          "stock": "8",
+          "stock": "7",
           "url": "https://cn.cohcigars.com/cigars-hoyo-de-monterrey"
         },
         "cohcigars:1766:2001": {
@@ -4267,7 +4267,7 @@
           "id": "cohcigars:1947:9595",
           "name": "Cohiba - Behike BHK 54 (20x5 盒)",
           "price": "$ 80.00",
-          "stock": "136",
+          "stock": "135",
           "url": "https://cn.cohcigars.com/cigars-cohiba"
         },
         "cohcigars:19480:21509": {
@@ -5891,7 +5891,7 @@
           "id": "cohcigars:366:541",
           "name": "Hoyo de Monterrey - Epicure Especial (10 盒)",
           "price": "$ 355.00",
-          "stock": "14",
+          "stock": "13",
           "url": "https://cn.cohcigars.com/cigars-hoyo-de-monterrey"
         },
         "cohcigars:368:594": {
@@ -6003,7 +6003,7 @@
           "id": "cohcigars:409:641",
           "name": "H.Upmann - Magnum 50 A/T (15 盒)",
           "price": "$ 755.00",
-          "stock": "10",
+          "stock": "9",
           "url": "https://cn.cohcigars.com/cigars-h.upmann"
         },
         "cohcigars:4110:4410": {
@@ -6367,7 +6367,7 @@
           "id": "cohcigars:614:742",
           "name": "Bolivar - Royal Coronas A/T (10 盒)",
           "price": "$ 375.00",
-          "stock": "17",
+          "stock": "16",
           "url": "https://cn.cohcigars.com/cigars-bolivar"
         },
         "cohcigars:615:743": {
@@ -6663,13 +6663,6 @@
           "price": "$ 1402.00",
           "stock": "9",
           "url": "https://cn.cohcigars.com/cigars-la-gloria-cubana"
-        },
-        "cohcigars:83:123": {
-          "id": "cohcigars:83:123",
-          "name": "H.Upmann - Connoisseur No.1 (25 盒)",
-          "price": "$ 660.00",
-          "stock": "1",
-          "url": "https://cn.cohcigars.com/cigars-h.upmann"
         },
         "cohcigars:8415:8973": {
           "id": "cohcigars:8415:8973",
@@ -8228,7 +8221,7 @@
           "url": "https://www.ihavanas.com/details.php?ptype=cigars&pid=Partagas"
         }
       },
-      "last_checked": "2026-07-15T12:57:58+00:00",
+      "last_checked": "2026-07-15T18:19:37+00:00",
       "last_count": 204,
       "last_error": null,
       "previous": {
