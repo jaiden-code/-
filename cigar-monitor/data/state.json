@@ -209,7 +209,7 @@
           "id": "cohcigars:11484:12137",
           "name": "Sancho Panza - 5 Pack- Non Plus (5 盒)",
           "price": "$ 105.00",
-          "stock": "10",
+          "stock": "9",
           "url": "https://cn.cohcigars.com/cigars-sancho-panza"
         },
         "cohcigars:118:175": {
@@ -279,7 +279,7 @@
           "id": "cohcigars:122:181",
           "name": "Jose L. Piedra - Brevas (5x5 盒)",
           "price": "$ 153.00",
-          "stock": "9",
+          "stock": "8",
           "url": "https://cn.cohcigars.com/cigars-jose-l.-piedra"
         },
         "cohcigars:122:22996": {
@@ -1511,7 +1511,7 @@
           "id": "cohcigars:23879:24707",
           "name": "Montecristo - Mini 10x10 (20x5 盒)",
           "price": "$ 69.00",
-          "stock": "34",
+          "stock": "33",
           "url": "https://cn.cohcigars.com/cigars-montecristo"
         },
         "cohcigars:23880:24709": {
@@ -1532,7 +1532,7 @@
           "id": "cohcigars:24168:25003",
           "name": "Punch - Princesas EL 2025 (20 盒)",
           "price": "$ 1330.00",
-          "stock": "5",
+          "stock": "3",
           "url": "https://cn.cohcigars.com/cigars-punch"
         },
         "cohcigars:2419:2694": {
@@ -1756,7 +1756,7 @@
           "id": "cohcigars:2585:6399",
           "name": "Guantanamera - Cristales (5x10 盒)",
           "price": "$ 99.00",
-          "stock": "6",
+          "stock": "4",
           "url": "https://cn.cohcigars.com/cigars-guantanamera"
         },
         "cohcigars:2586:5280": {
@@ -1770,7 +1770,7 @@
           "id": "cohcigars:259:369",
           "name": "Jose L. Piedra - Conservas (5x5 盒)",
           "price": "$ 178.00",
-          "stock": "30",
+          "stock": "29",
           "url": "https://cn.cohcigars.com/cigars-jose-l.-piedra"
         },
         "cohcigars:2602:2907": {
@@ -1784,7 +1784,7 @@
           "id": "cohcigars:260:21409",
           "name": "Jose L. Piedra - Cremas (5 盒)",
           "price": "$ 39.00",
-          "stock": "41",
+          "stock": "37",
           "url": "https://cn.cohcigars.com/cigars-jose-l.-piedra"
         },
         "cohcigars:262:375": {
@@ -2876,7 +2876,7 @@
           "id": "cohcigars:5773:20027",
           "name": "La Flor De Cano - Elegidos (15 盒)",
           "price": "$ 205.00",
-          "stock": "33",
+          "stock": "32",
           "url": "https://cn.cohcigars.com/cigars-la-flor-de-cano"
         },
         "cohcigars:5773:22086": {
@@ -2939,7 +2939,7 @@
           "id": "cohcigars:66:104",
           "name": "Diplomaticos - No.2 (25 盒)",
           "price": "$ 665.00",
-          "stock": "21",
+          "stock": "20",
           "url": "https://cn.cohcigars.com/cigars-diplomaticos"
         },
         "cohcigars:683:789": {
@@ -3205,7 +3205,7 @@
           "id": "cohcigars:83:123",
           "name": "H.Upmann - Connoisseur No.1 (25 盒)",
           "price": "$ 695.00",
-          "stock": "20",
+          "stock": "19",
           "url": "https://cn.cohcigars.com/cigars-h.upmann"
         },
         "cohcigars:8415:8973": {
@@ -3289,7 +3289,7 @@
           "id": "cohcigars:88:621",
           "name": "H.Upmann - Magnum 50 (10 盒)",
           "price": "$ 445.00",
-          "stock": "19",
+          "stock": "18",
           "url": "https://cn.cohcigars.com/cigars-h.upmann"
         },
         "cohcigars:8959:9602": {
@@ -3359,7 +3359,7 @@
           "id": "cohcigars:911:25109",
           "name": "Montecristo - Master A/T (3x3 盒)",
           "price": "$ 235.00",
-          "stock": "16",
+          "stock": "15",
           "url": "https://cn.cohcigars.com/cigars-montecristo"
         },
         "cohcigars:913:956": {
@@ -3538,7 +3538,7 @@
           "url": "https://cn.cohcigars.com/cigars-montecristo"
         }
       },
-      "last_checked": "2026-07-17T07:36:48+00:00",
+      "last_checked": "2026-07-17T12:45:04+00:00",
       "last_count": 500,
       "last_error": null,
       "previous": {
@@ -3742,7 +3742,7 @@
           "id": "cohcigars:11484:12137",
           "name": "Sancho Panza - 5 Pack- Non Plus (5 盒)",
           "price": "$ 105.00",
-          "stock": "10",
+          "stock": "9",
           "url": "https://cn.cohcigars.com/cigars-sancho-panza"
         },
         "cohcigars:118:175": {
@@ -3805,7 +3805,7 @@
           "id": "cohcigars:122:181",
           "name": "Jose L. Piedra - Brevas (5x5 盒)",
           "price": "$ 153.00",
-          "stock": "9",
+          "stock": "8",
           "url": "https://cn.cohcigars.com/cigars-jose-l.-piedra"
         },
         "cohcigars:122:22996": {
@@ -5030,7 +5030,7 @@
           "id": "cohcigars:23879:24707",
           "name": "Montecristo - Mini 10x10 (20x5 盒)",
           "price": "$ 69.00",
-          "stock": "34",
+          "stock": "33",
           "url": "https://cn.cohcigars.com/cigars-montecristo"
         },
         "cohcigars:23880:24709": {
@@ -5051,7 +5051,7 @@
           "id": "cohcigars:24168:25003",
           "name": "Punch - Princesas EL 2025 (20 盒)",
           "price": "$ 1330.00",
-          "stock": "5",
+          "stock": "3",
           "url": "https://cn.cohcigars.com/cigars-punch"
         },
         "cohcigars:2419:2694": {
@@ -5275,7 +5275,7 @@
           "id": "cohcigars:2585:6399",
           "name": "Guantanamera - Cristales (5x10 盒)",
           "price": "$ 99.00",
-          "stock": "6",
+          "stock": "4",
           "url": "https://cn.cohcigars.com/cigars-guantanamera"
         },
         "cohcigars:2586:5280": {
@@ -5289,7 +5289,7 @@
           "id": "cohcigars:259:369",
           "name": "Jose L. Piedra - Conservas (5x5 盒)",
           "price": "$ 178.00",
-          "stock": "30",
+          "stock": "29",
           "url": "https://cn.cohcigars.com/cigars-jose-l.-piedra"
         },
         "cohcigars:2602:2907": {
@@ -5303,7 +5303,7 @@
           "id": "cohcigars:260:21409",
           "name": "Jose L. Piedra - Cremas (5 盒)",
           "price": "$ 39.00",
-          "stock": "41",
+          "stock": "37",
           "url": "https://cn.cohcigars.com/cigars-jose-l.-piedra"
         },
         "cohcigars:263:24306": {
@@ -6381,7 +6381,7 @@
           "id": "cohcigars:5773:20027",
           "name": "La Flor De Cano - Elegidos (15 盒)",
           "price": "$ 205.00",
-          "stock": "33",
+          "stock": "32",
           "url": "https://cn.cohcigars.com/cigars-la-flor-de-cano"
         },
         "cohcigars:5773:22086": {
@@ -6444,7 +6444,7 @@
           "id": "cohcigars:66:104",
           "name": "Diplomaticos - No.2 (25 盒)",
           "price": "$ 665.00",
-          "stock": "21",
+          "stock": "20",
           "url": "https://cn.cohcigars.com/cigars-diplomaticos"
         },
         "cohcigars:683:789": {
@@ -6710,7 +6710,7 @@
           "id": "cohcigars:83:123",
           "name": "H.Upmann - Connoisseur No.1 (25 盒)",
           "price": "$ 695.00",
-          "stock": "20",
+          "stock": "19",
           "url": "https://cn.cohcigars.com/cigars-h.upmann"
         },
         "cohcigars:8415:8973": {
@@ -6794,7 +6794,7 @@
           "id": "cohcigars:88:621",
           "name": "H.Upmann - Magnum 50 (10 盒)",
           "price": "$ 445.00",
-          "stock": "19",
+          "stock": "18",
           "url": "https://cn.cohcigars.com/cigars-h.upmann"
         },
         "cohcigars:8959:9602": {
@@ -6864,7 +6864,7 @@
           "id": "cohcigars:911:25109",
           "name": "Montecristo - Master A/T (3x3 盒)",
           "price": "$ 235.00",
-          "stock": "16",
+          "stock": "15",
           "url": "https://cn.cohcigars.com/cigars-montecristo"
         },
         "cohcigars:913:956": {
@@ -8277,7 +8277,7 @@
           "url": "https://www.ihavanas.com/details.php?ptype=cigars&pid=Partagas"
         }
       },
-      "last_checked": "2026-07-17T07:36:22+00:00",
+      "last_checked": "2026-07-17T12:44:45+00:00",
       "last_count": 204,
       "last_error": null,
       "previous": {
