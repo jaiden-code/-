@@ -475,7 +475,7 @@
           "id": "cohcigars:148:219",
           "name": "Partagas - Mille Fleurs (25 盒)",
           "price": "$ 295.00",
-          "stock": "30",
+          "stock": "28",
           "url": "https://cn.cohcigars.com/cigars-partagas"
         },
         "cohcigars:148:220": {
@@ -1686,7 +1686,7 @@
           "id": "cohcigars:2507:2794",
           "name": "Combinaciones - Seleccion Robustos (6 盒)",
           "price": "$ 305.00",
-          "stock": "53",
+          "stock": "52",
           "url": "https://cn.cohcigars.com/cigars-combinaciones"
         },
         "cohcigars:2508:2795": {
@@ -2008,7 +2008,7 @@
           "id": "cohcigars:29:47",
           "name": "Bolivar - Petit Coronas (25 盒)",
           "price": "$ 492.00",
-          "stock": "12",
+          "stock": "11",
           "url": "https://cn.cohcigars.com/cigars-bolivar"
         },
         "cohcigars:2:4": {
@@ -3538,7 +3538,7 @@
           "url": "https://cn.cohcigars.com/cigars-montecristo"
         }
       },
-      "last_checked": "2026-07-18T15:36:52+00:00",
+      "last_checked": "2026-07-18T20:07:35+00:00",
       "last_count": 499,
       "last_error": null,
       "previous": {
@@ -3994,7 +3994,7 @@
           "id": "cohcigars:148:219",
           "name": "Partagas - Mille Fleurs (25 盒)",
           "price": "$ 295.00",
-          "stock": "30",
+          "stock": "28",
           "url": "https://cn.cohcigars.com/cigars-partagas"
         },
         "cohcigars:148:220": {
@@ -5198,7 +5198,7 @@
           "id": "cohcigars:2507:2794",
           "name": "Combinaciones - Seleccion Robustos (6 盒)",
           "price": "$ 305.00",
-          "stock": "53",
+          "stock": "52",
           "url": "https://cn.cohcigars.com/cigars-combinaciones"
         },
         "cohcigars:2508:2795": {
@@ -5513,7 +5513,7 @@
           "id": "cohcigars:29:47",
           "name": "Bolivar - Petit Coronas (25 盒)",
           "price": "$ 492.00",
-          "stock": "12",
+          "stock": "11",
           "url": "https://cn.cohcigars.com/cigars-bolivar"
         },
         "cohcigars:2:4": {
@@ -8270,7 +8270,7 @@
           "url": "https://www.ihavanas.com/details.php?ptype=cigars&pid=Partagas"
         }
       },
-      "last_checked": "2026-07-18T15:36:31+00:00",
+      "last_checked": "2026-07-18T20:07:12+00:00",
       "last_count": 204,
       "last_error": null,
       "previous": {
