@@ -286,7 +286,7 @@
           "id": "cohcigars:122:181",
           "name": "Jose L. Piedra - Brevas (5x5 盒)",
           "price": "$ 153.00",
-          "stock": "7",
+          "stock": "6",
           "url": "https://cn.cohcigars.com/cigars-jose-l.-piedra"
         },
         "cohcigars:122:22996": {
@@ -699,7 +699,7 @@
           "id": "cohcigars:186:265",
           "name": "Ramon Allones - Specially Selected (25 盒)",
           "price": "$ 703.00",
-          "stock": "12",
+          "stock": "10",
           "url": "https://cn.cohcigars.com/cigars-ramon-allones"
         },
         "cohcigars:187:12032": {
@@ -755,7 +755,7 @@
           "id": "cohcigars:19332:20020",
           "name": "Juan Lopez - 5 Pack- Juan Lopez Seleccion No1 (5 盒)",
           "price": "$ 135.00",
-          "stock": "12",
+          "stock": "11",
           "url": "https://cn.cohcigars.com/cigars-juan-lopez"
         },
         "cohcigars:19390:20084": {
@@ -790,7 +790,7 @@
           "id": "cohcigars:19480:21509",
           "name": "Montecristo - No.5 (20x5 盒)",
           "price": "$ 72.00",
-          "stock": "263",
+          "stock": "262",
           "url": "https://cn.cohcigars.com/cigars-montecristo"
         },
         "cohcigars:1951:23690": {
@@ -937,7 +937,7 @@
           "id": "cohcigars:20343:21066",
           "name": "Montecristo - Regata A/T (66 盒)",
           "price": "$ 190.00",
-          "stock": "9",
+          "stock": "8",
           "url": "https://cn.cohcigars.com/cigars-montecristo"
         },
         "cohcigars:203:21571": {
@@ -1308,7 +1308,7 @@
           "id": "cohcigars:23334:24161",
           "name": "Singles 6 Stick Min - 1 x Partagas Maduro No.1 (1 盒)",
           "price": "$ 39.00",
-          "stock": "182",
+          "stock": "181",
           "url": "https://cn.cohcigars.com/cigars-singles-6-stick-min"
         },
         "cohcigars:23335:24162": {
@@ -1504,7 +1504,7 @@
           "id": "cohcigars:23877:24705",
           "name": "Partagas - Mini 20x5 (20x5 盒)",
           "price": "$ 85.00",
-          "stock": "72",
+          "stock": "60",
           "url": "https://cn.cohcigars.com/cigars-partagas"
         },
         "cohcigars:23878:24706": {
@@ -1707,7 +1707,7 @@
           "id": "cohcigars:25142:26026",
           "name": "Trinidad - Villa LCDH (12 盒)",
           "price": "$ 1290.00",
-          "stock": "20",
+          "stock": "19",
           "url": "https://cn.cohcigars.com/cigars-trinidad"
         },
         "cohcigars:25144:26028": {
@@ -2085,7 +2085,7 @@
           "id": "cohcigars:3048:3356",
           "name": "Singles 6 Stick Min - 1 x Partagas Serie P No.2 (1 盒)",
           "price": "$ 36.00",
-          "stock": "50",
+          "stock": "44",
           "url": "https://cn.cohcigars.com/cigars-singles-6-stick-min"
         },
         "cohcigars:3049:3357": {
@@ -2127,7 +2127,7 @@
           "id": "cohcigars:3058:3366",
           "name": "Singles 6 Stick Min - 1 x San Cristobal La Punta (1 盒)",
           "price": "$ 29.00",
-          "stock": "31",
+          "stock": "29",
           "url": "https://cn.cohcigars.com/cigars-singles-6-stick-min"
         },
         "cohcigars:3060:3368": {
@@ -2211,7 +2211,7 @@
           "id": "cohcigars:3077:3384",
           "name": "Singles 6 Stick Min - 1 x Montecristo Especial No.2 (1 盒)",
           "price": "$ 29.00",
-          "stock": "123",
+          "stock": "122",
           "url": "https://cn.cohcigars.com/cigars-singles-6-stick-min"
         },
         "cohcigars:3079:3386": {
@@ -2225,7 +2225,7 @@
           "id": "cohcigars:3080:3387",
           "name": "Singles 6 Stick Min - 1 x Partagas Serie E No.2 (1 盒)",
           "price": "$ 39.00",
-          "stock": "84",
+          "stock": "83",
           "url": "https://cn.cohcigars.com/cigars-singles-6-stick-min"
         },
         "cohcigars:3239:3542": {
@@ -2365,7 +2365,7 @@
           "id": "cohcigars:3496:3799",
           "name": "Singles 6 Stick Min - 1 x Montecristo Petit Edmundo (1 盒)",
           "price": "$ 27.00",
-          "stock": "158",
+          "stock": "157",
           "url": "https://cn.cohcigars.com/cigars-singles-6-stick-min"
         },
         "cohcigars:3498:3801": {
@@ -3573,8 +3573,8 @@
           "url": "https://cn.cohcigars.com/cigars-montecristo"
         }
       },
-      "last_checked": "2026-07-21T07:44:07+00:00",
-      "last_count": 500,
+      "last_checked": "2026-07-21T13:06:06+00:00",
+      "last_count": 499,
       "last_error": null,
       "previous": {
         "cohcigars:101:144": {
@@ -3847,7 +3847,7 @@
           "id": "cohcigars:122:181",
           "name": "Jose L. Piedra - Brevas (5x5 盒)",
           "price": "$ 153.00",
-          "stock": "7",
+          "stock": "6",
           "url": "https://cn.cohcigars.com/cigars-jose-l.-piedra"
         },
         "cohcigars:122:22996": {
@@ -4246,7 +4246,7 @@
           "id": "cohcigars:186:265",
           "name": "Ramon Allones - Specially Selected (25 盒)",
           "price": "$ 703.00",
-          "stock": "12",
+          "stock": "10",
           "url": "https://cn.cohcigars.com/cigars-ramon-allones"
         },
         "cohcigars:187:12032": {
@@ -4302,7 +4302,7 @@
           "id": "cohcigars:19332:20020",
           "name": "Juan Lopez - 5 Pack- Juan Lopez Seleccion No1 (5 盒)",
           "price": "$ 135.00",
-          "stock": "12",
+          "stock": "11",
           "url": "https://cn.cohcigars.com/cigars-juan-lopez"
         },
         "cohcigars:19390:20084": {
@@ -4337,7 +4337,7 @@
           "id": "cohcigars:19480:21509",
           "name": "Montecristo - No.5 (20x5 盒)",
           "price": "$ 72.00",
-          "stock": "263",
+          "stock": "262",
           "url": "https://cn.cohcigars.com/cigars-montecristo"
         },
         "cohcigars:1951:23690": {
@@ -4484,7 +4484,7 @@
           "id": "cohcigars:20343:21066",
           "name": "Montecristo - Regata A/T (66 盒)",
           "price": "$ 190.00",
-          "stock": "9",
+          "stock": "8",
           "url": "https://cn.cohcigars.com/cigars-montecristo"
         },
         "cohcigars:203:21571": {
@@ -4848,7 +4848,7 @@
           "id": "cohcigars:23334:24161",
           "name": "Singles 6 Stick Min - 1 x Partagas Maduro No.1 (1 盒)",
           "price": "$ 39.00",
-          "stock": "182",
+          "stock": "181",
           "url": "https://cn.cohcigars.com/cigars-singles-6-stick-min"
         },
         "cohcigars:23335:24162": {
@@ -5044,7 +5044,7 @@
           "id": "cohcigars:23877:24705",
           "name": "Partagas - Mini 20x5 (20x5 盒)",
           "price": "$ 85.00",
-          "stock": "72",
+          "stock": "60",
           "url": "https://cn.cohcigars.com/cigars-partagas"
         },
         "cohcigars:23878:24706": {
@@ -5247,7 +5247,7 @@
           "id": "cohcigars:25142:26026",
           "name": "Trinidad - Villa LCDH (12 盒)",
           "price": "$ 1290.00",
-          "stock": "20",
+          "stock": "19",
           "url": "https://cn.cohcigars.com/cigars-trinidad"
         },
         "cohcigars:25144:26028": {
@@ -5604,7 +5604,7 @@
           "id": "cohcigars:3048:3356",
           "name": "Singles 6 Stick Min - 1 x Partagas Serie P No.2 (1 盒)",
           "price": "$ 36.00",
-          "stock": "50",
+          "stock": "44",
           "url": "https://cn.cohcigars.com/cigars-singles-6-stick-min"
         },
         "cohcigars:3049:3357": {
@@ -5646,7 +5646,7 @@
           "id": "cohcigars:3058:3366",
           "name": "Singles 6 Stick Min - 1 x San Cristobal La Punta (1 盒)",
           "price": "$ 29.00",
-          "stock": "31",
+          "stock": "29",
           "url": "https://cn.cohcigars.com/cigars-singles-6-stick-min"
         },
         "cohcigars:3060:3368": {
@@ -5730,7 +5730,7 @@
           "id": "cohcigars:3077:3384",
           "name": "Singles 6 Stick Min - 1 x Montecristo Especial No.2 (1 盒)",
           "price": "$ 29.00",
-          "stock": "123",
+          "stock": "122",
           "url": "https://cn.cohcigars.com/cigars-singles-6-stick-min"
         },
         "cohcigars:3079:3386": {
@@ -5744,7 +5744,7 @@
           "id": "cohcigars:3080:3387",
           "name": "Singles 6 Stick Min - 1 x Partagas Serie E No.2 (1 盒)",
           "price": "$ 39.00",
-          "stock": "84",
+          "stock": "83",
           "url": "https://cn.cohcigars.com/cigars-singles-6-stick-min"
         },
         "cohcigars:3239:3542": {
@@ -5859,13 +5859,6 @@
           "stock": "10",
           "url": "https://cn.cohcigars.com/cigars-vintage"
         },
-        "cohcigars:3491:3794": {
-          "id": "cohcigars:3491:3794",
-          "name": "Singles 6 Stick Min - 1 x Hoyo de Monterrey Epicure Especial (1 盒)",
-          "price": "$ 35.00",
-          "stock": "6",
-          "url": "https://cn.cohcigars.com/cigars-singles-6-stick-min"
-        },
         "cohcigars:3494:3798": {
           "id": "cohcigars:3494:3798",
           "name": "Vintage - Hoyo De Monterrey Epicure De Luxe - 2013 (10 盒)",
@@ -5884,7 +5877,7 @@
           "id": "cohcigars:3496:3799",
           "name": "Singles 6 Stick Min - 1 x Montecristo Petit Edmundo (1 盒)",
           "price": "$ 27.00",
-          "stock": "158",
+          "stock": "157",
           "url": "https://cn.cohcigars.com/cigars-singles-6-stick-min"
         },
         "cohcigars:3498:3801": {
@@ -8312,8 +8305,8 @@
           "url": "https://www.ihavanas.com/details.php?ptype=cigars&pid=Partagas"
         }
       },
-      "last_checked": "2026-07-21T07:43:21+00:00",
-      "last_count": 203,
+      "last_checked": "2026-07-21T13:05:47+00:00",
+      "last_count": 202,
       "last_error": null,
       "previous": {
         "ihavanas:1": {
@@ -8867,12 +8860,6 @@
           "name": "H.Upmann - Regalias (Box 5)",
           "price": "US$162.00",
           "url": "https://www.ihavanas.com/details.php?ptype=cigars&pid=H.Upmann"
-        },
-        "ihavanas:2109": {
-          "id": "ihavanas:2109",
-          "name": "Cohiba - Siglo VI A/T (Box 3)",
-          "price": "US$450.00",
-          "url": "https://www.ihavanas.com/details.php?ptype=cigars&pid=Cohiba"
         },
         "ihavanas:2122": {
           "id": "ihavanas:2122",
