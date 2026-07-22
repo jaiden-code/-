@@ -34,7 +34,7 @@
           "id": "cohcigars:102:21530",
           "name": "Hoyo de Monterrey - Epicure No.2 (3x2 盒)",
           "price": "$ 195.00",
-          "stock": "2",
+          "stock": "1",
           "url": "https://cn.cohcigars.com/cigars-hoyo-de-monterrey"
         },
         "cohcigars:105:154": {
@@ -503,7 +503,7 @@
           "id": "cohcigars:14:23",
           "name": "Montecristo - No.4 (10 盒)",
           "price": "$ 290.00",
-          "stock": "19",
+          "stock": "18",
           "url": "https://cn.cohcigars.com/cigars-montecristo"
         },
         "cohcigars:14:24": {
@@ -2085,7 +2085,7 @@
           "id": "cohcigars:3048:3356",
           "name": "Singles 6 Stick Min - 1 x Partagas Serie P No.2 (1 盒)",
           "price": "$ 36.00",
-          "stock": "44",
+          "stock": "42",
           "url": "https://cn.cohcigars.com/cigars-singles-6-stick-min"
         },
         "cohcigars:3049:3357": {
@@ -2127,7 +2127,7 @@
           "id": "cohcigars:3058:3366",
           "name": "Singles 6 Stick Min - 1 x San Cristobal La Punta (1 盒)",
           "price": "$ 29.00",
-          "stock": "27",
+          "stock": "24",
           "url": "https://cn.cohcigars.com/cigars-singles-6-stick-min"
         },
         "cohcigars:3060:3368": {
@@ -2190,7 +2190,7 @@
           "id": "cohcigars:3073:3380",
           "name": "Singles 6 Stick Min - 1 x Romeo Y Julieta Churchill A/T (1 盒)",
           "price": "$ 46.00",
-          "stock": "38",
+          "stock": "36",
           "url": "https://cn.cohcigars.com/cigars-singles-6-stick-min"
         },
         "cohcigars:3074:3381": {
@@ -3573,7 +3573,7 @@
           "url": "https://cn.cohcigars.com/cigars-montecristo"
         }
       },
-      "last_checked": "2026-07-22T15:57:42+00:00",
+      "last_checked": "2026-07-22T20:41:12+00:00",
       "last_count": 495,
       "last_error": null,
       "previous": {
@@ -3609,7 +3609,7 @@
           "id": "cohcigars:102:21530",
           "name": "Hoyo de Monterrey - Epicure No.2 (3x2 盒)",
           "price": "$ 195.00",
-          "stock": "2",
+          "stock": "1",
           "url": "https://cn.cohcigars.com/cigars-hoyo-de-monterrey"
         },
         "cohcigars:105:154": {
@@ -4043,7 +4043,7 @@
           "id": "cohcigars:14:23",
           "name": "Montecristo - No.4 (10 盒)",
           "price": "$ 290.00",
-          "stock": "19",
+          "stock": "18",
           "url": "https://cn.cohcigars.com/cigars-montecristo"
         },
         "cohcigars:14:24": {
@@ -5590,7 +5590,7 @@
           "id": "cohcigars:3048:3356",
           "name": "Singles 6 Stick Min - 1 x Partagas Serie P No.2 (1 盒)",
           "price": "$ 36.00",
-          "stock": "44",
+          "stock": "42",
           "url": "https://cn.cohcigars.com/cigars-singles-6-stick-min"
         },
         "cohcigars:3049:3357": {
@@ -5632,7 +5632,7 @@
           "id": "cohcigars:3058:3366",
           "name": "Singles 6 Stick Min - 1 x San Cristobal La Punta (1 盒)",
           "price": "$ 29.00",
-          "stock": "27",
+          "stock": "24",
           "url": "https://cn.cohcigars.com/cigars-singles-6-stick-min"
         },
         "cohcigars:3060:3368": {
@@ -5695,7 +5695,7 @@
           "id": "cohcigars:3073:3380",
           "name": "Singles 6 Stick Min - 1 x Romeo Y Julieta Churchill A/T (1 盒)",
           "price": "$ 46.00",
-          "stock": "38",
+          "stock": "36",
           "url": "https://cn.cohcigars.com/cigars-singles-6-stick-min"
         },
         "cohcigars:3074:3381": {
@@ -8277,7 +8277,7 @@
           "url": "https://www.ihavanas.com/details.php?ptype=cigars&pid=Partagas"
         }
       },
-      "last_checked": "2026-07-22T15:57:23+00:00",
+      "last_checked": "2026-07-22T20:40:51+00:00",
       "last_count": 200,
       "last_error": null,
       "previous": {
