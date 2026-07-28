@@ -55,7 +55,7 @@
           "id": "cohcigars:10801:11453",
           "name": "Quai Dorsay - No.52 (10 盒)",
           "price": "$ 370.00",
-          "stock": "30",
+          "stock": "29",
           "url": "https://cn.cohcigars.com/cigars-quai-dorsay"
         },
         "cohcigars:10847:11499": {
@@ -342,7 +342,7 @@
           "id": "cohcigars:1250:1417",
           "name": "H.Upmann - Connossieur A (25 盒)",
           "price": "$ 880.00",
-          "stock": "2",
+          "stock": "1",
           "url": "https://cn.cohcigars.com/cigars-h.upmann"
         },
         "cohcigars:1252:1422": {
@@ -489,7 +489,7 @@
           "id": "cohcigars:148:21471",
           "name": "Partagas - Mille Fleurs (5 盒)",
           "price": "$ 85.00",
-          "stock": "40",
+          "stock": "37",
           "url": "https://cn.cohcigars.com/cigars-partagas"
         },
         "cohcigars:148:219": {
@@ -601,14 +601,14 @@
           "id": "cohcigars:165:241",
           "name": "Punch - Punch (25 盒)",
           "price": "$ 690.00",
-          "stock": "17",
+          "stock": "13",
           "url": "https://cn.cohcigars.com/cigars-punch"
         },
         "cohcigars:1665:1881": {
           "id": "cohcigars:1665:1881",
           "name": "Vegueros - Entretiempos (16 盒)",
           "price": "$ 286.00",
-          "stock": "23",
+          "stock": "22",
           "url": "https://cn.cohcigars.com/cigars-vegueros"
         },
         "cohcigars:1679:1902": {
@@ -1833,7 +1833,7 @@
           "id": "cohcigars:260:21409",
           "name": "Jose L. Piedra - Cremas (5 盒)",
           "price": "$ 39.00",
-          "stock": "33",
+          "stock": "32",
           "url": "https://cn.cohcigars.com/cigars-jose-l.-piedra"
         },
         "cohcigars:262:375": {
@@ -2008,7 +2008,7 @@
           "id": "cohcigars:287:406",
           "name": "Guantanamera - Cristales (5 x 5 盒)",
           "price": "$ 130.00",
-          "stock": "112",
+          "stock": "111",
           "url": "https://cn.cohcigars.com/cigars-guantanamera"
         },
         "cohcigars:293:17329": {
@@ -2022,7 +2022,7 @@
           "id": "cohcigars:293:412",
           "name": "Cohiba - Siglo II A/T (15 盒)",
           "price": "$ 690.00",
-          "stock": "14",
+          "stock": "5",
           "url": "https://cn.cohcigars.com/cigars-cohiba"
         },
         "cohcigars:294:413": {
@@ -2554,7 +2554,7 @@
           "id": "cohcigars:397:20574",
           "name": "Cohiba - Siglo V A/T (3 盒)",
           "price": "$ 395.00",
-          "stock": "43",
+          "stock": "42",
           "url": "https://cn.cohcigars.com/cigars-cohiba"
         },
         "cohcigars:4072:4372": {
@@ -2953,7 +2953,7 @@
           "id": "cohcigars:58:94",
           "name": "Cuaba - Distinguidos (10 盒)",
           "price": "$ 363.00",
-          "stock": "18",
+          "stock": "17",
           "url": "https://cn.cohcigars.com/cigars-cuaba"
         },
         "cohcigars:59:95": {
@@ -3608,8 +3608,8 @@
           "url": "https://cn.cohcigars.com/cigars-montecristo"
         }
       },
-      "last_checked": "2026-07-28T10:14:10+00:00",
-      "last_count": 495,
+      "last_checked": "2026-07-28T16:25:31+00:00",
+      "last_count": 494,
       "last_error": null,
       "previous": {
         "cohcigars:101:144": {
@@ -3665,7 +3665,7 @@
           "id": "cohcigars:10801:11453",
           "name": "Quai Dorsay - No.52 (10 盒)",
           "price": "$ 370.00",
-          "stock": "30",
+          "stock": "29",
           "url": "https://cn.cohcigars.com/cigars-quai-dorsay"
         },
         "cohcigars:10847:11499": {
@@ -3931,7 +3931,7 @@
           "id": "cohcigars:1250:1417",
           "name": "H.Upmann - Connossieur A (25 盒)",
           "price": "$ 880.00",
-          "stock": "2",
+          "stock": "1",
           "url": "https://cn.cohcigars.com/cigars-h.upmann"
         },
         "cohcigars:1252:1422": {
@@ -4078,7 +4078,7 @@
           "id": "cohcigars:148:21471",
           "name": "Partagas - Mille Fleurs (5 盒)",
           "price": "$ 85.00",
-          "stock": "40",
+          "stock": "37",
           "url": "https://cn.cohcigars.com/cigars-partagas"
         },
         "cohcigars:148:219": {
@@ -4183,14 +4183,14 @@
           "id": "cohcigars:165:241",
           "name": "Punch - Punch (25 盒)",
           "price": "$ 690.00",
-          "stock": "17",
+          "stock": "13",
           "url": "https://cn.cohcigars.com/cigars-punch"
         },
         "cohcigars:1665:1881": {
           "id": "cohcigars:1665:1881",
           "name": "Vegueros - Entretiempos (16 盒)",
           "price": "$ 286.00",
-          "stock": "23",
+          "stock": "22",
           "url": "https://cn.cohcigars.com/cigars-vegueros"
         },
         "cohcigars:1679:1902": {
@@ -5373,7 +5373,7 @@
           "id": "cohcigars:260:21409",
           "name": "Jose L. Piedra - Cremas (5 盒)",
           "price": "$ 39.00",
-          "stock": "33",
+          "stock": "32",
           "url": "https://cn.cohcigars.com/cigars-jose-l.-piedra"
         },
         "cohcigars:263:24306": {
@@ -5541,7 +5541,7 @@
           "id": "cohcigars:287:406",
           "name": "Guantanamera - Cristales (5 x 5 盒)",
           "price": "$ 130.00",
-          "stock": "112",
+          "stock": "111",
           "url": "https://cn.cohcigars.com/cigars-guantanamera"
         },
         "cohcigars:293:17329": {
@@ -5555,14 +5555,7 @@
           "id": "cohcigars:293:412",
           "name": "Cohiba - Siglo II A/T (15 盒)",
           "price": "$ 690.00",
-          "stock": "14",
-          "url": "https://cn.cohcigars.com/cigars-cohiba"
-        },
-        "cohcigars:294:413": {
-          "id": "cohcigars:294:413",
-          "name": "Cohiba - Siglo VI A/T (15 盒)",
-          "price": "$ 2420.00",
-          "stock": "1",
+          "stock": "5",
           "url": "https://cn.cohcigars.com/cigars-cohiba"
         },
         "cohcigars:2952:3284": {
@@ -6066,7 +6059,7 @@
           "id": "cohcigars:397:20574",
           "name": "Cohiba - Siglo V A/T (3 盒)",
           "price": "$ 395.00",
-          "stock": "43",
+          "stock": "42",
           "url": "https://cn.cohcigars.com/cigars-cohiba"
         },
         "cohcigars:4072:4372": {
@@ -6451,7 +6444,7 @@
           "id": "cohcigars:58:94",
           "name": "Cuaba - Distinguidos (10 盒)",
           "price": "$ 363.00",
-          "stock": "18",
+          "stock": "17",
           "url": "https://cn.cohcigars.com/cigars-cuaba"
         },
         "cohcigars:59:95": {
@@ -8312,7 +8305,7 @@
           "url": "https://www.ihavanas.com/details.php?ptype=cigars&pid=Partagas"
         }
       },
-      "last_checked": "2026-07-28T10:13:15+00:00",
+      "last_checked": "2026-07-28T16:25:09+00:00",
       "last_count": 200,
       "last_error": null,
       "previous": {
