@@ -503,7 +503,7 @@
           "id": "cohcigars:148:219",
           "name": "Partagas - Mille Fleurs (25 盒)",
           "price": "$ 295.00",
-          "stock": "10",
+          "stock": "9",
           "url": "https://cn.cohcigars.com/cigars-partagas"
         },
         "cohcigars:148:220": {
@@ -1035,7 +1035,7 @@
           "id": "cohcigars:20738:21469",
           "name": "Singles 6 Stick Min - 1 x Hoyo de Monterrey Epicure No.3 (1 盒)",
           "price": "$ 32.00",
-          "stock": "139",
+          "stock": "138",
           "url": "https://cn.cohcigars.com/cigars-singles-6-stick-min"
         },
         "cohcigars:207:299": {
@@ -1203,7 +1203,7 @@
           "id": "cohcigars:23311:24138",
           "name": "Singles 6 Stick Min - 1 x Cuaba Divinos (1 盒)",
           "price": "$ 19.00",
-          "stock": "78",
+          "stock": "77",
           "url": "https://cn.cohcigars.com/cigars-singles-6-stick-min"
         },
         "cohcigars:23312:24139": {
@@ -1224,7 +1224,7 @@
           "id": "cohcigars:23314:24141",
           "name": "Singles 6 Stick Min - 1 x H.Upmann Coronas Major A/T (1 盒)",
           "price": "$ 24.00",
-          "stock": "48",
+          "stock": "47",
           "url": "https://cn.cohcigars.com/cigars-singles-6-stick-min"
         },
         "cohcigars:23315:24142": {
@@ -1441,7 +1441,7 @@
           "id": "cohcigars:23346:24173",
           "name": "Singles 6 Stick Min - 1 x Romeo Y Julieta Mille Fleurs (1 盒)",
           "price": "$ 16.00",
-          "stock": "44",
+          "stock": "43",
           "url": "https://cn.cohcigars.com/cigars-singles-6-stick-min"
         },
         "cohcigars:23347:24174": {
@@ -2302,7 +2302,7 @@
           "id": "cohcigars:3272:3575",
           "name": "Singles 6 Stick Min - 1 x Sancho Panza Non Plus (1 盒)",
           "price": "$ 20.00",
-          "stock": "122",
+          "stock": "121",
           "url": "https://cn.cohcigars.com/cigars-singles-6-stick-min"
         },
         "cohcigars:3274:3577": {
@@ -2421,7 +2421,7 @@
           "id": "cohcigars:3498:3801",
           "name": "Singles 6 Stick Min - 1 x Montecristo No.5 (1 盒)",
           "price": "$ 19.00",
-          "stock": "165",
+          "stock": "164",
           "url": "https://cn.cohcigars.com/cigars-singles-6-stick-min"
         },
         "cohcigars:3508:3811": {
@@ -2939,7 +2939,7 @@
           "id": "cohcigars:54:5459",
           "name": "Cohiba - Behike BHK 54 (20x5 盒)",
           "price": "$ 80.00",
-          "stock": "6",
+          "stock": "4",
           "url": "https://cn.cohcigars.com/cigars-cohiba"
         },
         "cohcigars:55:5170": {
@@ -3629,7 +3629,7 @@
           "url": "https://cn.cohcigars.com/cigars-montecristo"
         }
       },
-      "last_checked": "2026-07-29T15:35:10+00:00",
+      "last_checked": "2026-07-29T20:17:22+00:00",
       "last_count": 496,
       "last_error": null,
       "previous": {
@@ -4106,7 +4106,7 @@
           "id": "cohcigars:148:219",
           "name": "Partagas - Mille Fleurs (25 盒)",
           "price": "$ 295.00",
-          "stock": "10",
+          "stock": "9",
           "url": "https://cn.cohcigars.com/cigars-partagas"
         },
         "cohcigars:148:220": {
@@ -4617,7 +4617,7 @@
           "id": "cohcigars:20738:21469",
           "name": "Singles 6 Stick Min - 1 x Hoyo de Monterrey Epicure No.3 (1 盒)",
           "price": "$ 32.00",
-          "stock": "139",
+          "stock": "138",
           "url": "https://cn.cohcigars.com/cigars-singles-6-stick-min"
         },
         "cohcigars:207:299": {
@@ -4778,7 +4778,7 @@
           "id": "cohcigars:23311:24138",
           "name": "Singles 6 Stick Min - 1 x Cuaba Divinos (1 盒)",
           "price": "$ 19.00",
-          "stock": "78",
+          "stock": "77",
           "url": "https://cn.cohcigars.com/cigars-singles-6-stick-min"
         },
         "cohcigars:23312:24139": {
@@ -4799,7 +4799,7 @@
           "id": "cohcigars:23314:24141",
           "name": "Singles 6 Stick Min - 1 x H.Upmann Coronas Major A/T (1 盒)",
           "price": "$ 24.00",
-          "stock": "48",
+          "stock": "47",
           "url": "https://cn.cohcigars.com/cigars-singles-6-stick-min"
         },
         "cohcigars:23315:24142": {
@@ -5016,7 +5016,7 @@
           "id": "cohcigars:23346:24173",
           "name": "Singles 6 Stick Min - 1 x Romeo Y Julieta Mille Fleurs (1 盒)",
           "price": "$ 16.00",
-          "stock": "44",
+          "stock": "43",
           "url": "https://cn.cohcigars.com/cigars-singles-6-stick-min"
         },
         "cohcigars:23347:24174": {
@@ -5835,7 +5835,7 @@
           "id": "cohcigars:3272:3575",
           "name": "Singles 6 Stick Min - 1 x Sancho Panza Non Plus (1 盒)",
           "price": "$ 20.00",
-          "stock": "122",
+          "stock": "121",
           "url": "https://cn.cohcigars.com/cigars-singles-6-stick-min"
         },
         "cohcigars:3277:3580": {
@@ -5933,7 +5933,7 @@
           "id": "cohcigars:3498:3801",
           "name": "Singles 6 Stick Min - 1 x Montecristo No.5 (1 盒)",
           "price": "$ 19.00",
-          "stock": "165",
+          "stock": "164",
           "url": "https://cn.cohcigars.com/cigars-singles-6-stick-min"
         },
         "cohcigars:3508:3811": {
@@ -6437,7 +6437,7 @@
           "id": "cohcigars:54:5459",
           "name": "Cohiba - Behike BHK 54 (20x5 盒)",
           "price": "$ 80.00",
-          "stock": "6",
+          "stock": "4",
           "url": "https://cn.cohcigars.com/cigars-cohiba"
         },
         "cohcigars:55:5170": {
@@ -8340,7 +8340,7 @@
           "url": "https://www.ihavanas.com/details.php?ptype=cigars&pid=Partagas"
         }
       },
-      "last_checked": "2026-07-29T15:34:54+00:00",
+      "last_checked": "2026-07-29T20:17:00+00:00",
       "last_count": 200,
       "last_error": null,
       "previous": {
