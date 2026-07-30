@@ -622,7 +622,7 @@
           "id": "cohcigars:165:241",
           "name": "Punch - Punch (25 盒)",
           "price": "$ 690.00",
-          "stock": "13",
+          "stock": "12",
           "url": "https://cn.cohcigars.com/cigars-punch"
         },
         "cohcigars:1665:1881": {
@@ -1399,7 +1399,7 @@
           "id": "cohcigars:23340:24167",
           "name": "Singles 6 Stick Min - 1 x Rafael Gonzalez Panetelas Extra (1 盒)",
           "price": "$ 15.00",
-          "stock": "476",
+          "stock": "474",
           "url": "https://cn.cohcigars.com/cigars-singles-6-stick-min"
         },
         "cohcigars:23341:24168": {
@@ -1441,7 +1441,7 @@
           "id": "cohcigars:23346:24173",
           "name": "Singles 6 Stick Min - 1 x Romeo Y Julieta Mille Fleurs (1 盒)",
           "price": "$ 16.00",
-          "stock": "43",
+          "stock": "42",
           "url": "https://cn.cohcigars.com/cigars-singles-6-stick-min"
         },
         "cohcigars:23347:24174": {
@@ -3058,14 +3058,14 @@
           "id": "cohcigars:6956:7468",
           "name": "Romeo Y Julieta - Cupidos LCDH (20 盒)",
           "price": "$ 950.00",
-          "stock": "10",
+          "stock": "9",
           "url": "https://cn.cohcigars.com/cigars-romeo-y-julieta"
         },
         "cohcigars:6957:7469": {
           "id": "cohcigars:6957:7469",
           "name": "Romeo Y Julieta - Cupidos LCDH (20 盒)",
           "price": "$ 950.00",
-          "stock": "16",
+          "stock": "15",
           "url": "https://cn.cohcigars.com/cigars-romeo-y-julieta"
         },
         "cohcigars:7001:7514": {
@@ -3086,7 +3086,7 @@
           "id": "cohcigars:7010:7522",
           "name": "Singles 6 Stick Min - 1 x Partagas Mille Fleurs (1 盒)",
           "price": "$ 16.00",
-          "stock": "30",
+          "stock": "28",
           "url": "https://cn.cohcigars.com/cigars-singles-6-stick-min"
         },
         "cohcigars:7011:7523": {
@@ -3198,7 +3198,7 @@
           "id": "cohcigars:7234:7742",
           "name": "Singles 6 Stick Min - 1 x Romeo Y Julieta Romeo No.3 A/T (1 盒)",
           "price": "$ 16.00",
-          "stock": "143",
+          "stock": "142",
           "url": "https://cn.cohcigars.com/cigars-singles-6-stick-min"
         },
         "cohcigars:7240:7748": {
@@ -3629,7 +3629,7 @@
           "url": "https://cn.cohcigars.com/cigars-montecristo"
         }
       },
-      "last_checked": "2026-07-30T16:12:33+00:00",
+      "last_checked": "2026-07-30T20:44:32+00:00",
       "last_count": 496,
       "last_error": null,
       "previous": {
@@ -4218,7 +4218,7 @@
           "id": "cohcigars:165:241",
           "name": "Punch - Punch (25 盒)",
           "price": "$ 690.00",
-          "stock": "13",
+          "stock": "12",
           "url": "https://cn.cohcigars.com/cigars-punch"
         },
         "cohcigars:1665:1881": {
@@ -4974,7 +4974,7 @@
           "id": "cohcigars:23340:24167",
           "name": "Singles 6 Stick Min - 1 x Rafael Gonzalez Panetelas Extra (1 盒)",
           "price": "$ 15.00",
-          "stock": "476",
+          "stock": "474",
           "url": "https://cn.cohcigars.com/cigars-singles-6-stick-min"
         },
         "cohcigars:23341:24168": {
@@ -5016,7 +5016,7 @@
           "id": "cohcigars:23346:24173",
           "name": "Singles 6 Stick Min - 1 x Romeo Y Julieta Mille Fleurs (1 盒)",
           "price": "$ 16.00",
-          "stock": "43",
+          "stock": "42",
           "url": "https://cn.cohcigars.com/cigars-singles-6-stick-min"
         },
         "cohcigars:23347:24174": {
@@ -6549,14 +6549,14 @@
           "id": "cohcigars:6956:7468",
           "name": "Romeo Y Julieta - Cupidos LCDH (20 盒)",
           "price": "$ 950.00",
-          "stock": "10",
+          "stock": "9",
           "url": "https://cn.cohcigars.com/cigars-romeo-y-julieta"
         },
         "cohcigars:6957:7469": {
           "id": "cohcigars:6957:7469",
           "name": "Romeo Y Julieta - Cupidos LCDH (20 盒)",
           "price": "$ 950.00",
-          "stock": "16",
+          "stock": "15",
           "url": "https://cn.cohcigars.com/cigars-romeo-y-julieta"
         },
         "cohcigars:7001:7514": {
@@ -6577,7 +6577,7 @@
           "id": "cohcigars:7010:7522",
           "name": "Singles 6 Stick Min - 1 x Partagas Mille Fleurs (1 盒)",
           "price": "$ 16.00",
-          "stock": "30",
+          "stock": "28",
           "url": "https://cn.cohcigars.com/cigars-singles-6-stick-min"
         },
         "cohcigars:7011:7523": {
@@ -6689,7 +6689,7 @@
           "id": "cohcigars:7234:7742",
           "name": "Singles 6 Stick Min - 1 x Romeo Y Julieta Romeo No.3 A/T (1 盒)",
           "price": "$ 16.00",
-          "stock": "143",
+          "stock": "142",
           "url": "https://cn.cohcigars.com/cigars-singles-6-stick-min"
         },
         "cohcigars:7240:7748": {
@@ -8340,7 +8340,7 @@
           "url": "https://www.ihavanas.com/details.php?ptype=cigars&pid=Partagas"
         }
       },
-      "last_checked": "2026-07-30T16:12:10+00:00",
+      "last_checked": "2026-07-30T20:44:10+00:00",
       "last_count": 200,
       "last_error": null,
       "previous": {
