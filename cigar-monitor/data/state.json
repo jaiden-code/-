@@ -97,7 +97,7 @@
           "id": "cohcigars:1106:1183",
           "name": "Quintero Y Hermano - Favoritos (5x5 盒)",
           "price": "$ 275.00",
-          "stock": "9",
+          "stock": "7",
           "url": "https://cn.cohcigars.com/cigars-quintero-y-hermano"
         },
         "cohcigars:11070:11720": {
@@ -566,7 +566,7 @@
           "id": "cohcigars:1556:17327",
           "name": "Cohiba - Robustos A/T (3 盒)",
           "price": "$ 255.00",
-          "stock": "193",
+          "stock": "192",
           "url": "https://cn.cohcigars.com/cigars-cohiba"
         },
         "cohcigars:1556:1751": {
@@ -1441,7 +1441,7 @@
           "id": "cohcigars:23346:24173",
           "name": "Singles 6 Stick Min - 1 x Romeo Y Julieta Mille Fleurs (1 盒)",
           "price": "$ 16.00",
-          "stock": "42",
+          "stock": "41",
           "url": "https://cn.cohcigars.com/cigars-singles-6-stick-min"
         },
         "cohcigars:23347:24174": {
@@ -1560,7 +1560,7 @@
           "id": "cohcigars:23878:24706",
           "name": "Trinidad - Robusto Extra Gift Box (10x3 盒)",
           "price": "$ 65.00",
-          "stock": "66",
+          "stock": "64",
           "url": "https://cn.cohcigars.com/cigars-trinidad"
         },
         "cohcigars:23879:24707": {
@@ -2946,7 +2946,7 @@
           "id": "cohcigars:55:5170",
           "name": "Cohiba - Medio Siglo A/T (10x10 盒)",
           "price": "$ 89.00",
-          "stock": "173",
+          "stock": "172",
           "url": "https://cn.cohcigars.com/cigars-cohiba"
         },
         "cohcigars:5772:6235": {
@@ -3079,7 +3079,7 @@
           "id": "cohcigars:7009:7521",
           "name": "Singles 6 Stick Min - 1 x Romeo Y Julieta Coronitas En Cedros (1 盒)",
           "price": "$ 18.00",
-          "stock": "178",
+          "stock": "177",
           "url": "https://cn.cohcigars.com/cigars-singles-6-stick-min"
         },
         "cohcigars:7010:7522": {
@@ -3107,7 +3107,7 @@
           "id": "cohcigars:7016:7528",
           "name": "Singles 6 Stick Min - 1 x Romeo Y Julieta Cedros de Luxe No.2 (1 盒)",
           "price": "$ 24.00",
-          "stock": "77",
+          "stock": "76",
           "url": "https://cn.cohcigars.com/cigars-singles-6-stick-min"
         },
         "cohcigars:7017:7530": {
@@ -3142,7 +3142,7 @@
           "id": "cohcigars:7214:7722",
           "name": "Singles 6 Stick Min - 1 x Hoyo de Monterrey Palmas Extra (1 盒)",
           "price": "$ 20.00",
-          "stock": "30",
+          "stock": "24",
           "url": "https://cn.cohcigars.com/cigars-singles-6-stick-min"
         },
         "cohcigars:7218:7726": {
@@ -3177,28 +3177,28 @@
           "id": "cohcigars:7231:7739",
           "name": "Singles 6 Stick Min - 1 x Romeo Y Julieta Cedros de Luxe No.3 (1 盒)",
           "price": "$ 22.00",
-          "stock": "93",
+          "stock": "92",
           "url": "https://cn.cohcigars.com/cigars-singles-6-stick-min"
         },
         "cohcigars:7232:7740": {
           "id": "cohcigars:7232:7740",
           "name": "Singles 6 Stick Min - 1 x Romeo Y Julieta Romeo No.1 A/T (1 盒)",
           "price": "$ 23.00",
-          "stock": "186",
+          "stock": "185",
           "url": "https://cn.cohcigars.com/cigars-singles-6-stick-min"
         },
         "cohcigars:7233:7741": {
           "id": "cohcigars:7233:7741",
           "name": "Singles 6 Stick Min - 1 x Romeo Y Julieta Romeo No.2 A/T (1 盒)",
           "price": "$ 19.00",
-          "stock": "73",
+          "stock": "72",
           "url": "https://cn.cohcigars.com/cigars-singles-6-stick-min"
         },
         "cohcigars:7234:7742": {
           "id": "cohcigars:7234:7742",
           "name": "Singles 6 Stick Min - 1 x Romeo Y Julieta Romeo No.3 A/T (1 盒)",
           "price": "$ 16.00",
-          "stock": "142",
+          "stock": "141",
           "url": "https://cn.cohcigars.com/cigars-singles-6-stick-min"
         },
         "cohcigars:7240:7748": {
@@ -3254,7 +3254,7 @@
           "id": "cohcigars:779:25847",
           "name": "Partagas - Serie D No.4 A/T (3 盒)",
           "price": "$ 128.00",
-          "stock": "93",
+          "stock": "92",
           "url": "https://cn.cohcigars.com/cigars-partagas"
         },
         "cohcigars:780:858": {
@@ -3629,8 +3629,8 @@
           "url": "https://cn.cohcigars.com/cigars-montecristo"
         }
       },
-      "last_checked": "2026-07-31T08:21:00+00:00",
-      "last_count": 495,
+      "last_checked": "2026-07-31T16:27:49+00:00",
+      "last_count": 493,
       "last_error": null,
       "previous": {
         "cohcigars:101:144": {
@@ -3728,7 +3728,7 @@
           "id": "cohcigars:1106:1183",
           "name": "Quintero Y Hermano - Favoritos (5x5 盒)",
           "price": "$ 275.00",
-          "stock": "9",
+          "stock": "7",
           "url": "https://cn.cohcigars.com/cigars-quintero-y-hermano"
         },
         "cohcigars:11070:11720": {
@@ -4025,13 +4025,6 @@
           "stock": "37",
           "url": "https://cn.cohcigars.com/cigars-partagas"
         },
-        "cohcigars:13910:14564": {
-          "id": "cohcigars:13910:14564",
-          "name": "Partagas - Lusitanias (25 盒)",
-          "price": "$ 755.00",
-          "stock": "1",
-          "url": "https://cn.cohcigars.com/cigars-partagas"
-        },
         "cohcigars:13992:14646": {
           "id": "cohcigars:13992:14646",
           "name": "Quai Dorsay - Imperiales Travel Humidor (20 盒)",
@@ -4162,7 +4155,7 @@
           "id": "cohcigars:1556:17327",
           "name": "Cohiba - Robustos A/T (3 盒)",
           "price": "$ 255.00",
-          "stock": "193",
+          "stock": "192",
           "url": "https://cn.cohcigars.com/cigars-cohiba"
         },
         "cohcigars:1556:1751": {
@@ -5016,7 +5009,7 @@
           "id": "cohcigars:23346:24173",
           "name": "Singles 6 Stick Min - 1 x Romeo Y Julieta Mille Fleurs (1 盒)",
           "price": "$ 16.00",
-          "stock": "42",
+          "stock": "41",
           "url": "https://cn.cohcigars.com/cigars-singles-6-stick-min"
         },
         "cohcigars:23347:24174": {
@@ -5135,7 +5128,7 @@
           "id": "cohcigars:23878:24706",
           "name": "Trinidad - Robusto Extra Gift Box (10x3 盒)",
           "price": "$ 65.00",
-          "stock": "66",
+          "stock": "64",
           "url": "https://cn.cohcigars.com/cigars-trinidad"
         },
         "cohcigars:23879:24707": {
@@ -6433,18 +6426,11 @@
           "stock": "49",
           "url": "https://cn.cohcigars.com/cigars-cohiba"
         },
-        "cohcigars:54:5459": {
-          "id": "cohcigars:54:5459",
-          "name": "Cohiba - Behike BHK 54 (20x5 盒)",
-          "price": "$ 80.00",
-          "stock": "2",
-          "url": "https://cn.cohcigars.com/cigars-cohiba"
-        },
         "cohcigars:55:5170": {
           "id": "cohcigars:55:5170",
           "name": "Cohiba - Medio Siglo A/T (10x10 盒)",
           "price": "$ 89.00",
-          "stock": "173",
+          "stock": "172",
           "url": "https://cn.cohcigars.com/cigars-cohiba"
         },
         "cohcigars:5772:6235": {
@@ -6570,7 +6556,7 @@
           "id": "cohcigars:7009:7521",
           "name": "Singles 6 Stick Min - 1 x Romeo Y Julieta Coronitas En Cedros (1 盒)",
           "price": "$ 18.00",
-          "stock": "178",
+          "stock": "177",
           "url": "https://cn.cohcigars.com/cigars-singles-6-stick-min"
         },
         "cohcigars:7010:7522": {
@@ -6598,7 +6584,7 @@
           "id": "cohcigars:7016:7528",
           "name": "Singles 6 Stick Min - 1 x Romeo Y Julieta Cedros de Luxe No.2 (1 盒)",
           "price": "$ 24.00",
-          "stock": "77",
+          "stock": "76",
           "url": "https://cn.cohcigars.com/cigars-singles-6-stick-min"
         },
         "cohcigars:7017:7530": {
@@ -6633,7 +6619,7 @@
           "id": "cohcigars:7214:7722",
           "name": "Singles 6 Stick Min - 1 x Hoyo de Monterrey Palmas Extra (1 盒)",
           "price": "$ 20.00",
-          "stock": "30",
+          "stock": "24",
           "url": "https://cn.cohcigars.com/cigars-singles-6-stick-min"
         },
         "cohcigars:7218:7726": {
@@ -6668,28 +6654,28 @@
           "id": "cohcigars:7231:7739",
           "name": "Singles 6 Stick Min - 1 x Romeo Y Julieta Cedros de Luxe No.3 (1 盒)",
           "price": "$ 22.00",
-          "stock": "93",
+          "stock": "92",
           "url": "https://cn.cohcigars.com/cigars-singles-6-stick-min"
         },
         "cohcigars:7232:7740": {
           "id": "cohcigars:7232:7740",
           "name": "Singles 6 Stick Min - 1 x Romeo Y Julieta Romeo No.1 A/T (1 盒)",
           "price": "$ 23.00",
-          "stock": "186",
+          "stock": "185",
           "url": "https://cn.cohcigars.com/cigars-singles-6-stick-min"
         },
         "cohcigars:7233:7741": {
           "id": "cohcigars:7233:7741",
           "name": "Singles 6 Stick Min - 1 x Romeo Y Julieta Romeo No.2 A/T (1 盒)",
           "price": "$ 19.00",
-          "stock": "73",
+          "stock": "72",
           "url": "https://cn.cohcigars.com/cigars-singles-6-stick-min"
         },
         "cohcigars:7234:7742": {
           "id": "cohcigars:7234:7742",
           "name": "Singles 6 Stick Min - 1 x Romeo Y Julieta Romeo No.3 A/T (1 盒)",
           "price": "$ 16.00",
-          "stock": "142",
+          "stock": "141",
           "url": "https://cn.cohcigars.com/cigars-singles-6-stick-min"
         },
         "cohcigars:7240:7748": {
@@ -6745,7 +6731,7 @@
           "id": "cohcigars:779:25847",
           "name": "Partagas - Serie D No.4 A/T (3 盒)",
           "price": "$ 128.00",
-          "stock": "93",
+          "stock": "92",
           "url": "https://cn.cohcigars.com/cigars-partagas"
         },
         "cohcigars:780:858": {
@@ -8333,7 +8319,7 @@
           "url": "https://www.ihavanas.com/details.php?ptype=cigars&pid=Partagas"
         }
       },
-      "last_checked": "2026-07-31T08:20:39+00:00",
+      "last_checked": "2026-07-31T16:27:27+00:00",
       "last_count": 200,
       "last_error": null,
       "previous": {
