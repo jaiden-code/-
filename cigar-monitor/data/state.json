@@ -223,7 +223,7 @@
           "id": "cohcigars:118:175",
           "name": "Juan Lopez - Seleccion No.1 (25 盒)",
           "price": "$ 588.00",
-          "stock": "22",
+          "stock": "21",
           "url": "https://cn.cohcigars.com/cigars-juan-lopez"
         },
         "cohcigars:1191:1290": {
@@ -237,7 +237,7 @@
           "id": "cohcigars:119:176",
           "name": "Juan Lopez - Seleccion No.2 (25 盒)",
           "price": "$ 560.00",
-          "stock": "14",
+          "stock": "13",
           "url": "https://cn.cohcigars.com/cigars-juan-lopez"
         },
         "cohcigars:11:17": {
@@ -321,7 +321,7 @@
           "id": "cohcigars:1242:1402",
           "name": "Romeo Y Julieta - Petit Churchills A/T (15 盒)",
           "price": "$ 445.00",
-          "stock": "9",
+          "stock": "8",
           "url": "https://cn.cohcigars.com/cigars-romeo-y-julieta"
         },
         "cohcigars:1242:21527": {
@@ -496,14 +496,14 @@
           "id": "cohcigars:148:21471",
           "name": "Partagas - Mille Fleurs (5 盒)",
           "price": "$ 85.00",
-          "stock": "37",
+          "stock": "36",
           "url": "https://cn.cohcigars.com/cigars-partagas"
         },
         "cohcigars:148:219": {
           "id": "cohcigars:148:219",
           "name": "Partagas - Mille Fleurs (25 盒)",
           "price": "$ 295.00",
-          "stock": "7",
+          "stock": "6",
           "url": "https://cn.cohcigars.com/cigars-partagas"
         },
         "cohcigars:148:220": {
@@ -531,7 +531,7 @@
           "id": "cohcigars:14:24",
           "name": "Montecristo - No.4 (25 盒)",
           "price": "$ 525.00",
-          "stock": "7",
+          "stock": "6",
           "url": "https://cn.cohcigars.com/cigars-montecristo"
         },
         "cohcigars:14:26712": {
@@ -552,7 +552,7 @@
           "id": "cohcigars:154:227",
           "name": "Partagas - Aristocrats (25 盒)",
           "price": "$ 290.00",
-          "stock": "13",
+          "stock": "10",
           "url": "https://cn.cohcigars.com/cigars-partagas"
         },
         "cohcigars:15545:16209": {
@@ -1672,7 +1672,7 @@
           "id": "cohcigars:24446:25292",
           "name": "Cohiba - Exquisitos C/P (5x5 盒)",
           "price": "$ 720.00",
-          "stock": "45",
+          "stock": "43",
           "url": "https://cn.cohcigars.com/cigars-cohiba"
         },
         "cohcigars:24447:25294": {
@@ -3629,8 +3629,8 @@
           "url": "https://cn.cohcigars.com/cigars-montecristo"
         }
       },
-      "last_checked": "2026-07-31T22:14:40+00:00",
-      "last_count": 493,
+      "last_checked": "2026-08-01T07:38:09+00:00",
+      "last_count": 492,
       "last_error": null,
       "previous": {
         "cohcigars:101:144": {
@@ -3847,7 +3847,7 @@
           "id": "cohcigars:118:175",
           "name": "Juan Lopez - Seleccion No.1 (25 盒)",
           "price": "$ 588.00",
-          "stock": "22",
+          "stock": "21",
           "url": "https://cn.cohcigars.com/cigars-juan-lopez"
         },
         "cohcigars:1191:1290": {
@@ -3861,7 +3861,7 @@
           "id": "cohcigars:119:176",
           "name": "Juan Lopez - Seleccion No.2 (25 盒)",
           "price": "$ 560.00",
-          "stock": "14",
+          "stock": "13",
           "url": "https://cn.cohcigars.com/cigars-juan-lopez"
         },
         "cohcigars:11:17": {
@@ -3924,7 +3924,7 @@
           "id": "cohcigars:1242:1402",
           "name": "Romeo Y Julieta - Petit Churchills A/T (15 盒)",
           "price": "$ 445.00",
-          "stock": "9",
+          "stock": "8",
           "url": "https://cn.cohcigars.com/cigars-romeo-y-julieta"
         },
         "cohcigars:1242:21527": {
@@ -4092,14 +4092,14 @@
           "id": "cohcigars:148:21471",
           "name": "Partagas - Mille Fleurs (5 盒)",
           "price": "$ 85.00",
-          "stock": "37",
+          "stock": "36",
           "url": "https://cn.cohcigars.com/cigars-partagas"
         },
         "cohcigars:148:219": {
           "id": "cohcigars:148:219",
           "name": "Partagas - Mille Fleurs (25 盒)",
           "price": "$ 295.00",
-          "stock": "7",
+          "stock": "6",
           "url": "https://cn.cohcigars.com/cigars-partagas"
         },
         "cohcigars:148:220": {
@@ -4127,7 +4127,7 @@
           "id": "cohcigars:14:24",
           "name": "Montecristo - No.4 (25 盒)",
           "price": "$ 525.00",
-          "stock": "7",
+          "stock": "6",
           "url": "https://cn.cohcigars.com/cigars-montecristo"
         },
         "cohcigars:14:26712": {
@@ -4141,7 +4141,7 @@
           "id": "cohcigars:154:227",
           "name": "Partagas - Aristocrats (25 盒)",
           "price": "$ 290.00",
-          "stock": "13",
+          "stock": "10",
           "url": "https://cn.cohcigars.com/cigars-partagas"
         },
         "cohcigars:15545:16209": {
@@ -5233,7 +5233,7 @@
           "id": "cohcigars:24446:25292",
           "name": "Cohiba - Exquisitos C/P (5x5 盒)",
           "price": "$ 720.00",
-          "stock": "45",
+          "stock": "43",
           "url": "https://cn.cohcigars.com/cigars-cohiba"
         },
         "cohcigars:24447:25294": {
@@ -6853,13 +6853,6 @@
           "stock": "152",
           "url": "https://cn.cohcigars.com/cigars-partagas"
         },
-        "cohcigars:8959:9602": {
-          "id": "cohcigars:8959:9602",
-          "name": "Rafael Gonzalez - Coronas de Lonsdales (10 盒)",
-          "price": "$ 195.00",
-          "stock": "4",
-          "url": "https://cn.cohcigars.com/cigars-rafael-gonzalez"
-        },
         "cohcigars:908:17330": {
           "id": "cohcigars:908:17330",
           "name": "Cohiba - Siglo III A/T (3 盒)",
@@ -8319,7 +8312,7 @@
           "url": "https://www.ihavanas.com/details.php?ptype=cigars&pid=Partagas"
         }
       },
-      "last_checked": "2026-07-31T22:14:17+00:00",
+      "last_checked": "2026-08-01T07:37:52+00:00",
       "last_count": 200,
       "last_error": null,
       "previous": {
