@@ -503,7 +503,7 @@
           "id": "cohcigars:148:219",
           "name": "Partagas - Mille Fleurs (25 盒)",
           "price": "$ 295.00",
-          "stock": "6",
+          "stock": "5",
           "url": "https://cn.cohcigars.com/cigars-partagas"
         },
         "cohcigars:148:220": {
@@ -825,14 +825,14 @@
           "id": "cohcigars:1947:9595",
           "name": "Cohiba - Behike BHK 54 (20x5 盒)",
           "price": "$ 80.00",
-          "stock": "122",
+          "stock": "120",
           "url": "https://cn.cohcigars.com/cigars-cohiba"
         },
         "cohcigars:19480:21509": {
           "id": "cohcigars:19480:21509",
           "name": "Montecristo - No.5 (20x5 盒)",
           "price": "$ 72.00",
-          "stock": "260",
+          "stock": "259",
           "url": "https://cn.cohcigars.com/cigars-montecristo"
         },
         "cohcigars:1951:23690": {
@@ -923,7 +923,7 @@
           "id": "cohcigars:20039:20761",
           "name": "Juan Lopez - Valkyria RE paies nordicos 2025 (10 盒)",
           "price": "$ 450.00",
-          "stock": "4",
+          "stock": "3",
           "url": "https://cn.cohcigars.com/cigars-juan-lopez"
         },
         "cohcigars:201:21411": {
@@ -1686,14 +1686,14 @@
           "id": "cohcigars:24448:25295",
           "name": "Cohiba - Behike BHK 54 (10x10 盒)",
           "price": "$ 115.00",
-          "stock": "196",
+          "stock": "195",
           "url": "https://cn.cohcigars.com/cigars-cohiba"
         },
         "cohcigars:24449:25296": {
           "id": "cohcigars:24449:25296",
           "name": "Cohiba - Medio Siglo A/T (20x5 盒)",
           "price": "$ 89.00",
-          "stock": "197",
+          "stock": "196",
           "url": "https://cn.cohcigars.com/cigars-cohiba"
         },
         "cohcigars:24450:25297": {
@@ -2995,7 +2995,7 @@
           "id": "cohcigars:615:743",
           "name": "Punch - Punch A/T (10 盒)",
           "price": "$ 375.00",
-          "stock": "99",
+          "stock": "98",
           "url": "https://cn.cohcigars.com/cigars-punch"
         },
         "cohcigars:62:99": {
@@ -3527,7 +3527,7 @@
           "id": "cohcigars:933:980",
           "name": "H.Upmann - Half Corona (25 盒)",
           "price": "$ 340.00",
-          "stock": "24",
+          "stock": "23",
           "url": "https://cn.cohcigars.com/cigars-h.upmann"
         },
         "cohcigars:9341:9985": {
@@ -3629,8 +3629,8 @@
           "url": "https://cn.cohcigars.com/cigars-montecristo"
         }
       },
-      "last_checked": "2026-08-01T07:38:09+00:00",
-      "last_count": 492,
+      "last_checked": "2026-08-01T11:52:42+00:00",
+      "last_count": 491,
       "last_error": null,
       "previous": {
         "cohcigars:101:144": {
@@ -4099,7 +4099,7 @@
           "id": "cohcigars:148:219",
           "name": "Partagas - Mille Fleurs (25 盒)",
           "price": "$ 295.00",
-          "stock": "6",
+          "stock": "5",
           "url": "https://cn.cohcigars.com/cigars-partagas"
         },
         "cohcigars:148:220": {
@@ -4407,14 +4407,14 @@
           "id": "cohcigars:1947:9595",
           "name": "Cohiba - Behike BHK 54 (20x5 盒)",
           "price": "$ 80.00",
-          "stock": "122",
+          "stock": "120",
           "url": "https://cn.cohcigars.com/cigars-cohiba"
         },
         "cohcigars:19480:21509": {
           "id": "cohcigars:19480:21509",
           "name": "Montecristo - No.5 (20x5 盒)",
           "price": "$ 72.00",
-          "stock": "260",
+          "stock": "259",
           "url": "https://cn.cohcigars.com/cigars-montecristo"
         },
         "cohcigars:1951:23690": {
@@ -4505,7 +4505,7 @@
           "id": "cohcigars:20039:20761",
           "name": "Juan Lopez - Valkyria RE paies nordicos 2025 (10 盒)",
           "price": "$ 450.00",
-          "stock": "4",
+          "stock": "3",
           "url": "https://cn.cohcigars.com/cigars-juan-lopez"
         },
         "cohcigars:201:21411": {
@@ -4660,13 +4660,6 @@
           "name": "Cohiba - Medio SIglo (25 盒)",
           "price": "$ 1620.00",
           "stock": "17",
-          "url": "https://cn.cohcigars.com/cigars-cohiba"
-        },
-        "cohcigars:21860:22614": {
-          "id": "cohcigars:21860:22614",
-          "name": "Cohiba - Vitosos Travel Humidor (6x10 盒)",
-          "price": "$ 225.00",
-          "stock": "1",
           "url": "https://cn.cohcigars.com/cigars-cohiba"
         },
         "cohcigars:21860:24390": {
@@ -5247,14 +5240,14 @@
           "id": "cohcigars:24448:25295",
           "name": "Cohiba - Behike BHK 54 (10x10 盒)",
           "price": "$ 115.00",
-          "stock": "196",
+          "stock": "195",
           "url": "https://cn.cohcigars.com/cigars-cohiba"
         },
         "cohcigars:24449:25296": {
           "id": "cohcigars:24449:25296",
           "name": "Cohiba - Medio Siglo A/T (20x5 盒)",
           "price": "$ 89.00",
-          "stock": "197",
+          "stock": "196",
           "url": "https://cn.cohcigars.com/cigars-cohiba"
         },
         "cohcigars:24450:25297": {
@@ -6479,7 +6472,7 @@
           "id": "cohcigars:615:743",
           "name": "Punch - Punch A/T (10 盒)",
           "price": "$ 375.00",
-          "stock": "99",
+          "stock": "98",
           "url": "https://cn.cohcigars.com/cigars-punch"
         },
         "cohcigars:62:99": {
@@ -6976,7 +6969,7 @@
           "id": "cohcigars:933:980",
           "name": "H.Upmann - Half Corona (25 盒)",
           "price": "$ 340.00",
-          "stock": "24",
+          "stock": "23",
           "url": "https://cn.cohcigars.com/cigars-h.upmann"
         },
         "cohcigars:9341:9985": {
@@ -8312,7 +8305,7 @@
           "url": "https://www.ihavanas.com/details.php?ptype=cigars&pid=Partagas"
         }
       },
-      "last_checked": "2026-08-01T07:37:52+00:00",
+      "last_checked": "2026-08-01T11:52:17+00:00",
       "last_count": 200,
       "last_error": null,
       "previous": {
