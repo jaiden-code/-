@@ -20,7 +20,7 @@
           "id": "cohcigars:102:147",
           "name": "Hoyo de Monterrey - Epicure No.2 (25 盒)",
           "price": "$ 735.00",
-          "stock": "5",
+          "stock": "4",
           "url": "https://cn.cohcigars.com/cigars-hoyo-de-monterrey"
         },
         "cohcigars:102:20571": {
@@ -97,7 +97,7 @@
           "id": "cohcigars:1106:1183",
           "name": "Quintero Y Hermano - Favoritos (5x5 盒)",
           "price": "$ 275.00",
-          "stock": "4",
+          "stock": "3",
           "url": "https://cn.cohcigars.com/cigars-quintero-y-hermano"
         },
         "cohcigars:11070:11720": {
@@ -139,7 +139,7 @@
           "id": "cohcigars:111:20573",
           "name": "Hoyo de Monterrey - Petit Robustos (3x2 盒)",
           "price": "$ 180.00",
-          "stock": "107",
+          "stock": "106",
           "url": "https://cn.cohcigars.com/cigars-hoyo-de-monterrey"
         },
         "cohcigars:11205:11854": {
@@ -216,7 +216,7 @@
           "id": "cohcigars:11484:12137",
           "name": "Sancho Panza - 5 Pack- Non Plus (5 盒)",
           "price": "$ 105.00",
-          "stock": "9",
+          "stock": "8",
           "url": "https://cn.cohcigars.com/cigars-sancho-panza"
         },
         "cohcigars:118:175": {
@@ -237,7 +237,7 @@
           "id": "cohcigars:119:176",
           "name": "Juan Lopez - Seleccion No.2 (25 盒)",
           "price": "$ 560.00",
-          "stock": "13",
+          "stock": "12",
           "url": "https://cn.cohcigars.com/cigars-juan-lopez"
         },
         "cohcigars:11:17": {
@@ -419,7 +419,7 @@
           "id": "cohcigars:136:203",
           "name": "Partagas - Serie D No.4 (25 盒)",
           "price": "$ 760.00",
-          "stock": "37",
+          "stock": "36",
           "url": "https://cn.cohcigars.com/cigars-partagas"
         },
         "cohcigars:13910:14564": {
@@ -629,7 +629,7 @@
           "id": "cohcigars:1665:1881",
           "name": "Vegueros - Entretiempos (16 盒)",
           "price": "$ 286.00",
-          "stock": "7",
+          "stock": "6",
           "url": "https://cn.cohcigars.com/cigars-vegueros"
         },
         "cohcigars:1679:1902": {
@@ -1112,7 +1112,7 @@
           "id": "cohcigars:21:38",
           "name": "Bolivar - Belicosos Finos (25 盒)",
           "price": "$ 788.00",
-          "stock": "20",
+          "stock": "18",
           "url": "https://cn.cohcigars.com/cigars-bolivar"
         },
         "cohcigars:22284:23046": {
@@ -1511,7 +1511,7 @@
           "id": "cohcigars:235:333",
           "name": "San Cristobal De La Habana - La Punta (25 盒)",
           "price": "$ 692.00",
-          "stock": "11",
+          "stock": "10",
           "url": "https://cn.cohcigars.com/cigars-san-cristobal-de-la-habana"
         },
         "cohcigars:2374:2644": {
@@ -1665,7 +1665,7 @@
           "id": "cohcigars:24445:25290",
           "name": "Cohiba - Panetelas (5 盒)",
           "price": "$ 105.00",
-          "stock": "41",
+          "stock": "40",
           "url": "https://cn.cohcigars.com/cigars-cohiba"
         },
         "cohcigars:24446:25292": {
@@ -3345,7 +3345,7 @@
           "id": "cohcigars:874:25374",
           "name": "Hoyo de Monterrey - Epicure No.2 (3x2 盒)",
           "price": "$ 180.00",
-          "stock": "12",
+          "stock": "11",
           "url": "https://cn.cohcigars.com/cigars-hoyo-de-monterrey"
         },
         "cohcigars:8793:9419": {
@@ -3629,7 +3629,7 @@
           "url": "https://cn.cohcigars.com/cigars-montecristo"
         }
       },
-      "last_checked": "2026-08-01T23:44:00+00:00",
+      "last_checked": "2026-08-02T08:59:10+00:00",
       "last_count": 491,
       "last_error": null,
       "previous": {
@@ -3651,7 +3651,7 @@
           "id": "cohcigars:102:147",
           "name": "Hoyo de Monterrey - Epicure No.2 (25 盒)",
           "price": "$ 735.00",
-          "stock": "5",
+          "stock": "4",
           "url": "https://cn.cohcigars.com/cigars-hoyo-de-monterrey"
         },
         "cohcigars:102:20571": {
@@ -3728,7 +3728,7 @@
           "id": "cohcigars:1106:1183",
           "name": "Quintero Y Hermano - Favoritos (5x5 盒)",
           "price": "$ 275.00",
-          "stock": "4",
+          "stock": "3",
           "url": "https://cn.cohcigars.com/cigars-quintero-y-hermano"
         },
         "cohcigars:11070:11720": {
@@ -3770,7 +3770,7 @@
           "id": "cohcigars:111:20573",
           "name": "Hoyo de Monterrey - Petit Robustos (3x2 盒)",
           "price": "$ 180.00",
-          "stock": "107",
+          "stock": "106",
           "url": "https://cn.cohcigars.com/cigars-hoyo-de-monterrey"
         },
         "cohcigars:11205:11854": {
@@ -3840,7 +3840,7 @@
           "id": "cohcigars:11484:12137",
           "name": "Sancho Panza - 5 Pack- Non Plus (5 盒)",
           "price": "$ 105.00",
-          "stock": "9",
+          "stock": "8",
           "url": "https://cn.cohcigars.com/cigars-sancho-panza"
         },
         "cohcigars:118:175": {
@@ -3861,7 +3861,7 @@
           "id": "cohcigars:119:176",
           "name": "Juan Lopez - Seleccion No.2 (25 盒)",
           "price": "$ 560.00",
-          "stock": "13",
+          "stock": "12",
           "url": "https://cn.cohcigars.com/cigars-juan-lopez"
         },
         "cohcigars:11:17": {
@@ -4022,7 +4022,7 @@
           "id": "cohcigars:136:203",
           "name": "Partagas - Serie D No.4 (25 盒)",
           "price": "$ 760.00",
-          "stock": "37",
+          "stock": "36",
           "url": "https://cn.cohcigars.com/cigars-partagas"
         },
         "cohcigars:13992:14646": {
@@ -4218,7 +4218,7 @@
           "id": "cohcigars:1665:1881",
           "name": "Vegueros - Entretiempos (16 盒)",
           "price": "$ 286.00",
-          "stock": "7",
+          "stock": "6",
           "url": "https://cn.cohcigars.com/cigars-vegueros"
         },
         "cohcigars:1679:1902": {
@@ -4673,7 +4673,7 @@
           "id": "cohcigars:21:38",
           "name": "Bolivar - Belicosos Finos (25 盒)",
           "price": "$ 788.00",
-          "stock": "20",
+          "stock": "18",
           "url": "https://cn.cohcigars.com/cigars-bolivar"
         },
         "cohcigars:22284:23046": {
@@ -5072,7 +5072,7 @@
           "id": "cohcigars:235:333",
           "name": "San Cristobal De La Habana - La Punta (25 盒)",
           "price": "$ 692.00",
-          "stock": "11",
+          "stock": "10",
           "url": "https://cn.cohcigars.com/cigars-san-cristobal-de-la-habana"
         },
         "cohcigars:2374:2644": {
@@ -5219,7 +5219,7 @@
           "id": "cohcigars:24445:25290",
           "name": "Cohiba - Panetelas (5 盒)",
           "price": "$ 105.00",
-          "stock": "41",
+          "stock": "40",
           "url": "https://cn.cohcigars.com/cigars-cohiba"
         },
         "cohcigars:24446:25292": {
@@ -6815,7 +6815,7 @@
           "id": "cohcigars:874:25374",
           "name": "Hoyo de Monterrey - Epicure No.2 (3x2 盒)",
           "price": "$ 180.00",
-          "stock": "12",
+          "stock": "11",
           "url": "https://cn.cohcigars.com/cigars-hoyo-de-monterrey"
         },
         "cohcigars:8793:9419": {
@@ -8305,7 +8305,7 @@
           "url": "https://www.ihavanas.com/details.php?ptype=cigars&pid=Partagas"
         }
       },
-      "last_checked": "2026-08-01T23:43:39+00:00",
+      "last_checked": "2026-08-02T08:58:49+00:00",
       "last_count": 200,
       "last_error": null,
       "previous": {
