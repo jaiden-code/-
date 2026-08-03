@@ -1,8 +1,16 @@
 name: Cigar Monitor
 
 on:
+  push:
+    branches:
+      - main
+    paths:
+      - ".github/workflows/cigar-monitor.yml"
+      - "cigar-monitor/monitor.py"
+      - "cigar-monitor/config.json"
   schedule:
     - cron: "17 */2 * * *"
+    - cron: "47 */2 * * *"
   workflow_dispatch:
 
 permissions:
