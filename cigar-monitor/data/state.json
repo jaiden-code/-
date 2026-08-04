@@ -433,7 +433,7 @@
           "id": "cohcigars:13910:14564",
           "name": "Partagas - Maduro No.3 (25 盒)",
           "price": "$ 900.00",
-          "stock": "8",
+          "stock": "3",
           "url": "https://cn.cohcigars.com/cigars-partagas"
         },
         "cohcigars:13992:14646": {
@@ -1042,7 +1042,7 @@
           "id": "cohcigars:205:297",
           "name": "Romeo Y Julieta - Short Churchills A/T (15 盒)",
           "price": "$ 569.00",
-          "stock": "16",
+          "stock": "15",
           "url": "https://cn.cohcigars.com/cigars-romeo-y-julieta"
         },
         "cohcigars:20738:21469": {
@@ -1119,7 +1119,7 @@
           "id": "cohcigars:21860:24390",
           "name": "Cohiba - Vitosos Travel Humidor (6x2 盒)",
           "price": "$ 79.00",
-          "stock": "80",
+          "stock": "79",
           "url": "https://cn.cohcigars.com/cigars-cohiba"
         },
         "cohcigars:21:38": {
@@ -1518,7 +1518,7 @@
           "id": "cohcigars:233:331",
           "name": "San Cristobal De La Habana - 5 Pack- Prado LCDH (25 盒)",
           "price": "$ 299.00",
-          "stock": "47",
+          "stock": "46",
           "url": "https://cn.cohcigars.com/cigars-san-cristobal-de-la-habana"
         },
         "cohcigars:235:333": {
@@ -2295,7 +2295,7 @@
           "id": "cohcigars:30:49",
           "name": "Bolivar - Royal Coronas (25 盒)",
           "price": "$ 645.00",
-          "stock": "29",
+          "stock": "28",
           "url": "https://cn.cohcigars.com/cigars-bolivar"
         },
         "cohcigars:3239:3542": {
@@ -2946,7 +2946,7 @@
           "id": "cohcigars:5358:5794",
           "name": "Quintero Y Hermano - Favoritos A/T (15 盒)",
           "price": "$ 186.00",
-          "stock": "5",
+          "stock": "4",
           "url": "https://cn.cohcigars.com/cigars-quintero-y-hermano"
         },
         "cohcigars:5381:5818": {
@@ -3051,7 +3051,7 @@
           "id": "cohcigars:66:104",
           "name": "Diplomaticos - Genios RE Phoenicia (25 盒)",
           "price": "$ 599.00",
-          "stock": "20",
+          "stock": "18",
           "url": "https://cn.cohcigars.com/cigars-diplomaticos"
         },
         "cohcigars:683:789": {
@@ -3657,7 +3657,7 @@
           "url": "https://cn.cohcigars.com/cigars-montecristo"
         }
       },
-      "last_checked": "2026-08-04T08:09:38+00:00",
+      "last_checked": "2026-08-04T10:19:11+00:00",
       "last_count": 494,
       "last_error": null,
       "previous": {
@@ -4050,7 +4050,7 @@
           "id": "cohcigars:13910:14564",
           "name": "Partagas - Maduro No.3 (25 盒)",
           "price": "$ 900.00",
-          "stock": "8",
+          "stock": "3",
           "url": "https://cn.cohcigars.com/cigars-partagas"
         },
         "cohcigars:13992:14646": {
@@ -4638,7 +4638,7 @@
           "id": "cohcigars:205:297",
           "name": "Romeo Y Julieta - Short Churchills A/T (15 盒)",
           "price": "$ 569.00",
-          "stock": "16",
+          "stock": "15",
           "url": "https://cn.cohcigars.com/cigars-romeo-y-julieta"
         },
         "cohcigars:20738:21469": {
@@ -4701,7 +4701,7 @@
           "id": "cohcigars:21860:24390",
           "name": "Cohiba - Vitosos Travel Humidor (6x2 盒)",
           "price": "$ 79.00",
-          "stock": "80",
+          "stock": "79",
           "url": "https://cn.cohcigars.com/cigars-cohiba"
         },
         "cohcigars:21:38": {
@@ -5100,7 +5100,7 @@
           "id": "cohcigars:233:331",
           "name": "San Cristobal De La Habana - 5 Pack- Prado LCDH (25 盒)",
           "price": "$ 299.00",
-          "stock": "47",
+          "stock": "46",
           "url": "https://cn.cohcigars.com/cigars-san-cristobal-de-la-habana"
         },
         "cohcigars:235:333": {
@@ -5835,7 +5835,7 @@
           "id": "cohcigars:30:49",
           "name": "Bolivar - Royal Coronas (25 盒)",
           "price": "$ 645.00",
-          "stock": "29",
+          "stock": "28",
           "url": "https://cn.cohcigars.com/cigars-bolivar"
         },
         "cohcigars:3239:3542": {
@@ -6451,7 +6451,7 @@
           "id": "cohcigars:5358:5794",
           "name": "Quintero Y Hermano - Favoritos A/T (15 盒)",
           "price": "$ 186.00",
-          "stock": "5",
+          "stock": "4",
           "url": "https://cn.cohcigars.com/cigars-quintero-y-hermano"
         },
         "cohcigars:5381:5818": {
@@ -6542,7 +6542,7 @@
           "id": "cohcigars:66:104",
           "name": "Diplomaticos - Genios RE Phoenicia (25 盒)",
           "price": "$ 599.00",
-          "stock": "20",
+          "stock": "18",
           "url": "https://cn.cohcigars.com/cigars-diplomaticos"
         },
         "cohcigars:683:789": {
@@ -8354,8 +8354,8 @@
           "url": "https://www.ihavanas.com/details.php?ptype=cigars&pid=Partagas"
         }
       },
-      "last_checked": "2026-08-04T08:08:41+00:00",
-      "last_count": 199,
+      "last_checked": "2026-08-04T10:18:46+00:00",
+      "last_count": 198,
       "last_error": null,
       "previous": {
         "ihavanas:1": {
@@ -9005,12 +9005,6 @@
           "name": "Cohiba - Genios (Box 25)",
           "price": "US$2840.00",
           "url": "https://www.ihavanas.com/details.php?ptype=cigars&pid=Cohiba"
-        },
-        "ihavanas:272": {
-          "id": "ihavanas:272",
-          "name": "Hoyo de Monterrey - Epicure Especial (Box 25)",
-          "price": "US$782.00",
-          "url": "https://www.ihavanas.com/details.php?ptype=cigars&pid=Hoyo%20de%20Monterrey"
         },
         "ihavanas:279": {
           "id": "ihavanas:279",
