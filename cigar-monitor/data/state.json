@@ -3657,8 +3657,8 @@
           "url": "https://cn.cohcigars.com/cigars-montecristo"
         }
       },
-      "last_checked": "2026-08-07T15:36:01+00:00",
-      "last_count": 490,
+      "last_checked": "2026-08-07T17:11:23+00:00",
+      "last_count": 489,
       "last_error": null,
       "previous": {
         "cohcigars:101:144": {
@@ -4548,13 +4548,6 @@
           "name": "Romeo Y Julieta - Romeo No.1 A/T (10 盒)",
           "price": "$ 183.00",
           "stock": "28",
-          "url": "https://cn.cohcigars.com/cigars-romeo-y-julieta"
-        },
-        "cohcigars:202:289": {
-          "id": "cohcigars:202:289",
-          "name": "Romeo Y Julieta - Romeo No.2 A/T (25 盒)",
-          "price": "$ 315.00",
-          "stock": "4",
           "url": "https://cn.cohcigars.com/cigars-romeo-y-julieta"
         },
         "cohcigars:202:290": {
@@ -8326,7 +8319,7 @@
           "url": "https://www.ihavanas.com/details.php?ptype=cigars&pid=Partagas"
         }
       },
-      "last_checked": "2026-08-07T15:35:40+00:00",
+      "last_checked": "2026-08-07T17:11:01+00:00",
       "last_count": 197,
       "last_error": null,
       "previous": {
