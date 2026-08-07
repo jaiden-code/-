@@ -1091,7 +1091,7 @@
           "id": "cohcigars:214:2408",
           "name": "Romeo Y Julieta - Mille Fleurs (10 盒)",
           "price": "$ 155.00",
-          "stock": "53",
+          "stock": "52",
           "url": "https://cn.cohcigars.com/cigars-romeo-y-julieta"
         },
         "cohcigars:216:309": {
@@ -1182,7 +1182,7 @@
           "id": "cohcigars:230:326",
           "name": "Saint Luis Rey - Regios (25 盒)",
           "price": "$ 579.00",
-          "stock": "14",
+          "stock": "13",
           "url": "https://cn.cohcigars.com/cigars-saint-luis-rey"
         },
         "cohcigars:23307:24134": {
@@ -1525,7 +1525,7 @@
           "id": "cohcigars:235:333",
           "name": "San Cristobal De La Habana - La Punta (25 盒)",
           "price": "$ 692.00",
-          "stock": "9",
+          "stock": "8",
           "url": "https://cn.cohcigars.com/cigars-san-cristobal-de-la-habana"
         },
         "cohcigars:2374:2644": {
@@ -3657,7 +3657,7 @@
           "url": "https://cn.cohcigars.com/cigars-montecristo"
         }
       },
-      "last_checked": "2026-08-07T17:11:23+00:00",
+      "last_checked": "2026-08-07T17:33:27+00:00",
       "last_count": 489,
       "last_error": null,
       "previous": {
@@ -4652,7 +4652,7 @@
           "id": "cohcigars:214:2408",
           "name": "Romeo Y Julieta - Mille Fleurs (10 盒)",
           "price": "$ 155.00",
-          "stock": "53",
+          "stock": "52",
           "url": "https://cn.cohcigars.com/cigars-romeo-y-julieta"
         },
         "cohcigars:216:309": {
@@ -4736,7 +4736,7 @@
           "id": "cohcigars:230:326",
           "name": "Saint Luis Rey - Regios (25 盒)",
           "price": "$ 579.00",
-          "stock": "14",
+          "stock": "13",
           "url": "https://cn.cohcigars.com/cigars-saint-luis-rey"
         },
         "cohcigars:23307:24134": {
@@ -5079,7 +5079,7 @@
           "id": "cohcigars:235:333",
           "name": "San Cristobal De La Habana - La Punta (25 盒)",
           "price": "$ 692.00",
-          "stock": "9",
+          "stock": "8",
           "url": "https://cn.cohcigars.com/cigars-san-cristobal-de-la-habana"
         },
         "cohcigars:2374:2644": {
@@ -8319,7 +8319,7 @@
           "url": "https://www.ihavanas.com/details.php?ptype=cigars&pid=Partagas"
         }
       },
-      "last_checked": "2026-08-07T17:11:01+00:00",
+      "last_checked": "2026-08-07T17:33:04+00:00",
       "last_count": 197,
       "last_error": null,
       "previous": {
