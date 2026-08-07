@@ -601,7 +601,7 @@
           "id": "cohcigars:15:24391",
           "name": "Montecristo - No.5 (5x2 盒)",
           "price": "$ 155.00",
-          "stock": "8",
+          "stock": "7",
           "url": "https://cn.cohcigars.com/cigars-montecristo"
         },
         "cohcigars:15:28": {
@@ -1126,7 +1126,7 @@
           "id": "cohcigars:21:38",
           "name": "Bolivar - Belicosos Finos (25 盒)",
           "price": "$ 788.00",
-          "stock": "17",
+          "stock": "16",
           "url": "https://cn.cohcigars.com/cigars-bolivar"
         },
         "cohcigars:22284:23046": {
@@ -1539,7 +1539,7 @@
           "id": "cohcigars:2374:2695",
           "name": "H.Upmann - Magnum 54 (10 盒)",
           "price": "$ 365.00",
-          "stock": "2",
+          "stock": "1",
           "url": "https://cn.cohcigars.com/cigars-h.upmann"
         },
         "cohcigars:2375:2647": {
@@ -1756,14 +1756,14 @@
           "id": "cohcigars:2507:2794",
           "name": "Combinaciones - Seleccion Robustos (6 盒)",
           "price": "$ 305.00",
-          "stock": "52",
+          "stock": "50",
           "url": "https://cn.cohcigars.com/cigars-combinaciones"
         },
         "cohcigars:2508:2795": {
           "id": "cohcigars:2508:2795",
           "name": "Combinaciones - Seleccion Piramides (6 盒)",
           "price": "$ 360.00",
-          "stock": "70",
+          "stock": "68",
           "url": "https://cn.cohcigars.com/cigars-combinaciones"
         },
         "cohcigars:25142:26026": {
@@ -2050,7 +2050,7 @@
           "id": "cohcigars:293:17329",
           "name": "Cohiba - Siglo II A/T (3 盒)",
           "price": "$ 165.00",
-          "stock": "97",
+          "stock": "96",
           "url": "https://cn.cohcigars.com/cigars-cohiba"
         },
         "cohcigars:293:412": {
@@ -2505,7 +2505,7 @@
           "id": "cohcigars:366:541",
           "name": "Hoyo de Monterrey - Epicure Especial (10 盒)",
           "price": "$ 355.00",
-          "stock": "7",
+          "stock": "6",
           "url": "https://cn.cohcigars.com/cigars-hoyo-de-monterrey"
         },
         "cohcigars:368:594": {
@@ -3072,7 +3072,7 @@
           "id": "cohcigars:6937:8690",
           "name": "Ramon Allones - Allones No.3 (10 盒)",
           "price": "$ 995.00",
-          "stock": "10",
+          "stock": "8",
           "url": "https://cn.cohcigars.com/cigars-ramon-allones"
         },
         "cohcigars:6955:7467": {
@@ -3373,7 +3373,7 @@
           "id": "cohcigars:874:25374",
           "name": "Hoyo de Monterrey - Epicure No.1 A/T (3x2 盒)",
           "price": "$ 180.00",
-          "stock": "8",
+          "stock": "7",
           "url": "https://cn.cohcigars.com/cigars-hoyo-de-monterrey"
         },
         "cohcigars:8793:9419": {
@@ -3657,7 +3657,7 @@
           "url": "https://cn.cohcigars.com/cigars-montecristo"
         }
       },
-      "last_checked": "2026-08-07T13:59:19+00:00",
+      "last_checked": "2026-08-07T15:11:57+00:00",
       "last_count": 490,
       "last_error": null,
       "previous": {
@@ -4197,7 +4197,7 @@
           "id": "cohcigars:15:24391",
           "name": "Montecristo - No.5 (5x2 盒)",
           "price": "$ 155.00",
-          "stock": "8",
+          "stock": "7",
           "url": "https://cn.cohcigars.com/cigars-montecristo"
         },
         "cohcigars:15:28": {
@@ -4687,7 +4687,7 @@
           "id": "cohcigars:21:38",
           "name": "Bolivar - Belicosos Finos (25 盒)",
           "price": "$ 788.00",
-          "stock": "17",
+          "stock": "16",
           "url": "https://cn.cohcigars.com/cigars-bolivar"
         },
         "cohcigars:22284:23046": {
@@ -5100,7 +5100,7 @@
           "id": "cohcigars:2374:2695",
           "name": "H.Upmann - Magnum 54 (10 盒)",
           "price": "$ 365.00",
-          "stock": "2",
+          "stock": "1",
           "url": "https://cn.cohcigars.com/cigars-h.upmann"
         },
         "cohcigars:2375:2647": {
@@ -5310,14 +5310,14 @@
           "id": "cohcigars:2507:2794",
           "name": "Combinaciones - Seleccion Robustos (6 盒)",
           "price": "$ 305.00",
-          "stock": "52",
+          "stock": "50",
           "url": "https://cn.cohcigars.com/cigars-combinaciones"
         },
         "cohcigars:2508:2795": {
           "id": "cohcigars:2508:2795",
           "name": "Combinaciones - Seleccion Piramides (6 盒)",
           "price": "$ 360.00",
-          "stock": "70",
+          "stock": "68",
           "url": "https://cn.cohcigars.com/cigars-combinaciones"
         },
         "cohcigars:25142:26026": {
@@ -5583,7 +5583,7 @@
           "id": "cohcigars:293:17329",
           "name": "Cohiba - Siglo II A/T (3 盒)",
           "price": "$ 165.00",
-          "stock": "97",
+          "stock": "96",
           "url": "https://cn.cohcigars.com/cigars-cohiba"
         },
         "cohcigars:293:412": {
@@ -6003,7 +6003,7 @@
           "id": "cohcigars:366:541",
           "name": "Hoyo de Monterrey - Epicure Especial (10 盒)",
           "price": "$ 355.00",
-          "stock": "7",
+          "stock": "6",
           "url": "https://cn.cohcigars.com/cigars-hoyo-de-monterrey"
         },
         "cohcigars:368:594": {
@@ -6535,7 +6535,7 @@
           "id": "cohcigars:6937:8690",
           "name": "Ramon Allones - Allones No.3 (10 盒)",
           "price": "$ 995.00",
-          "stock": "10",
+          "stock": "8",
           "url": "https://cn.cohcigars.com/cigars-ramon-allones"
         },
         "cohcigars:6955:7467": {
@@ -6836,7 +6836,7 @@
           "id": "cohcigars:874:25374",
           "name": "Hoyo de Monterrey - Epicure No.1 A/T (3x2 盒)",
           "price": "$ 180.00",
-          "stock": "8",
+          "stock": "7",
           "url": "https://cn.cohcigars.com/cigars-hoyo-de-monterrey"
         },
         "cohcigars:8793:9419": {
@@ -8326,7 +8326,7 @@
           "url": "https://www.ihavanas.com/details.php?ptype=cigars&pid=Partagas"
         }
       },
-      "last_checked": "2026-08-07T13:58:55+00:00",
+      "last_checked": "2026-08-07T15:11:34+00:00",
       "last_count": 197,
       "last_error": null,
       "previous": {
