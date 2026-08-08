@@ -1770,7 +1770,7 @@
           "id": "cohcigars:25142:26026",
           "name": "Trinidad - Villa LCDH (12 盒)",
           "price": "$ 1290.00",
-          "stock": "12",
+          "stock": "11",
           "url": "https://cn.cohcigars.com/cigars-trinidad"
         },
         "cohcigars:25144:26028": {
@@ -3555,7 +3555,7 @@
           "id": "cohcigars:933:980",
           "name": "H.Upmann - Half Corona (25 盒)",
           "price": "$ 340.00",
-          "stock": "21",
+          "stock": "20",
           "url": "https://cn.cohcigars.com/cigars-h.upmann"
         },
         "cohcigars:9341:9985": {
@@ -3657,7 +3657,7 @@
           "url": "https://cn.cohcigars.com/cigars-montecristo"
         }
       },
-      "last_checked": "2026-08-08T05:25:52+00:00",
+      "last_checked": "2026-08-08T07:18:20+00:00",
       "last_count": 489,
       "last_error": null,
       "previous": {
@@ -5317,7 +5317,7 @@
           "id": "cohcigars:25142:26026",
           "name": "Trinidad - Villa LCDH (12 盒)",
           "price": "$ 1290.00",
-          "stock": "12",
+          "stock": "11",
           "url": "https://cn.cohcigars.com/cigars-trinidad"
         },
         "cohcigars:25144:26028": {
@@ -6983,7 +6983,7 @@
           "id": "cohcigars:933:980",
           "name": "H.Upmann - Half Corona (25 盒)",
           "price": "$ 340.00",
-          "stock": "21",
+          "stock": "20",
           "url": "https://cn.cohcigars.com/cigars-h.upmann"
         },
         "cohcigars:9341:9985": {
@@ -8319,7 +8319,7 @@
           "url": "https://www.ihavanas.com/details.php?ptype=cigars&pid=Partagas"
         }
       },
-      "last_checked": "2026-08-08T05:25:29+00:00",
+      "last_checked": "2026-08-08T07:17:58+00:00",
       "last_count": 197,
       "last_error": null,
       "previous": {
