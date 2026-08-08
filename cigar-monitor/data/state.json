@@ -3657,7 +3657,7 @@
           "url": "https://cn.cohcigars.com/cigars-montecristo"
         }
       },
-      "last_checked": "2026-08-08T09:21:58+00:00",
+      "last_checked": "2026-08-08T10:53:29+00:00",
       "last_count": 488,
       "last_error": null,
       "previous": {
@@ -8312,8 +8312,8 @@
           "url": "https://www.ihavanas.com/details.php?ptype=cigars&pid=Partagas"
         }
       },
-      "last_checked": "2026-08-08T09:21:38+00:00",
-      "last_count": 197,
+      "last_checked": "2026-08-08T10:53:10+00:00",
+      "last_count": 196,
       "last_error": null,
       "previous": {
         "ihavanas:1": {
@@ -8681,12 +8681,6 @@
           "name": "Partagas - Shorts (Box 50)",
           "price": "US$670.00",
           "url": "https://www.ihavanas.com/details.php?ptype=cigars&pid=Partagas"
-        },
-        "ihavanas:178": {
-          "id": "ihavanas:178",
-          "name": "Por Larranaga - Petit Coronas (Box 50)",
-          "price": "US$675.00",
-          "url": "https://www.ihavanas.com/details.php?ptype=cigars&pid=Por%20Larranaga"
         },
         "ihavanas:1814": {
           "id": "ihavanas:1814",
