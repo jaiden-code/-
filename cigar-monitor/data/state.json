@@ -62,7 +62,7 @@
           "id": "cohcigars:10847:11499",
           "name": "Bolivar - New Gold Medal (10 盒)",
           "price": "$ 625.00",
-          "stock": "12",
+          "stock": "9",
           "url": "https://cn.cohcigars.com/cigars-bolivar"
         },
         "cohcigars:10:15": {
@@ -1154,7 +1154,7 @@
           "id": "cohcigars:22898:23676",
           "name": "Cohiba - Behike BHK 54 (10x10 盒)",
           "price": "$ 115.00",
-          "stock": "193",
+          "stock": "192",
           "url": "https://cn.cohcigars.com/cigars-cohiba"
         },
         "cohcigars:22899:23679": {
@@ -3657,7 +3657,7 @@
           "url": "https://cn.cohcigars.com/cigars-montecristo"
         }
       },
-      "last_checked": "2026-08-08T14:52:16+00:00",
+      "last_checked": "2026-08-08T15:04:29+00:00",
       "last_count": 487,
       "last_error": null,
       "previous": {
@@ -3707,7 +3707,7 @@
           "id": "cohcigars:10847:11499",
           "name": "Bolivar - New Gold Medal (10 盒)",
           "price": "$ 625.00",
-          "stock": "12",
+          "stock": "9",
           "url": "https://cn.cohcigars.com/cigars-bolivar"
         },
         "cohcigars:10:15": {
@@ -4701,7 +4701,7 @@
           "id": "cohcigars:22898:23676",
           "name": "Cohiba - Behike BHK 54 (10x10 盒)",
           "price": "$ 115.00",
-          "stock": "193",
+          "stock": "192",
           "url": "https://cn.cohcigars.com/cigars-cohiba"
         },
         "cohcigars:22899:23679": {
@@ -8305,7 +8305,7 @@
           "url": "https://www.ihavanas.com/details.php?ptype=cigars&pid=Partagas"
         }
       },
-      "last_checked": "2026-08-08T14:51:53+00:00",
+      "last_checked": "2026-08-08T15:03:54+00:00",
       "last_count": 196,
       "last_error": null,
       "previous": {
