@@ -1154,7 +1154,7 @@
           "id": "cohcigars:22898:23676",
           "name": "Cohiba - Behike BHK 54 (10x10 盒)",
           "price": "$ 115.00",
-          "stock": "194",
+          "stock": "193",
           "url": "https://cn.cohcigars.com/cigars-cohiba"
         },
         "cohcigars:22899:23679": {
@@ -3317,7 +3317,7 @@
           "id": "cohcigars:83:123",
           "name": "H.Upmann - Connoisseur No.1 (25 盒)",
           "price": "$ 695.00",
-          "stock": "18",
+          "stock": "17",
           "url": "https://cn.cohcigars.com/cigars-h.upmann"
         },
         "cohcigars:8415:8973": {
@@ -3657,8 +3657,8 @@
           "url": "https://cn.cohcigars.com/cigars-montecristo"
         }
       },
-      "last_checked": "2026-08-08T13:33:03+00:00",
-      "last_count": 488,
+      "last_checked": "2026-08-08T14:52:16+00:00",
+      "last_count": 487,
       "last_error": null,
       "previous": {
         "cohcigars:101:144": {
@@ -4701,7 +4701,7 @@
           "id": "cohcigars:22898:23676",
           "name": "Cohiba - Behike BHK 54 (10x10 盒)",
           "price": "$ 115.00",
-          "stock": "194",
+          "stock": "193",
           "url": "https://cn.cohcigars.com/cigars-cohiba"
         },
         "cohcigars:22899:23679": {
@@ -5080,13 +5080,6 @@
           "name": "H.Upmann - Magnum 54 (25 盒)",
           "price": "$ 805.00",
           "stock": "9",
-          "url": "https://cn.cohcigars.com/cigars-h.upmann"
-        },
-        "cohcigars:2374:2695": {
-          "id": "cohcigars:2374:2695",
-          "name": "H.Upmann - Magnum 54 (10 盒)",
-          "price": "$ 365.00",
-          "stock": "1",
           "url": "https://cn.cohcigars.com/cigars-h.upmann"
         },
         "cohcigars:2375:2647": {
@@ -6766,7 +6759,7 @@
           "id": "cohcigars:83:123",
           "name": "H.Upmann - Connoisseur No.1 (25 盒)",
           "price": "$ 695.00",
-          "stock": "18",
+          "stock": "17",
           "url": "https://cn.cohcigars.com/cigars-h.upmann"
         },
         "cohcigars:8415:8973": {
@@ -8312,7 +8305,7 @@
           "url": "https://www.ihavanas.com/details.php?ptype=cigars&pid=Partagas"
         }
       },
-      "last_checked": "2026-08-08T13:32:37+00:00",
+      "last_checked": "2026-08-08T14:51:53+00:00",
       "last_count": 196,
       "last_error": null,
       "previous": {
