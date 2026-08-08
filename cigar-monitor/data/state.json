@@ -27,7 +27,7 @@
           "id": "cohcigars:102:20571",
           "name": "Hoyo de Monterrey - Epicure No.1 A/T (3 盒)",
           "price": "$ 99.00",
-          "stock": "37",
+          "stock": "35",
           "url": "https://cn.cohcigars.com/cigars-hoyo-de-monterrey"
         },
         "cohcigars:102:21530": {
@@ -874,7 +874,7 @@
           "id": "cohcigars:196:24052",
           "name": "Romeo Y Julieta - Churchills A/T (3 盒)",
           "price": "$ 175.00",
-          "stock": "74",
+          "stock": "73",
           "url": "https://cn.cohcigars.com/cigars-romeo-y-julieta"
         },
         "cohcigars:196:25110": {
@@ -3002,7 +3002,7 @@
           "id": "cohcigars:58:94",
           "name": "Cuaba - Distinguidos (10 盒)",
           "price": "$ 363.00",
-          "stock": "17",
+          "stock": "16",
           "url": "https://cn.cohcigars.com/cigars-cuaba"
         },
         "cohcigars:59:95": {
@@ -3072,7 +3072,7 @@
           "id": "cohcigars:6937:8690",
           "name": "Ramon Allones - Allones No.3 (10 盒)",
           "price": "$ 995.00",
-          "stock": "8",
+          "stock": "6",
           "url": "https://cn.cohcigars.com/cigars-ramon-allones"
         },
         "cohcigars:6955:7467": {
@@ -3657,7 +3657,7 @@
           "url": "https://cn.cohcigars.com/cigars-montecristo"
         }
       },
-      "last_checked": "2026-08-08T15:04:29+00:00",
+      "last_checked": "2026-08-08T16:55:33+00:00",
       "last_count": 487,
       "last_error": null,
       "previous": {
@@ -3679,7 +3679,7 @@
           "id": "cohcigars:102:20571",
           "name": "Hoyo de Monterrey - Epicure No.1 A/T (3 盒)",
           "price": "$ 99.00",
-          "stock": "37",
+          "stock": "35",
           "url": "https://cn.cohcigars.com/cigars-hoyo-de-monterrey"
         },
         "cohcigars:105:154": {
@@ -4449,7 +4449,7 @@
           "id": "cohcigars:196:24052",
           "name": "Romeo Y Julieta - Churchills A/T (3 盒)",
           "price": "$ 175.00",
-          "stock": "74",
+          "stock": "73",
           "url": "https://cn.cohcigars.com/cigars-romeo-y-julieta"
         },
         "cohcigars:196:25110": {
@@ -6458,7 +6458,7 @@
           "id": "cohcigars:58:94",
           "name": "Cuaba - Distinguidos (10 盒)",
           "price": "$ 363.00",
-          "stock": "17",
+          "stock": "16",
           "url": "https://cn.cohcigars.com/cigars-cuaba"
         },
         "cohcigars:59:95": {
@@ -6514,7 +6514,7 @@
           "id": "cohcigars:6937:8690",
           "name": "Ramon Allones - Allones No.3 (10 盒)",
           "price": "$ 995.00",
-          "stock": "8",
+          "stock": "6",
           "url": "https://cn.cohcigars.com/cigars-ramon-allones"
         },
         "cohcigars:6955:7467": {
@@ -8305,7 +8305,7 @@
           "url": "https://www.ihavanas.com/details.php?ptype=cigars&pid=Partagas"
         }
       },
-      "last_checked": "2026-08-08T15:03:54+00:00",
+      "last_checked": "2026-08-08T16:55:13+00:00",
       "last_count": 196,
       "last_error": null,
       "previous": {
