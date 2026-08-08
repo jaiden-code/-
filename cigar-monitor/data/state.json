@@ -3555,7 +3555,7 @@
           "id": "cohcigars:933:980",
           "name": "H.Upmann - Half Corona (25 盒)",
           "price": "$ 340.00",
-          "stock": "20",
+          "stock": "19",
           "url": "https://cn.cohcigars.com/cigars-h.upmann"
         },
         "cohcigars:9341:9985": {
@@ -3657,8 +3657,8 @@
           "url": "https://cn.cohcigars.com/cigars-montecristo"
         }
       },
-      "last_checked": "2026-08-08T07:18:20+00:00",
-      "last_count": 489,
+      "last_checked": "2026-08-08T07:35:57+00:00",
+      "last_count": 488,
       "last_error": null,
       "previous": {
         "cohcigars:101:144": {
@@ -4107,13 +4107,6 @@
           "name": "Partagas - Mille Fleurs (5 盒)",
           "price": "$ 85.00",
           "stock": "36",
-          "url": "https://cn.cohcigars.com/cigars-partagas"
-        },
-        "cohcigars:148:219": {
-          "id": "cohcigars:148:219",
-          "name": "Partagas - Mille Fleurs (25 盒)",
-          "price": "$ 295.00",
-          "stock": "1",
           "url": "https://cn.cohcigars.com/cigars-partagas"
         },
         "cohcigars:148:220": {
@@ -6983,7 +6976,7 @@
           "id": "cohcigars:933:980",
           "name": "H.Upmann - Half Corona (25 盒)",
           "price": "$ 340.00",
-          "stock": "20",
+          "stock": "19",
           "url": "https://cn.cohcigars.com/cigars-h.upmann"
         },
         "cohcigars:9341:9985": {
@@ -8319,7 +8312,7 @@
           "url": "https://www.ihavanas.com/details.php?ptype=cigars&pid=Partagas"
         }
       },
-      "last_checked": "2026-08-08T07:17:58+00:00",
+      "last_checked": "2026-08-08T07:35:38+00:00",
       "last_count": 197,
       "last_error": null,
       "previous": {
