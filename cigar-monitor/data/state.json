@@ -503,7 +503,7 @@
           "id": "cohcigars:148:21471",
           "name": "Partagas - Mille Fleurs (5 盒)",
           "price": "$ 85.00",
-          "stock": "36",
+          "stock": "35",
           "url": "https://cn.cohcigars.com/cigars-partagas"
         },
         "cohcigars:148:219": {
@@ -1518,7 +1518,7 @@
           "id": "cohcigars:233:331",
           "name": "San Cristobal De La Habana - 5 Pack- Prado LCDH (25 盒)",
           "price": "$ 299.00",
-          "stock": "44",
+          "stock": "43",
           "url": "https://cn.cohcigars.com/cigars-san-cristobal-de-la-habana"
         },
         "cohcigars:235:333": {
@@ -1763,7 +1763,7 @@
           "id": "cohcigars:2508:2795",
           "name": "Combinaciones - Seleccion Piramides (6 盒)",
           "price": "$ 360.00",
-          "stock": "67",
+          "stock": "66",
           "url": "https://cn.cohcigars.com/cigars-combinaciones"
         },
         "cohcigars:25142:26026": {
@@ -2253,7 +2253,7 @@
           "id": "cohcigars:3073:3380",
           "name": "Singles 6 Stick Min - 1 x Romeo Y Julieta Churchill A/T (1 盒)",
           "price": "$ 46.00",
-          "stock": "26",
+          "stock": "20",
           "url": "https://cn.cohcigars.com/cigars-singles-6-stick-min"
         },
         "cohcigars:3074:3381": {
@@ -3657,7 +3657,7 @@
           "url": "https://cn.cohcigars.com/cigars-montecristo"
         }
       },
-      "last_checked": "2026-08-10T02:59:34+00:00",
+      "last_checked": "2026-08-10T05:47:26+00:00",
       "last_count": 486,
       "last_error": null,
       "previous": {
@@ -4106,7 +4106,7 @@
           "id": "cohcigars:148:21471",
           "name": "Partagas - Mille Fleurs (5 盒)",
           "price": "$ 85.00",
-          "stock": "36",
+          "stock": "35",
           "url": "https://cn.cohcigars.com/cigars-partagas"
         },
         "cohcigars:148:220": {
@@ -5065,7 +5065,7 @@
           "id": "cohcigars:233:331",
           "name": "San Cristobal De La Habana - 5 Pack- Prado LCDH (25 盒)",
           "price": "$ 299.00",
-          "stock": "44",
+          "stock": "43",
           "url": "https://cn.cohcigars.com/cigars-san-cristobal-de-la-habana"
         },
         "cohcigars:235:333": {
@@ -5296,7 +5296,7 @@
           "id": "cohcigars:2508:2795",
           "name": "Combinaciones - Seleccion Piramides (6 盒)",
           "price": "$ 360.00",
-          "stock": "67",
+          "stock": "66",
           "url": "https://cn.cohcigars.com/cigars-combinaciones"
         },
         "cohcigars:25142:26026": {
@@ -5751,7 +5751,7 @@
           "id": "cohcigars:3073:3380",
           "name": "Singles 6 Stick Min - 1 x Romeo Y Julieta Churchill A/T (1 盒)",
           "price": "$ 46.00",
-          "stock": "26",
+          "stock": "20",
           "url": "https://cn.cohcigars.com/cigars-singles-6-stick-min"
         },
         "cohcigars:3074:3381": {
@@ -8298,7 +8298,7 @@
           "url": "https://www.ihavanas.com/details.php?ptype=cigars&pid=Partagas"
         }
       },
-      "last_checked": "2026-08-10T02:59:09+00:00",
+      "last_checked": "2026-08-10T05:47:08+00:00",
       "last_count": 196,
       "last_error": null,
       "previous": {
