@@ -27,7 +27,7 @@
           "id": "cohcigars:102:149",
           "name": "Hoyo de Monterrey - Epicure No.2 (15 盒)",
           "price": "$ 402.00",
-          "stock": "49",
+          "stock": "48",
           "url": "https://cn.cohcigars.com/cigars-hoyo-de-monterrey"
         },
         "cohcigars:102:20571": {
@@ -419,7 +419,7 @@
           "id": "cohcigars:132:912",
           "name": "Partagas - Lusitanias (10 盒)",
           "price": "$ 570.00",
-          "stock": "11",
+          "stock": "10",
           "url": "https://cn.cohcigars.com/cigars-partagas"
         },
         "cohcigars:133:198": {
@@ -1945,7 +1945,7 @@
           "id": "cohcigars:267:21510",
           "name": "Romeo Y Julieta - Puritos (5x10 盒)",
           "price": "$ 90.00",
-          "stock": "104",
+          "stock": "103",
           "url": "https://cn.cohcigars.com/cigars-romeo-y-julieta"
         },
         "cohcigars:267:23689": {
@@ -2799,7 +2799,7 @@
           "id": "cohcigars:4634:26412",
           "name": "Vegueros - Centrofinos (4x2 盒)",
           "price": "$ 170.00",
-          "stock": "242",
+          "stock": "241",
           "url": "https://cn.cohcigars.com/cigars-vegueros"
         },
         "cohcigars:4634:4944": {
@@ -3443,14 +3443,14 @@
           "id": "cohcigars:8959:9602",
           "name": "Rafael Gonzalez - Coronas de Lonsdales (10 盒)",
           "price": "$ 195.00",
-          "stock": "20",
+          "stock": "19",
           "url": "https://cn.cohcigars.com/cigars-rafael-gonzalez"
         },
         "cohcigars:8963:15587": {
           "id": "cohcigars:8963:15587",
           "name": "Vegueros - Centrogordos (4x4 盒)",
           "price": "$ 265.00",
-          "stock": "50",
+          "stock": "49",
           "url": "https://cn.cohcigars.com/cigars-vegueros"
         },
         "cohcigars:8963:22877": {
@@ -3692,7 +3692,7 @@
           "url": "https://cn.cohcigars.com/cigars-montecristo"
         }
       },
-      "last_checked": "2026-08-11T11:30:35+00:00",
+      "last_checked": "2026-08-11T13:45:54+00:00",
       "last_count": 496,
       "last_error": null,
       "previous": {
@@ -3714,7 +3714,7 @@
           "id": "cohcigars:102:149",
           "name": "Hoyo de Monterrey - Epicure No.2 (15 盒)",
           "price": "$ 402.00",
-          "stock": "49",
+          "stock": "48",
           "url": "https://cn.cohcigars.com/cigars-hoyo-de-monterrey"
         },
         "cohcigars:102:20571": {
@@ -4071,7 +4071,7 @@
           "id": "cohcigars:132:912",
           "name": "Partagas - Lusitanias (10 盒)",
           "price": "$ 570.00",
-          "stock": "11",
+          "stock": "10",
           "url": "https://cn.cohcigars.com/cigars-partagas"
         },
         "cohcigars:133:198": {
@@ -5513,7 +5513,7 @@
           "id": "cohcigars:267:21510",
           "name": "Romeo Y Julieta - Puritos (5x10 盒)",
           "price": "$ 90.00",
-          "stock": "104",
+          "stock": "103",
           "url": "https://cn.cohcigars.com/cigars-romeo-y-julieta"
         },
         "cohcigars:267:23689": {
@@ -6325,7 +6325,7 @@
           "id": "cohcigars:4634:26412",
           "name": "Vegueros - Centrofinos (4x2 盒)",
           "price": "$ 170.00",
-          "stock": "242",
+          "stock": "241",
           "url": "https://cn.cohcigars.com/cigars-vegueros"
         },
         "cohcigars:463:723": {
@@ -6934,14 +6934,14 @@
           "id": "cohcigars:8959:9602",
           "name": "Rafael Gonzalez - Coronas de Lonsdales (10 盒)",
           "price": "$ 195.00",
-          "stock": "20",
+          "stock": "19",
           "url": "https://cn.cohcigars.com/cigars-rafael-gonzalez"
         },
         "cohcigars:8963:15587": {
           "id": "cohcigars:8963:15587",
           "name": "Vegueros - Centrogordos (4x4 盒)",
           "price": "$ 265.00",
-          "stock": "50",
+          "stock": "49",
           "url": "https://cn.cohcigars.com/cigars-vegueros"
         },
         "cohcigars:908:17330": {
@@ -8403,7 +8403,7 @@
           "url": "https://www.ihavanas.com/details.php?ptype=cigars&pid=Partagas"
         }
       },
-      "last_checked": "2026-08-11T11:30:14+00:00",
+      "last_checked": "2026-08-11T13:45:36+00:00",
       "last_count": 196,
       "last_error": null,
       "previous": {
