@@ -62,7 +62,7 @@
           "id": "cohcigars:10801:11453",
           "name": "Quai Dorsay - No.52 (10 盒)",
           "price": "$ 370.00",
-          "stock": "26",
+          "stock": "25",
           "url": "https://cn.cohcigars.com/cigars-quai-dorsay"
         },
         "cohcigars:10847:11499": {
@@ -293,7 +293,7 @@
           "id": "cohcigars:122:181",
           "name": "Jose L. Piedra - Brevas (5x5 盒)",
           "price": "$ 153.00",
-          "stock": "40",
+          "stock": "39",
           "url": "https://cn.cohcigars.com/cigars-jose-l.-piedra"
         },
         "cohcigars:122:22996": {
@@ -433,7 +433,7 @@
           "id": "cohcigars:136:203",
           "name": "Partagas - Serie Club 10x10 (25 盒)",
           "price": "$ 699.00",
-          "stock": "95",
+          "stock": "94",
           "url": "https://cn.cohcigars.com/cigars-partagas"
         },
         "cohcigars:13910:14564": {
@@ -1049,7 +1049,7 @@
           "id": "cohcigars:2052:24352",
           "name": "Trinidad - Robusto Extra Gift Box (3x2 盒)",
           "price": "$ 255.00",
-          "stock": "100",
+          "stock": "99",
           "url": "https://cn.cohcigars.com/cigars-trinidad"
         },
         "cohcigars:2054:2317": {
@@ -1770,7 +1770,7 @@
           "id": "cohcigars:2503:2790",
           "name": "Cohiba - Robustos A/T (10 x 10 盒)",
           "price": "$ 205.00",
-          "stock": "71",
+          "stock": "69",
           "url": "https://cn.cohcigars.com/cigars-cohiba"
         },
         "cohcigars:2507:2794": {
@@ -1840,7 +1840,7 @@
           "id": "cohcigars:2568:2858",
           "name": "Guantanamera - Puritos (50 x 2 盒)",
           "price": "$ 137.00",
-          "stock": "22",
+          "stock": "21",
           "url": "https://cn.cohcigars.com/cigars-guantanamera"
         },
         "cohcigars:2569:2859": {
@@ -2855,7 +2855,7 @@
           "id": "cohcigars:4727:24053",
           "name": "Romeo Y Julieta - Petit Royales A/T (3x2 盒)",
           "price": "$ 99.00",
-          "stock": "66",
+          "stock": "62",
           "url": "https://cn.cohcigars.com/cigars-romeo-y-julieta"
         },
         "cohcigars:4727:5083": {
@@ -3100,7 +3100,7 @@
           "id": "cohcigars:6937:8690",
           "name": "Ramon Allones - Allones No.3 (10 盒)",
           "price": "$ 995.00",
-          "stock": "6",
+          "stock": "4",
           "url": "https://cn.cohcigars.com/cigars-ramon-allones"
         },
         "cohcigars:6955:7467": {
@@ -3692,7 +3692,7 @@
           "url": "https://cn.cohcigars.com/cigars-montecristo"
         }
       },
-      "last_checked": "2026-08-11T05:41:47+00:00",
+      "last_checked": "2026-08-11T07:40:51+00:00",
       "last_count": 496,
       "last_error": null,
       "previous": {
@@ -3742,7 +3742,7 @@
           "id": "cohcigars:10801:11453",
           "name": "Quai Dorsay - No.52 (10 盒)",
           "price": "$ 370.00",
-          "stock": "26",
+          "stock": "25",
           "url": "https://cn.cohcigars.com/cigars-quai-dorsay"
         },
         "cohcigars:10847:11499": {
@@ -3959,7 +3959,7 @@
           "id": "cohcigars:122:181",
           "name": "Jose L. Piedra - Brevas (5x5 盒)",
           "price": "$ 153.00",
-          "stock": "40",
+          "stock": "39",
           "url": "https://cn.cohcigars.com/cigars-jose-l.-piedra"
         },
         "cohcigars:122:22996": {
@@ -4085,7 +4085,7 @@
           "id": "cohcigars:136:203",
           "name": "Partagas - Serie Club 10x10 (25 盒)",
           "price": "$ 699.00",
-          "stock": "95",
+          "stock": "94",
           "url": "https://cn.cohcigars.com/cigars-partagas"
         },
         "cohcigars:13910:14564": {
@@ -4666,7 +4666,7 @@
           "id": "cohcigars:2052:24352",
           "name": "Trinidad - Robusto Extra Gift Box (3x2 盒)",
           "price": "$ 255.00",
-          "stock": "100",
+          "stock": "99",
           "url": "https://cn.cohcigars.com/cigars-trinidad"
         },
         "cohcigars:205:297": {
@@ -5359,7 +5359,7 @@
           "id": "cohcigars:2503:2790",
           "name": "Cohiba - Robustos A/T (10 x 10 盒)",
           "price": "$ 205.00",
-          "stock": "71",
+          "stock": "69",
           "url": "https://cn.cohcigars.com/cigars-cohiba"
         },
         "cohcigars:2507:2794": {
@@ -5429,7 +5429,7 @@
           "id": "cohcigars:2568:2858",
           "name": "Guantanamera - Puritos (50 x 2 盒)",
           "price": "$ 137.00",
-          "stock": "22",
+          "stock": "21",
           "url": "https://cn.cohcigars.com/cigars-guantanamera"
         },
         "cohcigars:2569:2859": {
@@ -6374,7 +6374,7 @@
           "id": "cohcigars:4727:24053",
           "name": "Romeo Y Julieta - Petit Royales A/T (3x2 盒)",
           "price": "$ 99.00",
-          "stock": "66",
+          "stock": "62",
           "url": "https://cn.cohcigars.com/cigars-romeo-y-julieta"
         },
         "cohcigars:4727:5083": {
@@ -6598,7 +6598,7 @@
           "id": "cohcigars:6937:8690",
           "name": "Ramon Allones - Allones No.3 (10 盒)",
           "price": "$ 995.00",
-          "stock": "6",
+          "stock": "4",
           "url": "https://cn.cohcigars.com/cigars-ramon-allones"
         },
         "cohcigars:6955:7467": {
@@ -8403,7 +8403,7 @@
           "url": "https://www.ihavanas.com/details.php?ptype=cigars&pid=Partagas"
         }
       },
-      "last_checked": "2026-08-11T05:41:25+00:00",
+      "last_checked": "2026-08-11T07:40:26+00:00",
       "last_count": 196,
       "last_error": null,
       "previous": {
