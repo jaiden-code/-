@@ -23,9 +23,16 @@
           "stock": "2",
           "url": "https://cn.cohcigars.com/cigars-hoyo-de-monterrey"
         },
+        "cohcigars:102:149": {
+          "id": "cohcigars:102:149",
+          "name": "Hoyo de Monterrey - Epicure No.2 (15 盒)",
+          "price": "$ 402.00",
+          "stock": "50",
+          "url": "https://cn.cohcigars.com/cigars-hoyo-de-monterrey"
+        },
         "cohcigars:102:20571": {
           "id": "cohcigars:102:20571",
-          "name": "Hoyo de Monterrey - Epicure No.1 A/T (3 盒)",
+          "name": "Hoyo de Monterrey - Epicure No.2 (3 盒)",
           "price": "$ 99.00",
           "stock": "31",
           "url": "https://cn.cohcigars.com/cigars-hoyo-de-monterrey"
@@ -97,7 +104,7 @@
           "id": "cohcigars:1106:1183",
           "name": "Quintero Y Hermano - Favoritos (5x5 盒)",
           "price": "$ 275.00",
-          "stock": "1",
+          "stock": "20",
           "url": "https://cn.cohcigars.com/cigars-quintero-y-hermano"
         },
         "cohcigars:11070:11720": {
@@ -286,21 +293,21 @@
           "id": "cohcigars:122:181",
           "name": "Jose L. Piedra - Brevas (5x5 盒)",
           "price": "$ 153.00",
-          "stock": "2",
+          "stock": "40",
           "url": "https://cn.cohcigars.com/cigars-jose-l.-piedra"
         },
         "cohcigars:122:22996": {
           "id": "cohcigars:122:22996",
           "name": "Jose L. Piedra - Brevas (5x2 盒)",
           "price": "$ 89.00",
-          "stock": "374",
+          "stock": "373",
           "url": "https://cn.cohcigars.com/cigars-jose-l.-piedra"
         },
         "cohcigars:122:5796": {
           "id": "cohcigars:122:5796",
           "name": "Jose L. Piedra - Brevas (12 盒)",
           "price": "$ 88.00",
-          "stock": "70",
+          "stock": "69",
           "url": "https://cn.cohcigars.com/cigars-jose-l.-piedra"
         },
         "cohcigars:1231:1420": {
@@ -968,11 +975,18 @@
           "stock": "28",
           "url": "https://cn.cohcigars.com/cigars-romeo-y-julieta"
         },
+        "cohcigars:202:26938": {
+          "id": "cohcigars:202:26938",
+          "name": "Romeo Y Julieta - Romeo No.2 A/T (5x2 盒)",
+          "price": "$ 149.00",
+          "stock": "100",
+          "url": "https://cn.cohcigars.com/cigars-romeo-y-julieta"
+        },
         "cohcigars:202:289": {
           "id": "cohcigars:202:289",
           "name": "Romeo Y Julieta - Romeo No.2 A/T (25 盒)",
-          "price": "$ 315.00",
-          "stock": "4",
+          "price": "$ 396.00",
+          "stock": "40",
           "url": "https://cn.cohcigars.com/cigars-romeo-y-julieta"
         },
         "cohcigars:202:290": {
@@ -1031,6 +1045,13 @@
           "stock": "13",
           "url": "https://cn.cohcigars.com/cigars-trinidad"
         },
+        "cohcigars:2052:24352": {
+          "id": "cohcigars:2052:24352",
+          "name": "Trinidad - Robusto Extra Gift Box (3x2 盒)",
+          "price": "$ 255.00",
+          "stock": "100",
+          "url": "https://cn.cohcigars.com/cigars-trinidad"
+        },
         "cohcigars:2054:2317": {
           "id": "cohcigars:2054:2317",
           "name": "La Gloria Cubana - Revolution RE Asia Pacifico 2015 (20 盒)",
@@ -1070,7 +1091,7 @@
           "id": "cohcigars:21281:22027",
           "name": "Ramon Allones - Absolutos EL 2024 (20 盒)",
           "price": "$ 1250.00",
-          "stock": "1",
+          "stock": "20",
           "url": "https://cn.cohcigars.com/cigars-ramon-allones"
         },
         "cohcigars:21282:22028": {
@@ -1111,8 +1132,8 @@
         "cohcigars:21860:22614": {
           "id": "cohcigars:21860:22614",
           "name": "Cohiba - Vitosos Travel Humidor (6x10 盒)",
-          "price": "$ 225.00",
-          "stock": "1",
+          "price": "$ 245.00",
+          "stock": "100",
           "url": "https://cn.cohcigars.com/cigars-cohiba"
         },
         "cohcigars:21860:24390": {
@@ -2043,7 +2064,7 @@
           "id": "cohcigars:287:406",
           "name": "Guantanamera - Cristales (5 x 5 盒)",
           "price": "$ 130.00",
-          "stock": "109",
+          "stock": "108",
           "url": "https://cn.cohcigars.com/cigars-guantanamera"
         },
         "cohcigars:293:17329": {
@@ -2594,8 +2615,8 @@
         },
         "cohcigars:397:20574": {
           "id": "cohcigars:397:20574",
-          "name": "Cohiba - Siglo V A/T (3 盒)",
-          "price": "$ 395.00",
+          "name": "Cohiba - Siglo IV (3 盒)",
+          "price": "$ 345.00",
           "stock": "42",
           "url": "https://cn.cohcigars.com/cigars-cohiba"
         },
@@ -3033,6 +3054,13 @@
           "stock": "15",
           "url": "https://cn.cohcigars.com/cigars-cuaba"
         },
+        "cohcigars:642:17328": {
+          "id": "cohcigars:642:17328",
+          "name": "Cohiba - Siglo I A/T (3 盒)",
+          "price": "$ 99.00",
+          "stock": "100",
+          "url": "https://cn.cohcigars.com/cigars-cohiba"
+        },
         "cohcigars:642:21493": {
           "id": "cohcigars:642:21493",
           "name": "Cohiba - Siglo I A/T (3x2 盒)",
@@ -3051,7 +3079,7 @@
           "id": "cohcigars:66:104",
           "name": "Diplomaticos - Genios RE Phoenicia (25 盒)",
           "price": "$ 599.00",
-          "stock": "2",
+          "stock": "50",
           "url": "https://cn.cohcigars.com/cigars-diplomaticos"
         },
         "cohcigars:683:789": {
@@ -3371,7 +3399,7 @@
         },
         "cohcigars:874:25374": {
           "id": "cohcigars:874:25374",
-          "name": "Hoyo de Monterrey - Epicure No.1 A/T (3x2 盒)",
+          "name": "Hoyo de Monterrey - Epicure No.2 (3x2 盒)",
           "price": "$ 180.00",
           "stock": "5",
           "url": "https://cn.cohcigars.com/cigars-hoyo-de-monterrey"
@@ -3415,8 +3443,15 @@
           "id": "cohcigars:8959:9602",
           "name": "Rafael Gonzalez - Coronas de Lonsdales (10 盒)",
           "price": "$ 195.00",
-          "stock": "4",
+          "stock": "20",
           "url": "https://cn.cohcigars.com/cigars-rafael-gonzalez"
+        },
+        "cohcigars:8963:15587": {
+          "id": "cohcigars:8963:15587",
+          "name": "Vegueros - Centrogordos (4x4 盒)",
+          "price": "$ 265.00",
+          "stock": "50",
+          "url": "https://cn.cohcigars.com/cigars-vegueros"
         },
         "cohcigars:8963:22877": {
           "id": "cohcigars:8963:22877",
@@ -3657,8 +3692,8 @@
           "url": "https://cn.cohcigars.com/cigars-montecristo"
         }
       },
-      "last_checked": "2026-08-11T02:52:08+00:00",
-      "last_count": 484,
+      "last_checked": "2026-08-11T05:30:41+00:00",
+      "last_count": 496,
       "last_error": null,
       "previous": {
         "cohcigars:101:144": {
@@ -3675,9 +3710,16 @@
           "stock": "48",
           "url": "https://cn.cohcigars.com/cigars-hoyo-de-monterrey"
         },
+        "cohcigars:102:149": {
+          "id": "cohcigars:102:149",
+          "name": "Hoyo de Monterrey - Epicure No.2 (15 盒)",
+          "price": "$ 402.00",
+          "stock": "50",
+          "url": "https://cn.cohcigars.com/cigars-hoyo-de-monterrey"
+        },
         "cohcigars:102:20571": {
           "id": "cohcigars:102:20571",
-          "name": "Hoyo de Monterrey - Epicure No.1 A/T (3 盒)",
+          "name": "Hoyo de Monterrey - Epicure No.2 (3 盒)",
           "price": "$ 99.00",
           "stock": "31",
           "url": "https://cn.cohcigars.com/cigars-hoyo-de-monterrey"
@@ -3737,6 +3779,13 @@
           "price": "$ 1555.00",
           "stock": "20",
           "url": "https://cn.cohcigars.com/cigars-por-larranaga"
+        },
+        "cohcigars:1106:1183": {
+          "id": "cohcigars:1106:1183",
+          "name": "Quintero Y Hermano - Favoritos (5x5 盒)",
+          "price": "$ 275.00",
+          "stock": "20",
+          "url": "https://cn.cohcigars.com/cigars-quintero-y-hermano"
         },
         "cohcigars:11070:11720": {
           "id": "cohcigars:11070:11720",
@@ -3906,18 +3955,25 @@
           "stock": "2",
           "url": "https://cn.cohcigars.com/cigars-hoyo-de-monterrey"
         },
+        "cohcigars:122:181": {
+          "id": "cohcigars:122:181",
+          "name": "Jose L. Piedra - Brevas (5x5 盒)",
+          "price": "$ 153.00",
+          "stock": "40",
+          "url": "https://cn.cohcigars.com/cigars-jose-l.-piedra"
+        },
         "cohcigars:122:22996": {
           "id": "cohcigars:122:22996",
           "name": "Jose L. Piedra - Brevas (5x2 盒)",
           "price": "$ 89.00",
-          "stock": "374",
+          "stock": "373",
           "url": "https://cn.cohcigars.com/cigars-jose-l.-piedra"
         },
         "cohcigars:122:5796": {
           "id": "cohcigars:122:5796",
           "name": "Jose L. Piedra - Brevas (12 盒)",
           "price": "$ 88.00",
-          "stock": "70",
+          "stock": "69",
           "url": "https://cn.cohcigars.com/cigars-jose-l.-piedra"
         },
         "cohcigars:1231:1420": {
@@ -4536,6 +4592,20 @@
           "stock": "28",
           "url": "https://cn.cohcigars.com/cigars-romeo-y-julieta"
         },
+        "cohcigars:202:26938": {
+          "id": "cohcigars:202:26938",
+          "name": "Romeo Y Julieta - Romeo No.2 A/T (5x2 盒)",
+          "price": "$ 149.00",
+          "stock": "100",
+          "url": "https://cn.cohcigars.com/cigars-romeo-y-julieta"
+        },
+        "cohcigars:202:289": {
+          "id": "cohcigars:202:289",
+          "name": "Romeo Y Julieta - Romeo No.2 A/T (25 盒)",
+          "price": "$ 396.00",
+          "stock": "40",
+          "url": "https://cn.cohcigars.com/cigars-romeo-y-julieta"
+        },
         "cohcigars:202:290": {
           "id": "cohcigars:202:290",
           "name": "Romeo Y Julieta - Romeo No.2 A/T (10 盒)",
@@ -4592,6 +4662,13 @@
           "stock": "13",
           "url": "https://cn.cohcigars.com/cigars-trinidad"
         },
+        "cohcigars:2052:24352": {
+          "id": "cohcigars:2052:24352",
+          "name": "Trinidad - Robusto Extra Gift Box (3x2 盒)",
+          "price": "$ 255.00",
+          "stock": "100",
+          "url": "https://cn.cohcigars.com/cigars-trinidad"
+        },
         "cohcigars:205:297": {
           "id": "cohcigars:205:297",
           "name": "Romeo Y Julieta - Short Churchills A/T (15 盒)",
@@ -4619,6 +4696,13 @@
           "price": "$ 650.00",
           "stock": "10",
           "url": "https://cn.cohcigars.com/cigars-vintage"
+        },
+        "cohcigars:21281:22027": {
+          "id": "cohcigars:21281:22027",
+          "name": "Ramon Allones - Absolutos EL 2024 (20 盒)",
+          "price": "$ 1250.00",
+          "stock": "20",
+          "url": "https://cn.cohcigars.com/cigars-ramon-allones"
         },
         "cohcigars:21282:22028": {
           "id": "cohcigars:21282:22028",
@@ -4653,6 +4737,13 @@
           "name": "Cohiba - Medio SIglo (25 盒)",
           "price": "$ 1620.00",
           "stock": "17",
+          "url": "https://cn.cohcigars.com/cigars-cohiba"
+        },
+        "cohcigars:21860:22614": {
+          "id": "cohcigars:21860:22614",
+          "name": "Cohiba - Vitosos Travel Humidor (6x10 盒)",
+          "price": "$ 245.00",
+          "stock": "100",
           "url": "https://cn.cohcigars.com/cigars-cohiba"
         },
         "cohcigars:21860:24390": {
@@ -5541,7 +5632,7 @@
           "id": "cohcigars:287:406",
           "name": "Guantanamera - Cristales (5 x 5 盒)",
           "price": "$ 130.00",
-          "stock": "109",
+          "stock": "108",
           "url": "https://cn.cohcigars.com/cigars-guantanamera"
         },
         "cohcigars:293:17329": {
@@ -6057,8 +6148,8 @@
         },
         "cohcigars:397:20574": {
           "id": "cohcigars:397:20574",
-          "name": "Cohiba - Siglo V A/T (3 盒)",
-          "price": "$ 395.00",
+          "name": "Cohiba - Siglo IV (3 盒)",
+          "price": "$ 345.00",
           "stock": "42",
           "url": "https://cn.cohcigars.com/cigars-cohiba"
         },
@@ -6468,12 +6559,26 @@
           "stock": "15",
           "url": "https://cn.cohcigars.com/cigars-cuaba"
         },
+        "cohcigars:642:17328": {
+          "id": "cohcigars:642:17328",
+          "name": "Cohiba - Siglo I A/T (3 盒)",
+          "price": "$ 99.00",
+          "stock": "100",
+          "url": "https://cn.cohcigars.com/cigars-cohiba"
+        },
         "cohcigars:642:756": {
           "id": "cohcigars:642:756",
           "name": "Cohiba - Siglo I A/T (15 盒)",
           "price": "$ 550.00",
           "stock": "18",
           "url": "https://cn.cohcigars.com/cigars-cohiba"
+        },
+        "cohcigars:66:104": {
+          "id": "cohcigars:66:104",
+          "name": "Diplomaticos - Genios RE Phoenicia (25 盒)",
+          "price": "$ 599.00",
+          "stock": "50",
+          "url": "https://cn.cohcigars.com/cigars-diplomaticos"
         },
         "cohcigars:683:789": {
           "id": "cohcigars:683:789",
@@ -6792,7 +6897,7 @@
         },
         "cohcigars:874:25374": {
           "id": "cohcigars:874:25374",
-          "name": "Hoyo de Monterrey - Epicure No.1 A/T (3x2 盒)",
+          "name": "Hoyo de Monterrey - Epicure No.2 (3x2 盒)",
           "price": "$ 180.00",
           "stock": "5",
           "url": "https://cn.cohcigars.com/cigars-hoyo-de-monterrey"
@@ -6824,6 +6929,20 @@
           "price": "$ 99.00",
           "stock": "151",
           "url": "https://cn.cohcigars.com/cigars-partagas"
+        },
+        "cohcigars:8959:9602": {
+          "id": "cohcigars:8959:9602",
+          "name": "Rafael Gonzalez - Coronas de Lonsdales (10 盒)",
+          "price": "$ 195.00",
+          "stock": "20",
+          "url": "https://cn.cohcigars.com/cigars-rafael-gonzalez"
+        },
+        "cohcigars:8963:15587": {
+          "id": "cohcigars:8963:15587",
+          "name": "Vegueros - Centrogordos (4x4 盒)",
+          "price": "$ 265.00",
+          "stock": "50",
+          "url": "https://cn.cohcigars.com/cigars-vegueros"
         },
         "cohcigars:908:17330": {
           "id": "cohcigars:908:17330",
@@ -8284,7 +8403,7 @@
           "url": "https://www.ihavanas.com/details.php?ptype=cigars&pid=Partagas"
         }
       },
-      "last_checked": "2026-08-11T02:51:49+00:00",
+      "last_checked": "2026-08-11T05:30:23+00:00",
       "last_count": 196,
       "last_error": null,
       "previous": {
