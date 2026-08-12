@@ -293,7 +293,7 @@
           "id": "cohcigars:122:181",
           "name": "Jose L. Piedra - Brevas (5x5 盒)",
           "price": "$ 153.00",
-          "stock": "35",
+          "stock": "30",
           "url": "https://cn.cohcigars.com/cigars-jose-l.-piedra"
         },
         "cohcigars:122:22996": {
@@ -902,7 +902,7 @@
           "id": "cohcigars:196:793",
           "name": "Romeo Y Julieta - Churchills A/T (15 盒)",
           "price": "$ 785.00",
-          "stock": "13",
+          "stock": "12",
           "url": "https://cn.cohcigars.com/cigars-romeo-y-julieta"
         },
         "cohcigars:19829:20532": {
@@ -1595,7 +1595,7 @@
           "id": "cohcigars:2376:25889",
           "name": "Quintero Y Hermano - Tubulares A/T (3x3 盒)",
           "price": "$ 79.00",
-          "stock": "186",
+          "stock": "185",
           "url": "https://cn.cohcigars.com/cigars-quintero-y-hermano"
         },
         "cohcigars:2379:2652": {
@@ -2106,7 +2106,7 @@
           "id": "cohcigars:293:412",
           "name": "Cohiba - Siglo II A/T (15 盒)",
           "price": "$ 690.00",
-          "stock": "5",
+          "stock": "4",
           "url": "https://cn.cohcigars.com/cigars-cohiba"
         },
         "cohcigars:2942:3273": {
@@ -3450,7 +3450,7 @@
           "id": "cohcigars:87:127",
           "name": "H.Upmann - Majestic (25 盒)",
           "price": "$ 364.00",
-          "stock": "18",
+          "stock": "16",
           "url": "https://cn.cohcigars.com/cigars-h.upmann"
         },
         "cohcigars:8807:9440": {
@@ -3471,7 +3471,7 @@
           "id": "cohcigars:88:621",
           "name": "H.Upmann - Magnum 50 (10 盒)",
           "price": "$ 445.00",
-          "stock": "19",
+          "stock": "17",
           "url": "https://cn.cohcigars.com/cigars-h.upmann"
         },
         "cohcigars:8959:9602": {
@@ -3727,7 +3727,7 @@
           "url": "https://cn.cohcigars.com/cigars-montecristo"
         }
       },
-      "last_checked": "2026-08-12T11:30:19+00:00",
+      "last_checked": "2026-08-12T13:56:28+00:00",
       "last_count": 502,
       "last_error": null,
       "previous": {
@@ -3994,7 +3994,7 @@
           "id": "cohcigars:122:181",
           "name": "Jose L. Piedra - Brevas (5x5 盒)",
           "price": "$ 153.00",
-          "stock": "35",
+          "stock": "30",
           "url": "https://cn.cohcigars.com/cigars-jose-l.-piedra"
         },
         "cohcigars:122:22996": {
@@ -4561,7 +4561,7 @@
           "id": "cohcigars:196:793",
           "name": "Romeo Y Julieta - Churchills A/T (15 盒)",
           "price": "$ 785.00",
-          "stock": "13",
+          "stock": "12",
           "url": "https://cn.cohcigars.com/cigars-romeo-y-julieta"
         },
         "cohcigars:19829:20532": {
@@ -5233,7 +5233,7 @@
           "id": "cohcigars:2376:25889",
           "name": "Quintero Y Hermano - Tubulares A/T (3x3 盒)",
           "price": "$ 79.00",
-          "stock": "186",
+          "stock": "185",
           "url": "https://cn.cohcigars.com/cigars-quintero-y-hermano"
         },
         "cohcigars:2379:2652": {
@@ -5709,7 +5709,7 @@
           "id": "cohcigars:293:412",
           "name": "Cohiba - Siglo II A/T (15 盒)",
           "price": "$ 690.00",
-          "stock": "5",
+          "stock": "4",
           "url": "https://cn.cohcigars.com/cigars-cohiba"
         },
         "cohcigars:2942:3273": {
@@ -6983,7 +6983,7 @@
           "id": "cohcigars:87:127",
           "name": "H.Upmann - Majestic (25 盒)",
           "price": "$ 364.00",
-          "stock": "18",
+          "stock": "16",
           "url": "https://cn.cohcigars.com/cigars-h.upmann"
         },
         "cohcigars:8807:9440": {
@@ -7004,7 +7004,7 @@
           "id": "cohcigars:88:621",
           "name": "H.Upmann - Magnum 50 (10 盒)",
           "price": "$ 445.00",
-          "stock": "19",
+          "stock": "17",
           "url": "https://cn.cohcigars.com/cigars-h.upmann"
         },
         "cohcigars:8959:9602": {
@@ -8480,7 +8480,7 @@
           "url": "https://www.ihavanas.com/details.php?ptype=cigars&pid=Partagas"
         }
       },
-      "last_checked": "2026-08-12T11:29:59+00:00",
+      "last_checked": "2026-08-12T13:56:11+00:00",
       "last_count": 196,
       "last_error": null,
       "previous": {
