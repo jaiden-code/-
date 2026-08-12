@@ -433,7 +433,7 @@
           "id": "cohcigars:136:203",
           "name": "Partagas - Serie Club 10x10 (25 盒)",
           "price": "$ 699.00",
-          "stock": "94",
+          "stock": "93",
           "url": "https://cn.cohcigars.com/cigars-partagas"
         },
         "cohcigars:13910:14564": {
@@ -762,7 +762,7 @@
           "id": "cohcigars:186:265",
           "name": "Ramon Allones - Specially Selected (25 盒)",
           "price": "$ 703.00",
-          "stock": "5",
+          "stock": "4",
           "url": "https://cn.cohcigars.com/cigars-ramon-allones"
         },
         "cohcigars:187:12032": {
@@ -846,7 +846,7 @@
           "id": "cohcigars:1947:9595",
           "name": "Cohiba - Behike BHK 54 (20x5 盒)",
           "price": "$ 80.00",
-          "stock": "104",
+          "stock": "102",
           "url": "https://cn.cohcigars.com/cigars-cohiba"
         },
         "cohcigars:19480:21509": {
@@ -1588,7 +1588,7 @@
           "id": "cohcigars:23877:24705",
           "name": "Partagas - Mini 20x5 (20x5 盒)",
           "price": "$ 85.00",
-          "stock": "59",
+          "stock": "58",
           "url": "https://cn.cohcigars.com/cigars-partagas"
         },
         "cohcigars:23878:24706": {
@@ -1609,7 +1609,7 @@
           "id": "cohcigars:23880:24709",
           "name": "Partagas - Serie E No.2 A/T (20x5 盒)",
           "price": "$ 75.00",
-          "stock": "63",
+          "stock": "62",
           "url": "https://cn.cohcigars.com/cigars-partagas"
         },
         "cohcigars:24167:25002": {
@@ -1665,7 +1665,7 @@
           "id": "cohcigars:24440:25280",
           "name": "Cohiba - Robusto C/P (3 盒)",
           "price": "$ 240.00",
-          "stock": "180",
+          "stock": "179",
           "url": "https://cn.cohcigars.com/cigars-cohiba"
         },
         "cohcigars:24441:25281": {
@@ -3030,7 +3030,7 @@
           "id": "cohcigars:59:95",
           "name": "Cuaba - Divinos (25 盒)",
           "price": "$ 505.00",
-          "stock": "16",
+          "stock": "15",
           "url": "https://cn.cohcigars.com/cigars-cuaba"
         },
         "cohcigars:614:742": {
@@ -3079,7 +3079,7 @@
           "id": "cohcigars:66:104",
           "name": "Diplomaticos - Genios RE Phoenicia (25 盒)",
           "price": "$ 599.00",
-          "stock": "47",
+          "stock": "46",
           "url": "https://cn.cohcigars.com/cigars-diplomaticos"
         },
         "cohcigars:683:789": {
@@ -3534,7 +3534,7 @@
           "id": "cohcigars:924:967",
           "name": "Partagas - Cetros Year of the Snake (25 盒)",
           "price": "$ 275.00",
-          "stock": "198",
+          "stock": "197",
           "url": "https://cn.cohcigars.com/cigars-partagas"
         },
         "cohcigars:9253:9898": {
@@ -3692,7 +3692,7 @@
           "url": "https://cn.cohcigars.com/cigars-montecristo"
         }
       },
-      "last_checked": "2026-08-12T03:10:45+00:00",
+      "last_checked": "2026-08-12T05:48:26+00:00",
       "last_count": 495,
       "last_error": null,
       "previous": {
@@ -4085,7 +4085,7 @@
           "id": "cohcigars:136:203",
           "name": "Partagas - Serie Club 10x10 (25 盒)",
           "price": "$ 699.00",
-          "stock": "94",
+          "stock": "93",
           "url": "https://cn.cohcigars.com/cigars-partagas"
         },
         "cohcigars:13910:14564": {
@@ -4379,7 +4379,7 @@
           "id": "cohcigars:186:265",
           "name": "Ramon Allones - Specially Selected (25 盒)",
           "price": "$ 703.00",
-          "stock": "5",
+          "stock": "4",
           "url": "https://cn.cohcigars.com/cigars-ramon-allones"
         },
         "cohcigars:187:12032": {
@@ -4463,7 +4463,7 @@
           "id": "cohcigars:1947:9595",
           "name": "Cohiba - Behike BHK 54 (20x5 盒)",
           "price": "$ 80.00",
-          "stock": "104",
+          "stock": "102",
           "url": "https://cn.cohcigars.com/cigars-cohiba"
         },
         "cohcigars:19480:21509": {
@@ -5184,7 +5184,7 @@
           "id": "cohcigars:23877:24705",
           "name": "Partagas - Mini 20x5 (20x5 盒)",
           "price": "$ 85.00",
-          "stock": "59",
+          "stock": "58",
           "url": "https://cn.cohcigars.com/cigars-partagas"
         },
         "cohcigars:23878:24706": {
@@ -5205,7 +5205,7 @@
           "id": "cohcigars:23880:24709",
           "name": "Partagas - Serie E No.2 A/T (20x5 盒)",
           "price": "$ 75.00",
-          "stock": "63",
+          "stock": "62",
           "url": "https://cn.cohcigars.com/cigars-partagas"
         },
         "cohcigars:24167:25002": {
@@ -5254,7 +5254,7 @@
           "id": "cohcigars:24440:25280",
           "name": "Cohiba - Robusto C/P (3 盒)",
           "price": "$ 240.00",
-          "stock": "180",
+          "stock": "179",
           "url": "https://cn.cohcigars.com/cigars-cohiba"
         },
         "cohcigars:24441:25281": {
@@ -6528,7 +6528,7 @@
           "id": "cohcigars:59:95",
           "name": "Cuaba - Divinos (25 盒)",
           "price": "$ 505.00",
-          "stock": "16",
+          "stock": "15",
           "url": "https://cn.cohcigars.com/cigars-cuaba"
         },
         "cohcigars:614:742": {
@@ -6570,7 +6570,7 @@
           "id": "cohcigars:66:104",
           "name": "Diplomaticos - Genios RE Phoenicia (25 盒)",
           "price": "$ 599.00",
-          "stock": "47",
+          "stock": "46",
           "url": "https://cn.cohcigars.com/cigars-diplomaticos"
         },
         "cohcigars:683:789": {
@@ -7011,7 +7011,7 @@
           "id": "cohcigars:924:967",
           "name": "Partagas - Cetros Year of the Snake (25 盒)",
           "price": "$ 275.00",
-          "stock": "198",
+          "stock": "197",
           "url": "https://cn.cohcigars.com/cigars-partagas"
         },
         "cohcigars:928:974": {
@@ -8396,7 +8396,7 @@
           "url": "https://www.ihavanas.com/details.php?ptype=cigars&pid=Partagas"
         }
       },
-      "last_checked": "2026-08-12T03:10:24+00:00",
+      "last_checked": "2026-08-12T05:48:05+00:00",
       "last_count": 196,
       "last_error": null,
       "previous": {
