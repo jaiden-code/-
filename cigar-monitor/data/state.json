@@ -643,7 +643,7 @@
           "id": "cohcigars:1665:1881",
           "name": "Vegueros - Entretiempos (16 盒)",
           "price": "$ 286.00",
-          "stock": "1",
+          "stock": "30",
           "url": "https://cn.cohcigars.com/cigars-vegueros"
         },
         "cohcigars:1679:1902": {
@@ -1017,6 +1017,13 @@
           "stock": "11",
           "url": "https://cn.cohcigars.com/cigars-romeo-y-julieta"
         },
+        "cohcigars:203:292": {
+          "id": "cohcigars:203:292",
+          "name": "Romeo Y Julieta - Romeo No.3 A/T (25 盒)",
+          "price": "$ 318.00",
+          "stock": "50",
+          "url": "https://cn.cohcigars.com/cigars-romeo-y-julieta"
+        },
         "cohcigars:203:293": {
           "id": "cohcigars:203:293",
           "name": "Romeo Y Julieta - Romeo No.3 A/T (10 盒)",
@@ -1113,6 +1120,13 @@
           "name": "Romeo Y Julieta - Mille Fleurs (10 盒)",
           "price": "$ 155.00",
           "stock": "50",
+          "url": "https://cn.cohcigars.com/cigars-romeo-y-julieta"
+        },
+        "cohcigars:214:307": {
+          "id": "cohcigars:214:307",
+          "name": "Romeo Y Julieta - Mille Fleurs (25 盒)",
+          "price": "$ 339.00",
+          "stock": "30",
           "url": "https://cn.cohcigars.com/cigars-romeo-y-julieta"
         },
         "cohcigars:216:309": {
@@ -2080,6 +2094,13 @@
           "price": "$ 690.00",
           "stock": "5",
           "url": "https://cn.cohcigars.com/cigars-cohiba"
+        },
+        "cohcigars:2942:3273": {
+          "id": "cohcigars:2942:3273",
+          "name": "Romeo Y Julieta - Petit Royales (25 盒)",
+          "price": "$ 410.00",
+          "stock": "30",
+          "url": "https://cn.cohcigars.com/cigars-romeo-y-julieta"
         },
         "cohcigars:294:413": {
           "id": "cohcigars:294:413",
@@ -3394,7 +3415,7 @@
           "id": "cohcigars:870:5051",
           "name": "Montecristo - Eagle A/T (3 盒)",
           "price": "$ 155.00",
-          "stock": "58",
+          "stock": "57",
           "url": "https://cn.cohcigars.com/cigars-montecristo"
         },
         "cohcigars:874:25374": {
@@ -3436,7 +3457,7 @@
           "id": "cohcigars:88:621",
           "name": "H.Upmann - Magnum 50 (10 盒)",
           "price": "$ 445.00",
-          "stock": "17",
+          "stock": "20",
           "url": "https://cn.cohcigars.com/cigars-h.upmann"
         },
         "cohcigars:8959:9602": {
@@ -3692,8 +3713,8 @@
           "url": "https://cn.cohcigars.com/cigars-montecristo"
         }
       },
-      "last_checked": "2026-08-12T06:04:28+00:00",
-      "last_count": 495,
+      "last_checked": "2026-08-12T07:55:45+00:00",
+      "last_count": 500,
       "last_error": null,
       "previous": {
         "cohcigars:101:144": {
@@ -4277,6 +4298,13 @@
           "stock": "11",
           "url": "https://cn.cohcigars.com/cigars-punch"
         },
+        "cohcigars:1665:1881": {
+          "id": "cohcigars:1665:1881",
+          "name": "Vegueros - Entretiempos (16 盒)",
+          "price": "$ 286.00",
+          "stock": "30",
+          "url": "https://cn.cohcigars.com/cigars-vegueros"
+        },
         "cohcigars:1679:1902": {
           "id": "cohcigars:1679:1902",
           "name": "Cohiba - Robusto Supremos EL 2014 (10 盒)",
@@ -4634,6 +4662,13 @@
           "stock": "11",
           "url": "https://cn.cohcigars.com/cigars-romeo-y-julieta"
         },
+        "cohcigars:203:292": {
+          "id": "cohcigars:203:292",
+          "name": "Romeo Y Julieta - Romeo No.3 A/T (25 盒)",
+          "price": "$ 318.00",
+          "stock": "50",
+          "url": "https://cn.cohcigars.com/cigars-romeo-y-julieta"
+        },
         "cohcigars:203:293": {
           "id": "cohcigars:203:293",
           "name": "Romeo Y Julieta - Romeo No.3 A/T (10 盒)",
@@ -4723,6 +4758,13 @@
           "name": "Romeo Y Julieta - Mille Fleurs (10 盒)",
           "price": "$ 155.00",
           "stock": "50",
+          "url": "https://cn.cohcigars.com/cigars-romeo-y-julieta"
+        },
+        "cohcigars:214:307": {
+          "id": "cohcigars:214:307",
+          "name": "Romeo Y Julieta - Mille Fleurs (25 盒)",
+          "price": "$ 339.00",
+          "stock": "30",
           "url": "https://cn.cohcigars.com/cigars-romeo-y-julieta"
         },
         "cohcigars:216:309": {
@@ -5641,6 +5683,13 @@
           "price": "$ 690.00",
           "stock": "5",
           "url": "https://cn.cohcigars.com/cigars-cohiba"
+        },
+        "cohcigars:2942:3273": {
+          "id": "cohcigars:2942:3273",
+          "name": "Romeo Y Julieta - Petit Royales (25 盒)",
+          "price": "$ 410.00",
+          "stock": "30",
+          "url": "https://cn.cohcigars.com/cigars-romeo-y-julieta"
         },
         "cohcigars:2952:3284": {
           "id": "cohcigars:2952:3284",
@@ -6885,7 +6934,7 @@
           "id": "cohcigars:870:5051",
           "name": "Montecristo - Eagle A/T (3 盒)",
           "price": "$ 155.00",
-          "stock": "58",
+          "stock": "57",
           "url": "https://cn.cohcigars.com/cigars-montecristo"
         },
         "cohcigars:874:25374": {
@@ -6922,6 +6971,13 @@
           "price": "$ 99.00",
           "stock": "151",
           "url": "https://cn.cohcigars.com/cigars-partagas"
+        },
+        "cohcigars:88:621": {
+          "id": "cohcigars:88:621",
+          "name": "H.Upmann - Magnum 50 (10 盒)",
+          "price": "$ 445.00",
+          "stock": "20",
+          "url": "https://cn.cohcigars.com/cigars-h.upmann"
         },
         "cohcigars:8959:9602": {
           "id": "cohcigars:8959:9602",
@@ -8396,7 +8452,7 @@
           "url": "https://www.ihavanas.com/details.php?ptype=cigars&pid=Partagas"
         }
       },
-      "last_checked": "2026-08-12T06:04:07+00:00",
+      "last_checked": "2026-08-12T07:55:21+00:00",
       "last_count": 196,
       "last_error": null,
       "previous": {
