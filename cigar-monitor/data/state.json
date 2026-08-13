@@ -34,7 +34,7 @@
           "id": "cohcigars:102:20571",
           "name": "Hoyo de Monterrey - Epicure No.2 (3 盒)",
           "price": "$ 99.00",
-          "stock": "30",
+          "stock": "29",
           "url": "https://cn.cohcigars.com/cigars-hoyo-de-monterrey"
         },
         "cohcigars:102:21530": {
@@ -2134,7 +2134,7 @@
           "id": "cohcigars:296:22633",
           "name": "H.Upmann - Regalias (5 盒)",
           "price": "$ 115.00",
-          "stock": "63",
+          "stock": "62",
           "url": "https://cn.cohcigars.com/cigars-h.upmann"
         },
         "cohcigars:2971:3305": {
@@ -3058,7 +3058,7 @@
           "id": "cohcigars:58:94",
           "name": "Cuaba - Distinguidos (10 盒)",
           "price": "$ 363.00",
-          "stock": "15",
+          "stock": "14",
           "url": "https://cn.cohcigars.com/cigars-cuaba"
         },
         "cohcigars:59:95": {
@@ -3727,7 +3727,7 @@
           "url": "https://cn.cohcigars.com/cigars-montecristo"
         }
       },
-      "last_checked": "2026-08-13T14:08:02+00:00",
+      "last_checked": "2026-08-13T15:18:02+00:00",
       "last_count": 500,
       "last_error": null,
       "previous": {
@@ -3756,7 +3756,7 @@
           "id": "cohcigars:102:20571",
           "name": "Hoyo de Monterrey - Epicure No.2 (3 盒)",
           "price": "$ 99.00",
-          "stock": "30",
+          "stock": "29",
           "url": "https://cn.cohcigars.com/cigars-hoyo-de-monterrey"
         },
         "cohcigars:105:154": {
@@ -5730,7 +5730,7 @@
           "id": "cohcigars:296:22633",
           "name": "H.Upmann - Regalias (5 盒)",
           "price": "$ 115.00",
-          "stock": "63",
+          "stock": "62",
           "url": "https://cn.cohcigars.com/cigars-h.upmann"
         },
         "cohcigars:2971:3305": {
@@ -6591,7 +6591,7 @@
           "id": "cohcigars:58:94",
           "name": "Cuaba - Distinguidos (10 盒)",
           "price": "$ 363.00",
-          "stock": "15",
+          "stock": "14",
           "url": "https://cn.cohcigars.com/cigars-cuaba"
         },
         "cohcigars:59:95": {
@@ -8466,7 +8466,7 @@
           "url": "https://www.ihavanas.com/details.php?ptype=cigars&pid=Partagas"
         }
       },
-      "last_checked": "2026-08-13T14:07:40+00:00",
+      "last_checked": "2026-08-13T15:17:39+00:00",
       "last_count": 196,
       "last_error": null,
       "previous": {
