@@ -643,7 +643,7 @@
           "id": "cohcigars:1665:1881",
           "name": "Vegueros - Entretiempos (16 盒)",
           "price": "$ 286.00",
-          "stock": "30",
+          "stock": "28",
           "url": "https://cn.cohcigars.com/cigars-vegueros"
         },
         "cohcigars:1679:1902": {
@@ -839,7 +839,7 @@
           "id": "cohcigars:193:274",
           "name": "Romeo Y Julieta - Cazadores (25 盒)",
           "price": "$ 620.00",
-          "stock": "7",
+          "stock": "6",
           "url": "https://cn.cohcigars.com/cigars-romeo-y-julieta"
         },
         "cohcigars:1946:23678": {
@@ -1091,7 +1091,7 @@
           "id": "cohcigars:207:299",
           "name": "Romeo Y Julieta - Cedros de Luxe No.2 (25 盒)",
           "price": "$ 625.00",
-          "stock": "10",
+          "stock": "9",
           "url": "https://cn.cohcigars.com/cigars-romeo-y-julieta"
         },
         "cohcigars:2116:2378": {
@@ -1917,7 +1917,7 @@
           "id": "cohcigars:260:21409",
           "name": "Jose L. Piedra - Cremas (5 盒)",
           "price": "$ 39.00",
-          "stock": "26",
+          "stock": "25",
           "url": "https://cn.cohcigars.com/cigars-jose-l.-piedra"
         },
         "cohcigars:262:375": {
@@ -1987,7 +1987,7 @@
           "id": "cohcigars:271:387",
           "name": "Quintero Y Hermano - Panetelas (25 盒)",
           "price": "$ 150.00",
-          "stock": "52",
+          "stock": "51",
           "url": "https://cn.cohcigars.com/cigars-quintero-y-hermano"
         },
         "cohcigars:273:19988": {
@@ -2988,7 +2988,7 @@
           "id": "cohcigars:5142:5552",
           "name": "Montecristo - Regata A/T (10x10 盒)",
           "price": "$ 150.00",
-          "stock": "890",
+          "stock": "888",
           "url": "https://cn.cohcigars.com/cigars-montecristo"
         },
         "cohcigars:52:84": {
@@ -3016,7 +3016,7 @@
           "id": "cohcigars:53:86",
           "name": "Cohiba - Exquisitos (25 盒)",
           "price": "$ 750.00",
-          "stock": "49",
+          "stock": "48",
           "url": "https://cn.cohcigars.com/cigars-cohiba"
         },
         "cohcigars:54:5459": {
@@ -3086,7 +3086,7 @@
           "id": "cohcigars:62:99",
           "name": "Cuaba - Tradicionales (25 盒)",
           "price": "$ 415.00",
-          "stock": "15",
+          "stock": "14",
           "url": "https://cn.cohcigars.com/cigars-cuaba"
         },
         "cohcigars:642:17328": {
@@ -3114,7 +3114,7 @@
           "id": "cohcigars:66:104",
           "name": "Diplomaticos - Genios RE Phoenicia (25 盒)",
           "price": "$ 599.00",
-          "stock": "45",
+          "stock": "44",
           "url": "https://cn.cohcigars.com/cigars-diplomaticos"
         },
         "cohcigars:683:789": {
@@ -3478,14 +3478,14 @@
           "id": "cohcigars:8959:9602",
           "name": "Rafael Gonzalez - Coronas de Lonsdales (10 盒)",
           "price": "$ 195.00",
-          "stock": "18",
+          "stock": "17",
           "url": "https://cn.cohcigars.com/cigars-rafael-gonzalez"
         },
         "cohcigars:8963:15587": {
           "id": "cohcigars:8963:15587",
           "name": "Vegueros - Centrogordos (4x4 盒)",
           "price": "$ 265.00",
-          "stock": "47",
+          "stock": "46",
           "url": "https://cn.cohcigars.com/cigars-vegueros"
         },
         "cohcigars:8963:22877": {
@@ -3727,7 +3727,7 @@
           "url": "https://cn.cohcigars.com/cigars-montecristo"
         }
       },
-      "last_checked": "2026-08-13T03:14:11+00:00",
+      "last_checked": "2026-08-13T05:50:55+00:00",
       "last_count": 501,
       "last_error": null,
       "previous": {
@@ -4316,7 +4316,7 @@
           "id": "cohcigars:1665:1881",
           "name": "Vegueros - Entretiempos (16 盒)",
           "price": "$ 286.00",
-          "stock": "30",
+          "stock": "28",
           "url": "https://cn.cohcigars.com/cigars-vegueros"
         },
         "cohcigars:1679:1902": {
@@ -4498,7 +4498,7 @@
           "id": "cohcigars:193:274",
           "name": "Romeo Y Julieta - Cazadores (25 盒)",
           "price": "$ 620.00",
-          "stock": "7",
+          "stock": "6",
           "url": "https://cn.cohcigars.com/cigars-romeo-y-julieta"
         },
         "cohcigars:1946:23678": {
@@ -4743,7 +4743,7 @@
           "id": "cohcigars:207:299",
           "name": "Romeo Y Julieta - Cedros de Luxe No.2 (25 盒)",
           "price": "$ 625.00",
-          "stock": "10",
+          "stock": "9",
           "url": "https://cn.cohcigars.com/cigars-romeo-y-julieta"
         },
         "cohcigars:2116:2378": {
@@ -5527,7 +5527,7 @@
           "id": "cohcigars:260:21409",
           "name": "Jose L. Piedra - Cremas (5 盒)",
           "price": "$ 39.00",
-          "stock": "26",
+          "stock": "25",
           "url": "https://cn.cohcigars.com/cigars-jose-l.-piedra"
         },
         "cohcigars:263:24306": {
@@ -5590,7 +5590,7 @@
           "id": "cohcigars:271:387",
           "name": "Quintero Y Hermano - Panetelas (25 盒)",
           "price": "$ 150.00",
-          "stock": "52",
+          "stock": "51",
           "url": "https://cn.cohcigars.com/cigars-quintero-y-hermano"
         },
         "cohcigars:273:19988": {
@@ -6535,7 +6535,7 @@
           "id": "cohcigars:5142:5552",
           "name": "Montecristo - Regata A/T (10x10 盒)",
           "price": "$ 150.00",
-          "stock": "890",
+          "stock": "888",
           "url": "https://cn.cohcigars.com/cigars-montecristo"
         },
         "cohcigars:52:84": {
@@ -6556,7 +6556,7 @@
           "id": "cohcigars:53:86",
           "name": "Cohiba - Exquisitos (25 盒)",
           "price": "$ 750.00",
-          "stock": "49",
+          "stock": "48",
           "url": "https://cn.cohcigars.com/cigars-cohiba"
         },
         "cohcigars:55:5170": {
@@ -6619,7 +6619,7 @@
           "id": "cohcigars:62:99",
           "name": "Cuaba - Tradicionales (25 盒)",
           "price": "$ 415.00",
-          "stock": "15",
+          "stock": "14",
           "url": "https://cn.cohcigars.com/cigars-cuaba"
         },
         "cohcigars:642:17328": {
@@ -6640,7 +6640,7 @@
           "id": "cohcigars:66:104",
           "name": "Diplomaticos - Genios RE Phoenicia (25 盒)",
           "price": "$ 599.00",
-          "stock": "45",
+          "stock": "44",
           "url": "https://cn.cohcigars.com/cigars-diplomaticos"
         },
         "cohcigars:683:789": {
@@ -7004,14 +7004,14 @@
           "id": "cohcigars:8959:9602",
           "name": "Rafael Gonzalez - Coronas de Lonsdales (10 盒)",
           "price": "$ 195.00",
-          "stock": "18",
+          "stock": "17",
           "url": "https://cn.cohcigars.com/cigars-rafael-gonzalez"
         },
         "cohcigars:8963:15587": {
           "id": "cohcigars:8963:15587",
           "name": "Vegueros - Centrogordos (4x4 盒)",
           "price": "$ 265.00",
-          "stock": "47",
+          "stock": "46",
           "url": "https://cn.cohcigars.com/cigars-vegueros"
         },
         "cohcigars:908:17330": {
@@ -8473,7 +8473,7 @@
           "url": "https://www.ihavanas.com/details.php?ptype=cigars&pid=Partagas"
         }
       },
-      "last_checked": "2026-08-13T03:13:50+00:00",
+      "last_checked": "2026-08-13T05:50:39+00:00",
       "last_count": 196,
       "last_error": null,
       "previous": {
