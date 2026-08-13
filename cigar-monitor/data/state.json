@@ -433,7 +433,7 @@
           "id": "cohcigars:136:203",
           "name": "Partagas - Serie Club 10x10 (25 盒)",
           "price": "$ 699.00",
-          "stock": "91",
+          "stock": "90",
           "url": "https://cn.cohcigars.com/cigars-partagas"
         },
         "cohcigars:13910:14564": {
@@ -713,7 +713,7 @@
           "id": "cohcigars:1735:1968",
           "name": "Hoyo de Monterrey - Le Hoyo de San Juan (25 盒)",
           "price": "$ 884.00",
-          "stock": "14",
+          "stock": "13",
           "url": "https://cn.cohcigars.com/cigars-hoyo-de-monterrey"
         },
         "cohcigars:1766:2001": {
@@ -951,7 +951,7 @@
           "id": "cohcigars:20039:20761",
           "name": "Juan Lopez - Valkyria RE paies nordicos 2025 (10 盒)",
           "price": "$ 450.00",
-          "stock": "2",
+          "stock": "1",
           "url": "https://cn.cohcigars.com/cigars-juan-lopez"
         },
         "cohcigars:201:21411": {
@@ -1560,7 +1560,7 @@
           "id": "cohcigars:233:331",
           "name": "San Cristobal De La Habana - 5 Pack- Prado LCDH (25 盒)",
           "price": "$ 299.00",
-          "stock": "40",
+          "stock": "39",
           "url": "https://cn.cohcigars.com/cigars-san-cristobal-de-la-habana"
         },
         "cohcigars:235:333": {
@@ -3044,7 +3044,7 @@
           "id": "cohcigars:5773:20027",
           "name": "La Flor De Cano - Elegidos (15 盒)",
           "price": "$ 205.00",
-          "stock": "22",
+          "stock": "21",
           "url": "https://cn.cohcigars.com/cigars-la-flor-de-cano"
         },
         "cohcigars:5773:22086": {
@@ -3114,7 +3114,7 @@
           "id": "cohcigars:66:104",
           "name": "Diplomaticos - Genios RE Phoenicia (25 盒)",
           "price": "$ 599.00",
-          "stock": "44",
+          "stock": "43",
           "url": "https://cn.cohcigars.com/cigars-diplomaticos"
         },
         "cohcigars:683:789": {
@@ -3219,7 +3219,7 @@
           "id": "cohcigars:71:110",
           "name": "El Rey Del Mundo - Demi Tasse (25 盒)",
           "price": "$ 240.00",
-          "stock": "146",
+          "stock": "145",
           "url": "https://cn.cohcigars.com/cigars-el-rey-del-mundo"
         },
         "cohcigars:7212:7720": {
@@ -3727,7 +3727,7 @@
           "url": "https://cn.cohcigars.com/cigars-montecristo"
         }
       },
-      "last_checked": "2026-08-13T08:05:31+00:00",
+      "last_checked": "2026-08-13T09:35:29+00:00",
       "last_count": 501,
       "last_error": null,
       "previous": {
@@ -4120,7 +4120,7 @@
           "id": "cohcigars:136:203",
           "name": "Partagas - Serie Club 10x10 (25 盒)",
           "price": "$ 699.00",
-          "stock": "91",
+          "stock": "90",
           "url": "https://cn.cohcigars.com/cigars-partagas"
         },
         "cohcigars:13910:14564": {
@@ -4379,7 +4379,7 @@
           "id": "cohcigars:1735:1968",
           "name": "Hoyo de Monterrey - Le Hoyo de San Juan (25 盒)",
           "price": "$ 884.00",
-          "stock": "14",
+          "stock": "13",
           "url": "https://cn.cohcigars.com/cigars-hoyo-de-monterrey"
         },
         "cohcigars:1766:2001": {
@@ -4610,7 +4610,7 @@
           "id": "cohcigars:20039:20761",
           "name": "Juan Lopez - Valkyria RE paies nordicos 2025 (10 盒)",
           "price": "$ 450.00",
-          "stock": "2",
+          "stock": "1",
           "url": "https://cn.cohcigars.com/cigars-juan-lopez"
         },
         "cohcigars:201:21411": {
@@ -5205,7 +5205,7 @@
           "id": "cohcigars:233:331",
           "name": "San Cristobal De La Habana - 5 Pack- Prado LCDH (25 盒)",
           "price": "$ 299.00",
-          "stock": "40",
+          "stock": "39",
           "url": "https://cn.cohcigars.com/cigars-san-cristobal-de-la-habana"
         },
         "cohcigars:235:333": {
@@ -6577,7 +6577,7 @@
           "id": "cohcigars:5773:20027",
           "name": "La Flor De Cano - Elegidos (15 盒)",
           "price": "$ 205.00",
-          "stock": "22",
+          "stock": "21",
           "url": "https://cn.cohcigars.com/cigars-la-flor-de-cano"
         },
         "cohcigars:5773:22086": {
@@ -6640,7 +6640,7 @@
           "id": "cohcigars:66:104",
           "name": "Diplomaticos - Genios RE Phoenicia (25 盒)",
           "price": "$ 599.00",
-          "stock": "44",
+          "stock": "43",
           "url": "https://cn.cohcigars.com/cigars-diplomaticos"
         },
         "cohcigars:683:789": {
@@ -6745,7 +6745,7 @@
           "id": "cohcigars:71:110",
           "name": "El Rey Del Mundo - Demi Tasse (25 盒)",
           "price": "$ 240.00",
-          "stock": "146",
+          "stock": "145",
           "url": "https://cn.cohcigars.com/cigars-el-rey-del-mundo"
         },
         "cohcigars:7212:7720": {
@@ -8473,7 +8473,7 @@
           "url": "https://www.ihavanas.com/details.php?ptype=cigars&pid=Partagas"
         }
       },
-      "last_checked": "2026-08-13T08:05:05+00:00",
+      "last_checked": "2026-08-13T09:35:07+00:00",
       "last_count": 196,
       "last_error": null,
       "previous": {
