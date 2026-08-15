@@ -6,7 +6,7 @@
           "id": "cohcigars:101:144",
           "name": "Hoyo de Monterrey - Epicure Especial (25 盒)",
           "price": "$ 699.00",
-          "stock": "39",
+          "stock": "38",
           "url": "https://cn.cohcigars.com/cigars-hoyo-de-monterrey"
         },
         "cohcigars:101:20572": {
@@ -419,7 +419,7 @@
           "id": "cohcigars:132:912",
           "name": "Partagas - Lusitanias (10 盒)",
           "price": "$ 570.00",
-          "stock": "9",
+          "stock": "8",
           "url": "https://cn.cohcigars.com/cigars-partagas"
         },
         "cohcigars:133:198": {
@@ -895,7 +895,7 @@
           "id": "cohcigars:196:25110",
           "name": "Romeo Y Julieta - Churchills A/T (3x2 盒)",
           "price": "$ 350.00",
-          "stock": "14",
+          "stock": "13",
           "url": "https://cn.cohcigars.com/cigars-romeo-y-julieta"
         },
         "cohcigars:196:793": {
@@ -2428,7 +2428,7 @@
           "id": "cohcigars:32:51",
           "name": "Bolivar - Tubos No.2 (25 盒)",
           "price": "$ 570.00",
-          "stock": "14",
+          "stock": "13",
           "url": "https://cn.cohcigars.com/cigars-bolivar"
         },
         "cohcigars:3304:3607": {
@@ -2911,7 +2911,7 @@
           "id": "cohcigars:4744:5106",
           "name": "Cohiba - 5 Pack- Robustos Supremos EL 2014 (50 盒)",
           "price": "$ 190.00",
-          "stock": "191",
+          "stock": "190",
           "url": "https://cn.cohcigars.com/cigars-cohiba"
         },
         "cohcigars:4751:5118": {
@@ -3093,7 +3093,7 @@
           "id": "cohcigars:642:17328",
           "name": "Cohiba - Siglo I A/T (3 盒)",
           "price": "$ 99.00",
-          "stock": "97",
+          "stock": "96",
           "url": "https://cn.cohcigars.com/cigars-cohiba"
         },
         "cohcigars:642:21493": {
@@ -3114,7 +3114,7 @@
           "id": "cohcigars:66:104",
           "name": "Diplomaticos - Genios RE Phoenicia (25 盒)",
           "price": "$ 599.00",
-          "stock": "35",
+          "stock": "34",
           "url": "https://cn.cohcigars.com/cigars-diplomaticos"
         },
         "cohcigars:683:789": {
@@ -3471,7 +3471,7 @@
           "id": "cohcigars:88:621",
           "name": "H.Upmann - Magnum 50 (10 盒)",
           "price": "$ 445.00",
-          "stock": "13",
+          "stock": "12",
           "url": "https://cn.cohcigars.com/cigars-h.upmann"
         },
         "cohcigars:8959:9602": {
@@ -3727,7 +3727,7 @@
           "url": "https://cn.cohcigars.com/cigars-montecristo"
         }
       },
-      "last_checked": "2026-08-15T14:59:04+00:00",
+      "last_checked": "2026-08-15T16:44:18+00:00",
       "last_count": 499,
       "last_error": null,
       "previous": {
@@ -3735,7 +3735,7 @@
           "id": "cohcigars:101:144",
           "name": "Hoyo de Monterrey - Epicure Especial (25 盒)",
           "price": "$ 699.00",
-          "stock": "39",
+          "stock": "38",
           "url": "https://cn.cohcigars.com/cigars-hoyo-de-monterrey"
         },
         "cohcigars:101:20572": {
@@ -4099,7 +4099,7 @@
           "id": "cohcigars:132:912",
           "name": "Partagas - Lusitanias (10 盒)",
           "price": "$ 570.00",
-          "stock": "9",
+          "stock": "8",
           "url": "https://cn.cohcigars.com/cigars-partagas"
         },
         "cohcigars:133:198": {
@@ -4547,7 +4547,7 @@
           "id": "cohcigars:196:25110",
           "name": "Romeo Y Julieta - Churchills A/T (3x2 盒)",
           "price": "$ 350.00",
-          "stock": "14",
+          "stock": "13",
           "url": "https://cn.cohcigars.com/cigars-romeo-y-julieta"
         },
         "cohcigars:196:793": {
@@ -5996,7 +5996,7 @@
           "id": "cohcigars:32:51",
           "name": "Bolivar - Tubos No.2 (25 盒)",
           "price": "$ 570.00",
-          "stock": "14",
+          "stock": "13",
           "url": "https://cn.cohcigars.com/cigars-bolivar"
         },
         "cohcigars:3304:3607": {
@@ -6451,7 +6451,7 @@
           "id": "cohcigars:4744:5106",
           "name": "Cohiba - 5 Pack- Robustos Supremos EL 2014 (50 盒)",
           "price": "$ 190.00",
-          "stock": "191",
+          "stock": "190",
           "url": "https://cn.cohcigars.com/cigars-cohiba"
         },
         "cohcigars:4751:5118": {
@@ -6619,7 +6619,7 @@
           "id": "cohcigars:642:17328",
           "name": "Cohiba - Siglo I A/T (3 盒)",
           "price": "$ 99.00",
-          "stock": "97",
+          "stock": "96",
           "url": "https://cn.cohcigars.com/cigars-cohiba"
         },
         "cohcigars:642:756": {
@@ -6633,7 +6633,7 @@
           "id": "cohcigars:66:104",
           "name": "Diplomaticos - Genios RE Phoenicia (25 盒)",
           "price": "$ 599.00",
-          "stock": "35",
+          "stock": "34",
           "url": "https://cn.cohcigars.com/cigars-diplomaticos"
         },
         "cohcigars:683:789": {
@@ -6990,7 +6990,7 @@
           "id": "cohcigars:88:621",
           "name": "H.Upmann - Magnum 50 (10 盒)",
           "price": "$ 445.00",
-          "stock": "13",
+          "stock": "12",
           "url": "https://cn.cohcigars.com/cigars-h.upmann"
         },
         "cohcigars:8959:9602": {
@@ -8459,7 +8459,7 @@
           "url": "https://www.ihavanas.com/details.php?ptype=cigars&pid=Partagas"
         }
       },
-      "last_checked": "2026-08-15T14:58:39+00:00",
+      "last_checked": "2026-08-15T16:43:59+00:00",
       "last_count": 196,
       "last_error": null,
       "previous": {
