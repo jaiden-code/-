@@ -545,7 +545,7 @@
           "id": "cohcigars:14:24",
           "name": "Montecristo - No.4 (25 盒)",
           "price": "$ 525.00",
-          "stock": "4",
+          "stock": "3",
           "url": "https://cn.cohcigars.com/cigars-montecristo"
         },
         "cohcigars:14:26712": {
@@ -720,7 +720,7 @@
           "id": "cohcigars:1766:2001",
           "name": "Montecristo - Media Corona (25 盒)",
           "price": "$ 365.00",
-          "stock": "9",
+          "stock": "8",
           "url": "https://cn.cohcigars.com/cigars-montecristo"
         },
         "cohcigars:17686:18354": {
@@ -1413,7 +1413,7 @@
           "id": "cohcigars:23334:24161",
           "name": "Singles 6 Stick Min - 1 x Partagas Maduro No.1 (1 盒)",
           "price": "$ 39.00",
-          "stock": "180",
+          "stock": "174",
           "url": "https://cn.cohcigars.com/cigars-singles-6-stick-min"
         },
         "cohcigars:23335:24162": {
@@ -1994,7 +1994,7 @@
           "id": "cohcigars:273:19988",
           "name": "Montecristo - Petit Tubos (25 x2 盒)",
           "price": "$ 99.00",
-          "stock": "318",
+          "stock": "317",
           "url": "https://cn.cohcigars.com/cigars-montecristo"
         },
         "cohcigars:274:23682": {
@@ -2134,7 +2134,7 @@
           "id": "cohcigars:296:22633",
           "name": "H.Upmann - Regalias (5 盒)",
           "price": "$ 115.00",
-          "stock": "62",
+          "stock": "61",
           "url": "https://cn.cohcigars.com/cigars-h.upmann"
         },
         "cohcigars:2971:3305": {
@@ -3727,8 +3727,8 @@
           "url": "https://cn.cohcigars.com/cigars-montecristo"
         }
       },
-      "last_checked": "2026-08-15T03:23:33+00:00",
-      "last_count": 500,
+      "last_checked": "2026-08-15T04:49:47+00:00",
+      "last_count": 499,
       "last_error": null,
       "previous": {
         "cohcigars:101:144": {
@@ -3919,13 +3919,6 @@
           "price": "$ 1500.00",
           "stock": "8",
           "url": "https://cn.cohcigars.com/cigars-cohiba"
-        },
-        "cohcigars:11386:12037": {
-          "id": "cohcigars:11386:12037",
-          "name": "H.Upmann - 5 Pack- Connoisseur 2 (5 盒)",
-          "price": "$ 155.00",
-          "stock": "1",
-          "url": "https://cn.cohcigars.com/cigars-h.upmann"
         },
         "cohcigars:11484:12137": {
           "id": "cohcigars:11484:12137",
@@ -4225,7 +4218,7 @@
           "id": "cohcigars:14:24",
           "name": "Montecristo - No.4 (25 盒)",
           "price": "$ 525.00",
-          "stock": "4",
+          "stock": "3",
           "url": "https://cn.cohcigars.com/cigars-montecristo"
         },
         "cohcigars:14:26712": {
@@ -4386,7 +4379,7 @@
           "id": "cohcigars:1766:2001",
           "name": "Montecristo - Media Corona (25 盒)",
           "price": "$ 365.00",
-          "stock": "9",
+          "stock": "8",
           "url": "https://cn.cohcigars.com/cigars-montecristo"
         },
         "cohcigars:1790:25375": {
@@ -5058,7 +5051,7 @@
           "id": "cohcigars:23334:24161",
           "name": "Singles 6 Stick Min - 1 x Partagas Maduro No.1 (1 盒)",
           "price": "$ 39.00",
-          "stock": "180",
+          "stock": "174",
           "url": "https://cn.cohcigars.com/cigars-singles-6-stick-min"
         },
         "cohcigars:23335:24162": {
@@ -5597,7 +5590,7 @@
           "id": "cohcigars:273:19988",
           "name": "Montecristo - Petit Tubos (25 x2 盒)",
           "price": "$ 99.00",
-          "stock": "318",
+          "stock": "317",
           "url": "https://cn.cohcigars.com/cigars-montecristo"
         },
         "cohcigars:274:23682": {
@@ -5730,7 +5723,7 @@
           "id": "cohcigars:296:22633",
           "name": "H.Upmann - Regalias (5 盒)",
           "price": "$ 115.00",
-          "stock": "62",
+          "stock": "61",
           "url": "https://cn.cohcigars.com/cigars-h.upmann"
         },
         "cohcigars:2971:3305": {
@@ -8466,7 +8459,7 @@
           "url": "https://www.ihavanas.com/details.php?ptype=cigars&pid=Partagas"
         }
       },
-      "last_checked": "2026-08-15T03:22:23+00:00",
+      "last_checked": "2026-08-15T04:49:25+00:00",
       "last_count": 196,
       "last_error": null,
       "previous": {
