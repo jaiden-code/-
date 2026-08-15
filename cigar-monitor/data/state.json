@@ -195,7 +195,7 @@
           "id": "cohcigars:11350:12000",
           "name": "Hoyo de Monterrey - Epicure No.3 (10 盒)",
           "price": "$ 350.00",
-          "stock": "18",
+          "stock": "17",
           "url": "https://cn.cohcigars.com/cigars-hoyo-de-monterrey"
         },
         "cohcigars:11350:12001": {
@@ -433,7 +433,7 @@
           "id": "cohcigars:136:203",
           "name": "Partagas - Serie Club 10x10 (25 盒)",
           "price": "$ 699.00",
-          "stock": "89",
+          "stock": "88",
           "url": "https://cn.cohcigars.com/cigars-partagas"
         },
         "cohcigars:13910:14564": {
@@ -475,7 +475,7 @@
           "id": "cohcigars:140:209",
           "name": "Partagas - Serie P No.2 (10 盒)",
           "price": "$ 440.00",
-          "stock": "20",
+          "stock": "19",
           "url": "https://cn.cohcigars.com/cigars-partagas"
         },
         "cohcigars:141:210": {
@@ -3727,7 +3727,7 @@
           "url": "https://cn.cohcigars.com/cigars-montecristo"
         }
       },
-      "last_checked": "2026-08-15T09:02:22+00:00",
+      "last_checked": "2026-08-15T10:42:24+00:00",
       "last_count": 499,
       "last_error": null,
       "previous": {
@@ -3910,7 +3910,7 @@
           "id": "cohcigars:11350:12000",
           "name": "Hoyo de Monterrey - Epicure No.3 (10 盒)",
           "price": "$ 350.00",
-          "stock": "18",
+          "stock": "17",
           "url": "https://cn.cohcigars.com/cigars-hoyo-de-monterrey"
         },
         "cohcigars:11383:12034": {
@@ -4113,7 +4113,7 @@
           "id": "cohcigars:136:203",
           "name": "Partagas - Serie Club 10x10 (25 盒)",
           "price": "$ 699.00",
-          "stock": "89",
+          "stock": "88",
           "url": "https://cn.cohcigars.com/cigars-partagas"
         },
         "cohcigars:13910:14564": {
@@ -4155,7 +4155,7 @@
           "id": "cohcigars:140:209",
           "name": "Partagas - Serie P No.2 (10 盒)",
           "price": "$ 440.00",
-          "stock": "20",
+          "stock": "19",
           "url": "https://cn.cohcigars.com/cigars-partagas"
         },
         "cohcigars:141:210": {
@@ -8459,7 +8459,7 @@
           "url": "https://www.ihavanas.com/details.php?ptype=cigars&pid=Partagas"
         }
       },
-      "last_checked": "2026-08-15T09:01:56+00:00",
+      "last_checked": "2026-08-15T10:42:06+00:00",
       "last_count": 196,
       "last_error": null,
       "previous": {
