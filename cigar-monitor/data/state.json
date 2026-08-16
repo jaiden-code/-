@@ -314,7 +314,7 @@
           "id": "cohcigars:1231:1420",
           "name": "Montecristo - Double Edmundo (15 盒)",
           "price": "$ 610.00",
-          "stock": "19",
+          "stock": "18",
           "url": "https://cn.cohcigars.com/cigars-montecristo"
         },
         "cohcigars:1231:1421": {
@@ -496,7 +496,7 @@
           "id": "cohcigars:14258:14913",
           "name": "Troya - Tubos (15 盒)",
           "price": "$ 95.00",
-          "stock": "9",
+          "stock": "8",
           "url": "https://cn.cohcigars.com/cigars-troya"
         },
         "cohcigars:142:212": {
@@ -1987,7 +1987,7 @@
           "id": "cohcigars:271:387",
           "name": "Quintero Y Hermano - Panetelas (25 盒)",
           "price": "$ 150.00",
-          "stock": "51",
+          "stock": "50",
           "url": "https://cn.cohcigars.com/cigars-quintero-y-hermano"
         },
         "cohcigars:273:19988": {
@@ -2351,7 +2351,7 @@
           "id": "cohcigars:30:49",
           "name": "Bolivar - Royal Coronas (25 盒)",
           "price": "$ 645.00",
-          "stock": "20",
+          "stock": "19",
           "url": "https://cn.cohcigars.com/cigars-bolivar"
         },
         "cohcigars:3239:3542": {
@@ -3727,7 +3727,7 @@
           "url": "https://cn.cohcigars.com/cigars-montecristo"
         }
       },
-      "last_checked": "2026-08-16T05:06:05+00:00",
+      "last_checked": "2026-08-16T07:02:30+00:00",
       "last_count": 499,
       "last_error": null,
       "previous": {
@@ -4008,7 +4008,7 @@
           "id": "cohcigars:1231:1420",
           "name": "Montecristo - Double Edmundo (15 盒)",
           "price": "$ 610.00",
-          "stock": "19",
+          "stock": "18",
           "url": "https://cn.cohcigars.com/cigars-montecristo"
         },
         "cohcigars:1242:1402": {
@@ -4176,7 +4176,7 @@
           "id": "cohcigars:14258:14913",
           "name": "Troya - Tubos (15 盒)",
           "price": "$ 95.00",
-          "stock": "9",
+          "stock": "8",
           "url": "https://cn.cohcigars.com/cigars-troya"
         },
         "cohcigars:142:212": {
@@ -5583,7 +5583,7 @@
           "id": "cohcigars:271:387",
           "name": "Quintero Y Hermano - Panetelas (25 盒)",
           "price": "$ 150.00",
-          "stock": "51",
+          "stock": "50",
           "url": "https://cn.cohcigars.com/cigars-quintero-y-hermano"
         },
         "cohcigars:273:19988": {
@@ -5926,7 +5926,7 @@
           "id": "cohcigars:30:49",
           "name": "Bolivar - Royal Coronas (25 盒)",
           "price": "$ 645.00",
-          "stock": "20",
+          "stock": "19",
           "url": "https://cn.cohcigars.com/cigars-bolivar"
         },
         "cohcigars:3239:3542": {
@@ -8459,7 +8459,7 @@
           "url": "https://www.ihavanas.com/details.php?ptype=cigars&pid=Partagas"
         }
       },
-      "last_checked": "2026-08-16T05:05:44+00:00",
+      "last_checked": "2026-08-16T07:02:10+00:00",
       "last_count": 196,
       "last_error": null,
       "previous": {
