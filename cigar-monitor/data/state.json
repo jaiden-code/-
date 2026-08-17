@@ -3436,7 +3436,7 @@
           "id": "cohcigars:874:25374",
           "name": "Hoyo de Monterrey - Epicure No.2 (3x2 盒)",
           "price": "$ 180.00",
-          "stock": "2",
+          "stock": "1",
           "url": "https://cn.cohcigars.com/cigars-hoyo-de-monterrey"
         },
         "cohcigars:8793:9419": {
@@ -3727,8 +3727,8 @@
           "url": "https://cn.cohcigars.com/cigars-montecristo"
         }
       },
-      "last_checked": "2026-08-17T15:02:19+00:00",
-      "last_count": 497,
+      "last_checked": "2026-08-17T16:49:15+00:00",
+      "last_count": 496,
       "last_error": null,
       "previous": {
         "cohcigars:101:144": {
@@ -4598,13 +4598,6 @@
           "price": "$ 948.00",
           "stock": "18",
           "url": "https://cn.cohcigars.com/cigars-montecristo"
-        },
-        "cohcigars:20039:20761": {
-          "id": "cohcigars:20039:20761",
-          "name": "Juan Lopez - Valkyria RE paies nordicos 2025 (10 盒)",
-          "price": "$ 450.00",
-          "stock": "1",
-          "url": "https://cn.cohcigars.com/cigars-juan-lopez"
         },
         "cohcigars:201:21411": {
           "id": "cohcigars:201:21411",
@@ -6941,7 +6934,7 @@
           "id": "cohcigars:874:25374",
           "name": "Hoyo de Monterrey - Epicure No.2 (3x2 盒)",
           "price": "$ 180.00",
-          "stock": "2",
+          "stock": "1",
           "url": "https://cn.cohcigars.com/cigars-hoyo-de-monterrey"
         },
         "cohcigars:8793:9419": {
@@ -8445,7 +8438,7 @@
           "url": "https://www.ihavanas.com/details.php?ptype=cigars&pid=Partagas"
         }
       },
-      "last_checked": "2026-08-17T15:01:04+00:00",
+      "last_checked": "2026-08-17T16:48:58+00:00",
       "last_count": 196,
       "last_error": null,
       "previous": {
