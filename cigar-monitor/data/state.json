@@ -636,7 +636,7 @@
           "id": "cohcigars:165:241",
           "name": "Punch - Punch (25 盒)",
           "price": "$ 690.00",
-          "stock": "11",
+          "stock": "10",
           "url": "https://cn.cohcigars.com/cigars-punch"
         },
         "cohcigars:1665:1881": {
@@ -930,7 +930,7 @@
           "id": "cohcigars:19920:20641",
           "name": "Diplomaticos - Genios RE Phoenicia (50 盒)",
           "price": "$ 2550.00",
-          "stock": "3",
+          "stock": "2",
           "url": "https://cn.cohcigars.com/cigars-diplomaticos"
         },
         "cohcigars:19936:20657": {
@@ -1196,14 +1196,14 @@
           "id": "cohcigars:22898:23676",
           "name": "Cohiba - Behike BHK 54 (10x10 盒)",
           "price": "$ 115.00",
-          "stock": "190",
+          "stock": "189",
           "url": "https://cn.cohcigars.com/cigars-cohiba"
         },
         "cohcigars:22899:23679": {
           "id": "cohcigars:22899:23679",
           "name": "Cohiba - Medio Siglo A/T (20x5 盒)",
           "price": "$ 89.00",
-          "stock": "197",
+          "stock": "196",
           "url": "https://cn.cohcigars.com/cigars-cohiba"
         },
         "cohcigars:22900:23683": {
@@ -3471,7 +3471,7 @@
           "id": "cohcigars:88:621",
           "name": "H.Upmann - Magnum 50 (10 盒)",
           "price": "$ 445.00",
-          "stock": "12",
+          "stock": "11",
           "url": "https://cn.cohcigars.com/cigars-h.upmann"
         },
         "cohcigars:8959:9602": {
@@ -3727,7 +3727,7 @@
           "url": "https://cn.cohcigars.com/cigars-montecristo"
         }
       },
-      "last_checked": "2026-08-17T02:09:31+00:00",
+      "last_checked": "2026-08-17T03:14:52+00:00",
       "last_count": 497,
       "last_error": null,
       "previous": {
@@ -4302,7 +4302,7 @@
           "id": "cohcigars:165:241",
           "name": "Punch - Punch (25 盒)",
           "price": "$ 690.00",
-          "stock": "11",
+          "stock": "10",
           "url": "https://cn.cohcigars.com/cigars-punch"
         },
         "cohcigars:1665:1881": {
@@ -4582,7 +4582,7 @@
           "id": "cohcigars:19920:20641",
           "name": "Diplomaticos - Genios RE Phoenicia (50 盒)",
           "price": "$ 2550.00",
-          "stock": "3",
+          "stock": "2",
           "url": "https://cn.cohcigars.com/cigars-diplomaticos"
         },
         "cohcigars:19936:20657": {
@@ -4841,14 +4841,14 @@
           "id": "cohcigars:22898:23676",
           "name": "Cohiba - Behike BHK 54 (10x10 盒)",
           "price": "$ 115.00",
-          "stock": "190",
+          "stock": "189",
           "url": "https://cn.cohcigars.com/cigars-cohiba"
         },
         "cohcigars:22899:23679": {
           "id": "cohcigars:22899:23679",
           "name": "Cohiba - Medio Siglo A/T (20x5 盒)",
           "price": "$ 89.00",
-          "stock": "197",
+          "stock": "196",
           "url": "https://cn.cohcigars.com/cigars-cohiba"
         },
         "cohcigars:22900:23683": {
@@ -6976,7 +6976,7 @@
           "id": "cohcigars:88:621",
           "name": "H.Upmann - Magnum 50 (10 盒)",
           "price": "$ 445.00",
-          "stock": "12",
+          "stock": "11",
           "url": "https://cn.cohcigars.com/cigars-h.upmann"
         },
         "cohcigars:8959:9602": {
@@ -8445,7 +8445,7 @@
           "url": "https://www.ihavanas.com/details.php?ptype=cigars&pid=Partagas"
         }
       },
-      "last_checked": "2026-08-17T02:09:08+00:00",
+      "last_checked": "2026-08-17T03:14:32+00:00",
       "last_count": 196,
       "last_error": null,
       "previous": {
