@@ -664,7 +664,7 @@
           "id": "cohcigars:16:31",
           "name": "Montecristo - Petit Edmundo (25 盒)",
           "price": "$ 755.00",
-          "stock": "17",
+          "stock": "16",
           "url": "https://cn.cohcigars.com/cigars-montecristo"
         },
         "cohcigars:1708:1939": {
@@ -2099,7 +2099,7 @@
           "id": "cohcigars:293:17329",
           "name": "Cohiba - Siglo II A/T (3 盒)",
           "price": "$ 165.00",
-          "stock": "93",
+          "stock": "92",
           "url": "https://cn.cohcigars.com/cigars-cohiba"
         },
         "cohcigars:293:412": {
@@ -3093,7 +3093,7 @@
           "id": "cohcigars:642:17328",
           "name": "Cohiba - Siglo I A/T (3 盒)",
           "price": "$ 99.00",
-          "stock": "96",
+          "stock": "95",
           "url": "https://cn.cohcigars.com/cigars-cohiba"
         },
         "cohcigars:642:21493": {
@@ -3727,7 +3727,7 @@
           "url": "https://cn.cohcigars.com/cigars-montecristo"
         }
       },
-      "last_checked": "2026-08-17T17:03:19+00:00",
+      "last_checked": "2026-08-17T19:00:48+00:00",
       "last_count": 496,
       "last_error": null,
       "previous": {
@@ -4330,7 +4330,7 @@
           "id": "cohcigars:16:31",
           "name": "Montecristo - Petit Edmundo (25 盒)",
           "price": "$ 755.00",
-          "stock": "17",
+          "stock": "16",
           "url": "https://cn.cohcigars.com/cigars-montecristo"
         },
         "cohcigars:1708:1939": {
@@ -5674,7 +5674,7 @@
           "id": "cohcigars:293:17329",
           "name": "Cohiba - Siglo II A/T (3 盒)",
           "price": "$ 165.00",
-          "stock": "93",
+          "stock": "92",
           "url": "https://cn.cohcigars.com/cigars-cohiba"
         },
         "cohcigars:293:412": {
@@ -6598,7 +6598,7 @@
           "id": "cohcigars:642:17328",
           "name": "Cohiba - Siglo I A/T (3 盒)",
           "price": "$ 99.00",
-          "stock": "96",
+          "stock": "95",
           "url": "https://cn.cohcigars.com/cigars-cohiba"
         },
         "cohcigars:642:756": {
@@ -8438,7 +8438,7 @@
           "url": "https://www.ihavanas.com/details.php?ptype=cigars&pid=Partagas"
         }
       },
-      "last_checked": "2026-08-17T17:02:51+00:00",
+      "last_checked": "2026-08-17T19:00:28+00:00",
       "last_count": 196,
       "last_error": null,
       "previous": {
