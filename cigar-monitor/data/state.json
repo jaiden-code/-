@@ -104,7 +104,7 @@
           "id": "cohcigars:1106:1183",
           "name": "Quintero Y Hermano - Favoritos (5x5 盒)",
           "price": "$ 275.00",
-          "stock": "15",
+          "stock": "14",
           "url": "https://cn.cohcigars.com/cigars-quintero-y-hermano"
         },
         "cohcigars:11070:11720": {
@@ -440,7 +440,7 @@
           "id": "cohcigars:13910:14564",
           "name": "Partagas - Maduro No.3 (25 盒)",
           "price": "$ 900.00",
-          "stock": "2",
+          "stock": "1",
           "url": "https://cn.cohcigars.com/cigars-partagas"
         },
         "cohcigars:13992:14646": {
@@ -1791,7 +1791,7 @@
           "id": "cohcigars:2503:2790",
           "name": "Cohiba - Robustos A/T (10 x 10 盒)",
           "price": "$ 205.00",
-          "stock": "68",
+          "stock": "67",
           "url": "https://cn.cohcigars.com/cigars-cohiba"
         },
         "cohcigars:2507:2794": {
@@ -2909,7 +2909,7 @@
         },
         "cohcigars:4744:5106": {
           "id": "cohcigars:4744:5106",
-          "name": "Cohiba - 5 Pack- Robustos Supremos EL 2014 (50 盒)",
+          "name": "Cohiba - 5 Pack- Maduro 5 Genios (50 盒)",
           "price": "$ 190.00",
           "stock": "190",
           "url": "https://cn.cohcigars.com/cigars-cohiba"
@@ -3044,7 +3044,7 @@
           "id": "cohcigars:5773:20027",
           "name": "La Flor De Cano - Elegidos (15 盒)",
           "price": "$ 205.00",
-          "stock": "18",
+          "stock": "17",
           "url": "https://cn.cohcigars.com/cigars-la-flor-de-cano"
         },
         "cohcigars:5773:22086": {
@@ -3455,7 +3455,7 @@
         },
         "cohcigars:8807:9440": {
           "id": "cohcigars:8807:9440",
-          "name": "Cohiba - 5 Pack- Robustos Supremos EL 2014 (10 盒)",
+          "name": "Cohiba - 5 Pack- Maduro 5 Genios (10 盒)",
           "price": "$ 3800.00",
           "stock": "50",
           "url": "https://cn.cohcigars.com/cigars-cohiba"
@@ -3478,7 +3478,7 @@
           "id": "cohcigars:8959:9602",
           "name": "Rafael Gonzalez - Coronas de Lonsdales (10 盒)",
           "price": "$ 195.00",
-          "stock": "16",
+          "stock": "15",
           "url": "https://cn.cohcigars.com/cigars-rafael-gonzalez"
         },
         "cohcigars:8963:15587": {
@@ -3727,8 +3727,8 @@
           "url": "https://cn.cohcigars.com/cigars-montecristo"
         }
       },
-      "last_checked": "2026-08-18T07:26:55+00:00",
-      "last_count": 495,
+      "last_checked": "2026-08-18T08:55:37+00:00",
+      "last_count": 494,
       "last_error": null,
       "previous": {
         "cohcigars:101:144": {
@@ -3819,7 +3819,7 @@
           "id": "cohcigars:1106:1183",
           "name": "Quintero Y Hermano - Favoritos (5x5 盒)",
           "price": "$ 275.00",
-          "stock": "15",
+          "stock": "14",
           "url": "https://cn.cohcigars.com/cigars-quintero-y-hermano"
         },
         "cohcigars:11070:11720": {
@@ -3912,13 +3912,6 @@
           "price": "$ 350.00",
           "stock": "17",
           "url": "https://cn.cohcigars.com/cigars-hoyo-de-monterrey"
-        },
-        "cohcigars:11383:12034": {
-          "id": "cohcigars:11383:12034",
-          "name": "Cohiba - 5 Pack- Robustos Supremos EL 2014 (5 盒)",
-          "price": "$ 1500.00",
-          "stock": "8",
-          "url": "https://cn.cohcigars.com/cigars-cohiba"
         },
         "cohcigars:11484:12137": {
           "id": "cohcigars:11484:12137",
@@ -4120,7 +4113,7 @@
           "id": "cohcigars:13910:14564",
           "name": "Partagas - Maduro No.3 (25 盒)",
           "price": "$ 900.00",
-          "stock": "2",
+          "stock": "1",
           "url": "https://cn.cohcigars.com/cigars-partagas"
         },
         "cohcigars:13992:14646": {
@@ -5401,7 +5394,7 @@
           "id": "cohcigars:2503:2790",
           "name": "Cohiba - Robustos A/T (10 x 10 盒)",
           "price": "$ 205.00",
-          "stock": "68",
+          "stock": "67",
           "url": "https://cn.cohcigars.com/cigars-cohiba"
         },
         "cohcigars:2507:2794": {
@@ -6428,7 +6421,7 @@
         },
         "cohcigars:4744:5106": {
           "id": "cohcigars:4744:5106",
-          "name": "Cohiba - 5 Pack- Robustos Supremos EL 2014 (50 盒)",
+          "name": "Cohiba - 5 Pack- Maduro 5 Genios (50 盒)",
           "price": "$ 190.00",
           "stock": "190",
           "url": "https://cn.cohcigars.com/cigars-cohiba"
@@ -6549,7 +6542,7 @@
           "id": "cohcigars:5773:20027",
           "name": "La Flor De Cano - Elegidos (15 盒)",
           "price": "$ 205.00",
-          "stock": "18",
+          "stock": "17",
           "url": "https://cn.cohcigars.com/cigars-la-flor-de-cano"
         },
         "cohcigars:5773:22086": {
@@ -6953,7 +6946,7 @@
         },
         "cohcigars:8807:9440": {
           "id": "cohcigars:8807:9440",
-          "name": "Cohiba - 5 Pack- Robustos Supremos EL 2014 (10 盒)",
+          "name": "Cohiba - 5 Pack- Maduro 5 Genios (10 盒)",
           "price": "$ 3800.00",
           "stock": "50",
           "url": "https://cn.cohcigars.com/cigars-cohiba"
@@ -6976,7 +6969,7 @@
           "id": "cohcigars:8959:9602",
           "name": "Rafael Gonzalez - Coronas de Lonsdales (10 盒)",
           "price": "$ 195.00",
-          "stock": "16",
+          "stock": "15",
           "url": "https://cn.cohcigars.com/cigars-rafael-gonzalez"
         },
         "cohcigars:8963:15587": {
@@ -8431,7 +8424,7 @@
           "url": "https://www.ihavanas.com/details.php?ptype=cigars&pid=Partagas"
         }
       },
-      "last_checked": "2026-08-18T07:24:29+00:00",
+      "last_checked": "2026-08-18T08:55:18+00:00",
       "last_count": 196,
       "last_error": null,
       "previous": {
