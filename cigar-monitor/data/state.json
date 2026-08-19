@@ -832,7 +832,7 @@
           "id": "cohcigars:19331:20019",
           "name": "Cohiba - 1966 EL 2011 (5 盒)",
           "price": "$ 179.00",
-          "stock": "90",
+          "stock": "89",
           "url": "https://cn.cohcigars.com/cigars-cohiba"
         },
         "cohcigars:19332:20020": {
@@ -1952,7 +1952,7 @@
           "id": "cohcigars:26182:27076",
           "name": "Cohiba - 1966 EL 2011 (5 盒)",
           "price": "$ 199.00",
-          "stock": "198",
+          "stock": "196",
           "url": "https://cn.cohcigars.com/cigars-cohiba"
         },
         "cohcigars:26206:27104": {
@@ -1973,7 +1973,7 @@
           "id": "cohcigars:26209:27107",
           "name": "Juan Lopez - 5 Pack- Juan Lopez Seleccion No1 (5 盒)",
           "price": "$ 255.00",
-          "stock": "10",
+          "stock": "8",
           "url": "https://cn.cohcigars.com/cigars-juan-lopez"
         },
         "cohcigars:262:375": {
@@ -3170,7 +3170,7 @@
           "id": "cohcigars:66:104",
           "name": "Diplomaticos - Genios RE Phoenicia (25 盒)",
           "price": "$ 599.00",
-          "stock": "15",
+          "stock": "12",
           "url": "https://cn.cohcigars.com/cigars-diplomaticos"
         },
         "cohcigars:683:789": {
@@ -3783,7 +3783,7 @@
           "url": "https://cn.cohcigars.com/cigars-montecristo"
         }
       },
-      "last_checked": "2026-08-19T11:02:01+00:00",
+      "last_checked": "2026-08-19T13:12:49+00:00",
       "last_count": 489,
       "last_error": null,
       "previous": {
@@ -4505,7 +4505,7 @@
           "id": "cohcigars:19331:20019",
           "name": "Cohiba - 1966 EL 2011 (5 盒)",
           "price": "$ 179.00",
-          "stock": "90",
+          "stock": "89",
           "url": "https://cn.cohcigars.com/cigars-cohiba"
         },
         "cohcigars:19332:20020": {
@@ -5555,14 +5555,14 @@
           "id": "cohcigars:26182:27076",
           "name": "Cohiba - 1966 EL 2011 (5 盒)",
           "price": "$ 199.00",
-          "stock": "198",
+          "stock": "196",
           "url": "https://cn.cohcigars.com/cigars-cohiba"
         },
         "cohcigars:26209:27107": {
           "id": "cohcigars:26209:27107",
           "name": "Juan Lopez - 5 Pack- Juan Lopez Seleccion No1 (5 盒)",
           "price": "$ 255.00",
-          "stock": "10",
+          "stock": "8",
           "url": "https://cn.cohcigars.com/cigars-juan-lopez"
         },
         "cohcigars:263:24306": {
@@ -6661,7 +6661,7 @@
           "id": "cohcigars:66:104",
           "name": "Diplomaticos - Genios RE Phoenicia (25 盒)",
           "price": "$ 599.00",
-          "stock": "15",
+          "stock": "12",
           "url": "https://cn.cohcigars.com/cigars-diplomaticos"
         },
         "cohcigars:683:789": {
@@ -8445,7 +8445,7 @@
           "url": "https://www.ihavanas.com/details.php?ptype=cigars&pid=Partagas"
         }
       },
-      "last_checked": "2026-08-19T11:01:33+00:00",
+      "last_checked": "2026-08-19T13:12:26+00:00",
       "last_count": 195,
       "last_error": null,
       "previous": {
