@@ -244,7 +244,7 @@
           "id": "cohcigars:119:176",
           "name": "Juan Lopez - Seleccion No.2 (25 盒)",
           "price": "$ 560.00",
-          "stock": "10",
+          "stock": "9",
           "url": "https://cn.cohcigars.com/cigars-juan-lopez"
         },
         "cohcigars:11:17": {
@@ -986,7 +986,7 @@
           "id": "cohcigars:202:26938",
           "name": "Romeo Y Julieta - Romeo No.2 A/T (5x2 盒)",
           "price": "$ 149.00",
-          "stock": "90",
+          "stock": "89",
           "url": "https://cn.cohcigars.com/cigars-romeo-y-julieta"
         },
         "cohcigars:202:289": {
@@ -1920,6 +1920,13 @@
           "stock": "23",
           "url": "https://cn.cohcigars.com/cigars-jose-l.-piedra"
         },
+        "cohcigars:26182:27076": {
+          "id": "cohcigars:26182:27076",
+          "name": "Cohiba - 5 Pack- Siglo II (5 盒)",
+          "price": "$ 250.00",
+          "stock": "200",
+          "url": "https://cn.cohcigars.com/cigars-cohiba"
+        },
         "cohcigars:262:375": {
           "id": "cohcigars:262:375",
           "name": "Jose L. Piedra - Petit Cazadores (5x5 盒)",
@@ -2351,7 +2358,7 @@
           "id": "cohcigars:30:49",
           "name": "Bolivar - Royal Coronas (25 盒)",
           "price": "$ 645.00",
-          "stock": "19",
+          "stock": "18",
           "url": "https://cn.cohcigars.com/cigars-bolivar"
         },
         "cohcigars:3239:3542": {
@@ -2909,7 +2916,7 @@
         },
         "cohcigars:4744:5106": {
           "id": "cohcigars:4744:5106",
-          "name": "Cohiba - 5 Pack- Maduro 5 Genios (50 盒)",
+          "name": "Cohiba - 5 Pack- Siglo II (50 盒)",
           "price": "$ 190.00",
           "stock": "190",
           "url": "https://cn.cohcigars.com/cigars-cohiba"
@@ -3135,7 +3142,7 @@
           "id": "cohcigars:6937:8690",
           "name": "Ramon Allones - Allones No.3 (10 盒)",
           "price": "$ 995.00",
-          "stock": "3",
+          "stock": "2",
           "url": "https://cn.cohcigars.com/cigars-ramon-allones"
         },
         "cohcigars:6955:7467": {
@@ -3455,7 +3462,7 @@
         },
         "cohcigars:8807:9440": {
           "id": "cohcigars:8807:9440",
-          "name": "Cohiba - 5 Pack- Maduro 5 Genios (10 盒)",
+          "name": "Cohiba - 5 Pack- Siglo II (10 盒)",
           "price": "$ 3800.00",
           "stock": "50",
           "url": "https://cn.cohcigars.com/cigars-cohiba"
@@ -3727,8 +3734,8 @@
           "url": "https://cn.cohcigars.com/cigars-montecristo"
         }
       },
-      "last_checked": "2026-08-19T02:08:01+00:00",
-      "last_count": 494,
+      "last_checked": "2026-08-19T03:12:58+00:00",
+      "last_count": 495,
       "last_error": null,
       "previous": {
         "cohcigars:101:144": {
@@ -3938,7 +3945,7 @@
           "id": "cohcigars:119:176",
           "name": "Juan Lopez - Seleccion No.2 (25 盒)",
           "price": "$ 560.00",
-          "stock": "10",
+          "stock": "9",
           "url": "https://cn.cohcigars.com/cigars-juan-lopez"
         },
         "cohcigars:11:17": {
@@ -4624,7 +4631,7 @@
           "id": "cohcigars:202:26938",
           "name": "Romeo Y Julieta - Romeo No.2 A/T (5x2 盒)",
           "price": "$ 149.00",
-          "stock": "90",
+          "stock": "89",
           "url": "https://cn.cohcigars.com/cigars-romeo-y-julieta"
         },
         "cohcigars:202:289": {
@@ -5509,6 +5516,13 @@
           "stock": "23",
           "url": "https://cn.cohcigars.com/cigars-jose-l.-piedra"
         },
+        "cohcigars:26182:27076": {
+          "id": "cohcigars:26182:27076",
+          "name": "Cohiba - 5 Pack- Siglo II (5 盒)",
+          "price": "$ 250.00",
+          "stock": "200",
+          "url": "https://cn.cohcigars.com/cigars-cohiba"
+        },
         "cohcigars:263:24306": {
           "id": "cohcigars:263:24306",
           "name": "Jose L. Piedra - Petit Cetros (5x2 盒)",
@@ -5898,7 +5912,7 @@
           "id": "cohcigars:30:49",
           "name": "Bolivar - Royal Coronas (25 盒)",
           "price": "$ 645.00",
-          "stock": "19",
+          "stock": "18",
           "url": "https://cn.cohcigars.com/cigars-bolivar"
         },
         "cohcigars:3239:3542": {
@@ -6421,7 +6435,7 @@
         },
         "cohcigars:4744:5106": {
           "id": "cohcigars:4744:5106",
-          "name": "Cohiba - 5 Pack- Maduro 5 Genios (50 盒)",
+          "name": "Cohiba - 5 Pack- Siglo II (50 盒)",
           "price": "$ 190.00",
           "stock": "190",
           "url": "https://cn.cohcigars.com/cigars-cohiba"
@@ -6626,7 +6640,7 @@
           "id": "cohcigars:6937:8690",
           "name": "Ramon Allones - Allones No.3 (10 盒)",
           "price": "$ 995.00",
-          "stock": "3",
+          "stock": "2",
           "url": "https://cn.cohcigars.com/cigars-ramon-allones"
         },
         "cohcigars:6955:7467": {
@@ -6946,7 +6960,7 @@
         },
         "cohcigars:8807:9440": {
           "id": "cohcigars:8807:9440",
-          "name": "Cohiba - 5 Pack- Maduro 5 Genios (10 盒)",
+          "name": "Cohiba - 5 Pack- Siglo II (10 盒)",
           "price": "$ 3800.00",
           "stock": "50",
           "url": "https://cn.cohcigars.com/cigars-cohiba"
@@ -8424,7 +8438,7 @@
           "url": "https://www.ihavanas.com/details.php?ptype=cigars&pid=Partagas"
         }
       },
-      "last_checked": "2026-08-19T02:07:37+00:00",
+      "last_checked": "2026-08-19T03:12:38+00:00",
       "last_count": 196,
       "last_error": null,
       "previous": {
