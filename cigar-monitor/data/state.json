@@ -226,6 +226,13 @@
           "stock": "7",
           "url": "https://cn.cohcigars.com/cigars-sancho-panza"
         },
+        "cohcigars:11485:12138": {
+          "id": "cohcigars:11485:12138",
+          "name": "Trinidad - 5 Pack- Esmeralda (5 盒)",
+          "price": "$ 490.00",
+          "stock": "45",
+          "url": "https://cn.cohcigars.com/cigars-trinidad"
+        },
         "cohcigars:118:175": {
           "id": "cohcigars:118:175",
           "name": "Juan Lopez - Seleccion No.1 (25 盒)",
@@ -851,7 +858,7 @@
         },
         "cohcigars:1947:9595": {
           "id": "cohcigars:1947:9595",
-          "name": "Cohiba - Behike BHK 54 (20x5 盒)",
+          "name": "Cohiba - Ambar (20x5 盒)",
           "price": "$ 115.00",
           "stock": "102",
           "url": "https://cn.cohcigars.com/cigars-cohiba"
@@ -1073,6 +1080,13 @@
           "stock": "1",
           "url": "https://cn.cohcigars.com/cigars-la-gloria-cubana"
         },
+        "cohcigars:20576:21298": {
+          "id": "cohcigars:20576:21298",
+          "name": "Trinidad - 5 Pack- Esmeralda (12 盒)",
+          "price": "$ 1690.00",
+          "stock": "19",
+          "url": "https://cn.cohcigars.com/cigars-trinidad"
+        },
         "cohcigars:205:297": {
           "id": "cohcigars:205:297",
           "name": "Romeo Y Julieta - Short Churchills A/T (15 盒)",
@@ -1194,7 +1208,7 @@
         },
         "cohcigars:22898:23676": {
           "id": "cohcigars:22898:23676",
-          "name": "Cohiba - Behike BHK 54 (10x10 盒)",
+          "name": "Cohiba - Ambar (10x10 盒)",
           "price": "$ 115.00",
           "stock": "189",
           "url": "https://cn.cohcigars.com/cigars-cohiba"
@@ -1740,7 +1754,7 @@
         },
         "cohcigars:24448:25295": {
           "id": "cohcigars:24448:25295",
-          "name": "Cohiba - Behike BHK 54 (10x10 盒)",
+          "name": "Cohiba - Ambar (10x10 盒)",
           "price": "$ 115.00",
           "stock": "191",
           "url": "https://cn.cohcigars.com/cigars-cohiba"
@@ -1754,7 +1768,7 @@
         },
         "cohcigars:24450:25297": {
           "id": "cohcigars:24450:25297",
-          "name": "Cohiba - Behike BHK 54 (60 盒)",
+          "name": "Cohiba - Ambar (60 盒)",
           "price": "$ 115.00",
           "stock": "193",
           "url": "https://cn.cohcigars.com/cigars-cohiba"
@@ -1772,6 +1786,13 @@
           "price": "$ 488.00",
           "stock": "11",
           "url": "https://cn.cohcigars.com/cigars-sancho-panza"
+        },
+        "cohcigars:248:347": {
+          "id": "cohcigars:248:347",
+          "name": "Trinidad - 5 Pack- Esmeralda (24 盒)",
+          "price": "$ 990.00",
+          "stock": "4",
+          "url": "https://cn.cohcigars.com/cigars-trinidad"
         },
         "cohcigars:249:350": {
           "id": "cohcigars:249:350",
@@ -1926,6 +1947,27 @@
           "price": "$ 250.00",
           "stock": "200",
           "url": "https://cn.cohcigars.com/cigars-cohiba"
+        },
+        "cohcigars:26206:27104": {
+          "id": "cohcigars:26206:27104",
+          "name": "Hoyo de Monterrey - 5 Pack- Epicure No.1 (5 盒)",
+          "price": "$ 175.00",
+          "stock": "100",
+          "url": "https://cn.cohcigars.com/cigars-hoyo-de-monterrey"
+        },
+        "cohcigars:26207:27105": {
+          "id": "cohcigars:26207:27105",
+          "name": "Cuaba - 5 Pack- Tradicionales (5 盒)",
+          "price": "$ 100.00",
+          "stock": "90",
+          "url": "https://cn.cohcigars.com/cigars-cuaba"
+        },
+        "cohcigars:26209:27107": {
+          "id": "cohcigars:26209:27107",
+          "name": "Juan Lopez - 5 Pack- Seleccion Especial LCDH (5 盒)",
+          "price": "$ 340.00",
+          "stock": "10",
+          "url": "https://cn.cohcigars.com/cigars-juan-lopez"
         },
         "cohcigars:262:375": {
           "id": "cohcigars:262:375",
@@ -2099,7 +2141,7 @@
           "id": "cohcigars:287:406",
           "name": "Guantanamera - Cristales (5 x 5 盒)",
           "price": "$ 130.00",
-          "stock": "108",
+          "stock": "100",
           "url": "https://cn.cohcigars.com/cigars-guantanamera"
         },
         "cohcigars:293:17329": {
@@ -2827,7 +2869,7 @@
           "id": "cohcigars:4632:5067",
           "name": "Hoyo de Monterrey - Le Hoyo De Rio Seco (10 盒)",
           "price": "$ 398.00",
-          "stock": "23",
+          "stock": "22",
           "url": "https://cn.cohcigars.com/cigars-hoyo-de-monterrey"
         },
         "cohcigars:4633:4945": {
@@ -3100,7 +3142,7 @@
           "id": "cohcigars:642:17328",
           "name": "Cohiba - Siglo I A/T (3 盒)",
           "price": "$ 99.00",
-          "stock": "94",
+          "stock": "90",
           "url": "https://cn.cohcigars.com/cigars-cohiba"
         },
         "cohcigars:642:21493": {
@@ -3734,8 +3776,8 @@
           "url": "https://cn.cohcigars.com/cigars-montecristo"
         }
       },
-      "last_checked": "2026-08-19T05:14:04+00:00",
-      "last_count": 495,
+      "last_checked": "2026-08-19T07:08:34+00:00",
+      "last_count": 497,
       "last_error": null,
       "previous": {
         "cohcigars:101:144": {
@@ -3850,13 +3892,6 @@
           "stock": "19",
           "url": "https://cn.cohcigars.com/cigars-ramon-allones"
         },
-        "cohcigars:11111:11761": {
-          "id": "cohcigars:11111:11761",
-          "name": "Hoyo de Monterrey - 5 Pack- Short Hoyo Piramide EL 2011 (5 盒)",
-          "price": "$ 420.00",
-          "stock": "18",
-          "url": "https://cn.cohcigars.com/cigars-hoyo-de-monterrey"
-        },
         "cohcigars:111:165": {
           "id": "cohcigars:111:165",
           "name": "Hoyo de Monterrey - Petit Robustos (25 盒)",
@@ -3926,6 +3961,13 @@
           "price": "$ 105.00",
           "stock": "7",
           "url": "https://cn.cohcigars.com/cigars-sancho-panza"
+        },
+        "cohcigars:11485:12138": {
+          "id": "cohcigars:11485:12138",
+          "name": "Trinidad - 5 Pack- Esmeralda (5 盒)",
+          "price": "$ 490.00",
+          "stock": "45",
+          "url": "https://cn.cohcigars.com/cigars-trinidad"
         },
         "cohcigars:118:175": {
           "id": "cohcigars:118:175",
@@ -4503,7 +4545,7 @@
         },
         "cohcigars:1947:9595": {
           "id": "cohcigars:1947:9595",
-          "name": "Cohiba - Behike BHK 54 (20x5 盒)",
+          "name": "Cohiba - Ambar (20x5 盒)",
           "price": "$ 115.00",
           "stock": "102",
           "url": "https://cn.cohcigars.com/cigars-cohiba"
@@ -4711,6 +4753,13 @@
           "stock": "92",
           "url": "https://cn.cohcigars.com/cigars-trinidad"
         },
+        "cohcigars:20576:21298": {
+          "id": "cohcigars:20576:21298",
+          "name": "Trinidad - 5 Pack- Esmeralda (12 盒)",
+          "price": "$ 1690.00",
+          "stock": "19",
+          "url": "https://cn.cohcigars.com/cigars-trinidad"
+        },
         "cohcigars:205:297": {
           "id": "cohcigars:205:297",
           "name": "Romeo Y Julieta - Short Churchills A/T (15 盒)",
@@ -4832,7 +4881,7 @@
         },
         "cohcigars:22898:23676": {
           "id": "cohcigars:22898:23676",
-          "name": "Cohiba - Behike BHK 54 (10x10 盒)",
+          "name": "Cohiba - Ambar (10x10 盒)",
           "price": "$ 115.00",
           "stock": "189",
           "url": "https://cn.cohcigars.com/cigars-cohiba"
@@ -5357,7 +5406,7 @@
         },
         "cohcigars:24448:25295": {
           "id": "cohcigars:24448:25295",
-          "name": "Cohiba - Behike BHK 54 (10x10 盒)",
+          "name": "Cohiba - Ambar (10x10 盒)",
           "price": "$ 115.00",
           "stock": "191",
           "url": "https://cn.cohcigars.com/cigars-cohiba"
@@ -5371,7 +5420,7 @@
         },
         "cohcigars:24450:25297": {
           "id": "cohcigars:24450:25297",
-          "name": "Cohiba - Behike BHK 54 (60 盒)",
+          "name": "Cohiba - Ambar (60 盒)",
           "price": "$ 115.00",
           "stock": "193",
           "url": "https://cn.cohcigars.com/cigars-cohiba"
@@ -5389,6 +5438,13 @@
           "price": "$ 488.00",
           "stock": "11",
           "url": "https://cn.cohcigars.com/cigars-sancho-panza"
+        },
+        "cohcigars:248:347": {
+          "id": "cohcigars:248:347",
+          "name": "Trinidad - 5 Pack- Esmeralda (24 盒)",
+          "price": "$ 990.00",
+          "stock": "4",
+          "url": "https://cn.cohcigars.com/cigars-trinidad"
         },
         "cohcigars:2503:25293": {
           "id": "cohcigars:2503:25293",
@@ -5522,6 +5578,27 @@
           "price": "$ 250.00",
           "stock": "200",
           "url": "https://cn.cohcigars.com/cigars-cohiba"
+        },
+        "cohcigars:26206:27104": {
+          "id": "cohcigars:26206:27104",
+          "name": "Hoyo de Monterrey - 5 Pack- Epicure No.1 (5 盒)",
+          "price": "$ 175.00",
+          "stock": "100",
+          "url": "https://cn.cohcigars.com/cigars-hoyo-de-monterrey"
+        },
+        "cohcigars:26207:27105": {
+          "id": "cohcigars:26207:27105",
+          "name": "Cuaba - 5 Pack- Tradicionales (5 盒)",
+          "price": "$ 100.00",
+          "stock": "90",
+          "url": "https://cn.cohcigars.com/cigars-cuaba"
+        },
+        "cohcigars:26209:27107": {
+          "id": "cohcigars:26209:27107",
+          "name": "Juan Lopez - 5 Pack- Seleccion Especial LCDH (5 盒)",
+          "price": "$ 340.00",
+          "stock": "10",
+          "url": "https://cn.cohcigars.com/cigars-juan-lopez"
         },
         "cohcigars:263:24306": {
           "id": "cohcigars:263:24306",
@@ -5674,7 +5751,7 @@
           "id": "cohcigars:287:406",
           "name": "Guantanamera - Cristales (5 x 5 盒)",
           "price": "$ 130.00",
-          "stock": "108",
+          "stock": "100",
           "url": "https://cn.cohcigars.com/cigars-guantanamera"
         },
         "cohcigars:293:17329": {
@@ -6353,7 +6430,7 @@
           "id": "cohcigars:4632:5067",
           "name": "Hoyo de Monterrey - Le Hoyo De Rio Seco (10 盒)",
           "price": "$ 398.00",
-          "stock": "23",
+          "stock": "22",
           "url": "https://cn.cohcigars.com/cigars-hoyo-de-monterrey"
         },
         "cohcigars:4633:4945": {
@@ -6605,7 +6682,7 @@
           "id": "cohcigars:642:17328",
           "name": "Cohiba - Siglo I A/T (3 盒)",
           "price": "$ 99.00",
-          "stock": "94",
+          "stock": "90",
           "url": "https://cn.cohcigars.com/cigars-cohiba"
         },
         "cohcigars:642:756": {
@@ -6816,13 +6893,6 @@
           "name": "Cohiba - 55 Aniversario Premier Edition EL 2021 (5 盒)",
           "price": "$ 2900.00",
           "stock": "50",
-          "url": "https://cn.cohcigars.com/cigars-cohiba"
-        },
-        "cohcigars:739:832": {
-          "id": "cohcigars:739:832",
-          "name": "Cohiba - Behike BHK 54 (10 盒)",
-          "price": "$ 3650.00",
-          "stock": "1",
           "url": "https://cn.cohcigars.com/cigars-cohiba"
         },
         "cohcigars:7659:8175": {
@@ -7070,13 +7140,6 @@
           "stock": "17",
           "url": "https://cn.cohcigars.com/cigars-montecristo"
         },
-        "cohcigars:9332:9976": {
-          "id": "cohcigars:9332:9976",
-          "name": "Hoyo de Monterrey - 5 Packs- Regalos EL 2007 (5 盒)",
-          "price": "$ 340.00",
-          "stock": "11",
-          "url": "https://cn.cohcigars.com/cigars-hoyo-de-monterrey"
-        },
         "cohcigars:9336:9980": {
           "id": "cohcigars:9336:9980",
           "name": "Bolivar - 5 Pack- Bolivar Gold Medal LCDH (2009) (5 盒)",
@@ -7160,13 +7223,6 @@
           "price": "$ 550.00",
           "stock": "12",
           "url": "https://cn.cohcigars.com/cigars-cohiba"
-        },
-        "cohcigars:9424:10068": {
-          "id": "cohcigars:9424:10068",
-          "name": "Hoyo de Monterrey - 5 Pack- Epicure de Luxe LCDH (5 盒)",
-          "price": "$ 220.00",
-          "stock": "19",
-          "url": "https://cn.cohcigars.com/cigars-hoyo-de-monterrey"
         },
         "cohcigars:953:1003": {
           "id": "cohcigars:953:1003",
@@ -8438,16 +8494,10 @@
           "url": "https://www.ihavanas.com/details.php?ptype=cigars&pid=Partagas"
         }
       },
-      "last_checked": "2026-08-19T05:13:43+00:00",
-      "last_count": 196,
+      "last_checked": "2026-08-19T07:08:10+00:00",
+      "last_count": 195,
       "last_error": null,
       "previous": {
-        "ihavanas:1": {
-          "id": "ihavanas:1",
-          "name": "Bolivar - Belicosos Finos (Box 25)",
-          "price": "US$713.00",
-          "url": "https://www.ihavanas.com/details.php?ptype=cigars&pid=Bolivar"
-        },
         "ihavanas:1006": {
           "id": "ihavanas:1006",
           "name": "Romeo Y Julieta - Maravillas 8 (Box 8)",
