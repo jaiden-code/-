@@ -1952,7 +1952,7 @@
           "id": "cohcigars:26182:27076",
           "name": "Cohiba - 1966 EL 2011 (5 盒)",
           "price": "$ 199.00",
-          "stock": "196",
+          "stock": "194",
           "url": "https://cn.cohcigars.com/cigars-cohiba"
         },
         "cohcigars:26206:27104": {
@@ -1973,7 +1973,7 @@
           "id": "cohcigars:26209:27107",
           "name": "Juan Lopez - 5 Pack- Juan Lopez Seleccion No1 (5 盒)",
           "price": "$ 255.00",
-          "stock": "7",
+          "stock": "6",
           "url": "https://cn.cohcigars.com/cigars-juan-lopez"
         },
         "cohcigars:262:375": {
@@ -2407,7 +2407,7 @@
           "id": "cohcigars:30:49",
           "name": "Bolivar - Royal Coronas (25 盒)",
           "price": "$ 645.00",
-          "stock": "18",
+          "stock": "17",
           "url": "https://cn.cohcigars.com/cigars-bolivar"
         },
         "cohcigars:3239:3542": {
@@ -2729,7 +2729,7 @@
           "id": "cohcigars:409:641",
           "name": "H.Upmann - Magnum 50 A/T (15 盒)",
           "price": "$ 755.00",
-          "stock": "5",
+          "stock": "4",
           "url": "https://cn.cohcigars.com/cigars-h.upmann"
         },
         "cohcigars:40:62": {
@@ -3527,7 +3527,7 @@
           "id": "cohcigars:88:621",
           "name": "H.Upmann - Magnum 50 (10 盒)",
           "price": "$ 445.00",
-          "stock": "10",
+          "stock": "9",
           "url": "https://cn.cohcigars.com/cigars-h.upmann"
         },
         "cohcigars:8959:9602": {
@@ -3783,7 +3783,7 @@
           "url": "https://cn.cohcigars.com/cigars-montecristo"
         }
       },
-      "last_checked": "2026-08-19T17:02:32+00:00",
+      "last_checked": "2026-08-19T18:56:19+00:00",
       "last_count": 488,
       "last_error": null,
       "previous": {
@@ -5555,14 +5555,14 @@
           "id": "cohcigars:26182:27076",
           "name": "Cohiba - 1966 EL 2011 (5 盒)",
           "price": "$ 199.00",
-          "stock": "196",
+          "stock": "194",
           "url": "https://cn.cohcigars.com/cigars-cohiba"
         },
         "cohcigars:26209:27107": {
           "id": "cohcigars:26209:27107",
           "name": "Juan Lopez - 5 Pack- Juan Lopez Seleccion No1 (5 盒)",
           "price": "$ 255.00",
-          "stock": "7",
+          "stock": "6",
           "url": "https://cn.cohcigars.com/cigars-juan-lopez"
         },
         "cohcigars:263:24306": {
@@ -5954,7 +5954,7 @@
           "id": "cohcigars:30:49",
           "name": "Bolivar - Royal Coronas (25 盒)",
           "price": "$ 645.00",
-          "stock": "18",
+          "stock": "17",
           "url": "https://cn.cohcigars.com/cigars-bolivar"
         },
         "cohcigars:3239:3542": {
@@ -6255,7 +6255,7 @@
           "id": "cohcigars:409:641",
           "name": "H.Upmann - Magnum 50 A/T (15 盒)",
           "price": "$ 755.00",
-          "stock": "5",
+          "stock": "4",
           "url": "https://cn.cohcigars.com/cigars-h.upmann"
         },
         "cohcigars:40:62": {
@@ -7004,7 +7004,7 @@
           "id": "cohcigars:88:621",
           "name": "H.Upmann - Magnum 50 (10 盒)",
           "price": "$ 445.00",
-          "stock": "10",
+          "stock": "9",
           "url": "https://cn.cohcigars.com/cigars-h.upmann"
         },
         "cohcigars:8959:9602": {
@@ -8438,7 +8438,7 @@
           "url": "https://www.ihavanas.com/details.php?ptype=cigars&pid=Partagas"
         }
       },
-      "last_checked": "2026-08-19T17:02:15+00:00",
+      "last_checked": "2026-08-19T18:55:57+00:00",
       "last_count": 195,
       "last_error": null,
       "previous": {
