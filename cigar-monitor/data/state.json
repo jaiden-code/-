@@ -314,7 +314,7 @@
           "id": "cohcigars:122:5796",
           "name": "Jose L. Piedra - Brevas (12 盒)",
           "price": "$ 88.00",
-          "stock": "68",
+          "stock": "64",
           "url": "https://cn.cohcigars.com/cigars-jose-l.-piedra"
         },
         "cohcigars:1231:1420": {
@@ -827,6 +827,13 @@
           "price": "$ 750.00",
           "stock": "41",
           "url": "https://cn.cohcigars.com/cigars-vintage"
+        },
+        "cohcigars:19331:20019": {
+          "id": "cohcigars:19331:20019",
+          "name": "Cohiba - 1966 EL 2011 (5 盒)",
+          "price": "$ 179.00",
+          "stock": "90",
+          "url": "https://cn.cohcigars.com/cigars-cohiba"
         },
         "cohcigars:19332:20020": {
           "id": "cohcigars:19332:20020",
@@ -1943,9 +1950,9 @@
         },
         "cohcigars:26182:27076": {
           "id": "cohcigars:26182:27076",
-          "name": "Cohiba - 5 Pack- Siglo II (5 盒)",
-          "price": "$ 250.00",
-          "stock": "200",
+          "name": "Cohiba - 1966 EL 2011 (5 盒)",
+          "price": "$ 199.00",
+          "stock": "199",
           "url": "https://cn.cohcigars.com/cigars-cohiba"
         },
         "cohcigars:26206:27104": {
@@ -1964,8 +1971,8 @@
         },
         "cohcigars:26209:27107": {
           "id": "cohcigars:26209:27107",
-          "name": "Juan Lopez - 5 Pack- Seleccion Especial LCDH (5 盒)",
-          "price": "$ 340.00",
+          "name": "Juan Lopez - 5 Pack- Juan Lopez Seleccion No1 (5 盒)",
+          "price": "$ 255.00",
           "stock": "10",
           "url": "https://cn.cohcigars.com/cigars-juan-lopez"
         },
@@ -2958,7 +2965,7 @@
         },
         "cohcigars:4744:5106": {
           "id": "cohcigars:4744:5106",
-          "name": "Cohiba - 5 Pack- Siglo II (50 盒)",
+          "name": "Cohiba - 1966 EL 2011 (50 盒)",
           "price": "$ 190.00",
           "stock": "190",
           "url": "https://cn.cohcigars.com/cigars-cohiba"
@@ -3163,7 +3170,7 @@
           "id": "cohcigars:66:104",
           "name": "Diplomaticos - Genios RE Phoenicia (25 盒)",
           "price": "$ 599.00",
-          "stock": "16",
+          "stock": "15",
           "url": "https://cn.cohcigars.com/cigars-diplomaticos"
         },
         "cohcigars:683:789": {
@@ -3504,7 +3511,7 @@
         },
         "cohcigars:8807:9440": {
           "id": "cohcigars:8807:9440",
-          "name": "Cohiba - 5 Pack- Siglo II (10 盒)",
+          "name": "Cohiba - 1966 EL 2011 (10 盒)",
           "price": "$ 3800.00",
           "stock": "50",
           "url": "https://cn.cohcigars.com/cigars-cohiba"
@@ -3776,8 +3783,8 @@
           "url": "https://cn.cohcigars.com/cigars-montecristo"
         }
       },
-      "last_checked": "2026-08-19T07:25:40+00:00",
-      "last_count": 497,
+      "last_checked": "2026-08-19T08:57:16+00:00",
+      "last_count": 489,
       "last_error": null,
       "previous": {
         "cohcigars:101:144": {
@@ -3934,20 +3941,6 @@
           "stock": "29",
           "url": "https://cn.cohcigars.com/cigars-partagas"
         },
-        "cohcigars:11241:11889": {
-          "id": "cohcigars:11241:11889",
-          "name": "Partagas - 5 Pack- Linea Maestra Maestro (5 盒)",
-          "price": "$ 495.00",
-          "stock": "8",
-          "url": "https://cn.cohcigars.com/cigars-partagas"
-        },
-        "cohcigars:11266:11914": {
-          "id": "cohcigars:11266:11914",
-          "name": "Partagas - 5 Pack- Serie C No.3 EL 2012 (5 盒)",
-          "price": "$ 450.00",
-          "stock": "84",
-          "url": "https://cn.cohcigars.com/cigars-partagas"
-        },
         "cohcigars:11350:12000": {
           "id": "cohcigars:11350:12000",
           "name": "Hoyo de Monterrey - Epicure No.3 (10 盒)",
@@ -3961,13 +3954,6 @@
           "price": "$ 105.00",
           "stock": "7",
           "url": "https://cn.cohcigars.com/cigars-sancho-panza"
-        },
-        "cohcigars:11485:12138": {
-          "id": "cohcigars:11485:12138",
-          "name": "Trinidad - 5 Pack- Esmeralda (5 盒)",
-          "price": "$ 490.00",
-          "stock": "45",
-          "url": "https://cn.cohcigars.com/cigars-trinidad"
         },
         "cohcigars:118:175": {
           "id": "cohcigars:118:175",
@@ -4043,7 +4029,7 @@
           "id": "cohcigars:122:5796",
           "name": "Jose L. Piedra - Brevas (12 盒)",
           "price": "$ 88.00",
-          "stock": "68",
+          "stock": "64",
           "url": "https://cn.cohcigars.com/cigars-jose-l.-piedra"
         },
         "cohcigars:1231:1420": {
@@ -4515,6 +4501,13 @@
           "stock": "41",
           "url": "https://cn.cohcigars.com/cigars-vintage"
         },
+        "cohcigars:19331:20019": {
+          "id": "cohcigars:19331:20019",
+          "name": "Cohiba - 1966 EL 2011 (5 盒)",
+          "price": "$ 179.00",
+          "stock": "90",
+          "url": "https://cn.cohcigars.com/cigars-cohiba"
+        },
         "cohcigars:19332:20020": {
           "id": "cohcigars:19332:20020",
           "name": "Juan Lopez - 5 Pack- Juan Lopez Seleccion No1 (5 盒)",
@@ -4751,13 +4744,6 @@
           "name": "Trinidad - Robusto Extra Gift Box (3x2 盒)",
           "price": "$ 255.00",
           "stock": "92",
-          "url": "https://cn.cohcigars.com/cigars-trinidad"
-        },
-        "cohcigars:20576:21298": {
-          "id": "cohcigars:20576:21298",
-          "name": "Trinidad - 5 Pack- Esmeralda (12 盒)",
-          "price": "$ 1690.00",
-          "stock": "19",
           "url": "https://cn.cohcigars.com/cigars-trinidad"
         },
         "cohcigars:205:297": {
@@ -5439,13 +5425,6 @@
           "stock": "11",
           "url": "https://cn.cohcigars.com/cigars-sancho-panza"
         },
-        "cohcigars:248:347": {
-          "id": "cohcigars:248:347",
-          "name": "Trinidad - 5 Pack- Esmeralda (24 盒)",
-          "price": "$ 990.00",
-          "stock": "4",
-          "url": "https://cn.cohcigars.com/cigars-trinidad"
-        },
         "cohcigars:2503:25293": {
           "id": "cohcigars:2503:25293",
           "name": "Cohiba - Robustos A/T (10x3 盒)",
@@ -5574,29 +5553,15 @@
         },
         "cohcigars:26182:27076": {
           "id": "cohcigars:26182:27076",
-          "name": "Cohiba - 5 Pack- Siglo II (5 盒)",
-          "price": "$ 250.00",
-          "stock": "200",
+          "name": "Cohiba - 1966 EL 2011 (5 盒)",
+          "price": "$ 199.00",
+          "stock": "199",
           "url": "https://cn.cohcigars.com/cigars-cohiba"
-        },
-        "cohcigars:26206:27104": {
-          "id": "cohcigars:26206:27104",
-          "name": "Hoyo de Monterrey - 5 Pack- Epicure No.1 (5 盒)",
-          "price": "$ 175.00",
-          "stock": "100",
-          "url": "https://cn.cohcigars.com/cigars-hoyo-de-monterrey"
-        },
-        "cohcigars:26207:27105": {
-          "id": "cohcigars:26207:27105",
-          "name": "Cuaba - 5 Pack- Tradicionales (5 盒)",
-          "price": "$ 100.00",
-          "stock": "90",
-          "url": "https://cn.cohcigars.com/cigars-cuaba"
         },
         "cohcigars:26209:27107": {
           "id": "cohcigars:26209:27107",
-          "name": "Juan Lopez - 5 Pack- Seleccion Especial LCDH (5 盒)",
-          "price": "$ 340.00",
+          "name": "Juan Lopez - 5 Pack- Juan Lopez Seleccion No1 (5 盒)",
+          "price": "$ 255.00",
           "stock": "10",
           "url": "https://cn.cohcigars.com/cigars-juan-lopez"
         },
@@ -6512,7 +6477,7 @@
         },
         "cohcigars:4744:5106": {
           "id": "cohcigars:4744:5106",
-          "name": "Cohiba - 5 Pack- Siglo II (50 盒)",
+          "name": "Cohiba - 1966 EL 2011 (50 盒)",
           "price": "$ 190.00",
           "stock": "190",
           "url": "https://cn.cohcigars.com/cigars-cohiba"
@@ -6696,7 +6661,7 @@
           "id": "cohcigars:66:104",
           "name": "Diplomaticos - Genios RE Phoenicia (25 盒)",
           "price": "$ 599.00",
-          "stock": "16",
+          "stock": "15",
           "url": "https://cn.cohcigars.com/cigars-diplomaticos"
         },
         "cohcigars:683:789": {
@@ -7030,7 +6995,7 @@
         },
         "cohcigars:8807:9440": {
           "id": "cohcigars:8807:9440",
-          "name": "Cohiba - 5 Pack- Siglo II (10 盒)",
+          "name": "Cohiba - 1966 EL 2011 (10 盒)",
           "price": "$ 3800.00",
           "stock": "50",
           "url": "https://cn.cohcigars.com/cigars-cohiba"
@@ -7175,13 +7140,6 @@
           "stock": "1",
           "url": "https://cn.cohcigars.com/cigars-montecristo"
         },
-        "cohcigars:9342:9986": {
-          "id": "cohcigars:9342:9986",
-          "name": "Partagas - 5 Pack- Seleccion Privada EL 2014 (5 盒)",
-          "price": "$ 605.00",
-          "stock": "16",
-          "url": "https://cn.cohcigars.com/cigars-partagas"
-        },
         "cohcigars:9344:9988": {
           "id": "cohcigars:9344:9988",
           "name": "La Flor De Cano - 5 Pack- Grandiosos RE Asia Pacifico 2013 (5 盒)",
@@ -7216,13 +7174,6 @@
           "price": "$ 190.00",
           "stock": "13",
           "url": "https://cn.cohcigars.com/cigars-romeo-y-julieta"
-        },
-        "cohcigars:9420:10064": {
-          "id": "cohcigars:9420:10064",
-          "name": "Cohiba - 5 Pack- Maduro 5 Genios (5 盒)",
-          "price": "$ 550.00",
-          "stock": "12",
-          "url": "https://cn.cohcigars.com/cigars-cohiba"
         },
         "cohcigars:953:1003": {
           "id": "cohcigars:953:1003",
@@ -8494,7 +8445,7 @@
           "url": "https://www.ihavanas.com/details.php?ptype=cigars&pid=Partagas"
         }
       },
-      "last_checked": "2026-08-19T07:24:50+00:00",
+      "last_checked": "2026-08-19T08:56:56+00:00",
       "last_count": 195,
       "last_error": null,
       "previous": {
