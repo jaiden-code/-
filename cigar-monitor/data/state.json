@@ -104,7 +104,7 @@
           "id": "cohcigars:1106:1183",
           "name": "Quintero Y Hermano - Favoritos (5x5 盒)",
           "price": "$ 275.00",
-          "stock": "13",
+          "stock": "12",
           "url": "https://cn.cohcigars.com/cigars-quintero-y-hermano"
         },
         "cohcigars:11070:11720": {
@@ -1654,6 +1654,13 @@
           "stock": "62",
           "url": "https://cn.cohcigars.com/cigars-partagas"
         },
+        "cohcigars:24124:24959": {
+          "id": "cohcigars:24124:24959",
+          "name": "Diplomaticos - Grandes RE Alemania 2021 (25 盒)",
+          "price": "$ 2350.00",
+          "stock": "10",
+          "url": "https://cn.cohcigars.com/cigars-diplomaticos"
+        },
         "cohcigars:24167:25002": {
           "id": "cohcigars:24167:25002",
           "name": "Partagas - Royales Travel Humidor (20 盒)",
@@ -1749,7 +1756,7 @@
           "id": "cohcigars:24446:25292",
           "name": "Cohiba - Exquisitos C/P (5x5 盒)",
           "price": "$ 720.00",
-          "stock": "41",
+          "stock": "40",
           "url": "https://cn.cohcigars.com/cigars-cohiba"
         },
         "cohcigars:24447:25294": {
@@ -1952,7 +1959,7 @@
           "id": "cohcigars:26182:27076",
           "name": "Cohiba - 1966 EL 2011 (5 盒)",
           "price": "$ 199.00",
-          "stock": "191",
+          "stock": "190",
           "url": "https://cn.cohcigars.com/cigars-cohiba"
         },
         "cohcigars:26206:27104": {
@@ -1973,7 +1980,7 @@
           "id": "cohcigars:26209:27107",
           "name": "Juan Lopez - 5 Pack- Juan Lopez Seleccion No1 (5 盒)",
           "price": "$ 255.00",
-          "stock": "2",
+          "stock": "1",
           "url": "https://cn.cohcigars.com/cigars-juan-lopez"
         },
         "cohcigars:262:375": {
@@ -2120,7 +2127,7 @@
           "id": "cohcigars:2863:3180",
           "name": "Quai Dorsay - No.50 (10 盒)",
           "price": "$ 308.00",
-          "stock": "1",
+          "stock": "40",
           "url": "https://cn.cohcigars.com/cigars-quai-dorsay"
         },
         "cohcigars:2863:3181": {
@@ -3168,7 +3175,7 @@
         },
         "cohcigars:66:104": {
           "id": "cohcigars:66:104",
-          "name": "Diplomaticos - Genios RE Phoenicia (25 盒)",
+          "name": "Diplomaticos - Grandes RE Alemania 2021 (25 盒)",
           "price": "$ 599.00",
           "stock": "8",
           "url": "https://cn.cohcigars.com/cigars-diplomaticos"
@@ -3783,8 +3790,8 @@
           "url": "https://cn.cohcigars.com/cigars-montecristo"
         }
       },
-      "last_checked": "2026-08-20T09:16:59+00:00",
-      "last_count": 488,
+      "last_checked": "2026-08-20T10:50:30+00:00",
+      "last_count": 490,
       "last_error": null,
       "previous": {
         "cohcigars:101:144": {
@@ -3875,7 +3882,7 @@
           "id": "cohcigars:1106:1183",
           "name": "Quintero Y Hermano - Favoritos (5x5 盒)",
           "price": "$ 275.00",
-          "stock": "13",
+          "stock": "12",
           "url": "https://cn.cohcigars.com/cigars-quintero-y-hermano"
         },
         "cohcigars:11070:11720": {
@@ -5292,6 +5299,13 @@
           "stock": "62",
           "url": "https://cn.cohcigars.com/cigars-partagas"
         },
+        "cohcigars:24124:24959": {
+          "id": "cohcigars:24124:24959",
+          "name": "Diplomaticos - Grandes RE Alemania 2021 (25 盒)",
+          "price": "$ 2350.00",
+          "stock": "10",
+          "url": "https://cn.cohcigars.com/cigars-diplomaticos"
+        },
         "cohcigars:24167:25002": {
           "id": "cohcigars:24167:25002",
           "name": "Partagas - Royales Travel Humidor (20 盒)",
@@ -5380,7 +5394,7 @@
           "id": "cohcigars:24446:25292",
           "name": "Cohiba - Exquisitos C/P (5x5 盒)",
           "price": "$ 720.00",
-          "stock": "41",
+          "stock": "40",
           "url": "https://cn.cohcigars.com/cigars-cohiba"
         },
         "cohcigars:24447:25294": {
@@ -5555,14 +5569,14 @@
           "id": "cohcigars:26182:27076",
           "name": "Cohiba - 1966 EL 2011 (5 盒)",
           "price": "$ 199.00",
-          "stock": "191",
+          "stock": "190",
           "url": "https://cn.cohcigars.com/cigars-cohiba"
         },
         "cohcigars:26209:27107": {
           "id": "cohcigars:26209:27107",
           "name": "Juan Lopez - 5 Pack- Juan Lopez Seleccion No1 (5 盒)",
           "price": "$ 255.00",
-          "stock": "2",
+          "stock": "1",
           "url": "https://cn.cohcigars.com/cigars-juan-lopez"
         },
         "cohcigars:263:24306": {
@@ -5697,6 +5711,13 @@
           "price": "$ 1050.00",
           "stock": "15",
           "url": "https://cn.cohcigars.com/cigars-vintage"
+        },
+        "cohcigars:2863:3180": {
+          "id": "cohcigars:2863:3180",
+          "name": "Quai Dorsay - No.50 (10 盒)",
+          "price": "$ 308.00",
+          "stock": "40",
+          "url": "https://cn.cohcigars.com/cigars-quai-dorsay"
         },
         "cohcigars:2868:3186": {
           "id": "cohcigars:2868:3186",
@@ -6659,7 +6680,7 @@
         },
         "cohcigars:66:104": {
           "id": "cohcigars:66:104",
-          "name": "Diplomaticos - Genios RE Phoenicia (25 盒)",
+          "name": "Diplomaticos - Grandes RE Alemania 2021 (25 盒)",
           "price": "$ 599.00",
           "stock": "8",
           "url": "https://cn.cohcigars.com/cigars-diplomaticos"
@@ -8438,7 +8459,7 @@
           "url": "https://www.ihavanas.com/details.php?ptype=cigars&pid=Partagas"
         }
       },
-      "last_checked": "2026-08-20T09:16:39+00:00",
+      "last_checked": "2026-08-20T10:50:08+00:00",
       "last_count": 195,
       "last_error": null,
       "previous": {
