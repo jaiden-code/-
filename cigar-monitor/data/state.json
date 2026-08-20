@@ -34,7 +34,7 @@
           "id": "cohcigars:102:20571",
           "name": "Hoyo de Monterrey - Epicure No.2 (3 盒)",
           "price": "$ 99.00",
-          "stock": "26",
+          "stock": "25",
           "url": "https://cn.cohcigars.com/cigars-hoyo-de-monterrey"
         },
         "cohcigars:102:21530": {
@@ -342,7 +342,7 @@
           "id": "cohcigars:1242:21527",
           "name": "Romeo Y Julieta - Petit Churchills A/T (3x2 盒)",
           "price": "$ 185.00",
-          "stock": "39",
+          "stock": "38",
           "url": "https://cn.cohcigars.com/cigars-romeo-y-julieta"
         },
         "cohcigars:12460:13117": {
@@ -1861,7 +1861,7 @@
           "id": "cohcigars:251:356",
           "name": "Trinidad - Esmeralda (12 盒)",
           "price": "$ 390.00",
-          "stock": "18",
+          "stock": "17",
           "url": "https://cn.cohcigars.com/cigars-trinidad"
         },
         "cohcigars:252:358": {
@@ -2876,7 +2876,7 @@
           "id": "cohcigars:4632:5067",
           "name": "Hoyo de Monterrey - Le Hoyo De Rio Seco (10 盒)",
           "price": "$ 398.00",
-          "stock": "22",
+          "stock": "21",
           "url": "https://cn.cohcigars.com/cigars-hoyo-de-monterrey"
         },
         "cohcigars:4633:4945": {
@@ -3783,7 +3783,7 @@
           "url": "https://cn.cohcigars.com/cigars-montecristo"
         }
       },
-      "last_checked": "2026-08-20T08:58:30+00:00",
+      "last_checked": "2026-08-20T09:16:59+00:00",
       "last_count": 488,
       "last_error": null,
       "previous": {
@@ -3812,7 +3812,7 @@
           "id": "cohcigars:102:20571",
           "name": "Hoyo de Monterrey - Epicure No.2 (3 盒)",
           "price": "$ 99.00",
-          "stock": "26",
+          "stock": "25",
           "url": "https://cn.cohcigars.com/cigars-hoyo-de-monterrey"
         },
         "cohcigars:105:154": {
@@ -4050,7 +4050,7 @@
           "id": "cohcigars:1242:21527",
           "name": "Romeo Y Julieta - Petit Churchills A/T (3x2 盒)",
           "price": "$ 185.00",
-          "stock": "39",
+          "stock": "38",
           "url": "https://cn.cohcigars.com/cigars-romeo-y-julieta"
         },
         "cohcigars:12460:13117": {
@@ -5478,7 +5478,7 @@
           "id": "cohcigars:251:356",
           "name": "Trinidad - Esmeralda (12 盒)",
           "price": "$ 390.00",
-          "stock": "18",
+          "stock": "17",
           "url": "https://cn.cohcigars.com/cigars-trinidad"
         },
         "cohcigars:252:358": {
@@ -6395,7 +6395,7 @@
           "id": "cohcigars:4632:5067",
           "name": "Hoyo de Monterrey - Le Hoyo De Rio Seco (10 盒)",
           "price": "$ 398.00",
-          "stock": "22",
+          "stock": "21",
           "url": "https://cn.cohcigars.com/cigars-hoyo-de-monterrey"
         },
         "cohcigars:4633:4945": {
@@ -8438,7 +8438,7 @@
           "url": "https://www.ihavanas.com/details.php?ptype=cigars&pid=Partagas"
         }
       },
-      "last_checked": "2026-08-20T08:58:11+00:00",
+      "last_checked": "2026-08-20T09:16:39+00:00",
       "last_count": 195,
       "last_error": null,
       "previous": {
