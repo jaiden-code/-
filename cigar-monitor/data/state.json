@@ -545,7 +545,7 @@
           "id": "cohcigars:14:23",
           "name": "Montecristo - No.4 (10 盒)",
           "price": "$ 290.00",
-          "stock": "18",
+          "stock": "17",
           "url": "https://cn.cohcigars.com/cigars-montecristo"
         },
         "cohcigars:14:24": {
@@ -1049,7 +1049,7 @@
           "id": "cohcigars:203:293",
           "name": "Romeo Y Julieta - Romeo No.3 A/T (10 盒)",
           "price": "$ 167.00",
-          "stock": "34",
+          "stock": "33",
           "url": "https://cn.cohcigars.com/cigars-romeo-y-julieta"
         },
         "cohcigars:204:295": {
@@ -1959,7 +1959,7 @@
           "id": "cohcigars:26182:27076",
           "name": "Cohiba - 1966 EL 2011 (5 盒)",
           "price": "$ 199.00",
-          "stock": "189",
+          "stock": "188",
           "url": "https://cn.cohcigars.com/cigars-cohiba"
         },
         "cohcigars:26206:27104": {
@@ -3790,7 +3790,7 @@
           "url": "https://cn.cohcigars.com/cigars-montecristo"
         }
       },
-      "last_checked": "2026-08-20T16:54:11+00:00",
+      "last_checked": "2026-08-20T17:06:55+00:00",
       "last_count": 489,
       "last_error": null,
       "previous": {
@@ -4246,7 +4246,7 @@
           "id": "cohcigars:14:23",
           "name": "Montecristo - No.4 (10 盒)",
           "price": "$ 290.00",
-          "stock": "18",
+          "stock": "17",
           "url": "https://cn.cohcigars.com/cigars-montecristo"
         },
         "cohcigars:14:24": {
@@ -4722,7 +4722,7 @@
           "id": "cohcigars:203:293",
           "name": "Romeo Y Julieta - Romeo No.3 A/T (10 盒)",
           "price": "$ 167.00",
-          "stock": "34",
+          "stock": "33",
           "url": "https://cn.cohcigars.com/cigars-romeo-y-julieta"
         },
         "cohcigars:204:295": {
@@ -5569,7 +5569,7 @@
           "id": "cohcigars:26182:27076",
           "name": "Cohiba - 1966 EL 2011 (5 盒)",
           "price": "$ 199.00",
-          "stock": "189",
+          "stock": "188",
           "url": "https://cn.cohcigars.com/cigars-cohiba"
         },
         "cohcigars:263:24306": {
@@ -8452,7 +8452,7 @@
           "url": "https://www.ihavanas.com/details.php?ptype=cigars&pid=Partagas"
         }
       },
-      "last_checked": "2026-08-20T16:53:46+00:00",
+      "last_checked": "2026-08-20T17:05:54+00:00",
       "last_count": 195,
       "last_error": null,
       "previous": {
