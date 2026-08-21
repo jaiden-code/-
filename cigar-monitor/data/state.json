@@ -1959,7 +1959,7 @@
           "id": "cohcigars:26182:27076",
           "name": "Cohiba - 1966 EL 2011 (5 盒)",
           "price": "$ 199.00",
-          "stock": "187",
+          "stock": "186",
           "url": "https://cn.cohcigars.com/cigars-cohiba"
         },
         "cohcigars:26206:27104": {
@@ -1982,6 +1982,13 @@
           "price": "$ 255.00",
           "stock": "1",
           "url": "https://cn.cohcigars.com/cigars-juan-lopez"
+        },
+        "cohcigars:26259:27157": {
+          "id": "cohcigars:26259:27157",
+          "name": "Cohiba - 1966 EL 2011 (5 盒)",
+          "price": "$ 165.00",
+          "stock": "100",
+          "url": "https://cn.cohcigars.com/cigars-cohiba"
         },
         "cohcigars:262:375": {
           "id": "cohcigars:262:375",
@@ -2050,7 +2057,7 @@
           "id": "cohcigars:271:387",
           "name": "Quintero Y Hermano - Panetelas (25 盒)",
           "price": "$ 150.00",
-          "stock": "47",
+          "stock": "46",
           "url": "https://cn.cohcigars.com/cigars-quintero-y-hermano"
         },
         "cohcigars:273:19988": {
@@ -3177,7 +3184,7 @@
           "id": "cohcigars:66:104",
           "name": "Diplomaticos - Grandes RE Alemania 2021 (25 盒)",
           "price": "$ 599.00",
-          "stock": "8",
+          "stock": "7",
           "url": "https://cn.cohcigars.com/cigars-diplomaticos"
         },
         "cohcigars:683:789": {
@@ -3628,6 +3635,13 @@
           "stock": "20",
           "url": "https://cn.cohcigars.com/cigars-montecristo"
         },
+        "cohcigars:9247:9892": {
+          "id": "cohcigars:9247:9892",
+          "name": "Cohiba - 1966 EL 2011 (5 盒)",
+          "price": "$ 379.00",
+          "stock": "100",
+          "url": "https://cn.cohcigars.com/cigars-cohiba"
+        },
         "cohcigars:924:967": {
           "id": "cohcigars:924:967",
           "name": "Partagas - Cetros Year of the Snake (25 盒)",
@@ -3790,8 +3804,8 @@
           "url": "https://cn.cohcigars.com/cigars-montecristo"
         }
       },
-      "last_checked": "2026-08-21T02:12:48+00:00",
-      "last_count": 489,
+      "last_checked": "2026-08-21T03:19:09+00:00",
+      "last_count": 491,
       "last_error": null,
       "previous": {
         "cohcigars:101:144": {
@@ -5569,7 +5583,14 @@
           "id": "cohcigars:26182:27076",
           "name": "Cohiba - 1966 EL 2011 (5 盒)",
           "price": "$ 199.00",
-          "stock": "187",
+          "stock": "186",
+          "url": "https://cn.cohcigars.com/cigars-cohiba"
+        },
+        "cohcigars:26259:27157": {
+          "id": "cohcigars:26259:27157",
+          "name": "Cohiba - 1966 EL 2011 (5 盒)",
+          "price": "$ 165.00",
+          "stock": "100",
           "url": "https://cn.cohcigars.com/cigars-cohiba"
         },
         "cohcigars:263:24306": {
@@ -5632,7 +5653,7 @@
           "id": "cohcigars:271:387",
           "name": "Quintero Y Hermano - Panetelas (25 盒)",
           "price": "$ 150.00",
-          "stock": "47",
+          "stock": "46",
           "url": "https://cn.cohcigars.com/cigars-quintero-y-hermano"
         },
         "cohcigars:273:19988": {
@@ -6675,7 +6696,7 @@
           "id": "cohcigars:66:104",
           "name": "Diplomaticos - Grandes RE Alemania 2021 (25 盒)",
           "price": "$ 599.00",
-          "stock": "8",
+          "stock": "7",
           "url": "https://cn.cohcigars.com/cigars-diplomaticos"
         },
         "cohcigars:683:789": {
@@ -7097,6 +7118,13 @@
           "price": "$ 440.00",
           "stock": "20",
           "url": "https://cn.cohcigars.com/cigars-montecristo"
+        },
+        "cohcigars:9247:9892": {
+          "id": "cohcigars:9247:9892",
+          "name": "Cohiba - 1966 EL 2011 (5 盒)",
+          "price": "$ 379.00",
+          "stock": "100",
+          "url": "https://cn.cohcigars.com/cigars-cohiba"
         },
         "cohcigars:924:967": {
           "id": "cohcigars:924:967",
@@ -8452,7 +8480,7 @@
           "url": "https://www.ihavanas.com/details.php?ptype=cigars&pid=Partagas"
         }
       },
-      "last_checked": "2026-08-21T02:12:25+00:00",
+      "last_checked": "2026-08-21T03:18:06+00:00",
       "last_count": 195,
       "last_error": null,
       "previous": {
