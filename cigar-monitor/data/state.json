@@ -503,7 +503,7 @@
           "id": "cohcigars:14258:14913",
           "name": "Troya - Tubos (15 盒)",
           "price": "$ 95.00",
-          "stock": "8",
+          "stock": "7",
           "url": "https://cn.cohcigars.com/cigars-troya"
         },
         "cohcigars:142:212": {
@@ -1784,7 +1784,7 @@
           "id": "cohcigars:24449:25296",
           "name": "Cohiba - Medio Siglo A/T (20x5 盒)",
           "price": "$ 89.00",
-          "stock": "195",
+          "stock": "194",
           "url": "https://cn.cohcigars.com/cigars-cohiba"
         },
         "cohcigars:24450:25297": {
@@ -1966,7 +1966,7 @@
           "id": "cohcigars:26182:27076",
           "name": "Cohiba - 1966 EL 2011 (5 盒)",
           "price": "$ 199.00",
-          "stock": "184",
+          "stock": "183",
           "url": "https://cn.cohcigars.com/cigars-cohiba"
         },
         "cohcigars:26206:27104": {
@@ -2127,7 +2127,7 @@
           "id": "cohcigars:282:6163",
           "name": "Partagas - Cetros Year of the Snake (20x5 盒)",
           "price": "$ 90.00",
-          "stock": "932",
+          "stock": "931",
           "url": "https://cn.cohcigars.com/cigars-partagas"
         },
         "cohcigars:2840:3155": {
@@ -2428,7 +2428,7 @@
           "id": "cohcigars:30:49",
           "name": "Bolivar - Royal Coronas (25 盒)",
           "price": "$ 645.00",
-          "stock": "15",
+          "stock": "14",
           "url": "https://cn.cohcigars.com/cigars-bolivar"
         },
         "cohcigars:3239:3542": {
@@ -2638,7 +2638,7 @@
           "id": "cohcigars:366:541",
           "name": "Hoyo de Monterrey - Epicure Especial (10 盒)",
           "price": "$ 355.00",
-          "stock": "5",
+          "stock": "4",
           "url": "https://cn.cohcigars.com/cigars-hoyo-de-monterrey"
         },
         "cohcigars:368:594": {
@@ -3723,7 +3723,7 @@
           "id": "cohcigars:933:980",
           "name": "H.Upmann - Half Corona (25 盒)",
           "price": "$ 340.00",
-          "stock": "8",
+          "stock": "7",
           "url": "https://cn.cohcigars.com/cigars-h.upmann"
         },
         "cohcigars:9341:9985": {
@@ -3825,7 +3825,7 @@
           "url": "https://cn.cohcigars.com/cigars-montecristo"
         }
       },
-      "last_checked": "2026-08-21T09:19:29+00:00",
+      "last_checked": "2026-08-21T10:50:46+00:00",
       "last_count": 438,
       "last_error": null,
       "previous": {
@@ -4246,7 +4246,7 @@
           "id": "cohcigars:14258:14913",
           "name": "Troya - Tubos (15 盒)",
           "price": "$ 95.00",
-          "stock": "8",
+          "stock": "7",
           "url": "https://cn.cohcigars.com/cigars-troya"
         },
         "cohcigars:142:212": {
@@ -5380,7 +5380,7 @@
           "id": "cohcigars:24449:25296",
           "name": "Cohiba - Medio Siglo A/T (20x5 盒)",
           "price": "$ 89.00",
-          "stock": "195",
+          "stock": "194",
           "url": "https://cn.cohcigars.com/cigars-cohiba"
         },
         "cohcigars:24450:25297": {
@@ -5527,7 +5527,7 @@
           "id": "cohcigars:26182:27076",
           "name": "Cohiba - 1966 EL 2011 (5 盒)",
           "price": "$ 199.00",
-          "stock": "184",
+          "stock": "183",
           "url": "https://cn.cohcigars.com/cigars-cohiba"
         },
         "cohcigars:26259:27157": {
@@ -5618,7 +5618,7 @@
           "id": "cohcigars:282:6163",
           "name": "Partagas - Cetros Year of the Snake (20x5 盒)",
           "price": "$ 90.00",
-          "stock": "932",
+          "stock": "931",
           "url": "https://cn.cohcigars.com/cigars-partagas"
         },
         "cohcigars:2863:3180": {
@@ -5863,7 +5863,7 @@
           "id": "cohcigars:30:49",
           "name": "Bolivar - Royal Coronas (25 盒)",
           "price": "$ 645.00",
-          "stock": "15",
+          "stock": "14",
           "url": "https://cn.cohcigars.com/cigars-bolivar"
         },
         "cohcigars:3266:3569": {
@@ -5940,7 +5940,7 @@
           "id": "cohcigars:366:541",
           "name": "Hoyo de Monterrey - Epicure Especial (10 盒)",
           "price": "$ 355.00",
-          "stock": "5",
+          "stock": "4",
           "url": "https://cn.cohcigars.com/cigars-hoyo-de-monterrey"
         },
         "cohcigars:368:594": {
@@ -6815,7 +6815,7 @@
           "id": "cohcigars:933:980",
           "name": "H.Upmann - Half Corona (25 盒)",
           "price": "$ 340.00",
-          "stock": "8",
+          "stock": "7",
           "url": "https://cn.cohcigars.com/cigars-h.upmann"
         },
         "cohcigars:9341:9985": {
@@ -8130,7 +8130,7 @@
           "url": "https://www.ihavanas.com/details.php?ptype=cigars&pid=Partagas"
         }
       },
-      "last_checked": "2026-08-21T09:19:05+00:00",
+      "last_checked": "2026-08-21T10:50:21+00:00",
       "last_count": 195,
       "last_error": null,
       "previous": {
