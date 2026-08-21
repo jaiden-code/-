@@ -531,7 +531,7 @@
           "id": "cohcigars:148:220",
           "name": "Partagas - Mille Fleurs (10 盒)",
           "price": "$ 186.00",
-          "stock": "458",
+          "stock": "457",
           "url": "https://cn.cohcigars.com/cigars-partagas"
         },
         "cohcigars:14964:15628": {
@@ -825,7 +825,7 @@
           "id": "cohcigars:192:273",
           "name": "Romeo Y Julieta - Belicosos (25 盒)",
           "price": "$ 845.00",
-          "stock": "6",
+          "stock": "5",
           "url": "https://cn.cohcigars.com/cigars-romeo-y-julieta"
         },
         "cohcigars:1930:2172": {
@@ -839,7 +839,7 @@
           "id": "cohcigars:19331:20019",
           "name": "Cohiba - 1966 EL 2011 (5 盒)",
           "price": "$ 179.00",
-          "stock": "81",
+          "stock": "78",
           "url": "https://cn.cohcigars.com/cigars-cohiba"
         },
         "cohcigars:19332:20020": {
@@ -951,7 +951,7 @@
           "id": "cohcigars:19920:20641",
           "name": "Diplomaticos - Genios RE Phoenicia (50 盒)",
           "price": "$ 2550.00",
-          "stock": "2",
+          "stock": "1",
           "url": "https://cn.cohcigars.com/cigars-diplomaticos"
         },
         "cohcigars:19936:20657": {
@@ -1049,7 +1049,7 @@
           "id": "cohcigars:203:292",
           "name": "Romeo Y Julieta - Romeo No.3 A/T (25 盒)",
           "price": "$ 318.00",
-          "stock": "50",
+          "stock": "49",
           "url": "https://cn.cohcigars.com/cigars-romeo-y-julieta"
         },
         "cohcigars:203:293": {
@@ -1616,7 +1616,7 @@
           "id": "cohcigars:2375:2647",
           "name": "Partagas - Petit Coronas Especiales (25 盒)",
           "price": "$ 327.00",
-          "stock": "31",
+          "stock": "30",
           "url": "https://cn.cohcigars.com/cigars-partagas"
         },
         "cohcigars:2376:25889": {
@@ -1994,7 +1994,7 @@
           "id": "cohcigars:26259:27157",
           "name": "Cohiba - 1966 EL 2011 (5 盒)",
           "price": "$ 165.00",
-          "stock": "100",
+          "stock": "99",
           "url": "https://cn.cohcigars.com/cigars-cohiba"
         },
         "cohcigars:262:375": {
@@ -2127,7 +2127,7 @@
           "id": "cohcigars:282:6163",
           "name": "Partagas - Cetros Year of the Snake (20x5 盒)",
           "price": "$ 90.00",
-          "stock": "934",
+          "stock": "932",
           "url": "https://cn.cohcigars.com/cigars-partagas"
         },
         "cohcigars:2840:3155": {
@@ -3205,7 +3205,7 @@
           "id": "cohcigars:66:104",
           "name": "Diplomaticos - Grandes RE Alemania 2021 (25 盒)",
           "price": "$ 599.00",
-          "stock": "6",
+          "stock": "5",
           "url": "https://cn.cohcigars.com/cigars-diplomaticos"
         },
         "cohcigars:683:789": {
@@ -3667,7 +3667,7 @@
           "id": "cohcigars:924:967",
           "name": "Partagas - Cetros Year of the Snake (25 盒)",
           "price": "$ 275.00",
-          "stock": "196",
+          "stock": "195",
           "url": "https://cn.cohcigars.com/cigars-partagas"
         },
         "cohcigars:9253:9898": {
@@ -3825,7 +3825,7 @@
           "url": "https://cn.cohcigars.com/cigars-montecristo"
         }
       },
-      "last_checked": "2026-08-21T07:29:18+00:00",
+      "last_checked": "2026-08-21T09:01:00+00:00",
       "last_count": 438,
       "last_error": null,
       "previous": {
@@ -4267,7 +4267,7 @@
           "id": "cohcigars:148:220",
           "name": "Partagas - Mille Fleurs (10 盒)",
           "price": "$ 186.00",
-          "stock": "458",
+          "stock": "457",
           "url": "https://cn.cohcigars.com/cigars-partagas"
         },
         "cohcigars:14964:15628": {
@@ -4526,14 +4526,14 @@
           "id": "cohcigars:192:273",
           "name": "Romeo Y Julieta - Belicosos (25 盒)",
           "price": "$ 845.00",
-          "stock": "6",
+          "stock": "5",
           "url": "https://cn.cohcigars.com/cigars-romeo-y-julieta"
         },
         "cohcigars:19331:20019": {
           "id": "cohcigars:19331:20019",
           "name": "Cohiba - 1966 EL 2011 (5 盒)",
           "price": "$ 179.00",
-          "stock": "81",
+          "stock": "78",
           "url": "https://cn.cohcigars.com/cigars-cohiba"
         },
         "cohcigars:19332:20020": {
@@ -4631,7 +4631,7 @@
           "id": "cohcigars:19920:20641",
           "name": "Diplomaticos - Genios RE Phoenicia (50 盒)",
           "price": "$ 2550.00",
-          "stock": "2",
+          "stock": "1",
           "url": "https://cn.cohcigars.com/cigars-diplomaticos"
         },
         "cohcigars:19936:20657": {
@@ -4722,7 +4722,7 @@
           "id": "cohcigars:203:292",
           "name": "Romeo Y Julieta - Romeo No.3 A/T (25 盒)",
           "price": "$ 318.00",
-          "stock": "50",
+          "stock": "49",
           "url": "https://cn.cohcigars.com/cigars-romeo-y-julieta"
         },
         "cohcigars:203:293": {
@@ -5219,7 +5219,7 @@
           "id": "cohcigars:2375:2647",
           "name": "Partagas - Petit Coronas Especiales (25 盒)",
           "price": "$ 327.00",
-          "stock": "31",
+          "stock": "30",
           "url": "https://cn.cohcigars.com/cigars-partagas"
         },
         "cohcigars:2376:25889": {
@@ -5534,7 +5534,7 @@
           "id": "cohcigars:26259:27157",
           "name": "Cohiba - 1966 EL 2011 (5 盒)",
           "price": "$ 165.00",
-          "stock": "100",
+          "stock": "99",
           "url": "https://cn.cohcigars.com/cigars-cohiba"
         },
         "cohcigars:263:24306": {
@@ -5618,7 +5618,7 @@
           "id": "cohcigars:282:6163",
           "name": "Partagas - Cetros Year of the Snake (20x5 盒)",
           "price": "$ 90.00",
-          "stock": "934",
+          "stock": "932",
           "url": "https://cn.cohcigars.com/cigars-partagas"
         },
         "cohcigars:2863:3180": {
@@ -6346,7 +6346,7 @@
           "id": "cohcigars:66:104",
           "name": "Diplomaticos - Grandes RE Alemania 2021 (25 盒)",
           "price": "$ 599.00",
-          "stock": "6",
+          "stock": "5",
           "url": "https://cn.cohcigars.com/cigars-diplomaticos"
         },
         "cohcigars:683:789": {
@@ -6780,7 +6780,7 @@
           "id": "cohcigars:924:967",
           "name": "Partagas - Cetros Year of the Snake (25 盒)",
           "price": "$ 275.00",
-          "stock": "196",
+          "stock": "195",
           "url": "https://cn.cohcigars.com/cigars-partagas"
         },
         "cohcigars:9327:9971": {
@@ -8130,7 +8130,7 @@
           "url": "https://www.ihavanas.com/details.php?ptype=cigars&pid=Partagas"
         }
       },
-      "last_checked": "2026-08-21T07:28:54+00:00",
+      "last_checked": "2026-08-21T09:00:40+00:00",
       "last_count": 195,
       "last_error": null,
       "previous": {
