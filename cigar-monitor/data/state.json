@@ -104,7 +104,7 @@
           "id": "cohcigars:1106:1183",
           "name": "Quintero Y Hermano - Favoritos (5x5 盒)",
           "price": "$ 275.00",
-          "stock": "12",
+          "stock": "11",
           "url": "https://cn.cohcigars.com/cigars-quintero-y-hermano"
         },
         "cohcigars:11070:11720": {
@@ -895,7 +895,7 @@
           "id": "cohcigars:1952:9204",
           "name": "Partagas - Serie Club 10x10 (20x5 盒)",
           "price": "$ 115.00",
-          "stock": "181",
+          "stock": "180",
           "url": "https://cn.cohcigars.com/cigars-partagas"
         },
         "cohcigars:1967:2218": {
@@ -3825,8 +3825,8 @@
           "url": "https://cn.cohcigars.com/cigars-montecristo"
         }
       },
-      "last_checked": "2026-08-22T14:58:28+00:00",
-      "last_count": 438,
+      "last_checked": "2026-08-22T16:43:43+00:00",
+      "last_count": 437,
       "last_error": null,
       "previous": {
         "cohcigars:101:144": {
@@ -3917,7 +3917,7 @@
           "id": "cohcigars:1106:1183",
           "name": "Quintero Y Hermano - Favoritos (5x5 盒)",
           "price": "$ 275.00",
-          "stock": "12",
+          "stock": "11",
           "url": "https://cn.cohcigars.com/cigars-quintero-y-hermano"
         },
         "cohcigars:11070:11720": {
@@ -4589,7 +4589,7 @@
           "id": "cohcigars:1952:9204",
           "name": "Partagas - Serie Club 10x10 (20x5 盒)",
           "price": "$ 115.00",
-          "stock": "181",
+          "stock": "180",
           "url": "https://cn.cohcigars.com/cigars-partagas"
         },
         "cohcigars:196:24052": {
@@ -6341,13 +6341,6 @@
           "price": "$ 550.00",
           "stock": "18",
           "url": "https://cn.cohcigars.com/cigars-cohiba"
-        },
-        "cohcigars:66:104": {
-          "id": "cohcigars:66:104",
-          "name": "Diplomaticos - Grandes RE Alemania 2021 (25 盒)",
-          "price": "$ 599.00",
-          "stock": "1",
-          "url": "https://cn.cohcigars.com/cigars-diplomaticos"
         },
         "cohcigars:683:789": {
           "id": "cohcigars:683:789",
@@ -8130,7 +8123,7 @@
           "url": "https://www.ihavanas.com/details.php?ptype=cigars&pid=Partagas"
         }
       },
-      "last_checked": "2026-08-22T14:58:10+00:00",
+      "last_checked": "2026-08-22T16:43:24+00:00",
       "last_count": 195,
       "last_error": null,
       "previous": {
