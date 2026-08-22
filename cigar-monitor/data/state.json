@@ -839,7 +839,7 @@
           "id": "cohcigars:19331:20019",
           "name": "Cohiba - 1966 EL 2011 (5 盒)",
           "price": "$ 179.00",
-          "stock": "77",
+          "stock": "75",
           "url": "https://cn.cohcigars.com/cigars-cohiba"
         },
         "cohcigars:19332:20020": {
@@ -1084,7 +1084,7 @@
           "id": "cohcigars:2052:24352",
           "name": "Trinidad - Robusto Extra Gift Box (3x2 盒)",
           "price": "$ 255.00",
-          "stock": "87",
+          "stock": "86",
           "url": "https://cn.cohcigars.com/cigars-trinidad"
         },
         "cohcigars:2054:2317": {
@@ -1966,7 +1966,7 @@
           "id": "cohcigars:26182:27076",
           "name": "Cohiba - 1966 EL 2011 (5 盒)",
           "price": "$ 199.00",
-          "stock": "181",
+          "stock": "180",
           "url": "https://cn.cohcigars.com/cigars-cohiba"
         },
         "cohcigars:26206:27104": {
@@ -3149,7 +3149,7 @@
           "id": "cohcigars:58:94",
           "name": "Cuaba - Distinguidos (10 盒)",
           "price": "$ 363.00",
-          "stock": "11",
+          "stock": "10",
           "url": "https://cn.cohcigars.com/cigars-cuaba"
         },
         "cohcigars:59:95": {
@@ -3825,7 +3825,7 @@
           "url": "https://cn.cohcigars.com/cigars-montecristo"
         }
       },
-      "last_checked": "2026-08-21T23:00:23+00:00",
+      "last_checked": "2026-08-22T01:53:29+00:00",
       "last_count": 438,
       "last_error": null,
       "previous": {
@@ -4533,7 +4533,7 @@
           "id": "cohcigars:19331:20019",
           "name": "Cohiba - 1966 EL 2011 (5 盒)",
           "price": "$ 179.00",
-          "stock": "77",
+          "stock": "75",
           "url": "https://cn.cohcigars.com/cigars-cohiba"
         },
         "cohcigars:19332:20020": {
@@ -4757,7 +4757,7 @@
           "id": "cohcigars:2052:24352",
           "name": "Trinidad - Robusto Extra Gift Box (3x2 盒)",
           "price": "$ 255.00",
-          "stock": "87",
+          "stock": "86",
           "url": "https://cn.cohcigars.com/cigars-trinidad"
         },
         "cohcigars:205:297": {
@@ -5527,7 +5527,7 @@
           "id": "cohcigars:26182:27076",
           "name": "Cohiba - 1966 EL 2011 (5 盒)",
           "price": "$ 199.00",
-          "stock": "181",
+          "stock": "180",
           "url": "https://cn.cohcigars.com/cigars-cohiba"
         },
         "cohcigars:26259:27157": {
@@ -6297,7 +6297,7 @@
           "id": "cohcigars:58:94",
           "name": "Cuaba - Distinguidos (10 盒)",
           "price": "$ 363.00",
-          "stock": "11",
+          "stock": "10",
           "url": "https://cn.cohcigars.com/cigars-cuaba"
         },
         "cohcigars:59:95": {
@@ -8130,7 +8130,7 @@
           "url": "https://www.ihavanas.com/details.php?ptype=cigars&pid=Partagas"
         }
       },
-      "last_checked": "2026-08-21T22:59:59+00:00",
+      "last_checked": "2026-08-22T01:53:09+00:00",
       "last_count": 195,
       "last_error": null,
       "previous": {
