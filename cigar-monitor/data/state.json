@@ -223,7 +223,7 @@
           "id": "cohcigars:11484:12137",
           "name": "Sancho Panza - 5 Pack- Non Plus (5 盒)",
           "price": "$ 105.00",
-          "stock": "7",
+          "stock": "6",
           "url": "https://cn.cohcigars.com/cigars-sancho-panza"
         },
         "cohcigars:11485:12138": {
@@ -412,7 +412,7 @@
           "id": "cohcigars:13087:13746",
           "name": "Montecristo - Wide Edmundo (25 盒)",
           "price": "$ 1048.00",
-          "stock": "8",
+          "stock": "7",
           "url": "https://cn.cohcigars.com/cigars-montecristo"
         },
         "cohcigars:13087:14767": {
@@ -503,7 +503,7 @@
           "id": "cohcigars:14258:14913",
           "name": "Troya - Tubos (15 盒)",
           "price": "$ 95.00",
-          "stock": "7",
+          "stock": "6",
           "url": "https://cn.cohcigars.com/cigars-troya"
         },
         "cohcigars:142:212": {
@@ -1007,7 +1007,7 @@
           "id": "cohcigars:202:26938",
           "name": "Romeo Y Julieta - Romeo No.2 A/T (5x2 盒)",
           "price": "$ 149.00",
-          "stock": "79",
+          "stock": "78",
           "url": "https://cn.cohcigars.com/cigars-romeo-y-julieta"
         },
         "cohcigars:202:289": {
@@ -1959,7 +1959,7 @@
           "id": "cohcigars:260:21409",
           "name": "Jose L. Piedra - Cremas (5 盒)",
           "price": "$ 39.00",
-          "stock": "20",
+          "stock": "19",
           "url": "https://cn.cohcigars.com/cigars-jose-l.-piedra"
         },
         "cohcigars:26182:27076": {
@@ -3464,7 +3464,7 @@
           "id": "cohcigars:8281:8839",
           "name": "La Gloria Cubana - Glorias LCDH (20 盒)",
           "price": "$ 1402.00",
-          "stock": "8",
+          "stock": "7",
           "url": "https://cn.cohcigars.com/cigars-la-gloria-cubana"
         },
         "cohcigars:83:123": {
@@ -3723,7 +3723,7 @@
           "id": "cohcigars:933:980",
           "name": "H.Upmann - Half Corona (25 盒)",
           "price": "$ 340.00",
-          "stock": "7",
+          "stock": "6",
           "url": "https://cn.cohcigars.com/cigars-h.upmann"
         },
         "cohcigars:9341:9985": {
@@ -3825,7 +3825,7 @@
           "url": "https://cn.cohcigars.com/cigars-montecristo"
         }
       },
-      "last_checked": "2026-08-23T03:36:37+00:00",
+      "last_checked": "2026-08-23T04:54:25+00:00",
       "last_count": 437,
       "last_error": null,
       "previous": {
@@ -3994,7 +3994,7 @@
           "id": "cohcigars:11484:12137",
           "name": "Sancho Panza - 5 Pack- Non Plus (5 盒)",
           "price": "$ 105.00",
-          "stock": "7",
+          "stock": "6",
           "url": "https://cn.cohcigars.com/cigars-sancho-panza"
         },
         "cohcigars:118:175": {
@@ -4155,7 +4155,7 @@
           "id": "cohcigars:13087:13746",
           "name": "Montecristo - Wide Edmundo (25 盒)",
           "price": "$ 1048.00",
-          "stock": "8",
+          "stock": "7",
           "url": "https://cn.cohcigars.com/cigars-montecristo"
         },
         "cohcigars:13087:14767": {
@@ -4246,7 +4246,7 @@
           "id": "cohcigars:14258:14913",
           "name": "Troya - Tubos (15 盒)",
           "price": "$ 95.00",
-          "stock": "7",
+          "stock": "6",
           "url": "https://cn.cohcigars.com/cigars-troya"
         },
         "cohcigars:142:212": {
@@ -4680,7 +4680,7 @@
           "id": "cohcigars:202:26938",
           "name": "Romeo Y Julieta - Romeo No.2 A/T (5x2 盒)",
           "price": "$ 149.00",
-          "stock": "79",
+          "stock": "78",
           "url": "https://cn.cohcigars.com/cigars-romeo-y-julieta"
         },
         "cohcigars:202:289": {
@@ -5520,7 +5520,7 @@
           "id": "cohcigars:260:21409",
           "name": "Jose L. Piedra - Cremas (5 盒)",
           "price": "$ 39.00",
-          "stock": "20",
+          "stock": "19",
           "url": "https://cn.cohcigars.com/cigars-jose-l.-piedra"
         },
         "cohcigars:26182:27076": {
@@ -6591,7 +6591,7 @@
           "id": "cohcigars:8281:8839",
           "name": "La Gloria Cubana - Glorias LCDH (20 盒)",
           "price": "$ 1402.00",
-          "stock": "8",
+          "stock": "7",
           "url": "https://cn.cohcigars.com/cigars-la-gloria-cubana"
         },
         "cohcigars:83:123": {
@@ -6808,7 +6808,7 @@
           "id": "cohcigars:933:980",
           "name": "H.Upmann - Half Corona (25 盒)",
           "price": "$ 340.00",
-          "stock": "7",
+          "stock": "6",
           "url": "https://cn.cohcigars.com/cigars-h.upmann"
         },
         "cohcigars:9341:9985": {
@@ -8123,7 +8123,7 @@
           "url": "https://www.ihavanas.com/details.php?ptype=cigars&pid=Partagas"
         }
       },
-      "last_checked": "2026-08-23T03:35:37+00:00",
+      "last_checked": "2026-08-23T04:54:04+00:00",
       "last_count": 195,
       "last_error": null,
       "previous": {
