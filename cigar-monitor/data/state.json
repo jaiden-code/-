@@ -837,7 +837,7 @@
         },
         "cohcigars:19331:20019": {
           "id": "cohcigars:19331:20019",
-          "name": "Cohiba - 1966 EL 2011 (5 盒)",
+          "name": "Cohiba - 5 Pack- Piramides Extra A/T (5 盒)",
           "price": "$ 179.00",
           "stock": "72",
           "url": "https://cn.cohcigars.com/cigars-cohiba"
@@ -1084,7 +1084,7 @@
           "id": "cohcigars:2052:24352",
           "name": "Trinidad - Robusto Extra Gift Box (3x2 盒)",
           "price": "$ 255.00",
-          "stock": "85",
+          "stock": "84",
           "url": "https://cn.cohcigars.com/cigars-trinidad"
         },
         "cohcigars:2054:2317": {
@@ -1964,7 +1964,7 @@
         },
         "cohcigars:26182:27076": {
           "id": "cohcigars:26182:27076",
-          "name": "Cohiba - 1966 EL 2011 (5 盒)",
+          "name": "Cohiba - 5 Pack- Piramides Extra A/T (5 盒)",
           "price": "$ 199.00",
           "stock": "176",
           "url": "https://cn.cohcigars.com/cigars-cohiba"
@@ -1992,9 +1992,9 @@
         },
         "cohcigars:26259:27157": {
           "id": "cohcigars:26259:27157",
-          "name": "Cohiba - 1966 EL 2011 (5 盒)",
+          "name": "Cohiba - 5 Pack- Piramides Extra A/T (5 盒)",
           "price": "$ 165.00",
-          "stock": "97",
+          "stock": "96",
           "url": "https://cn.cohcigars.com/cigars-cohiba"
         },
         "cohcigars:262:375": {
@@ -2003,6 +2003,41 @@
           "price": "$ 175.00",
           "stock": "1",
           "url": "https://cn.cohcigars.com/cigars-jose-l.-piedra"
+        },
+        "cohcigars:26311:27219": {
+          "id": "cohcigars:26311:27219",
+          "name": "Partagas - 5 Pack- Cedros Year of Snake (5 盒)",
+          "price": "$ 415.00",
+          "stock": "100",
+          "url": "https://cn.cohcigars.com/cigars-partagas"
+        },
+        "cohcigars:26312:27220": {
+          "id": "cohcigars:26312:27220",
+          "name": "Cohiba - 5 Pack- Piramides Extra A/T (5 盒)",
+          "price": "$ 825.00",
+          "stock": "50",
+          "url": "https://cn.cohcigars.com/cigars-cohiba"
+        },
+        "cohcigars:26313:27221": {
+          "id": "cohcigars:26313:27221",
+          "name": "Vintage - 5 Pack- PCC Regionals: Bolivar Short Bolivar, Diplo PCC 30th, RA Celestiales Finos, PL Robustos Larranaga and Belicosos (5 盒)",
+          "price": "$ 350.00",
+          "stock": "100",
+          "url": "https://cn.cohcigars.com/cigars-vintage"
+        },
+        "cohcigars:26314:27222": {
+          "id": "cohcigars:26314:27222",
+          "name": "Montecristo - 5 Pack- Vintage 2010 Montecristo No.4 (Old Band) (5 盒)",
+          "price": "$ 220.00",
+          "stock": "220",
+          "url": "https://cn.cohcigars.com/cigars-montecristo"
+        },
+        "cohcigars:26315:27223": {
+          "id": "cohcigars:26315:27223",
+          "name": "H.Upmann - 5 Pack- Vintage 2005 Magnum 46 (Old Band) (5 盒)",
+          "price": "$ 490.00",
+          "stock": "100",
+          "url": "https://cn.cohcigars.com/cigars-h.upmann"
         },
         "cohcigars:263:24306": {
           "id": "cohcigars:263:24306",
@@ -2993,7 +3028,7 @@
         },
         "cohcigars:4744:5106": {
           "id": "cohcigars:4744:5106",
-          "name": "Cohiba - 1966 EL 2011 (50 盒)",
+          "name": "Cohiba - 5 Pack- Piramides Extra A/T (50 盒)",
           "price": "$ 190.00",
           "stock": "189",
           "url": "https://cn.cohcigars.com/cigars-cohiba"
@@ -3546,7 +3581,7 @@
         },
         "cohcigars:8807:9440": {
           "id": "cohcigars:8807:9440",
-          "name": "Cohiba - 1966 EL 2011 (10 盒)",
+          "name": "Cohiba - 5 Pack- Piramides Extra A/T (10 盒)",
           "price": "$ 3800.00",
           "stock": "50",
           "url": "https://cn.cohcigars.com/cigars-cohiba"
@@ -3658,7 +3693,7 @@
         },
         "cohcigars:9247:9892": {
           "id": "cohcigars:9247:9892",
-          "name": "Cohiba - 1966 EL 2011 (5 盒)",
+          "name": "Cohiba - 5 Pack- Piramides Extra A/T (5 盒)",
           "price": "$ 379.00",
           "stock": "98",
           "url": "https://cn.cohcigars.com/cigars-cohiba"
@@ -3825,8 +3860,8 @@
           "url": "https://cn.cohcigars.com/cigars-montecristo"
         }
       },
-      "last_checked": "2026-08-24T03:38:50+00:00",
-      "last_count": 437,
+      "last_checked": "2026-08-24T05:05:08+00:00",
+      "last_count": 442,
       "last_error": null,
       "previous": {
         "cohcigars:101:144": {
@@ -4531,7 +4566,7 @@
         },
         "cohcigars:19331:20019": {
           "id": "cohcigars:19331:20019",
-          "name": "Cohiba - 1966 EL 2011 (5 盒)",
+          "name": "Cohiba - 5 Pack- Piramides Extra A/T (5 盒)",
           "price": "$ 179.00",
           "stock": "72",
           "url": "https://cn.cohcigars.com/cigars-cohiba"
@@ -4757,7 +4792,7 @@
           "id": "cohcigars:2052:24352",
           "name": "Trinidad - Robusto Extra Gift Box (3x2 盒)",
           "price": "$ 255.00",
-          "stock": "85",
+          "stock": "84",
           "url": "https://cn.cohcigars.com/cigars-trinidad"
         },
         "cohcigars:205:297": {
@@ -5525,17 +5560,52 @@
         },
         "cohcigars:26182:27076": {
           "id": "cohcigars:26182:27076",
-          "name": "Cohiba - 1966 EL 2011 (5 盒)",
+          "name": "Cohiba - 5 Pack- Piramides Extra A/T (5 盒)",
           "price": "$ 199.00",
           "stock": "176",
           "url": "https://cn.cohcigars.com/cigars-cohiba"
         },
         "cohcigars:26259:27157": {
           "id": "cohcigars:26259:27157",
-          "name": "Cohiba - 1966 EL 2011 (5 盒)",
+          "name": "Cohiba - 5 Pack- Piramides Extra A/T (5 盒)",
           "price": "$ 165.00",
-          "stock": "97",
+          "stock": "96",
           "url": "https://cn.cohcigars.com/cigars-cohiba"
+        },
+        "cohcigars:26311:27219": {
+          "id": "cohcigars:26311:27219",
+          "name": "Partagas - 5 Pack- Cedros Year of Snake (5 盒)",
+          "price": "$ 415.00",
+          "stock": "100",
+          "url": "https://cn.cohcigars.com/cigars-partagas"
+        },
+        "cohcigars:26312:27220": {
+          "id": "cohcigars:26312:27220",
+          "name": "Cohiba - 5 Pack- Piramides Extra A/T (5 盒)",
+          "price": "$ 825.00",
+          "stock": "50",
+          "url": "https://cn.cohcigars.com/cigars-cohiba"
+        },
+        "cohcigars:26313:27221": {
+          "id": "cohcigars:26313:27221",
+          "name": "Vintage - 5 Pack- PCC Regionals: Bolivar Short Bolivar, Diplo PCC 30th, RA Celestiales Finos, PL Robustos Larranaga and Belicosos (5 盒)",
+          "price": "$ 350.00",
+          "stock": "100",
+          "url": "https://cn.cohcigars.com/cigars-vintage"
+        },
+        "cohcigars:26314:27222": {
+          "id": "cohcigars:26314:27222",
+          "name": "Montecristo - 5 Pack- Vintage 2010 Montecristo No.4 (Old Band) (5 盒)",
+          "price": "$ 220.00",
+          "stock": "220",
+          "url": "https://cn.cohcigars.com/cigars-montecristo"
+        },
+        "cohcigars:26315:27223": {
+          "id": "cohcigars:26315:27223",
+          "name": "H.Upmann - 5 Pack- Vintage 2005 Magnum 46 (Old Band) (5 盒)",
+          "price": "$ 490.00",
+          "stock": "100",
+          "url": "https://cn.cohcigars.com/cigars-h.upmann"
         },
         "cohcigars:263:24306": {
           "id": "cohcigars:263:24306",
@@ -6162,7 +6232,7 @@
         },
         "cohcigars:4744:5106": {
           "id": "cohcigars:4744:5106",
-          "name": "Cohiba - 1966 EL 2011 (50 盒)",
+          "name": "Cohiba - 5 Pack- Piramides Extra A/T (50 盒)",
           "price": "$ 190.00",
           "stock": "189",
           "url": "https://cn.cohcigars.com/cigars-cohiba"
@@ -6666,7 +6736,7 @@
         },
         "cohcigars:8807:9440": {
           "id": "cohcigars:8807:9440",
-          "name": "Cohiba - 1966 EL 2011 (10 盒)",
+          "name": "Cohiba - 5 Pack- Piramides Extra A/T (10 盒)",
           "price": "$ 3800.00",
           "stock": "50",
           "url": "https://cn.cohcigars.com/cigars-cohiba"
@@ -6764,7 +6834,7 @@
         },
         "cohcigars:9247:9892": {
           "id": "cohcigars:9247:9892",
-          "name": "Cohiba - 1966 EL 2011 (5 盒)",
+          "name": "Cohiba - 5 Pack- Piramides Extra A/T (5 盒)",
           "price": "$ 379.00",
           "stock": "98",
           "url": "https://cn.cohcigars.com/cigars-cohiba"
@@ -8123,7 +8193,7 @@
           "url": "https://www.ihavanas.com/details.php?ptype=cigars&pid=Partagas"
         }
       },
-      "last_checked": "2026-08-24T03:38:32+00:00",
+      "last_checked": "2026-08-24T05:04:16+00:00",
       "last_count": 195,
       "last_error": null,
       "previous": {
