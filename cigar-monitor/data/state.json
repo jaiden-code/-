@@ -62,7 +62,7 @@
           "id": "cohcigars:10801:11453",
           "name": "Quai Dorsay - No.52 (10 盒)",
           "price": "$ 370.00",
-          "stock": "18",
+          "stock": "16",
           "url": "https://cn.cohcigars.com/cigars-quai-dorsay"
         },
         "cohcigars:10847:11499": {
@@ -1854,7 +1854,7 @@
           "id": "cohcigars:25142:26026",
           "name": "Trinidad - Villa LCDH (12 盒)",
           "price": "$ 1290.00",
-          "stock": "8",
+          "stock": "7",
           "url": "https://cn.cohcigars.com/cigars-trinidad"
         },
         "cohcigars:25144:26028": {
@@ -1964,9 +1964,9 @@
         },
         "cohcigars:26182:27076": {
           "id": "cohcigars:26182:27076",
-          "name": "Cohiba - 5 Pack- Piramides Extra A/T (5 盒)",
+          "name": "Cohiba - 5 Pack- Siglo I, II, III, IV, VI (5 盒)",
           "price": "$ 199.00",
-          "stock": "176",
+          "stock": "175",
           "url": "https://cn.cohcigars.com/cigars-cohiba"
         },
         "cohcigars:26206:27104": {
@@ -1989,6 +1989,13 @@
           "price": "$ 255.00",
           "stock": "1",
           "url": "https://cn.cohcigars.com/cigars-juan-lopez"
+        },
+        "cohcigars:26257:27156": {
+          "id": "cohcigars:26257:27156",
+          "name": "Hoyo de Monterrey - 5 Pack- Le Hoyo San Juan (5 盒)",
+          "price": "$ 99.00",
+          "stock": "80",
+          "url": "https://cn.cohcigars.com/cigars-hoyo-de-monterrey"
         },
         "cohcigars:26259:27157": {
           "id": "cohcigars:26259:27157",
@@ -2038,6 +2045,27 @@
           "price": "$ 490.00",
           "stock": "100",
           "url": "https://cn.cohcigars.com/cigars-h.upmann"
+        },
+        "cohcigars:26316:27224": {
+          "id": "cohcigars:26316:27224",
+          "name": "Cohiba - 5 Pack- Siglo I, II, III, IV, VI (5 盒)",
+          "price": "$ 335.00",
+          "stock": "100",
+          "url": "https://cn.cohcigars.com/cigars-cohiba"
+        },
+        "cohcigars:26317:27225": {
+          "id": "cohcigars:26317:27225",
+          "name": "Hoyo de Monterrey - 5 Pack- Hermosos No.4 (5 盒)",
+          "price": "$ 310.00",
+          "stock": "100",
+          "url": "https://cn.cohcigars.com/cigars-hoyo-de-monterrey"
+        },
+        "cohcigars:26318:27226": {
+          "id": "cohcigars:26318:27226",
+          "name": "Hoyo de Monterrey - 5 Pack- Le Hoyo San Juan (5 盒)",
+          "price": "$ 215.00",
+          "stock": "30",
+          "url": "https://cn.cohcigars.com/cigars-hoyo-de-monterrey"
         },
         "cohcigars:263:24306": {
           "id": "cohcigars:263:24306",
@@ -3028,7 +3056,7 @@
         },
         "cohcigars:4744:5106": {
           "id": "cohcigars:4744:5106",
-          "name": "Cohiba - 5 Pack- Piramides Extra A/T (50 盒)",
+          "name": "Cohiba - 5 Pack- Siglo I, II, III, IV, VI (50 盒)",
           "price": "$ 190.00",
           "stock": "189",
           "url": "https://cn.cohcigars.com/cigars-cohiba"
@@ -3581,7 +3609,7 @@
         },
         "cohcigars:8807:9440": {
           "id": "cohcigars:8807:9440",
-          "name": "Cohiba - 5 Pack- Piramides Extra A/T (10 盒)",
+          "name": "Cohiba - 5 Pack- Siglo I, II, III, IV, VI (10 盒)",
           "price": "$ 3800.00",
           "stock": "50",
           "url": "https://cn.cohcigars.com/cigars-cohiba"
@@ -3860,8 +3888,8 @@
           "url": "https://cn.cohcigars.com/cigars-montecristo"
         }
       },
-      "last_checked": "2026-08-24T05:05:08+00:00",
-      "last_count": 442,
+      "last_checked": "2026-08-24T05:25:10+00:00",
+      "last_count": 446,
       "last_error": null,
       "previous": {
         "cohcigars:101:144": {
@@ -3910,7 +3938,7 @@
           "id": "cohcigars:10801:11453",
           "name": "Quai Dorsay - No.52 (10 盒)",
           "price": "$ 370.00",
-          "stock": "18",
+          "stock": "16",
           "url": "https://cn.cohcigars.com/cigars-quai-dorsay"
         },
         "cohcigars:10847:11499": {
@@ -5471,7 +5499,7 @@
           "id": "cohcigars:25142:26026",
           "name": "Trinidad - Villa LCDH (12 盒)",
           "price": "$ 1290.00",
-          "stock": "8",
+          "stock": "7",
           "url": "https://cn.cohcigars.com/cigars-trinidad"
         },
         "cohcigars:25144:26028": {
@@ -5560,10 +5588,17 @@
         },
         "cohcigars:26182:27076": {
           "id": "cohcigars:26182:27076",
-          "name": "Cohiba - 5 Pack- Piramides Extra A/T (5 盒)",
+          "name": "Cohiba - 5 Pack- Siglo I, II, III, IV, VI (5 盒)",
           "price": "$ 199.00",
-          "stock": "176",
+          "stock": "175",
           "url": "https://cn.cohcigars.com/cigars-cohiba"
+        },
+        "cohcigars:26257:27156": {
+          "id": "cohcigars:26257:27156",
+          "name": "Hoyo de Monterrey - 5 Pack- Le Hoyo San Juan (5 盒)",
+          "price": "$ 99.00",
+          "stock": "80",
+          "url": "https://cn.cohcigars.com/cigars-hoyo-de-monterrey"
         },
         "cohcigars:26259:27157": {
           "id": "cohcigars:26259:27157",
@@ -5606,6 +5641,27 @@
           "price": "$ 490.00",
           "stock": "100",
           "url": "https://cn.cohcigars.com/cigars-h.upmann"
+        },
+        "cohcigars:26316:27224": {
+          "id": "cohcigars:26316:27224",
+          "name": "Cohiba - 5 Pack- Siglo I, II, III, IV, VI (5 盒)",
+          "price": "$ 335.00",
+          "stock": "100",
+          "url": "https://cn.cohcigars.com/cigars-cohiba"
+        },
+        "cohcigars:26317:27225": {
+          "id": "cohcigars:26317:27225",
+          "name": "Hoyo de Monterrey - 5 Pack- Hermosos No.4 (5 盒)",
+          "price": "$ 310.00",
+          "stock": "100",
+          "url": "https://cn.cohcigars.com/cigars-hoyo-de-monterrey"
+        },
+        "cohcigars:26318:27226": {
+          "id": "cohcigars:26318:27226",
+          "name": "Hoyo de Monterrey - 5 Pack- Le Hoyo San Juan (5 盒)",
+          "price": "$ 215.00",
+          "stock": "30",
+          "url": "https://cn.cohcigars.com/cigars-hoyo-de-monterrey"
         },
         "cohcigars:263:24306": {
           "id": "cohcigars:263:24306",
@@ -6232,7 +6288,7 @@
         },
         "cohcigars:4744:5106": {
           "id": "cohcigars:4744:5106",
-          "name": "Cohiba - 5 Pack- Piramides Extra A/T (50 盒)",
+          "name": "Cohiba - 5 Pack- Siglo I, II, III, IV, VI (50 盒)",
           "price": "$ 190.00",
           "stock": "189",
           "url": "https://cn.cohcigars.com/cigars-cohiba"
@@ -6736,7 +6792,7 @@
         },
         "cohcigars:8807:9440": {
           "id": "cohcigars:8807:9440",
-          "name": "Cohiba - 5 Pack- Piramides Extra A/T (10 盒)",
+          "name": "Cohiba - 5 Pack- Siglo I, II, III, IV, VI (10 盒)",
           "price": "$ 3800.00",
           "stock": "50",
           "url": "https://cn.cohcigars.com/cigars-cohiba"
@@ -8193,7 +8249,7 @@
           "url": "https://www.ihavanas.com/details.php?ptype=cigars&pid=Partagas"
         }
       },
-      "last_checked": "2026-08-24T05:04:16+00:00",
+      "last_checked": "2026-08-24T05:24:52+00:00",
       "last_count": 195,
       "last_error": null,
       "previous": {
