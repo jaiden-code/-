@@ -195,7 +195,7 @@
           "id": "cohcigars:11350:12000",
           "name": "Hoyo de Monterrey - Epicure No.3 (10 盒)",
           "price": "$ 350.00",
-          "stock": "17",
+          "stock": "15",
           "url": "https://cn.cohcigars.com/cigars-hoyo-de-monterrey"
         },
         "cohcigars:11350:12001": {
@@ -1910,7 +1910,7 @@
           "id": "cohcigars:2569:2859",
           "name": "Guantanamera - MIni (100 x 4 盒)",
           "price": "$ 157.00",
-          "stock": "43",
+          "stock": "41",
           "url": "https://cn.cohcigars.com/cigars-guantanamera"
         },
         "cohcigars:256:364": {
@@ -2050,7 +2050,7 @@
           "id": "cohcigars:26316:27224",
           "name": "Cohiba - 1966 EL 2011 (5 盒)",
           "price": "$ 269.00",
-          "stock": "100",
+          "stock": "98",
           "url": "https://cn.cohcigars.com/cigars-cohiba"
         },
         "cohcigars:26317:27225": {
@@ -3888,7 +3888,7 @@
           "url": "https://cn.cohcigars.com/cigars-montecristo"
         }
       },
-      "last_checked": "2026-08-24T07:44:42+00:00",
+      "last_checked": "2026-08-24T09:07:16+00:00",
       "last_count": 435,
       "last_error": null,
       "previous": {
@@ -4050,7 +4050,7 @@
           "id": "cohcigars:11350:12000",
           "name": "Hoyo de Monterrey - Epicure No.3 (10 盒)",
           "price": "$ 350.00",
-          "stock": "17",
+          "stock": "15",
           "url": "https://cn.cohcigars.com/cigars-hoyo-de-monterrey"
         },
         "cohcigars:11484:12137": {
@@ -5541,7 +5541,7 @@
           "id": "cohcigars:2569:2859",
           "name": "Guantanamera - MIni (100 x 4 盒)",
           "price": "$ 157.00",
-          "stock": "43",
+          "stock": "41",
           "url": "https://cn.cohcigars.com/cigars-guantanamera"
         },
         "cohcigars:256:364": {
@@ -5590,7 +5590,7 @@
           "id": "cohcigars:26316:27224",
           "name": "Cohiba - 1966 EL 2011 (5 盒)",
           "price": "$ 269.00",
-          "stock": "100",
+          "stock": "98",
           "url": "https://cn.cohcigars.com/cigars-cohiba"
         },
         "cohcigars:263:24306": {
@@ -8172,7 +8172,7 @@
           "url": "https://www.ihavanas.com/details.php?ptype=cigars&pid=Partagas"
         }
       },
-      "last_checked": "2026-08-24T07:44:19+00:00",
+      "last_checked": "2026-08-24T09:06:57+00:00",
       "last_count": 195,
       "last_error": null,
       "previous": {
