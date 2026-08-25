@@ -755,7 +755,7 @@
           "id": "cohcigars:1802:2041",
           "name": "Vintage - Montecristo No.4 - 2016 (25 盒)",
           "price": "$ 890.00",
-          "stock": "50",
+          "stock": "49",
           "url": "https://cn.cohcigars.com/cigars-vintage"
         },
         "cohcigars:1820:2061": {
@@ -1007,7 +1007,7 @@
           "id": "cohcigars:202:26938",
           "name": "Romeo Y Julieta - Romeo No.2 A/T (5x2 盒)",
           "price": "$ 149.00",
-          "stock": "77",
+          "stock": "76",
           "url": "https://cn.cohcigars.com/cigars-romeo-y-julieta"
         },
         "cohcigars:202:289": {
@@ -2127,7 +2127,7 @@
           "id": "cohcigars:271:387",
           "name": "Quintero Y Hermano - Panetelas (25 盒)",
           "price": "$ 150.00",
-          "stock": "45",
+          "stock": "44",
           "url": "https://cn.cohcigars.com/cigars-quintero-y-hermano"
         },
         "cohcigars:273:19988": {
@@ -2274,7 +2274,7 @@
           "id": "cohcigars:296:22633",
           "name": "H.Upmann - Regalias (5 盒)",
           "price": "$ 115.00",
-          "stock": "60",
+          "stock": "59",
           "url": "https://cn.cohcigars.com/cigars-h.upmann"
         },
         "cohcigars:2971:3305": {
@@ -3625,7 +3625,7 @@
           "id": "cohcigars:88:621",
           "name": "H.Upmann - Magnum 50 (10 盒)",
           "price": "$ 445.00",
-          "stock": "9",
+          "stock": "8",
           "url": "https://cn.cohcigars.com/cigars-h.upmann"
         },
         "cohcigars:8959:9602": {
@@ -3888,7 +3888,7 @@
           "url": "https://cn.cohcigars.com/cigars-montecristo"
         }
       },
-      "last_checked": "2026-08-25T05:17:34+00:00",
+      "last_checked": "2026-08-25T07:11:33+00:00",
       "last_count": 435,
       "last_error": null,
       "previous": {
@@ -4526,7 +4526,7 @@
           "id": "cohcigars:1802:2041",
           "name": "Vintage - Montecristo No.4 - 2016 (25 盒)",
           "price": "$ 890.00",
-          "stock": "50",
+          "stock": "49",
           "url": "https://cn.cohcigars.com/cigars-vintage"
         },
         "cohcigars:185:264": {
@@ -4729,7 +4729,7 @@
           "id": "cohcigars:202:26938",
           "name": "Romeo Y Julieta - Romeo No.2 A/T (5x2 盒)",
           "price": "$ 149.00",
-          "stock": "77",
+          "stock": "76",
           "url": "https://cn.cohcigars.com/cigars-romeo-y-julieta"
         },
         "cohcigars:202:289": {
@@ -5625,7 +5625,7 @@
           "id": "cohcigars:271:387",
           "name": "Quintero Y Hermano - Panetelas (25 盒)",
           "price": "$ 150.00",
-          "stock": "45",
+          "stock": "44",
           "url": "https://cn.cohcigars.com/cigars-quintero-y-hermano"
         },
         "cohcigars:273:19988": {
@@ -5723,7 +5723,7 @@
           "id": "cohcigars:296:22633",
           "name": "H.Upmann - Regalias (5 盒)",
           "price": "$ 115.00",
-          "stock": "60",
+          "stock": "59",
           "url": "https://cn.cohcigars.com/cigars-h.upmann"
         },
         "cohcigars:29:47": {
@@ -6738,7 +6738,7 @@
           "id": "cohcigars:88:621",
           "name": "H.Upmann - Magnum 50 (10 盒)",
           "price": "$ 445.00",
-          "stock": "9",
+          "stock": "8",
           "url": "https://cn.cohcigars.com/cigars-h.upmann"
         },
         "cohcigars:8959:9602": {
@@ -8172,7 +8172,7 @@
           "url": "https://www.ihavanas.com/details.php?ptype=cigars&pid=Partagas"
         }
       },
-      "last_checked": "2026-08-25T05:17:10+00:00",
+      "last_checked": "2026-08-25T07:11:14+00:00",
       "last_count": 195,
       "last_error": null,
       "previous": {
