@@ -3563,7 +3563,7 @@
           "name": "Cuaba - APAC RE Asia Pacifico (10 盒)",
           "price": "$ 805.00",
           "stock": "20",
-          "url": "https://cn.cohcigars.com/regional-release"
+          "url": "https://cn.cohcigars.com/cigars-cuaba"
         },
         "cohcigars:8510:9081": {
           "id": "cohcigars:8510:9081",
@@ -3916,8 +3916,8 @@
           "url": "https://cn.cohcigars.com/cigars-montecristo"
         }
       },
-      "last_checked": "2026-08-26T04:58:28+00:00",
-      "last_count": 438,
+      "last_checked": "2026-08-26T05:16:30+00:00",
+      "last_count": 442,
       "last_error": null,
       "previous": {
         "cohcigars:101:144": {
@@ -6419,6 +6419,20 @@
           "stock": "319",
           "url": "https://cn.cohcigars.com/cigars-la-flor-de-cano"
         },
+        "cohcigars:58:94": {
+          "id": "cohcigars:58:94",
+          "name": "Cuaba - Distinguidos (10 盒)",
+          "price": "$ 363.00",
+          "stock": "10",
+          "url": "https://cn.cohcigars.com/cigars-cuaba"
+        },
+        "cohcigars:59:95": {
+          "id": "cohcigars:59:95",
+          "name": "Cuaba - Divinos (25 盒)",
+          "price": "$ 505.00",
+          "stock": "12",
+          "url": "https://cn.cohcigars.com/cigars-cuaba"
+        },
         "cohcigars:614:742": {
           "id": "cohcigars:614:742",
           "name": "Bolivar - Royal Coronas A/T (10 盒)",
@@ -6432,6 +6446,13 @@
           "price": "$ 375.00",
           "stock": "98",
           "url": "https://cn.cohcigars.com/cigars-punch"
+        },
+        "cohcigars:62:99": {
+          "id": "cohcigars:62:99",
+          "name": "Cuaba - Tradicionales (25 盒)",
+          "price": "$ 415.00",
+          "stock": "14",
+          "url": "https://cn.cohcigars.com/cigars-cuaba"
         },
         "cohcigars:642:17328": {
           "id": "cohcigars:642:17328",
@@ -6537,6 +6558,13 @@
           "price": "$ 31.00",
           "stock": "86",
           "url": "https://cn.cohcigars.com/cigars-singles-6-stick-min"
+        },
+        "cohcigars:70:109": {
+          "id": "cohcigars:70:109",
+          "name": "Cuaba - Divinos (25 盒)",
+          "price": "$ 365.00",
+          "stock": "45",
+          "url": "https://cn.cohcigars.com/cigars-cuaba"
         },
         "cohcigars:71:110": {
           "id": "cohcigars:71:110",
@@ -6704,7 +6732,7 @@
           "name": "Cuaba - APAC RE Asia Pacifico (10 盒)",
           "price": "$ 805.00",
           "stock": "20",
-          "url": "https://cn.cohcigars.com/regional-release"
+          "url": "https://cn.cohcigars.com/cigars-cuaba"
         },
         "cohcigars:8510:9081": {
           "id": "cohcigars:8510:9081",
@@ -8221,7 +8249,7 @@
           "url": "https://www.ihavanas.com/details.php?ptype=cigars&pid=Partagas"
         }
       },
-      "last_checked": "2026-08-26T04:58:07+00:00",
+      "last_checked": "2026-08-26T05:16:06+00:00",
       "last_count": 195,
       "last_error": null,
       "previous": {
