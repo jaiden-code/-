@@ -314,7 +314,7 @@
           "id": "cohcigars:122:5796",
           "name": "Jose L. Piedra - Brevas (12 盒)",
           "price": "$ 88.00",
-          "stock": "58",
+          "stock": "57",
           "url": "https://cn.cohcigars.com/cigars-jose-l.-piedra"
         },
         "cohcigars:1231:1420": {
@@ -363,7 +363,7 @@
           "id": "cohcigars:1250:1417",
           "name": "H.Upmann - Connossieur A (25 盒)",
           "price": "$ 880.00",
-          "stock": "1",
+          "stock": "10",
           "url": "https://cn.cohcigars.com/cigars-h.upmann"
         },
         "cohcigars:1252:1422": {
@@ -979,7 +979,7 @@
           "id": "cohcigars:201:21411",
           "name": "Romeo Y Julieta - Romeo No.1 A/T (3 盒)",
           "price": "$ 60.00",
-          "stock": "221",
+          "stock": "220",
           "url": "https://cn.cohcigars.com/cigars-romeo-y-julieta"
         },
         "cohcigars:201:25377": {
@@ -1763,14 +1763,14 @@
           "id": "cohcigars:24446:25292",
           "name": "Cohiba - Exquisitos C/P (5x5 盒)",
           "price": "$ 720.00",
-          "stock": "38",
+          "stock": "36",
           "url": "https://cn.cohcigars.com/cigars-cohiba"
         },
         "cohcigars:24447:25294": {
           "id": "cohcigars:24447:25294",
           "name": "Cohiba - Robustos A/T (88 盒)",
           "price": "$ 290.00",
-          "stock": "976",
+          "stock": "975",
           "url": "https://cn.cohcigars.com/cigars-cohiba"
         },
         "cohcigars:24448:25295": {
@@ -1791,14 +1791,14 @@
           "id": "cohcigars:24450:25297",
           "name": "Cohiba - Ambar (60 盒)",
           "price": "$ 115.00",
-          "stock": "192",
+          "stock": "191",
           "url": "https://cn.cohcigars.com/cigars-cohiba"
         },
         "cohcigars:24451:25298": {
           "id": "cohcigars:24451:25298",
           "name": "Cohiba - Medio Siglo A/T (20x5 盒)",
           "price": "$ 99.00",
-          "stock": "143",
+          "stock": "142",
           "url": "https://cn.cohcigars.com/cigars-cohiba"
         },
         "cohcigars:244:342": {
@@ -1910,7 +1910,7 @@
           "id": "cohcigars:2569:2859",
           "name": "Guantanamera - MIni (100 x 4 盒)",
           "price": "$ 157.00",
-          "stock": "41",
+          "stock": "40",
           "url": "https://cn.cohcigars.com/cigars-guantanamera"
         },
         "cohcigars:256:364": {
@@ -1918,6 +1918,13 @@
           "name": "Vegas Robaina - Famosos (25 盒)",
           "price": "$ 710.00",
           "stock": "20",
+          "url": "https://cn.cohcigars.com/cigars-vegas-robaina"
+        },
+        "cohcigars:257:366": {
+          "id": "cohcigars:257:366",
+          "name": "Vegas Robaina - Unicos (25 盒)",
+          "price": "$ 762.00",
+          "stock": "10",
           "url": "https://cn.cohcigars.com/cigars-vegas-robaina"
         },
         "cohcigars:2585:6399": {
@@ -2050,7 +2057,7 @@
           "id": "cohcigars:26316:27224",
           "name": "Cohiba - 1966 EL 2011 (5 盒)",
           "price": "$ 269.00",
-          "stock": "84",
+          "stock": "83",
           "url": "https://cn.cohcigars.com/cigars-cohiba"
         },
         "cohcigars:26317:27225": {
@@ -2788,6 +2795,13 @@
           "stock": "64",
           "url": "https://cn.cohcigars.com/cigars-cohiba"
         },
+        "cohcigars:3974:4274": {
+          "id": "cohcigars:3974:4274",
+          "name": "Vintage - Montecristo No.4 - 2016 (15 盒)",
+          "price": "$ 499.00",
+          "stock": "200",
+          "url": "https://cn.cohcigars.com/cigars-vintage"
+        },
         "cohcigars:397:20574": {
           "id": "cohcigars:397:20574",
           "name": "Cohiba - Siglo IV (3 盒)",
@@ -2832,9 +2846,9 @@
         },
         "cohcigars:4127:4427": {
           "id": "cohcigars:4127:4427",
-          "name": "Vintage - Rafael Gonsales Perlas - 2015 (25 盒)",
-          "price": "$ 390.00",
-          "stock": "58",
+          "name": "Vintage - Partagas Shorts - 2015 (5x5 盒)",
+          "price": "$ 385.00",
+          "stock": "50",
           "url": "https://cn.cohcigars.com/cigars-vintage"
         },
         "cohcigars:4151:4451": {
@@ -2853,9 +2867,9 @@
         },
         "cohcigars:4222:4522": {
           "id": "cohcigars:4222:4522",
-          "name": "Vintage - Romeo Y Julieta Cedros de Luxe No.3 - 2016 (25 盒)",
-          "price": "$ 830.00",
-          "stock": "10",
+          "name": "Vintage - Partagas Shorts - 2015 (25 盒)",
+          "price": "$ 590.00",
+          "stock": "30",
           "url": "https://cn.cohcigars.com/cigars-vintage"
         },
         "cohcigars:4287:4587": {
@@ -2874,9 +2888,9 @@
         },
         "cohcigars:4366:4667": {
           "id": "cohcigars:4366:4667",
-          "name": "Vintage - Romeo Y Julieta Romeo No.1 A/T - 2016 (10 盒)",
-          "price": "$ 395.00",
-          "stock": "20",
+          "name": "Vintage - Partagas Shorts - 2015 (10 盒)",
+          "price": "$ 299.00",
+          "stock": "60",
           "url": "https://cn.cohcigars.com/cigars-vintage"
         },
         "cohcigars:43:66": {
@@ -2898,6 +2912,13 @@
           "name": "Vintage - Vegueros Mananitas - 2016 (16 盒)",
           "price": "$ 480.00",
           "stock": "19",
+          "url": "https://cn.cohcigars.com/cigars-vintage"
+        },
+        "cohcigars:4532:4833": {
+          "id": "cohcigars:4532:4833",
+          "name": "Vintage - Partagas Shorts - 2015 (16 盒)",
+          "price": "$ 299.00",
+          "stock": "20",
           "url": "https://cn.cohcigars.com/cigars-vintage"
         },
         "cohcigars:4570:4871": {
@@ -3198,7 +3219,7 @@
           "id": "cohcigars:5773:20027",
           "name": "La Flor De Cano - Elegidos (15 盒)",
           "price": "$ 205.00",
-          "stock": "17",
+          "stock": "16",
           "url": "https://cn.cohcigars.com/cigars-la-flor-de-cano"
         },
         "cohcigars:5773:22086": {
@@ -3730,7 +3751,7 @@
           "id": "cohcigars:924:967",
           "name": "Partagas - Cetros Year of the Snake (25 盒)",
           "price": "$ 275.00",
-          "stock": "195",
+          "stock": "194",
           "url": "https://cn.cohcigars.com/cigars-partagas"
         },
         "cohcigars:9253:9898": {
@@ -3852,6 +3873,13 @@
           "stock": "19",
           "url": "https://cn.cohcigars.com/cigars-hoyo-de-monterrey"
         },
+        "cohcigars:9439:10082": {
+          "id": "cohcigars:9439:10082",
+          "name": "Por Larranaga - Picadores No.1 (25 盒)",
+          "price": "$ 550.00",
+          "stock": "10",
+          "url": "https://cn.cohcigars.com/cigars-por-larranaga"
+        },
         "cohcigars:953:1003": {
           "id": "cohcigars:953:1003",
           "name": "Romeo Y Julieta - Wide Churchills A/T (15 盒)",
@@ -3888,8 +3916,8 @@
           "url": "https://cn.cohcigars.com/cigars-montecristo"
         }
       },
-      "last_checked": "2026-08-26T02:13:51+00:00",
-      "last_count": 435,
+      "last_checked": "2026-08-26T03:28:43+00:00",
+      "last_count": 443,
       "last_error": null,
       "previous": {
         "cohcigars:101:144": {
@@ -4134,7 +4162,7 @@
           "id": "cohcigars:122:5796",
           "name": "Jose L. Piedra - Brevas (12 盒)",
           "price": "$ 88.00",
-          "stock": "58",
+          "stock": "57",
           "url": "https://cn.cohcigars.com/cigars-jose-l.-piedra"
         },
         "cohcigars:1231:1420": {
@@ -4171,6 +4199,13 @@
           "price": "$ 1100.00",
           "stock": "34",
           "url": "https://cn.cohcigars.com/cigars-partagas"
+        },
+        "cohcigars:1250:1417": {
+          "id": "cohcigars:1250:1417",
+          "name": "H.Upmann - Connossieur A (25 盒)",
+          "price": "$ 880.00",
+          "stock": "10",
+          "url": "https://cn.cohcigars.com/cigars-h.upmann"
         },
         "cohcigars:1252:1422": {
           "id": "cohcigars:1252:1422",
@@ -4701,7 +4736,7 @@
           "id": "cohcigars:201:21411",
           "name": "Romeo Y Julieta - Romeo No.1 A/T (3 盒)",
           "price": "$ 60.00",
-          "stock": "221",
+          "stock": "220",
           "url": "https://cn.cohcigars.com/cigars-romeo-y-julieta"
         },
         "cohcigars:201:25377": {
@@ -5408,14 +5443,14 @@
           "id": "cohcigars:24446:25292",
           "name": "Cohiba - Exquisitos C/P (5x5 盒)",
           "price": "$ 720.00",
-          "stock": "38",
+          "stock": "36",
           "url": "https://cn.cohcigars.com/cigars-cohiba"
         },
         "cohcigars:24447:25294": {
           "id": "cohcigars:24447:25294",
           "name": "Cohiba - Robustos A/T (88 盒)",
           "price": "$ 290.00",
-          "stock": "976",
+          "stock": "975",
           "url": "https://cn.cohcigars.com/cigars-cohiba"
         },
         "cohcigars:24448:25295": {
@@ -5436,14 +5471,14 @@
           "id": "cohcigars:24450:25297",
           "name": "Cohiba - Ambar (60 盒)",
           "price": "$ 115.00",
-          "stock": "192",
+          "stock": "191",
           "url": "https://cn.cohcigars.com/cigars-cohiba"
         },
         "cohcigars:24451:25298": {
           "id": "cohcigars:24451:25298",
           "name": "Cohiba - Medio Siglo A/T (20x5 盒)",
           "price": "$ 99.00",
-          "stock": "143",
+          "stock": "142",
           "url": "https://cn.cohcigars.com/cigars-cohiba"
         },
         "cohcigars:244:342": {
@@ -5541,7 +5576,7 @@
           "id": "cohcigars:2569:2859",
           "name": "Guantanamera - MIni (100 x 4 盒)",
           "price": "$ 157.00",
-          "stock": "41",
+          "stock": "40",
           "url": "https://cn.cohcigars.com/cigars-guantanamera"
         },
         "cohcigars:256:364": {
@@ -5549,6 +5584,13 @@
           "name": "Vegas Robaina - Famosos (25 盒)",
           "price": "$ 710.00",
           "stock": "20",
+          "url": "https://cn.cohcigars.com/cigars-vegas-robaina"
+        },
+        "cohcigars:257:366": {
+          "id": "cohcigars:257:366",
+          "name": "Vegas Robaina - Unicos (25 盒)",
+          "price": "$ 762.00",
+          "stock": "10",
           "url": "https://cn.cohcigars.com/cigars-vegas-robaina"
         },
         "cohcigars:2586:5280": {
@@ -5590,7 +5632,7 @@
           "id": "cohcigars:26316:27224",
           "name": "Cohiba - 1966 EL 2011 (5 盒)",
           "price": "$ 269.00",
-          "stock": "84",
+          "stock": "83",
           "url": "https://cn.cohcigars.com/cigars-cohiba"
         },
         "cohcigars:263:24306": {
@@ -6034,6 +6076,13 @@
           "stock": "64",
           "url": "https://cn.cohcigars.com/cigars-cohiba"
         },
+        "cohcigars:3974:4274": {
+          "id": "cohcigars:3974:4274",
+          "name": "Vintage - Montecristo No.4 - 2016 (15 盒)",
+          "price": "$ 499.00",
+          "stock": "200",
+          "url": "https://cn.cohcigars.com/cigars-vintage"
+        },
         "cohcigars:397:20574": {
           "id": "cohcigars:397:20574",
           "name": "Cohiba - Siglo IV (3 盒)",
@@ -6062,6 +6111,13 @@
           "stock": "50",
           "url": "https://cn.cohcigars.com/cigars-vintage"
         },
+        "cohcigars:4127:4427": {
+          "id": "cohcigars:4127:4427",
+          "name": "Vintage - Partagas Shorts - 2015 (5x5 盒)",
+          "price": "$ 385.00",
+          "stock": "50",
+          "url": "https://cn.cohcigars.com/cigars-vintage"
+        },
         "cohcigars:41:64": {
           "id": "cohcigars:41:64",
           "name": "Cohiba - Maduro 5 Magicos (10 盒)",
@@ -6069,12 +6125,33 @@
           "stock": "10",
           "url": "https://cn.cohcigars.com/cigars-cohiba"
         },
+        "cohcigars:4222:4522": {
+          "id": "cohcigars:4222:4522",
+          "name": "Vintage - Partagas Shorts - 2015 (25 盒)",
+          "price": "$ 590.00",
+          "stock": "30",
+          "url": "https://cn.cohcigars.com/cigars-vintage"
+        },
+        "cohcigars:4366:4667": {
+          "id": "cohcigars:4366:4667",
+          "name": "Vintage - Partagas Shorts - 2015 (10 盒)",
+          "price": "$ 299.00",
+          "stock": "60",
+          "url": "https://cn.cohcigars.com/cigars-vintage"
+        },
         "cohcigars:43:66": {
           "id": "cohcigars:43:66",
           "name": "Cohiba - Robustos (25 盒)",
           "price": "$ 2290.00",
           "stock": "18",
           "url": "https://cn.cohcigars.com/cigars-cohiba"
+        },
+        "cohcigars:4532:4833": {
+          "id": "cohcigars:4532:4833",
+          "name": "Vintage - Partagas Shorts - 2015 (16 盒)",
+          "price": "$ 299.00",
+          "stock": "20",
+          "url": "https://cn.cohcigars.com/cigars-vintage"
         },
         "cohcigars:4570:4871": {
           "id": "cohcigars:4570:4871",
@@ -6339,7 +6416,7 @@
           "id": "cohcigars:5773:20027",
           "name": "La Flor De Cano - Elegidos (15 盒)",
           "price": "$ 205.00",
-          "stock": "17",
+          "stock": "16",
           "url": "https://cn.cohcigars.com/cigars-la-flor-de-cano"
         },
         "cohcigars:5773:22086": {
@@ -6822,7 +6899,7 @@
           "id": "cohcigars:924:967",
           "name": "Partagas - Cetros Year of the Snake (25 盒)",
           "price": "$ 275.00",
-          "stock": "195",
+          "stock": "194",
           "url": "https://cn.cohcigars.com/cigars-partagas"
         },
         "cohcigars:9327:9971": {
@@ -6901,6 +6978,13 @@
           "price": "$ 190.00",
           "stock": "13",
           "url": "https://cn.cohcigars.com/cigars-romeo-y-julieta"
+        },
+        "cohcigars:9439:10082": {
+          "id": "cohcigars:9439:10082",
+          "name": "Por Larranaga - Picadores No.1 (25 盒)",
+          "price": "$ 550.00",
+          "stock": "10",
+          "url": "https://cn.cohcigars.com/cigars-por-larranaga"
         },
         "cohcigars:953:1003": {
           "id": "cohcigars:953:1003",
@@ -8172,7 +8256,7 @@
           "url": "https://www.ihavanas.com/details.php?ptype=cigars&pid=Partagas"
         }
       },
-      "last_checked": "2026-08-26T02:13:29+00:00",
+      "last_checked": "2026-08-26T03:27:39+00:00",
       "last_count": 195,
       "last_error": null,
       "previous": {
