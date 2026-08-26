@@ -34,7 +34,7 @@
           "id": "cohcigars:102:20571",
           "name": "Hoyo de Monterrey - Epicure No.2 (3 盒)",
           "price": "$ 99.00",
-          "stock": "23",
+          "stock": "22",
           "url": "https://cn.cohcigars.com/cigars-hoyo-de-monterrey"
         },
         "cohcigars:102:21530": {
@@ -146,7 +146,7 @@
           "id": "cohcigars:111:20573",
           "name": "Hoyo de Monterrey - Petit Robustos (3x2 盒)",
           "price": "$ 180.00",
-          "stock": "106",
+          "stock": "105",
           "url": "https://cn.cohcigars.com/cigars-hoyo-de-monterrey"
         },
         "cohcigars:11205:11854": {
@@ -1007,14 +1007,14 @@
           "id": "cohcigars:202:26938",
           "name": "Romeo Y Julieta - Romeo No.2 A/T (5x2 盒)",
           "price": "$ 149.00",
-          "stock": "75",
+          "stock": "74",
           "url": "https://cn.cohcigars.com/cigars-romeo-y-julieta"
         },
         "cohcigars:202:289": {
           "id": "cohcigars:202:289",
           "name": "Romeo Y Julieta - Romeo No.2 A/T (25 盒)",
           "price": "$ 396.00",
-          "stock": "40",
+          "stock": "39",
           "url": "https://cn.cohcigars.com/cigars-romeo-y-julieta"
         },
         "cohcigars:202:290": {
@@ -1084,7 +1084,7 @@
           "id": "cohcigars:2052:24352",
           "name": "Trinidad - Robusto Extra Gift Box (3x2 盒)",
           "price": "$ 255.00",
-          "stock": "84",
+          "stock": "83",
           "url": "https://cn.cohcigars.com/cigars-trinidad"
         },
         "cohcigars:2054:2317": {
@@ -3916,7 +3916,7 @@
           "url": "https://cn.cohcigars.com/cigars-montecristo"
         }
       },
-      "last_checked": "2026-08-26T07:32:18+00:00",
+      "last_checked": "2026-08-26T09:05:53+00:00",
       "last_count": 442,
       "last_error": null,
       "previous": {
@@ -3945,7 +3945,7 @@
           "id": "cohcigars:102:20571",
           "name": "Hoyo de Monterrey - Epicure No.2 (3 盒)",
           "price": "$ 99.00",
-          "stock": "23",
+          "stock": "22",
           "url": "https://cn.cohcigars.com/cigars-hoyo-de-monterrey"
         },
         "cohcigars:105:154": {
@@ -4043,7 +4043,7 @@
           "id": "cohcigars:111:20573",
           "name": "Hoyo de Monterrey - Petit Robustos (3x2 盒)",
           "price": "$ 180.00",
-          "stock": "106",
+          "stock": "105",
           "url": "https://cn.cohcigars.com/cigars-hoyo-de-monterrey"
         },
         "cohcigars:11205:11854": {
@@ -4757,14 +4757,14 @@
           "id": "cohcigars:202:26938",
           "name": "Romeo Y Julieta - Romeo No.2 A/T (5x2 盒)",
           "price": "$ 149.00",
-          "stock": "75",
+          "stock": "74",
           "url": "https://cn.cohcigars.com/cigars-romeo-y-julieta"
         },
         "cohcigars:202:289": {
           "id": "cohcigars:202:289",
           "name": "Romeo Y Julieta - Romeo No.2 A/T (25 盒)",
           "price": "$ 396.00",
-          "stock": "40",
+          "stock": "39",
           "url": "https://cn.cohcigars.com/cigars-romeo-y-julieta"
         },
         "cohcigars:202:290": {
@@ -4834,7 +4834,7 @@
           "id": "cohcigars:2052:24352",
           "name": "Trinidad - Robusto Extra Gift Box (3x2 盒)",
           "price": "$ 255.00",
-          "stock": "84",
+          "stock": "83",
           "url": "https://cn.cohcigars.com/cigars-trinidad"
         },
         "cohcigars:205:297": {
@@ -8249,7 +8249,7 @@
           "url": "https://www.ihavanas.com/details.php?ptype=cigars&pid=Partagas"
         }
       },
-      "last_checked": "2026-08-26T07:31:55+00:00",
+      "last_checked": "2026-08-26T09:05:24+00:00",
       "last_count": 195,
       "last_error": null,
       "previous": {
