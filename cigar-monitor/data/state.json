@@ -237,7 +237,7 @@
           "id": "cohcigars:118:175",
           "name": "Juan Lopez - Seleccion No.1 (25 盒)",
           "price": "$ 588.00",
-          "stock": "18",
+          "stock": "17",
           "url": "https://cn.cohcigars.com/cigars-juan-lopez"
         },
         "cohcigars:1191:1290": {
@@ -363,7 +363,7 @@
           "id": "cohcigars:1250:1417",
           "name": "H.Upmann - Connossieur A (25 盒)",
           "price": "$ 880.00",
-          "stock": "10",
+          "stock": "9",
           "url": "https://cn.cohcigars.com/cigars-h.upmann"
         },
         "cohcigars:1252:1422": {
@@ -440,7 +440,7 @@
           "id": "cohcigars:136:203",
           "name": "Partagas - Serie Club 10x10 (25 盒)",
           "price": "$ 699.00",
-          "stock": "79",
+          "stock": "78",
           "url": "https://cn.cohcigars.com/cigars-partagas"
         },
         "cohcigars:13910:14564": {
@@ -783,7 +783,7 @@
           "id": "cohcigars:187:12032",
           "name": "Montecristo - Edmundos (3x2 盒)",
           "price": "$ 225.00",
-          "stock": "40",
+          "stock": "39",
           "url": "https://cn.cohcigars.com/cigars-montecristo"
         },
         "cohcigars:187:267": {
@@ -2057,7 +2057,7 @@
           "id": "cohcigars:26316:27224",
           "name": "Cohiba - 1966 EL 2011 (5 盒)",
           "price": "$ 269.00",
-          "stock": "73",
+          "stock": "71",
           "url": "https://cn.cohcigars.com/cigars-cohiba"
         },
         "cohcigars:26317:27225": {
@@ -2092,7 +2092,7 @@
           "id": "cohcigars:26430:27332",
           "name": "Romeo Y Julieta - 5 Pack- Short Churchills (5 盒)",
           "price": "$ 220.00",
-          "stock": "47",
+          "stock": "45",
           "url": "https://cn.cohcigars.com/cigars-romeo-y-julieta"
         },
         "cohcigars:2649:2950": {
@@ -2932,7 +2932,7 @@
           "id": "cohcigars:4532:4833",
           "name": "Vintage - Partagas Shorts - 2015 (16 盒)",
           "price": "$ 299.00",
-          "stock": "20",
+          "stock": "19",
           "url": "https://cn.cohcigars.com/cigars-vintage"
         },
         "cohcigars:4570:4871": {
@@ -3891,7 +3891,7 @@
           "id": "cohcigars:9439:10082",
           "name": "Por Larranaga - Picadores No.1 (25 盒)",
           "price": "$ 550.00",
-          "stock": "9",
+          "stock": "8",
           "url": "https://cn.cohcigars.com/cigars-por-larranaga"
         },
         "cohcigars:953:1003": {
@@ -3930,8 +3930,8 @@
           "url": "https://cn.cohcigars.com/cigars-montecristo"
         }
       },
-      "last_checked": "2026-08-27T09:56:34+00:00",
-      "last_count": 444,
+      "last_checked": "2026-08-27T15:31:37+00:00",
+      "last_count": 443,
       "last_error": null,
       "previous": {
         "cohcigars:101:144": {
@@ -4106,7 +4106,7 @@
           "id": "cohcigars:118:175",
           "name": "Juan Lopez - Seleccion No.1 (25 盒)",
           "price": "$ 588.00",
-          "stock": "18",
+          "stock": "17",
           "url": "https://cn.cohcigars.com/cigars-juan-lopez"
         },
         "cohcigars:1191:1290": {
@@ -4218,7 +4218,7 @@
           "id": "cohcigars:1250:1417",
           "name": "H.Upmann - Connossieur A (25 盒)",
           "price": "$ 880.00",
-          "stock": "10",
+          "stock": "9",
           "url": "https://cn.cohcigars.com/cigars-h.upmann"
         },
         "cohcigars:1252:1422": {
@@ -4295,7 +4295,7 @@
           "id": "cohcigars:136:203",
           "name": "Partagas - Serie Club 10x10 (25 盒)",
           "price": "$ 699.00",
-          "stock": "79",
+          "stock": "78",
           "url": "https://cn.cohcigars.com/cigars-partagas"
         },
         "cohcigars:13910:14564": {
@@ -4589,7 +4589,7 @@
           "id": "cohcigars:187:12032",
           "name": "Montecristo - Edmundos (3x2 盒)",
           "price": "$ 225.00",
-          "stock": "40",
+          "stock": "39",
           "url": "https://cn.cohcigars.com/cigars-montecristo"
         },
         "cohcigars:187:267": {
@@ -5593,13 +5593,6 @@
           "stock": "20",
           "url": "https://cn.cohcigars.com/cigars-vegas-robaina"
         },
-        "cohcigars:257:366": {
-          "id": "cohcigars:257:366",
-          "name": "Vegas Robaina - Unicos (25 盒)",
-          "price": "$ 762.00",
-          "stock": "1",
-          "url": "https://cn.cohcigars.com/cigars-vegas-robaina"
-        },
         "cohcigars:2586:5280": {
           "id": "cohcigars:2586:5280",
           "name": "Jose L. Piedra - Cremas (20x5 盒)",
@@ -5639,7 +5632,7 @@
           "id": "cohcigars:26316:27224",
           "name": "Cohiba - 1966 EL 2011 (5 盒)",
           "price": "$ 269.00",
-          "stock": "73",
+          "stock": "71",
           "url": "https://cn.cohcigars.com/cigars-cohiba"
         },
         "cohcigars:263:24306": {
@@ -5660,7 +5653,7 @@
           "id": "cohcigars:26430:27332",
           "name": "Romeo Y Julieta - 5 Pack- Short Churchills (5 盒)",
           "price": "$ 220.00",
-          "stock": "47",
+          "stock": "45",
           "url": "https://cn.cohcigars.com/cigars-romeo-y-julieta"
         },
         "cohcigars:265:23684": {
@@ -6171,7 +6164,7 @@
           "id": "cohcigars:4532:4833",
           "name": "Vintage - Partagas Shorts - 2015 (16 盒)",
           "price": "$ 299.00",
-          "stock": "20",
+          "stock": "19",
           "url": "https://cn.cohcigars.com/cigars-vintage"
         },
         "cohcigars:4570:4871": {
@@ -7004,7 +6997,7 @@
           "id": "cohcigars:9439:10082",
           "name": "Por Larranaga - Picadores No.1 (25 盒)",
           "price": "$ 550.00",
-          "stock": "9",
+          "stock": "8",
           "url": "https://cn.cohcigars.com/cigars-por-larranaga"
         },
         "cohcigars:953:1003": {
@@ -8277,7 +8270,7 @@
           "url": "https://www.ihavanas.com/details.php?ptype=cigars&pid=Partagas"
         }
       },
-      "last_checked": "2026-08-27T09:56:12+00:00",
+      "last_checked": "2026-08-27T15:31:22+00:00",
       "last_count": 195,
       "last_error": null,
       "previous": {
