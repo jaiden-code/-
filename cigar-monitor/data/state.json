@@ -34,7 +34,7 @@
           "id": "cohcigars:102:20571",
           "name": "Hoyo de Monterrey - Epicure No.2 (3 盒)",
           "price": "$ 99.00",
-          "stock": "21",
+          "stock": "20",
           "url": "https://cn.cohcigars.com/cigars-hoyo-de-monterrey"
         },
         "cohcigars:102:21530": {
@@ -314,7 +314,7 @@
           "id": "cohcigars:122:5796",
           "name": "Jose L. Piedra - Brevas (12 盒)",
           "price": "$ 88.00",
-          "stock": "56",
+          "stock": "54",
           "url": "https://cn.cohcigars.com/cigars-jose-l.-piedra"
         },
         "cohcigars:1231:1420": {
@@ -377,7 +377,7 @@
           "id": "cohcigars:1252:1430",
           "name": "Montecristo - Petit No.2 (10 盒)",
           "price": "$ 335.00",
-          "stock": "19",
+          "stock": "18",
           "url": "https://cn.cohcigars.com/cigars-montecristo"
         },
         "cohcigars:1256:24626": {
@@ -587,7 +587,7 @@
           "id": "cohcigars:1556:17327",
           "name": "Cohiba - Robustos A/T (3 盒)",
           "price": "$ 255.00",
-          "stock": "189",
+          "stock": "188",
           "url": "https://cn.cohcigars.com/cigars-cohiba"
         },
         "cohcigars:1556:1751": {
@@ -1035,7 +1035,7 @@
           "id": "cohcigars:20343:21066",
           "name": "Montecristo - Regata A/T (66 盒)",
           "price": "$ 190.00",
-          "stock": "7",
+          "stock": "6",
           "url": "https://cn.cohcigars.com/cigars-montecristo"
         },
         "cohcigars:203:21571": {
@@ -2057,7 +2057,7 @@
           "id": "cohcigars:26316:27224",
           "name": "Cohiba - 1966 EL 2011 (5 盒)",
           "price": "$ 269.00",
-          "stock": "63",
+          "stock": "62",
           "url": "https://cn.cohcigars.com/cigars-cohiba"
         },
         "cohcigars:26317:27225": {
@@ -2085,7 +2085,7 @@
           "id": "cohcigars:26429:27331",
           "name": "Punch - 5 Pack- Punch Platino RE India 2009 (5 盒)",
           "price": "$ 290.00",
-          "stock": "98",
+          "stock": "97",
           "url": "https://cn.cohcigars.com/cigars-punch"
         },
         "cohcigars:26430:27332": {
@@ -2211,7 +2211,7 @@
           "id": "cohcigars:282:6163",
           "name": "Partagas - Cetros Year of the Snake (20x5 盒)",
           "price": "$ 90.00",
-          "stock": "927",
+          "stock": "925",
           "url": "https://cn.cohcigars.com/cigars-partagas"
         },
         "cohcigars:2840:3155": {
@@ -2512,7 +2512,7 @@
           "id": "cohcigars:30:49",
           "name": "Bolivar - Royal Coronas (25 盒)",
           "price": "$ 645.00",
-          "stock": "10",
+          "stock": "9",
           "url": "https://cn.cohcigars.com/cigars-bolivar"
         },
         "cohcigars:3239:3542": {
@@ -3930,7 +3930,7 @@
           "url": "https://cn.cohcigars.com/cigars-montecristo"
         }
       },
-      "last_checked": "2026-08-29T02:50:45+00:00",
+      "last_checked": "2026-08-29T07:23:49+00:00",
       "last_count": 443,
       "last_error": null,
       "previous": {
@@ -3959,7 +3959,7 @@
           "id": "cohcigars:102:20571",
           "name": "Hoyo de Monterrey - Epicure No.2 (3 盒)",
           "price": "$ 99.00",
-          "stock": "21",
+          "stock": "20",
           "url": "https://cn.cohcigars.com/cigars-hoyo-de-monterrey"
         },
         "cohcigars:105:154": {
@@ -4176,7 +4176,7 @@
           "id": "cohcigars:122:5796",
           "name": "Jose L. Piedra - Brevas (12 盒)",
           "price": "$ 88.00",
-          "stock": "56",
+          "stock": "54",
           "url": "https://cn.cohcigars.com/cigars-jose-l.-piedra"
         },
         "cohcigars:1231:1420": {
@@ -4232,7 +4232,7 @@
           "id": "cohcigars:1252:1430",
           "name": "Montecristo - Petit No.2 (10 盒)",
           "price": "$ 335.00",
-          "stock": "19",
+          "stock": "18",
           "url": "https://cn.cohcigars.com/cigars-montecristo"
         },
         "cohcigars:1256:24626": {
@@ -4421,7 +4421,7 @@
           "id": "cohcigars:1556:17327",
           "name": "Cohiba - Robustos A/T (3 盒)",
           "price": "$ 255.00",
-          "stock": "189",
+          "stock": "188",
           "url": "https://cn.cohcigars.com/cigars-cohiba"
         },
         "cohcigars:1556:1751": {
@@ -4799,7 +4799,7 @@
           "id": "cohcigars:20343:21066",
           "name": "Montecristo - Regata A/T (66 盒)",
           "price": "$ 190.00",
-          "stock": "7",
+          "stock": "6",
           "url": "https://cn.cohcigars.com/cigars-montecristo"
         },
         "cohcigars:203:21571": {
@@ -5632,7 +5632,7 @@
           "id": "cohcigars:26316:27224",
           "name": "Cohiba - 1966 EL 2011 (5 盒)",
           "price": "$ 269.00",
-          "stock": "63",
+          "stock": "62",
           "url": "https://cn.cohcigars.com/cigars-cohiba"
         },
         "cohcigars:263:24306": {
@@ -5646,7 +5646,7 @@
           "id": "cohcigars:26429:27331",
           "name": "Punch - 5 Pack- Punch Platino RE India 2009 (5 盒)",
           "price": "$ 290.00",
-          "stock": "98",
+          "stock": "97",
           "url": "https://cn.cohcigars.com/cigars-punch"
         },
         "cohcigars:26430:27332": {
@@ -5730,7 +5730,7 @@
           "id": "cohcigars:282:6163",
           "name": "Partagas - Cetros Year of the Snake (20x5 盒)",
           "price": "$ 90.00",
-          "stock": "927",
+          "stock": "925",
           "url": "https://cn.cohcigars.com/cigars-partagas"
         },
         "cohcigars:2863:3180": {
@@ -5975,7 +5975,7 @@
           "id": "cohcigars:30:49",
           "name": "Bolivar - Royal Coronas (25 盒)",
           "price": "$ 645.00",
-          "stock": "10",
+          "stock": "9",
           "url": "https://cn.cohcigars.com/cigars-bolivar"
         },
         "cohcigars:3266:3569": {
@@ -8270,7 +8270,7 @@
           "url": "https://www.ihavanas.com/details.php?ptype=cigars&pid=Partagas"
         }
       },
-      "last_checked": "2026-08-29T02:50:28+00:00",
+      "last_checked": "2026-08-29T07:23:28+00:00",
       "last_count": 195,
       "last_error": null,
       "previous": {
