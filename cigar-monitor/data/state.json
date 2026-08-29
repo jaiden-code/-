@@ -34,7 +34,7 @@
           "id": "cohcigars:102:20571",
           "name": "Hoyo de Monterrey - Epicure No.2 (3 盒)",
           "price": "$ 99.00",
-          "stock": "20",
+          "stock": "19",
           "url": "https://cn.cohcigars.com/cigars-hoyo-de-monterrey"
         },
         "cohcigars:102:21530": {
@@ -300,7 +300,7 @@
           "id": "cohcigars:122:181",
           "name": "Jose L. Piedra - Brevas (5x5 盒)",
           "price": "$ 153.00",
-          "stock": "17",
+          "stock": "16",
           "url": "https://cn.cohcigars.com/cigars-jose-l.-piedra"
         },
         "cohcigars:122:22996": {
@@ -1084,7 +1084,7 @@
           "id": "cohcigars:2052:24352",
           "name": "Trinidad - Robusto Extra Gift Box (3x2 盒)",
           "price": "$ 255.00",
-          "stock": "81",
+          "stock": "79",
           "url": "https://cn.cohcigars.com/cigars-trinidad"
         },
         "cohcigars:2054:2317": {
@@ -1707,7 +1707,7 @@
           "id": "cohcigars:2430:25373",
           "name": "Partagas - Serie E No.2 A/T (3 盒)",
           "price": "$ 160.00",
-          "stock": "88",
+          "stock": "87",
           "url": "https://cn.cohcigars.com/cigars-partagas"
         },
         "cohcigars:24440:25279": {
@@ -2855,7 +2855,7 @@
           "id": "cohcigars:4110:4410",
           "name": "Vintage - Partagas Shorts - 2015 (25 盒)",
           "price": "$ 750.00",
-          "stock": "50",
+          "stock": "49",
           "url": "https://cn.cohcigars.com/cigars-vintage"
         },
         "cohcigars:4127:4427": {
@@ -3930,7 +3930,7 @@
           "url": "https://cn.cohcigars.com/cigars-montecristo"
         }
       },
-      "last_checked": "2026-08-29T07:23:49+00:00",
+      "last_checked": "2026-08-29T11:09:40+00:00",
       "last_count": 443,
       "last_error": null,
       "previous": {
@@ -3959,7 +3959,7 @@
           "id": "cohcigars:102:20571",
           "name": "Hoyo de Monterrey - Epicure No.2 (3 盒)",
           "price": "$ 99.00",
-          "stock": "20",
+          "stock": "19",
           "url": "https://cn.cohcigars.com/cigars-hoyo-de-monterrey"
         },
         "cohcigars:105:154": {
@@ -4162,7 +4162,7 @@
           "id": "cohcigars:122:181",
           "name": "Jose L. Piedra - Brevas (5x5 盒)",
           "price": "$ 153.00",
-          "stock": "17",
+          "stock": "16",
           "url": "https://cn.cohcigars.com/cigars-jose-l.-piedra"
         },
         "cohcigars:122:22996": {
@@ -4848,7 +4848,7 @@
           "id": "cohcigars:2052:24352",
           "name": "Trinidad - Robusto Extra Gift Box (3x2 盒)",
           "price": "$ 255.00",
-          "stock": "81",
+          "stock": "79",
           "url": "https://cn.cohcigars.com/cigars-trinidad"
         },
         "cohcigars:205:297": {
@@ -5394,7 +5394,7 @@
           "id": "cohcigars:2430:25373",
           "name": "Partagas - Serie E No.2 A/T (3 盒)",
           "price": "$ 160.00",
-          "stock": "88",
+          "stock": "87",
           "url": "https://cn.cohcigars.com/cigars-partagas"
         },
         "cohcigars:24440:25279": {
@@ -6122,7 +6122,7 @@
           "id": "cohcigars:4110:4410",
           "name": "Vintage - Partagas Shorts - 2015 (25 盒)",
           "price": "$ 750.00",
-          "stock": "50",
+          "stock": "49",
           "url": "https://cn.cohcigars.com/cigars-vintage"
         },
         "cohcigars:4127:4427": {
@@ -8270,7 +8270,7 @@
           "url": "https://www.ihavanas.com/details.php?ptype=cigars&pid=Partagas"
         }
       },
-      "last_checked": "2026-08-29T07:23:28+00:00",
+      "last_checked": "2026-08-29T11:09:20+00:00",
       "last_count": 195,
       "last_error": null,
       "previous": {
