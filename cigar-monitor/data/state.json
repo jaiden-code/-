@@ -622,7 +622,7 @@
           "id": "cohcigars:15:28",
           "name": "Montecristo - No.5 (25 盒)",
           "price": "$ 455.00",
-          "stock": "40",
+          "stock": "39",
           "url": "https://cn.cohcigars.com/cigars-montecristo"
         },
         "cohcigars:15:29": {
@@ -2813,7 +2813,7 @@
           "id": "cohcigars:3974:4274",
           "name": "Vintage - Montecristo No.4 - 2016 (15 盒)",
           "price": "$ 499.00",
-          "stock": "200",
+          "stock": "199",
           "url": "https://cn.cohcigars.com/cigars-vintage"
         },
         "cohcigars:397:20574": {
@@ -2932,7 +2932,7 @@
           "id": "cohcigars:4532:4833",
           "name": "Vintage - Partagas Shorts - 2015 (16 盒)",
           "price": "$ 299.00",
-          "stock": "19",
+          "stock": "18",
           "url": "https://cn.cohcigars.com/cigars-vintage"
         },
         "cohcigars:4570:4871": {
@@ -3198,7 +3198,7 @@
           "id": "cohcigars:5381:5818",
           "name": "Saint Luis Rey - Herfing RE Medio Oriente 2017 (10 盒)",
           "price": "$ 455.00",
-          "stock": "85",
+          "stock": "84",
           "url": "https://cn.cohcigars.com/cigars-saint-luis-rey"
         },
         "cohcigars:53:86": {
@@ -3930,7 +3930,7 @@
           "url": "https://cn.cohcigars.com/cigars-montecristo"
         }
       },
-      "last_checked": "2026-08-30T14:53:29+00:00",
+      "last_checked": "2026-08-30T16:58:36+00:00",
       "last_count": 442,
       "last_error": null,
       "previous": {
@@ -4456,7 +4456,7 @@
           "id": "cohcigars:15:28",
           "name": "Montecristo - No.5 (25 盒)",
           "price": "$ 455.00",
-          "stock": "40",
+          "stock": "39",
           "url": "https://cn.cohcigars.com/cigars-montecristo"
         },
         "cohcigars:15:29": {
@@ -6087,7 +6087,7 @@
           "id": "cohcigars:3974:4274",
           "name": "Vintage - Montecristo No.4 - 2016 (15 盒)",
           "price": "$ 499.00",
-          "stock": "200",
+          "stock": "199",
           "url": "https://cn.cohcigars.com/cigars-vintage"
         },
         "cohcigars:397:20574": {
@@ -6157,7 +6157,7 @@
           "id": "cohcigars:4532:4833",
           "name": "Vintage - Partagas Shorts - 2015 (16 盒)",
           "price": "$ 299.00",
-          "stock": "19",
+          "stock": "18",
           "url": "https://cn.cohcigars.com/cigars-vintage"
         },
         "cohcigars:4570:4871": {
@@ -6395,7 +6395,7 @@
           "id": "cohcigars:5381:5818",
           "name": "Saint Luis Rey - Herfing RE Medio Oriente 2017 (10 盒)",
           "price": "$ 455.00",
-          "stock": "85",
+          "stock": "84",
           "url": "https://cn.cohcigars.com/cigars-saint-luis-rey"
         },
         "cohcigars:53:86": {
@@ -8263,7 +8263,7 @@
           "url": "https://www.ihavanas.com/details.php?ptype=cigars&pid=Partagas"
         }
       },
-      "last_checked": "2026-08-30T14:53:11+00:00",
+      "last_checked": "2026-08-30T16:58:16+00:00",
       "last_count": 195,
       "last_error": null,
       "previous": {
