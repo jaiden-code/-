@@ -62,7 +62,7 @@
           "id": "cohcigars:10801:11453",
           "name": "Quai Dorsay - No.52 (10 盒)",
           "price": "$ 370.00",
-          "stock": "16",
+          "stock": "15",
           "url": "https://cn.cohcigars.com/cigars-quai-dorsay"
         },
         "cohcigars:10847:11499": {
@@ -643,7 +643,7 @@
           "id": "cohcigars:165:241",
           "name": "Punch - Punch (25 盒)",
           "price": "$ 690.00",
-          "stock": "8",
+          "stock": "6",
           "url": "https://cn.cohcigars.com/cigars-punch"
         },
         "cohcigars:1665:1881": {
@@ -1182,7 +1182,7 @@
           "id": "cohcigars:21860:22614",
           "name": "Cohiba - Vitosos Travel Humidor (6x10 盒)",
           "price": "$ 245.00",
-          "stock": "89",
+          "stock": "88",
           "url": "https://cn.cohcigars.com/cigars-cohiba"
         },
         "cohcigars:21860:24390": {
@@ -1252,7 +1252,7 @@
           "id": "cohcigars:230:326",
           "name": "Saint Luis Rey - Regios (25 盒)",
           "price": "$ 579.00",
-          "stock": "11",
+          "stock": "10",
           "url": "https://cn.cohcigars.com/cigars-saint-luis-rey"
         },
         "cohcigars:23307:24134": {
@@ -1917,7 +1917,7 @@
           "id": "cohcigars:256:364",
           "name": "Vegas Robaina - Famosos (25 盒)",
           "price": "$ 710.00",
-          "stock": "20",
+          "stock": "19",
           "url": "https://cn.cohcigars.com/cigars-vegas-robaina"
         },
         "cohcigars:257:366": {
@@ -2057,7 +2057,7 @@
           "id": "cohcigars:26316:27224",
           "name": "Cohiba - 1966 EL 2011 (5 盒)",
           "price": "$ 269.00",
-          "stock": "60",
+          "stock": "59",
           "url": "https://cn.cohcigars.com/cigars-cohiba"
         },
         "cohcigars:26317:27225": {
@@ -2092,7 +2092,7 @@
           "id": "cohcigars:26430:27332",
           "name": "Romeo Y Julieta - 5 Pack- Short Churchills (5 盒)",
           "price": "$ 220.00",
-          "stock": "37",
+          "stock": "36",
           "url": "https://cn.cohcigars.com/cigars-romeo-y-julieta"
         },
         "cohcigars:2649:2950": {
@@ -2323,7 +2323,7 @@
           "id": "cohcigars:2:9594",
           "name": "Cohiba - Esplendidos (3 盒)",
           "price": "$ 370.00",
-          "stock": "59",
+          "stock": "58",
           "url": "https://cn.cohcigars.com/cigars-cohiba"
         },
         "cohcigars:3035:3343": {
@@ -2365,7 +2365,7 @@
           "id": "cohcigars:3048:3356",
           "name": "Singles 6 Stick Min - 1 x Partagas Serie P No.2 (1 盒)",
           "price": "$ 36.00",
-          "stock": "26",
+          "stock": "20",
           "url": "https://cn.cohcigars.com/cigars-singles-6-stick-min"
         },
         "cohcigars:3049:3357": {
@@ -3415,7 +3415,7 @@
           "id": "cohcigars:7212:7720",
           "name": "Singles 6 Stick Min - 1 x Hoyo de Monterrey Epicure No.1 (1 盒)",
           "price": "$ 30.00",
-          "stock": "143",
+          "stock": "139",
           "url": "https://cn.cohcigars.com/cigars-singles-6-stick-min"
         },
         "cohcigars:7214:7722": {
@@ -3821,7 +3821,7 @@
           "id": "cohcigars:933:980",
           "name": "H.Upmann - Half Corona (25 盒)",
           "price": "$ 340.00",
-          "stock": "3",
+          "stock": "2",
           "url": "https://cn.cohcigars.com/cigars-h.upmann"
         },
         "cohcigars:9341:9985": {
@@ -3930,7 +3930,7 @@
           "url": "https://cn.cohcigars.com/cigars-montecristo"
         }
       },
-      "last_checked": "2026-08-30T00:44:43+00:00",
+      "last_checked": "2026-08-30T05:51:54+00:00",
       "last_count": 442,
       "last_error": null,
       "previous": {
@@ -3980,7 +3980,7 @@
           "id": "cohcigars:10801:11453",
           "name": "Quai Dorsay - No.52 (10 盒)",
           "price": "$ 370.00",
-          "stock": "16",
+          "stock": "15",
           "url": "https://cn.cohcigars.com/cigars-quai-dorsay"
         },
         "cohcigars:10847:11499": {
@@ -4477,7 +4477,7 @@
           "id": "cohcigars:165:241",
           "name": "Punch - Punch (25 盒)",
           "price": "$ 690.00",
-          "stock": "8",
+          "stock": "6",
           "url": "https://cn.cohcigars.com/cigars-punch"
         },
         "cohcigars:1665:1881": {
@@ -4918,7 +4918,7 @@
           "id": "cohcigars:21860:22614",
           "name": "Cohiba - Vitosos Travel Humidor (6x10 盒)",
           "price": "$ 245.00",
-          "stock": "89",
+          "stock": "88",
           "url": "https://cn.cohcigars.com/cigars-cohiba"
         },
         "cohcigars:21860:24390": {
@@ -4988,7 +4988,7 @@
           "id": "cohcigars:230:326",
           "name": "Saint Luis Rey - Regios (25 盒)",
           "price": "$ 579.00",
-          "stock": "11",
+          "stock": "10",
           "url": "https://cn.cohcigars.com/cigars-saint-luis-rey"
         },
         "cohcigars:23308:24135": {
@@ -5583,7 +5583,7 @@
           "id": "cohcigars:256:364",
           "name": "Vegas Robaina - Famosos (25 盒)",
           "price": "$ 710.00",
-          "stock": "20",
+          "stock": "19",
           "url": "https://cn.cohcigars.com/cigars-vegas-robaina"
         },
         "cohcigars:2586:5280": {
@@ -5625,7 +5625,7 @@
           "id": "cohcigars:26316:27224",
           "name": "Cohiba - 1966 EL 2011 (5 盒)",
           "price": "$ 269.00",
-          "stock": "60",
+          "stock": "59",
           "url": "https://cn.cohcigars.com/cigars-cohiba"
         },
         "cohcigars:263:24306": {
@@ -5646,7 +5646,7 @@
           "id": "cohcigars:26430:27332",
           "name": "Romeo Y Julieta - 5 Pack- Short Churchills (5 盒)",
           "price": "$ 220.00",
-          "stock": "37",
+          "stock": "36",
           "url": "https://cn.cohcigars.com/cigars-romeo-y-julieta"
         },
         "cohcigars:265:23684": {
@@ -5793,7 +5793,7 @@
           "id": "cohcigars:2:9594",
           "name": "Cohiba - Esplendidos (3 盒)",
           "price": "$ 370.00",
-          "stock": "59",
+          "stock": "58",
           "url": "https://cn.cohcigars.com/cigars-cohiba"
         },
         "cohcigars:3035:3343": {
@@ -5835,7 +5835,7 @@
           "id": "cohcigars:3048:3356",
           "name": "Singles 6 Stick Min - 1 x Partagas Serie P No.2 (1 盒)",
           "price": "$ 36.00",
-          "stock": "26",
+          "stock": "20",
           "url": "https://cn.cohcigars.com/cigars-singles-6-stick-min"
         },
         "cohcigars:3049:3357": {
@@ -6591,7 +6591,7 @@
           "id": "cohcigars:7212:7720",
           "name": "Singles 6 Stick Min - 1 x Hoyo de Monterrey Epicure No.1 (1 盒)",
           "price": "$ 30.00",
-          "stock": "143",
+          "stock": "139",
           "url": "https://cn.cohcigars.com/cigars-singles-6-stick-min"
         },
         "cohcigars:7214:7722": {
@@ -6941,7 +6941,7 @@
           "id": "cohcigars:933:980",
           "name": "H.Upmann - Half Corona (25 盒)",
           "price": "$ 340.00",
-          "stock": "3",
+          "stock": "2",
           "url": "https://cn.cohcigars.com/cigars-h.upmann"
         },
         "cohcigars:9341:9985": {
@@ -8263,7 +8263,7 @@
           "url": "https://www.ihavanas.com/details.php?ptype=cigars&pid=Partagas"
         }
       },
-      "last_checked": "2026-08-30T00:43:38+00:00",
+      "last_checked": "2026-08-30T05:51:30+00:00",
       "last_count": 195,
       "last_error": null,
       "previous": {
