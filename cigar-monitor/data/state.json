@@ -3282,7 +3282,7 @@
           "id": "cohcigars:642:17328",
           "name": "Cohiba - Siglo I A/T (3 盒)",
           "price": "$ 99.00",
-          "stock": "81",
+          "stock": "80",
           "url": "https://cn.cohcigars.com/cigars-cohiba"
         },
         "cohcigars:642:21493": {
@@ -3930,7 +3930,7 @@
           "url": "https://cn.cohcigars.com/cigars-montecristo"
         }
       },
-      "last_checked": "2026-08-30T19:20:47+00:00",
+      "last_checked": "2026-08-30T21:35:27+00:00",
       "last_count": 442,
       "last_error": null,
       "previous": {
@@ -6472,7 +6472,7 @@
           "id": "cohcigars:642:17328",
           "name": "Cohiba - Siglo I A/T (3 盒)",
           "price": "$ 99.00",
-          "stock": "81",
+          "stock": "80",
           "url": "https://cn.cohcigars.com/cigars-cohiba"
         },
         "cohcigars:642:756": {
@@ -8263,7 +8263,7 @@
           "url": "https://www.ihavanas.com/details.php?ptype=cigars&pid=Partagas"
         }
       },
-      "last_checked": "2026-08-30T19:20:26+00:00",
+      "last_checked": "2026-08-30T21:35:07+00:00",
       "last_count": 195,
       "last_error": null,
       "previous": {
