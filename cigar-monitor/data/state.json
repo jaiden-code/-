@@ -363,7 +363,7 @@
           "id": "cohcigars:1250:1417",
           "name": "H.Upmann - Connossieur A (25 盒)",
           "price": "$ 880.00",
-          "stock": "9",
+          "stock": "8",
           "url": "https://cn.cohcigars.com/cigars-h.upmann"
         },
         "cohcigars:1252:1422": {
@@ -2092,7 +2092,7 @@
           "id": "cohcigars:26430:27332",
           "name": "Romeo Y Julieta - 5 Pack- Short Churchills (5 盒)",
           "price": "$ 220.00",
-          "stock": "34",
+          "stock": "33",
           "url": "https://cn.cohcigars.com/cigars-romeo-y-julieta"
         },
         "cohcigars:2649:2950": {
@@ -3930,8 +3930,8 @@
           "url": "https://cn.cohcigars.com/cigars-montecristo"
         }
       },
-      "last_checked": "2026-09-01T12:02:25+00:00",
-      "last_count": 441,
+      "last_checked": "2026-09-01T16:43:41+00:00",
+      "last_count": 440,
       "last_error": null,
       "previous": {
         "cohcigars:101:144": {
@@ -4218,7 +4218,7 @@
           "id": "cohcigars:1250:1417",
           "name": "H.Upmann - Connossieur A (25 盒)",
           "price": "$ 880.00",
-          "stock": "9",
+          "stock": "8",
           "url": "https://cn.cohcigars.com/cigars-h.upmann"
         },
         "cohcigars:1252:1422": {
@@ -5646,7 +5646,7 @@
           "id": "cohcigars:26430:27332",
           "name": "Romeo Y Julieta - 5 Pack- Short Churchills (5 盒)",
           "price": "$ 220.00",
-          "stock": "34",
+          "stock": "33",
           "url": "https://cn.cohcigars.com/cigars-romeo-y-julieta"
         },
         "cohcigars:265:23684": {
@@ -6929,13 +6929,6 @@
           "price": "$ 345.00",
           "stock": "5",
           "url": "https://cn.cohcigars.com/cigars-romeo-y-julieta"
-        },
-        "cohcigars:933:980": {
-          "id": "cohcigars:933:980",
-          "name": "H.Upmann - Half Corona (25 盒)",
-          "price": "$ 340.00",
-          "stock": "1",
-          "url": "https://cn.cohcigars.com/cigars-h.upmann"
         },
         "cohcigars:9341:9985": {
           "id": "cohcigars:9341:9985",
@@ -8256,7 +8249,7 @@
           "url": "https://www.ihavanas.com/details.php?ptype=cigars&pid=Partagas"
         }
       },
-      "last_checked": "2026-09-01T12:02:03+00:00",
+      "last_checked": "2026-09-01T16:43:18+00:00",
       "last_count": 194,
       "last_error": null,
       "previous": {
