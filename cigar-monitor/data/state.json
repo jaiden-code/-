@@ -1084,7 +1084,7 @@
           "id": "cohcigars:2052:24352",
           "name": "Trinidad - Robusto Extra Gift Box (3x2 盒)",
           "price": "$ 255.00",
-          "stock": "74",
+          "stock": "73",
           "url": "https://cn.cohcigars.com/cigars-trinidad"
         },
         "cohcigars:2054:2317": {
@@ -1441,7 +1441,7 @@
           "id": "cohcigars:23334:24161",
           "name": "Singles 6 Stick Min - 1 x Partagas Maduro No.1 (1 盒)",
           "price": "$ 39.00",
-          "stock": "171",
+          "stock": "165",
           "url": "https://cn.cohcigars.com/cigars-singles-6-stick-min"
         },
         "cohcigars:23335:24162": {
@@ -1903,7 +1903,7 @@
           "id": "cohcigars:2568:2858",
           "name": "Guantanamera - Puritos (50 x 2 盒)",
           "price": "$ 137.00",
-          "stock": "20",
+          "stock": "19",
           "url": "https://cn.cohcigars.com/cigars-guantanamera"
         },
         "cohcigars:2569:2859": {
@@ -2057,7 +2057,7 @@
           "id": "cohcigars:26316:27224",
           "name": "Cohiba - 1966 EL 2011 (5 盒)",
           "price": "$ 269.00",
-          "stock": "50",
+          "stock": "49",
           "url": "https://cn.cohcigars.com/cigars-cohiba"
         },
         "cohcigars:26317:27225": {
@@ -2092,7 +2092,7 @@
           "id": "cohcigars:26430:27332",
           "name": "Romeo Y Julieta - 5 Pack- Short Churchills (5 盒)",
           "price": "$ 220.00",
-          "stock": "33",
+          "stock": "32",
           "url": "https://cn.cohcigars.com/cigars-romeo-y-julieta"
         },
         "cohcigars:2649:2950": {
@@ -2134,7 +2134,7 @@
           "id": "cohcigars:267:21510",
           "name": "Romeo Y Julieta - Puritos (5x10 盒)",
           "price": "$ 90.00",
-          "stock": "99",
+          "stock": "98",
           "url": "https://cn.cohcigars.com/cigars-romeo-y-julieta"
         },
         "cohcigars:267:23689": {
@@ -2344,7 +2344,7 @@
           "id": "cohcigars:3037:3345",
           "name": "Singles 6 Stick Min - 1 x Partagas Shorts (1 盒)",
           "price": "$ 19.00",
-          "stock": "121",
+          "stock": "119",
           "url": "https://cn.cohcigars.com/cigars-singles-6-stick-min"
         },
         "cohcigars:3041:3349": {
@@ -2365,7 +2365,7 @@
           "id": "cohcigars:3048:3356",
           "name": "Singles 6 Stick Min - 1 x Partagas Serie P No.2 (1 盒)",
           "price": "$ 36.00",
-          "stock": "20",
+          "stock": "18",
           "url": "https://cn.cohcigars.com/cigars-singles-6-stick-min"
         },
         "cohcigars:3049:3357": {
@@ -2540,7 +2540,7 @@
           "id": "cohcigars:3272:3575",
           "name": "Singles 6 Stick Min - 1 x Sancho Panza Non Plus (1 盒)",
           "price": "$ 20.00",
-          "stock": "112",
+          "stock": "110",
           "url": "https://cn.cohcigars.com/cigars-singles-6-stick-min"
         },
         "cohcigars:3274:3577": {
@@ -2806,7 +2806,7 @@
           "id": "cohcigars:396:17331",
           "name": "Cohiba - Siglo IV (3 盒)",
           "price": "$ 225.00",
-          "stock": "64",
+          "stock": "63",
           "url": "https://cn.cohcigars.com/cigars-cohiba"
         },
         "cohcigars:3974:4274": {
@@ -3930,8 +3930,8 @@
           "url": "https://cn.cohcigars.com/cigars-montecristo"
         }
       },
-      "last_checked": "2026-09-02T00:33:23+00:00",
-      "last_count": 440,
+      "last_checked": "2026-09-02T05:05:50+00:00",
+      "last_count": 439,
       "last_error": null,
       "previous": {
         "cohcigars:101:144": {
@@ -4841,7 +4841,7 @@
           "id": "cohcigars:2052:24352",
           "name": "Trinidad - Robusto Extra Gift Box (3x2 盒)",
           "price": "$ 255.00",
-          "stock": "74",
+          "stock": "73",
           "url": "https://cn.cohcigars.com/cigars-trinidad"
         },
         "cohcigars:205:297": {
@@ -5170,7 +5170,7 @@
           "id": "cohcigars:23334:24161",
           "name": "Singles 6 Stick Min - 1 x Partagas Maduro No.1 (1 盒)",
           "price": "$ 39.00",
-          "stock": "171",
+          "stock": "165",
           "url": "https://cn.cohcigars.com/cigars-singles-6-stick-min"
         },
         "cohcigars:23335:24162": {
@@ -5569,7 +5569,7 @@
           "id": "cohcigars:2568:2858",
           "name": "Guantanamera - Puritos (50 x 2 盒)",
           "price": "$ 137.00",
-          "stock": "20",
+          "stock": "19",
           "url": "https://cn.cohcigars.com/cigars-guantanamera"
         },
         "cohcigars:2569:2859": {
@@ -5625,7 +5625,7 @@
           "id": "cohcigars:26316:27224",
           "name": "Cohiba - 1966 EL 2011 (5 盒)",
           "price": "$ 269.00",
-          "stock": "50",
+          "stock": "49",
           "url": "https://cn.cohcigars.com/cigars-cohiba"
         },
         "cohcigars:263:24306": {
@@ -5646,7 +5646,7 @@
           "id": "cohcigars:26430:27332",
           "name": "Romeo Y Julieta - 5 Pack- Short Churchills (5 盒)",
           "price": "$ 220.00",
-          "stock": "33",
+          "stock": "32",
           "url": "https://cn.cohcigars.com/cigars-romeo-y-julieta"
         },
         "cohcigars:265:23684": {
@@ -5660,7 +5660,7 @@
           "id": "cohcigars:267:21510",
           "name": "Romeo Y Julieta - Puritos (5x10 盒)",
           "price": "$ 90.00",
-          "stock": "99",
+          "stock": "98",
           "url": "https://cn.cohcigars.com/cigars-romeo-y-julieta"
         },
         "cohcigars:267:23689": {
@@ -5814,7 +5814,7 @@
           "id": "cohcigars:3037:3345",
           "name": "Singles 6 Stick Min - 1 x Partagas Shorts (1 盒)",
           "price": "$ 19.00",
-          "stock": "121",
+          "stock": "119",
           "url": "https://cn.cohcigars.com/cigars-singles-6-stick-min"
         },
         "cohcigars:3041:3349": {
@@ -5835,7 +5835,7 @@
           "id": "cohcigars:3048:3356",
           "name": "Singles 6 Stick Min - 1 x Partagas Serie P No.2 (1 盒)",
           "price": "$ 36.00",
-          "stock": "20",
+          "stock": "18",
           "url": "https://cn.cohcigars.com/cigars-singles-6-stick-min"
         },
         "cohcigars:3049:3357": {
@@ -5982,7 +5982,7 @@
           "id": "cohcigars:3272:3575",
           "name": "Singles 6 Stick Min - 1 x Sancho Panza Non Plus (1 盒)",
           "price": "$ 20.00",
-          "stock": "112",
+          "stock": "110",
           "url": "https://cn.cohcigars.com/cigars-singles-6-stick-min"
         },
         "cohcigars:3277:3580": {
@@ -6080,7 +6080,7 @@
           "id": "cohcigars:396:17331",
           "name": "Cohiba - Siglo IV (3 盒)",
           "price": "$ 225.00",
-          "stock": "64",
+          "stock": "63",
           "url": "https://cn.cohcigars.com/cigars-cohiba"
         },
         "cohcigars:3974:4274": {
@@ -6152,13 +6152,6 @@
           "price": "$ 2290.00",
           "stock": "18",
           "url": "https://cn.cohcigars.com/cigars-cohiba"
-        },
-        "cohcigars:4532:4833": {
-          "id": "cohcigars:4532:4833",
-          "name": "Vintage - Partagas Shorts - 2015 (16 盒)",
-          "price": "$ 299.00",
-          "stock": "18",
-          "url": "https://cn.cohcigars.com/cigars-vintage"
         },
         "cohcigars:4570:4871": {
           "id": "cohcigars:4570:4871",
@@ -8249,7 +8242,7 @@
           "url": "https://www.ihavanas.com/details.php?ptype=cigars&pid=Partagas"
         }
       },
-      "last_checked": "2026-09-02T00:32:23+00:00",
+      "last_checked": "2026-09-02T05:05:31+00:00",
       "last_count": 194,
       "last_error": null,
       "previous": {
