@@ -440,7 +440,7 @@
           "id": "cohcigars:136:203",
           "name": "Partagas - Serie Club 10x10 (25 盒)",
           "price": "$ 699.00",
-          "stock": "74",
+          "stock": "72",
           "url": "https://cn.cohcigars.com/cigars-partagas"
         },
         "cohcigars:13910:14564": {
@@ -769,7 +769,7 @@
           "id": "cohcigars:185:264",
           "name": "Ramon Allones - Small Club Coronas (25 盒)",
           "price": "$ 428.00",
-          "stock": "18",
+          "stock": "17",
           "url": "https://cn.cohcigars.com/cigars-ramon-allones"
         },
         "cohcigars:186:265": {
@@ -1035,7 +1035,7 @@
           "id": "cohcigars:20343:21066",
           "name": "Montecristo - Regata A/T (66 盒)",
           "price": "$ 190.00",
-          "stock": "6",
+          "stock": "5",
           "url": "https://cn.cohcigars.com/cigars-montecristo"
         },
         "cohcigars:203:21571": {
@@ -1154,7 +1154,7 @@
           "id": "cohcigars:214:2408",
           "name": "Romeo Y Julieta - Mille Fleurs (10 盒)",
           "price": "$ 155.00",
-          "stock": "47",
+          "stock": "46",
           "url": "https://cn.cohcigars.com/cigars-romeo-y-julieta"
         },
         "cohcigars:214:307": {
@@ -3930,7 +3930,7 @@
           "url": "https://cn.cohcigars.com/cigars-montecristo"
         }
       },
-      "last_checked": "2026-09-02T12:48:43+00:00",
+      "last_checked": "2026-09-02T16:52:58+00:00",
       "last_count": 438,
       "last_error": null,
       "previous": {
@@ -4295,7 +4295,7 @@
           "id": "cohcigars:136:203",
           "name": "Partagas - Serie Club 10x10 (25 盒)",
           "price": "$ 699.00",
-          "stock": "74",
+          "stock": "72",
           "url": "https://cn.cohcigars.com/cigars-partagas"
         },
         "cohcigars:13910:14564": {
@@ -4575,7 +4575,7 @@
           "id": "cohcigars:185:264",
           "name": "Ramon Allones - Small Club Coronas (25 盒)",
           "price": "$ 428.00",
-          "stock": "18",
+          "stock": "17",
           "url": "https://cn.cohcigars.com/cigars-ramon-allones"
         },
         "cohcigars:187:12032": {
@@ -4792,7 +4792,7 @@
           "id": "cohcigars:20343:21066",
           "name": "Montecristo - Regata A/T (66 盒)",
           "price": "$ 190.00",
-          "stock": "6",
+          "stock": "5",
           "url": "https://cn.cohcigars.com/cigars-montecristo"
         },
         "cohcigars:203:21571": {
@@ -4890,7 +4890,7 @@
           "id": "cohcigars:214:2408",
           "name": "Romeo Y Julieta - Mille Fleurs (10 盒)",
           "price": "$ 155.00",
-          "stock": "47",
+          "stock": "46",
           "url": "https://cn.cohcigars.com/cigars-romeo-y-julieta"
         },
         "cohcigars:214:307": {
@@ -8235,7 +8235,7 @@
           "url": "https://www.ihavanas.com/details.php?ptype=cigars&pid=Partagas"
         }
       },
-      "last_checked": "2026-09-02T12:48:24+00:00",
+      "last_checked": "2026-09-02T16:51:53+00:00",
       "last_count": 193,
       "last_error": null,
       "previous": {
