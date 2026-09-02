@@ -314,7 +314,7 @@
           "id": "cohcigars:122:5796",
           "name": "Jose L. Piedra - Brevas (12 盒)",
           "price": "$ 88.00",
-          "stock": "54",
+          "stock": "53",
           "url": "https://cn.cohcigars.com/cigars-jose-l.-piedra"
         },
         "cohcigars:1231:1420": {
@@ -1084,7 +1084,7 @@
           "id": "cohcigars:2052:24352",
           "name": "Trinidad - Robusto Extra Gift Box (3x2 盒)",
           "price": "$ 255.00",
-          "stock": "73",
+          "stock": "72",
           "url": "https://cn.cohcigars.com/cigars-trinidad"
         },
         "cohcigars:2054:2317": {
@@ -1224,7 +1224,7 @@
           "id": "cohcigars:22898:23676",
           "name": "Cohiba - Ambar (10x10 盒)",
           "price": "$ 115.00",
-          "stock": "183",
+          "stock": "182",
           "url": "https://cn.cohcigars.com/cigars-cohiba"
         },
         "cohcigars:22899:23679": {
@@ -2155,7 +2155,7 @@
           "id": "cohcigars:273:19988",
           "name": "Montecristo - Petit Tubos (25 x2 盒)",
           "price": "$ 99.00",
-          "stock": "314",
+          "stock": "313",
           "url": "https://cn.cohcigars.com/cigars-montecristo"
         },
         "cohcigars:274:23682": {
@@ -3930,8 +3930,8 @@
           "url": "https://cn.cohcigars.com/cigars-montecristo"
         }
       },
-      "last_checked": "2026-09-02T05:05:50+00:00",
-      "last_count": 439,
+      "last_checked": "2026-09-02T07:09:49+00:00",
+      "last_count": 438,
       "last_error": null,
       "previous": {
         "cohcigars:101:144": {
@@ -4176,7 +4176,7 @@
           "id": "cohcigars:122:5796",
           "name": "Jose L. Piedra - Brevas (12 盒)",
           "price": "$ 88.00",
-          "stock": "54",
+          "stock": "53",
           "url": "https://cn.cohcigars.com/cigars-jose-l.-piedra"
         },
         "cohcigars:1231:1420": {
@@ -4841,7 +4841,7 @@
           "id": "cohcigars:2052:24352",
           "name": "Trinidad - Robusto Extra Gift Box (3x2 盒)",
           "price": "$ 255.00",
-          "stock": "73",
+          "stock": "72",
           "url": "https://cn.cohcigars.com/cigars-trinidad"
         },
         "cohcigars:205:297": {
@@ -4960,7 +4960,7 @@
           "id": "cohcigars:22898:23676",
           "name": "Cohiba - Ambar (10x10 盒)",
           "price": "$ 115.00",
-          "stock": "183",
+          "stock": "182",
           "url": "https://cn.cohcigars.com/cigars-cohiba"
         },
         "cohcigars:22899:23679": {
@@ -5681,7 +5681,7 @@
           "id": "cohcigars:273:19988",
           "name": "Montecristo - Petit Tubos (25 x2 盒)",
           "price": "$ 99.00",
-          "stock": "314",
+          "stock": "313",
           "url": "https://cn.cohcigars.com/cigars-montecristo"
         },
         "cohcigars:274:23682": {
@@ -6487,13 +6487,6 @@
           "name": "Ramon Allones - Phoenicio 40th Anniversary RE Libano 2019 (20 盒)",
           "price": "$ 2250.00",
           "stock": "15",
-          "url": "https://cn.cohcigars.com/cigars-ramon-allones"
-        },
-        "cohcigars:6937:8690": {
-          "id": "cohcigars:6937:8690",
-          "name": "Ramon Allones - Allones No.3 (10 盒)",
-          "price": "$ 995.00",
-          "stock": "1",
           "url": "https://cn.cohcigars.com/cigars-ramon-allones"
         },
         "cohcigars:6955:7467": {
@@ -8242,8 +8235,8 @@
           "url": "https://www.ihavanas.com/details.php?ptype=cigars&pid=Partagas"
         }
       },
-      "last_checked": "2026-09-02T05:05:31+00:00",
-      "last_count": 194,
+      "last_checked": "2026-09-02T07:08:46+00:00",
+      "last_count": 193,
       "last_error": null,
       "previous": {
         "ihavanas:1006": {
@@ -8581,12 +8574,6 @@
           "name": "Romeo Y Julieta - Puritos (Box 25x3)",
           "price": "US$208.00",
           "url": "https://www.ihavanas.com/details.php?ptype=cigars&pid=Romeo%20Y%20Julieta"
-        },
-        "ihavanas:171": {
-          "id": "ihavanas:171",
-          "name": "Partagas - Serie P No.2 (Box 25)",
-          "price": "US$885.00",
-          "url": "https://www.ihavanas.com/details.php?ptype=cigars&pid=Partagas"
         },
         "ihavanas:1720": {
           "id": "ihavanas:1720",
