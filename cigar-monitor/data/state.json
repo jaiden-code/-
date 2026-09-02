@@ -34,7 +34,7 @@
           "id": "cohcigars:102:20571",
           "name": "Hoyo de Monterrey - Epicure No.2 (3 盒)",
           "price": "$ 99.00",
-          "stock": "16",
+          "stock": "15",
           "url": "https://cn.cohcigars.com/cigars-hoyo-de-monterrey"
         },
         "cohcigars:102:21530": {
@@ -1154,7 +1154,7 @@
           "id": "cohcigars:214:2408",
           "name": "Romeo Y Julieta - Mille Fleurs (10 盒)",
           "price": "$ 155.00",
-          "stock": "48",
+          "stock": "47",
           "url": "https://cn.cohcigars.com/cigars-romeo-y-julieta"
         },
         "cohcigars:214:307": {
@@ -3930,7 +3930,7 @@
           "url": "https://cn.cohcigars.com/cigars-montecristo"
         }
       },
-      "last_checked": "2026-09-02T00:18:53+00:00",
+      "last_checked": "2026-09-02T00:33:23+00:00",
       "last_count": 440,
       "last_error": null,
       "previous": {
@@ -3959,7 +3959,7 @@
           "id": "cohcigars:102:20571",
           "name": "Hoyo de Monterrey - Epicure No.2 (3 盒)",
           "price": "$ 99.00",
-          "stock": "16",
+          "stock": "15",
           "url": "https://cn.cohcigars.com/cigars-hoyo-de-monterrey"
         },
         "cohcigars:105:154": {
@@ -4890,7 +4890,7 @@
           "id": "cohcigars:214:2408",
           "name": "Romeo Y Julieta - Mille Fleurs (10 盒)",
           "price": "$ 155.00",
-          "stock": "48",
+          "stock": "47",
           "url": "https://cn.cohcigars.com/cigars-romeo-y-julieta"
         },
         "cohcigars:214:307": {
@@ -8249,7 +8249,7 @@
           "url": "https://www.ihavanas.com/details.php?ptype=cigars&pid=Partagas"
         }
       },
-      "last_checked": "2026-09-02T00:18:29+00:00",
+      "last_checked": "2026-09-02T00:32:23+00:00",
       "last_count": 194,
       "last_error": null,
       "previous": {
