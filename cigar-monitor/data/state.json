@@ -363,7 +363,7 @@
           "id": "cohcigars:1250:1417",
           "name": "H.Upmann - Connossieur A (25 盒)",
           "price": "$ 880.00",
-          "stock": "8",
+          "stock": "7",
           "url": "https://cn.cohcigars.com/cigars-h.upmann"
         },
         "cohcigars:1252:1422": {
@@ -573,7 +573,7 @@
           "id": "cohcigars:154:227",
           "name": "Partagas - Aristocrats (25 盒)",
           "price": "$ 290.00",
-          "stock": "6",
+          "stock": "5",
           "url": "https://cn.cohcigars.com/cigars-partagas"
         },
         "cohcigars:15545:16209": {
@@ -1196,7 +1196,7 @@
           "id": "cohcigars:21:38",
           "name": "Bolivar - Belicosos Finos (25 盒)",
           "price": "$ 788.00",
-          "stock": "13",
+          "stock": "12",
           "url": "https://cn.cohcigars.com/cigars-bolivar"
         },
         "cohcigars:22284:23046": {
@@ -1392,7 +1392,7 @@
           "id": "cohcigars:23327:24154",
           "name": "Singles 6 Stick Min - 1 x Montecristo Supremos EL 2019 (1 盒)",
           "price": "$ 95.00",
-          "stock": "88",
+          "stock": "87",
           "url": "https://cn.cohcigars.com/cigars-singles-6-stick-min"
         },
         "cohcigars:23328:24155": {
@@ -1504,7 +1504,7 @@
           "id": "cohcigars:23343:24170",
           "name": "Singles 6 Stick Min - 1 x Ramon Allones Terra Magica RE Adriatico 2016 (1 盒)",
           "price": "$ 89.00",
-          "stock": "94",
+          "stock": "93",
           "url": "https://cn.cohcigars.com/cigars-singles-6-stick-min"
         },
         "cohcigars:23344:24171": {
@@ -1903,7 +1903,7 @@
           "id": "cohcigars:2568:2858",
           "name": "Guantanamera - Puritos (50 x 2 盒)",
           "price": "$ 137.00",
-          "stock": "19",
+          "stock": "18",
           "url": "https://cn.cohcigars.com/cigars-guantanamera"
         },
         "cohcigars:2569:2859": {
@@ -3520,14 +3520,14 @@
           "id": "cohcigars:7660:8176",
           "name": "Singles 6 Stick Min - 1 x Punch 8-9-8 RE Asia Pacifico (1 盒)",
           "price": "$ 72.00",
-          "stock": "188",
+          "stock": "186",
           "url": "https://cn.cohcigars.com/cigars-singles-6-stick-min"
         },
         "cohcigars:7663:8179": {
           "id": "cohcigars:7663:8179",
           "name": "Singles 6 Stick Min - 1 x El Rey del Mundo Tainos RE Formosa (1 盒)",
           "price": "$ 93.00",
-          "stock": "77",
+          "stock": "76",
           "url": "https://cn.cohcigars.com/cigars-singles-6-stick-min"
         },
         "cohcigars:779:25847": {
@@ -3597,7 +3597,7 @@
           "id": "cohcigars:8620:9199",
           "name": "Singles 6 Stick Min - 1 x Cuaba APAC (1 盒)",
           "price": "$ 65.00",
-          "stock": "94",
+          "stock": "93",
           "url": "https://cn.cohcigars.com/cigars-singles-6-stick-min"
         },
         "cohcigars:8629:9217": {
@@ -3660,14 +3660,14 @@
           "id": "cohcigars:88:621",
           "name": "H.Upmann - Magnum 50 (10 盒)",
           "price": "$ 445.00",
-          "stock": "4",
+          "stock": "2",
           "url": "https://cn.cohcigars.com/cigars-h.upmann"
         },
         "cohcigars:8959:9602": {
           "id": "cohcigars:8959:9602",
           "name": "Rafael Gonzalez - Coronas de Lonsdales (10 盒)",
           "price": "$ 195.00",
-          "stock": "12",
+          "stock": "11",
           "url": "https://cn.cohcigars.com/cigars-rafael-gonzalez"
         },
         "cohcigars:8963:15587": {
@@ -3930,8 +3930,8 @@
           "url": "https://cn.cohcigars.com/cigars-montecristo"
         }
       },
-      "last_checked": "2026-09-03T12:51:58+00:00",
-      "last_count": 438,
+      "last_checked": "2026-09-03T16:42:21+00:00",
+      "last_count": 437,
       "last_error": null,
       "previous": {
         "cohcigars:101:144": {
@@ -4218,7 +4218,7 @@
           "id": "cohcigars:1250:1417",
           "name": "H.Upmann - Connossieur A (25 盒)",
           "price": "$ 880.00",
-          "stock": "8",
+          "stock": "7",
           "url": "https://cn.cohcigars.com/cigars-h.upmann"
         },
         "cohcigars:1252:1422": {
@@ -4407,7 +4407,7 @@
           "id": "cohcigars:154:227",
           "name": "Partagas - Aristocrats (25 盒)",
           "price": "$ 290.00",
-          "stock": "6",
+          "stock": "5",
           "url": "https://cn.cohcigars.com/cigars-partagas"
         },
         "cohcigars:15545:16209": {
@@ -4932,7 +4932,7 @@
           "id": "cohcigars:21:38",
           "name": "Bolivar - Belicosos Finos (25 盒)",
           "price": "$ 788.00",
-          "stock": "13",
+          "stock": "12",
           "url": "https://cn.cohcigars.com/cigars-bolivar"
         },
         "cohcigars:22284:23046": {
@@ -5121,7 +5121,7 @@
           "id": "cohcigars:23327:24154",
           "name": "Singles 6 Stick Min - 1 x Montecristo Supremos EL 2019 (1 盒)",
           "price": "$ 95.00",
-          "stock": "88",
+          "stock": "87",
           "url": "https://cn.cohcigars.com/cigars-singles-6-stick-min"
         },
         "cohcigars:23328:24155": {
@@ -5233,7 +5233,7 @@
           "id": "cohcigars:23343:24170",
           "name": "Singles 6 Stick Min - 1 x Ramon Allones Terra Magica RE Adriatico 2016 (1 盒)",
           "price": "$ 89.00",
-          "stock": "94",
+          "stock": "93",
           "url": "https://cn.cohcigars.com/cigars-singles-6-stick-min"
         },
         "cohcigars:23344:24171": {
@@ -5569,7 +5569,7 @@
           "id": "cohcigars:2568:2858",
           "name": "Guantanamera - Puritos (50 x 2 盒)",
           "price": "$ 137.00",
-          "stock": "19",
+          "stock": "18",
           "url": "https://cn.cohcigars.com/cigars-guantanamera"
         },
         "cohcigars:2569:2859": {
@@ -6675,14 +6675,14 @@
           "id": "cohcigars:7660:8176",
           "name": "Singles 6 Stick Min - 1 x Punch 8-9-8 RE Asia Pacifico (1 盒)",
           "price": "$ 72.00",
-          "stock": "188",
+          "stock": "186",
           "url": "https://cn.cohcigars.com/cigars-singles-6-stick-min"
         },
         "cohcigars:7663:8179": {
           "id": "cohcigars:7663:8179",
           "name": "Singles 6 Stick Min - 1 x El Rey del Mundo Tainos RE Formosa (1 盒)",
           "price": "$ 93.00",
-          "stock": "77",
+          "stock": "76",
           "url": "https://cn.cohcigars.com/cigars-singles-6-stick-min"
         },
         "cohcigars:779:25847": {
@@ -6745,7 +6745,7 @@
           "id": "cohcigars:8620:9199",
           "name": "Singles 6 Stick Min - 1 x Cuaba APAC (1 盒)",
           "price": "$ 65.00",
-          "stock": "94",
+          "stock": "93",
           "url": "https://cn.cohcigars.com/cigars-singles-6-stick-min"
         },
         "cohcigars:8629:9217": {
@@ -6801,14 +6801,14 @@
           "id": "cohcigars:88:621",
           "name": "H.Upmann - Magnum 50 (10 盒)",
           "price": "$ 445.00",
-          "stock": "4",
+          "stock": "2",
           "url": "https://cn.cohcigars.com/cigars-h.upmann"
         },
         "cohcigars:8959:9602": {
           "id": "cohcigars:8959:9602",
           "name": "Rafael Gonzalez - Coronas de Lonsdales (10 盒)",
           "price": "$ 195.00",
-          "stock": "12",
+          "stock": "11",
           "url": "https://cn.cohcigars.com/cigars-rafael-gonzalez"
         },
         "cohcigars:8963:15587": {
@@ -6866,13 +6866,6 @@
           "price": "$ 109.00",
           "stock": "93",
           "url": "https://cn.cohcigars.com/cigars-montecristo"
-        },
-        "cohcigars:913:956": {
-          "id": "cohcigars:913:956",
-          "name": "Rafael Gonzalez - Panetelas Extra (25 盒)",
-          "price": "$ 170.00",
-          "stock": "1",
-          "url": "https://cn.cohcigars.com/cigars-rafael-gonzalez"
         },
         "cohcigars:914:957": {
           "id": "cohcigars:914:957",
@@ -8235,7 +8228,7 @@
           "url": "https://www.ihavanas.com/details.php?ptype=cigars&pid=Partagas"
         }
       },
-      "last_checked": "2026-09-03T12:51:41+00:00",
+      "last_checked": "2026-09-03T16:41:10+00:00",
       "last_count": 193,
       "last_error": null,
       "previous": {
