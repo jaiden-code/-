@@ -573,7 +573,7 @@
           "id": "cohcigars:154:227",
           "name": "Partagas - Aristocrats (25 盒)",
           "price": "$ 290.00",
-          "stock": "7",
+          "stock": "6",
           "url": "https://cn.cohcigars.com/cigars-partagas"
         },
         "cohcigars:15545:16209": {
@@ -2057,7 +2057,7 @@
           "id": "cohcigars:26316:27224",
           "name": "Cohiba - 1966 EL 2011 (5 盒)",
           "price": "$ 269.00",
-          "stock": "48",
+          "stock": "47",
           "url": "https://cn.cohcigars.com/cigars-cohiba"
         },
         "cohcigars:26317:27225": {
@@ -2211,7 +2211,7 @@
           "id": "cohcigars:282:6163",
           "name": "Partagas - Cetros Year of the Snake (20x5 盒)",
           "price": "$ 90.00",
-          "stock": "924",
+          "stock": "923",
           "url": "https://cn.cohcigars.com/cigars-partagas"
         },
         "cohcigars:2840:3155": {
@@ -3282,7 +3282,7 @@
           "id": "cohcigars:642:17328",
           "name": "Cohiba - Siglo I A/T (3 盒)",
           "price": "$ 99.00",
-          "stock": "79",
+          "stock": "78",
           "url": "https://cn.cohcigars.com/cigars-cohiba"
         },
         "cohcigars:642:21493": {
@@ -3674,7 +3674,7 @@
           "id": "cohcigars:8963:15587",
           "name": "Vegueros - Centrogordos (4x4 盒)",
           "price": "$ 265.00",
-          "stock": "44",
+          "stock": "43",
           "url": "https://cn.cohcigars.com/cigars-vegueros"
         },
         "cohcigars:8963:22877": {
@@ -3930,7 +3930,7 @@
           "url": "https://cn.cohcigars.com/cigars-montecristo"
         }
       },
-      "last_checked": "2026-09-03T05:05:10+00:00",
+      "last_checked": "2026-09-03T07:13:47+00:00",
       "last_count": 438,
       "last_error": null,
       "previous": {
@@ -4407,7 +4407,7 @@
           "id": "cohcigars:154:227",
           "name": "Partagas - Aristocrats (25 盒)",
           "price": "$ 290.00",
-          "stock": "7",
+          "stock": "6",
           "url": "https://cn.cohcigars.com/cigars-partagas"
         },
         "cohcigars:15545:16209": {
@@ -5625,7 +5625,7 @@
           "id": "cohcigars:26316:27224",
           "name": "Cohiba - 1966 EL 2011 (5 盒)",
           "price": "$ 269.00",
-          "stock": "48",
+          "stock": "47",
           "url": "https://cn.cohcigars.com/cigars-cohiba"
         },
         "cohcigars:263:24306": {
@@ -5723,7 +5723,7 @@
           "id": "cohcigars:282:6163",
           "name": "Partagas - Cetros Year of the Snake (20x5 盒)",
           "price": "$ 90.00",
-          "stock": "924",
+          "stock": "923",
           "url": "https://cn.cohcigars.com/cigars-partagas"
         },
         "cohcigars:2863:3180": {
@@ -6465,7 +6465,7 @@
           "id": "cohcigars:642:17328",
           "name": "Cohiba - Siglo I A/T (3 盒)",
           "price": "$ 99.00",
-          "stock": "79",
+          "stock": "78",
           "url": "https://cn.cohcigars.com/cigars-cohiba"
         },
         "cohcigars:642:756": {
@@ -6815,7 +6815,7 @@
           "id": "cohcigars:8963:15587",
           "name": "Vegueros - Centrogordos (4x4 盒)",
           "price": "$ 265.00",
-          "stock": "44",
+          "stock": "43",
           "url": "https://cn.cohcigars.com/cigars-vegueros"
         },
         "cohcigars:908:17330": {
@@ -8235,7 +8235,7 @@
           "url": "https://www.ihavanas.com/details.php?ptype=cigars&pid=Partagas"
         }
       },
-      "last_checked": "2026-09-03T05:04:51+00:00",
+      "last_checked": "2026-09-03T07:13:23+00:00",
       "last_count": 193,
       "last_error": null,
       "previous": {
