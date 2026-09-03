@@ -27,14 +27,14 @@
           "id": "cohcigars:102:149",
           "name": "Hoyo de Monterrey - Epicure No.2 (15 盒)",
           "price": "$ 402.00",
-          "stock": "32",
+          "stock": "31",
           "url": "https://cn.cohcigars.com/cigars-hoyo-de-monterrey"
         },
         "cohcigars:102:20571": {
           "id": "cohcigars:102:20571",
           "name": "Hoyo de Monterrey - Epicure No.2 (3 盒)",
           "price": "$ 99.00",
-          "stock": "15",
+          "stock": "14",
           "url": "https://cn.cohcigars.com/cigars-hoyo-de-monterrey"
         },
         "cohcigars:102:21530": {
@@ -419,7 +419,7 @@
           "id": "cohcigars:13087:14767",
           "name": "Montecristo - Wide Edmundo (10 盒)",
           "price": "$ 420.00",
-          "stock": "20",
+          "stock": "19",
           "url": "https://cn.cohcigars.com/cigars-montecristo"
         },
         "cohcigars:132:912": {
@@ -503,7 +503,7 @@
           "id": "cohcigars:14258:14913",
           "name": "Troya - Tubos (15 盒)",
           "price": "$ 95.00",
-          "stock": "5",
+          "stock": "4",
           "url": "https://cn.cohcigars.com/cigars-troya"
         },
         "cohcigars:142:212": {
@@ -1602,7 +1602,7 @@
           "id": "cohcigars:2374:2644",
           "name": "H.Upmann - Magnum 54 (25 盒)",
           "price": "$ 805.00",
-          "stock": "4",
+          "stock": "3",
           "url": "https://cn.cohcigars.com/cigars-h.upmann"
         },
         "cohcigars:2374:2695": {
@@ -1623,7 +1623,7 @@
           "id": "cohcigars:2376:25889",
           "name": "Quintero Y Hermano - Tubulares A/T (3x3 盒)",
           "price": "$ 79.00",
-          "stock": "177",
+          "stock": "176",
           "url": "https://cn.cohcigars.com/cigars-quintero-y-hermano"
         },
         "cohcigars:2379:2652": {
@@ -2057,7 +2057,7 @@
           "id": "cohcigars:26316:27224",
           "name": "Cohiba - 1966 EL 2011 (5 盒)",
           "price": "$ 269.00",
-          "stock": "47",
+          "stock": "46",
           "url": "https://cn.cohcigars.com/cigars-cohiba"
         },
         "cohcigars:26317:27225": {
@@ -3653,7 +3653,7 @@
           "id": "cohcigars:8822:19989",
           "name": "Partagas - Serie P No.2 (50 盒)",
           "price": "$ 99.00",
-          "stock": "148",
+          "stock": "146",
           "url": "https://cn.cohcigars.com/cigars-partagas"
         },
         "cohcigars:88:621": {
@@ -3930,7 +3930,7 @@
           "url": "https://cn.cohcigars.com/cigars-montecristo"
         }
       },
-      "last_checked": "2026-09-03T07:13:47+00:00",
+      "last_checked": "2026-09-03T11:43:50+00:00",
       "last_count": 438,
       "last_error": null,
       "previous": {
@@ -3952,14 +3952,14 @@
           "id": "cohcigars:102:149",
           "name": "Hoyo de Monterrey - Epicure No.2 (15 盒)",
           "price": "$ 402.00",
-          "stock": "32",
+          "stock": "31",
           "url": "https://cn.cohcigars.com/cigars-hoyo-de-monterrey"
         },
         "cohcigars:102:20571": {
           "id": "cohcigars:102:20571",
           "name": "Hoyo de Monterrey - Epicure No.2 (3 盒)",
           "price": "$ 99.00",
-          "stock": "15",
+          "stock": "14",
           "url": "https://cn.cohcigars.com/cigars-hoyo-de-monterrey"
         },
         "cohcigars:105:154": {
@@ -4274,7 +4274,7 @@
           "id": "cohcigars:13087:14767",
           "name": "Montecristo - Wide Edmundo (10 盒)",
           "price": "$ 420.00",
-          "stock": "20",
+          "stock": "19",
           "url": "https://cn.cohcigars.com/cigars-montecristo"
         },
         "cohcigars:132:912": {
@@ -4358,7 +4358,7 @@
           "id": "cohcigars:14258:14913",
           "name": "Troya - Tubos (15 盒)",
           "price": "$ 95.00",
-          "stock": "5",
+          "stock": "4",
           "url": "https://cn.cohcigars.com/cigars-troya"
         },
         "cohcigars:142:212": {
@@ -5296,7 +5296,7 @@
           "id": "cohcigars:2374:2644",
           "name": "H.Upmann - Magnum 54 (25 盒)",
           "price": "$ 805.00",
-          "stock": "4",
+          "stock": "3",
           "url": "https://cn.cohcigars.com/cigars-h.upmann"
         },
         "cohcigars:2375:2647": {
@@ -5310,7 +5310,7 @@
           "id": "cohcigars:2376:25889",
           "name": "Quintero Y Hermano - Tubulares A/T (3x3 盒)",
           "price": "$ 79.00",
-          "stock": "177",
+          "stock": "176",
           "url": "https://cn.cohcigars.com/cigars-quintero-y-hermano"
         },
         "cohcigars:2379:2652": {
@@ -5625,7 +5625,7 @@
           "id": "cohcigars:26316:27224",
           "name": "Cohiba - 1966 EL 2011 (5 盒)",
           "price": "$ 269.00",
-          "stock": "47",
+          "stock": "46",
           "url": "https://cn.cohcigars.com/cigars-cohiba"
         },
         "cohcigars:263:24306": {
@@ -6794,7 +6794,7 @@
           "id": "cohcigars:8822:19989",
           "name": "Partagas - Serie P No.2 (50 盒)",
           "price": "$ 99.00",
-          "stock": "148",
+          "stock": "146",
           "url": "https://cn.cohcigars.com/cigars-partagas"
         },
         "cohcigars:88:621": {
@@ -8235,7 +8235,7 @@
           "url": "https://www.ihavanas.com/details.php?ptype=cigars&pid=Partagas"
         }
       },
-      "last_checked": "2026-09-03T07:13:23+00:00",
+      "last_checked": "2026-09-03T11:43:32+00:00",
       "last_count": 193,
       "last_error": null,
       "previous": {
