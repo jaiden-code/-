@@ -62,7 +62,7 @@
           "id": "cohcigars:10801:11453",
           "name": "Quai Dorsay - No.52 (10 盒)",
           "price": "$ 370.00",
-          "stock": "13",
+          "stock": "11",
           "url": "https://cn.cohcigars.com/cigars-quai-dorsay"
         },
         "cohcigars:10847:11499": {
@@ -167,7 +167,7 @@
           "id": "cohcigars:11208:11857",
           "name": "Partagas - Legado EL 2020 (20 盒)",
           "price": "$ 1200.00",
-          "stock": "14",
+          "stock": "13",
           "url": "https://cn.cohcigars.com/cigars-partagas"
         },
         "cohcigars:11209:11858": {
@@ -692,7 +692,7 @@
           "id": "cohcigars:1730:21528",
           "name": "Vegueros - Mananitas (4 盒)",
           "price": "$ 60.00",
-          "stock": "37",
+          "stock": "36",
           "url": "https://cn.cohcigars.com/cigars-vegueros"
         },
         "cohcigars:1731:1963": {
@@ -1623,7 +1623,7 @@
           "id": "cohcigars:2376:25889",
           "name": "Quintero Y Hermano - Tubulares A/T (3x3 盒)",
           "price": "$ 79.00",
-          "stock": "176",
+          "stock": "175",
           "url": "https://cn.cohcigars.com/cigars-quintero-y-hermano"
         },
         "cohcigars:2379:2652": {
@@ -1665,7 +1665,7 @@
           "id": "cohcigars:24124:24959",
           "name": "Diplomaticos - Grandes RE Alemania 2021 (25 盒)",
           "price": "$ 2350.00",
-          "stock": "9",
+          "stock": "8",
           "url": "https://cn.cohcigars.com/cigars-diplomaticos"
         },
         "cohcigars:24167:25002": {
@@ -1924,7 +1924,7 @@
           "id": "cohcigars:257:366",
           "name": "Vegas Robaina - Unicos (25 盒)",
           "price": "$ 762.00",
-          "stock": "4",
+          "stock": "3",
           "url": "https://cn.cohcigars.com/cigars-vegas-robaina"
         },
         "cohcigars:2585:6399": {
@@ -2141,7 +2141,7 @@
           "id": "cohcigars:267:21510",
           "name": "Romeo Y Julieta - Puritos (5x10 盒)",
           "price": "$ 90.00",
-          "stock": "98",
+          "stock": "97",
           "url": "https://cn.cohcigars.com/cigars-romeo-y-julieta"
         },
         "cohcigars:267:23689": {
@@ -2162,7 +2162,7 @@
           "id": "cohcigars:273:19988",
           "name": "Montecristo - Petit Tubos (25 x2 盒)",
           "price": "$ 99.00",
-          "stock": "313",
+          "stock": "312",
           "url": "https://cn.cohcigars.com/cigars-montecristo"
         },
         "cohcigars:274:23682": {
@@ -3660,7 +3660,7 @@
           "id": "cohcigars:8822:19989",
           "name": "Partagas - Serie P No.2 (50 盒)",
           "price": "$ 99.00",
-          "stock": "146",
+          "stock": "145",
           "url": "https://cn.cohcigars.com/cigars-partagas"
         },
         "cohcigars:88:621": {
@@ -3937,8 +3937,8 @@
           "url": "https://cn.cohcigars.com/cigars-montecristo"
         }
       },
-      "last_checked": "2026-09-05T00:24:04+00:00",
-      "last_count": 444,
+      "last_checked": "2026-09-05T04:40:06+00:00",
+      "last_count": 441,
       "last_error": null,
       "previous": {
         "cohcigars:101:144": {
@@ -3994,7 +3994,7 @@
           "id": "cohcigars:10801:11453",
           "name": "Quai Dorsay - No.52 (10 盒)",
           "price": "$ 370.00",
-          "stock": "13",
+          "stock": "11",
           "url": "https://cn.cohcigars.com/cigars-quai-dorsay"
         },
         "cohcigars:10847:11499": {
@@ -4046,13 +4046,6 @@
           "stock": "17",
           "url": "https://cn.cohcigars.com/cigars-la-gloria-cubana"
         },
-        "cohcigars:11073:11723": {
-          "id": "cohcigars:11073:11723",
-          "name": "San Cristobal De La Habana - 5 Pack- Prado LCDH (5 盒)",
-          "price": "$ 250.00",
-          "stock": "5",
-          "url": "https://cn.cohcigars.com/cigars-san-cristobal-de-la-habana"
-        },
         "cohcigars:11074:11724": {
           "id": "cohcigars:11074:11724",
           "name": "Ramon Allones - 5 Pack- Phoenicio 40th Anniversary Libano (5 盒)",
@@ -4092,7 +4085,7 @@
           "id": "cohcigars:11208:11857",
           "name": "Partagas - Legado EL 2020 (20 盒)",
           "price": "$ 1200.00",
-          "stock": "14",
+          "stock": "13",
           "url": "https://cn.cohcigars.com/cigars-partagas"
         },
         "cohcigars:11209:11858": {
@@ -4540,7 +4533,7 @@
           "id": "cohcigars:1730:21528",
           "name": "Vegueros - Mananitas (4 盒)",
           "price": "$ 60.00",
-          "stock": "37",
+          "stock": "36",
           "url": "https://cn.cohcigars.com/cigars-vegueros"
         },
         "cohcigars:1731:20576": {
@@ -5292,13 +5285,6 @@
           "stock": "117",
           "url": "https://cn.cohcigars.com/cigars-singles-6-stick-min"
         },
-        "cohcigars:233:331": {
-          "id": "cohcigars:233:331",
-          "name": "San Cristobal De La Habana - 5 Pack- Prado LCDH (25 盒)",
-          "price": "$ 299.00",
-          "stock": "28",
-          "url": "https://cn.cohcigars.com/cigars-san-cristobal-de-la-habana"
-        },
         "cohcigars:235:333": {
           "id": "cohcigars:235:333",
           "name": "San Cristobal De La Habana - La Punta (25 盒)",
@@ -5324,7 +5310,7 @@
           "id": "cohcigars:2376:25889",
           "name": "Quintero Y Hermano - Tubulares A/T (3x3 盒)",
           "price": "$ 79.00",
-          "stock": "176",
+          "stock": "175",
           "url": "https://cn.cohcigars.com/cigars-quintero-y-hermano"
         },
         "cohcigars:2379:2652": {
@@ -5366,7 +5352,7 @@
           "id": "cohcigars:24124:24959",
           "name": "Diplomaticos - Grandes RE Alemania 2021 (25 盒)",
           "price": "$ 2350.00",
-          "stock": "9",
+          "stock": "8",
           "url": "https://cn.cohcigars.com/cigars-diplomaticos"
         },
         "cohcigars:24167:25002": {
@@ -5604,7 +5590,7 @@
           "id": "cohcigars:257:366",
           "name": "Vegas Robaina - Unicos (25 盒)",
           "price": "$ 762.00",
-          "stock": "4",
+          "stock": "3",
           "url": "https://cn.cohcigars.com/cigars-vegas-robaina"
         },
         "cohcigars:2586:5280": {
@@ -5709,7 +5695,7 @@
           "id": "cohcigars:267:21510",
           "name": "Romeo Y Julieta - Puritos (5x10 盒)",
           "price": "$ 90.00",
-          "stock": "98",
+          "stock": "97",
           "url": "https://cn.cohcigars.com/cigars-romeo-y-julieta"
         },
         "cohcigars:267:23689": {
@@ -5730,7 +5716,7 @@
           "id": "cohcigars:273:19988",
           "name": "Montecristo - Petit Tubos (25 x2 盒)",
           "price": "$ 99.00",
-          "stock": "313",
+          "stock": "312",
           "url": "https://cn.cohcigars.com/cigars-montecristo"
         },
         "cohcigars:274:23682": {
@@ -6850,15 +6836,8 @@
           "id": "cohcigars:8822:19989",
           "name": "Partagas - Serie P No.2 (50 盒)",
           "price": "$ 99.00",
-          "stock": "146",
+          "stock": "145",
           "url": "https://cn.cohcigars.com/cigars-partagas"
-        },
-        "cohcigars:88:621": {
-          "id": "cohcigars:88:621",
-          "name": "H.Upmann - Magnum 50 (10 盒)",
-          "price": "$ 445.00",
-          "stock": "2",
-          "url": "https://cn.cohcigars.com/cigars-h.upmann"
         },
         "cohcigars:8959:9602": {
           "id": "cohcigars:8959:9602",
@@ -8284,7 +8263,7 @@
           "url": "https://www.ihavanas.com/details.php?ptype=cigars&pid=Partagas"
         }
       },
-      "last_checked": "2026-09-05T00:23:40+00:00",
+      "last_checked": "2026-09-05T04:36:09+00:00",
       "last_count": 193,
       "last_error": null,
       "previous": {
