@@ -90,7 +90,7 @@
           "id": "cohcigars:11056:11706",
           "name": "El Rey Del Mundo - Royal Series LCDH (20 盒)",
           "price": "$ 1345.00",
-          "stock": "3",
+          "stock": "2",
           "url": "https://cn.cohcigars.com/cigars-el-rey-del-mundo"
         },
         "cohcigars:11057:11707": {
@@ -440,7 +440,7 @@
           "id": "cohcigars:136:203",
           "name": "Partagas - Serie Club 10x10 (25 盒)",
           "price": "$ 699.00",
-          "stock": "63",
+          "stock": "62",
           "url": "https://cn.cohcigars.com/cigars-partagas"
         },
         "cohcigars:13910:14564": {
@@ -1140,7 +1140,7 @@
           "id": "cohcigars:21282:22028",
           "name": "H.Upmann - Magnum Finite EL 2024 (25 盒)",
           "price": "$ 1650.00",
-          "stock": "5",
+          "stock": "4",
           "url": "https://cn.cohcigars.com/cigars-h.upmann"
         },
         "cohcigars:21285:22031": {
@@ -1602,7 +1602,7 @@
           "id": "cohcigars:2374:2644",
           "name": "H.Upmann - Magnum 54 (25 盒)",
           "price": "$ 805.00",
-          "stock": "2",
+          "stock": "1",
           "url": "https://cn.cohcigars.com/cigars-h.upmann"
         },
         "cohcigars:2374:2695": {
@@ -2064,7 +2064,7 @@
           "id": "cohcigars:26316:27224",
           "name": "Cohiba - 1966 EL 2011 (5 盒)",
           "price": "$ 269.00",
-          "stock": "36",
+          "stock": "35",
           "url": "https://cn.cohcigars.com/cigars-cohiba"
         },
         "cohcigars:26317:27225": {
@@ -3051,7 +3051,7 @@
           "id": "cohcigars:466:725",
           "name": "Montecristo - Linea 1935 Maltes (20 盒)",
           "price": "$ 605.00",
-          "stock": "6",
+          "stock": "4",
           "url": "https://cn.cohcigars.com/cigars-montecristo"
         },
         "cohcigars:46:71": {
@@ -3310,7 +3310,7 @@
           "id": "cohcigars:66:104",
           "name": "Diplomaticos - Grandes RE Alemania 2021 (25 盒)",
           "price": "$ 615.00",
-          "stock": "13",
+          "stock": "12",
           "url": "https://cn.cohcigars.com/cigars-diplomaticos"
         },
         "cohcigars:683:789": {
@@ -3562,7 +3562,7 @@
           "id": "cohcigars:8182:8735",
           "name": "Partagas - Legado EL 2020 (25 盒)",
           "price": "$ 1760.00",
-          "stock": "3",
+          "stock": "2",
           "url": "https://cn.cohcigars.com/cigars-partagas"
         },
         "cohcigars:8281:8839": {
@@ -3576,7 +3576,7 @@
           "id": "cohcigars:83:123",
           "name": "H.Upmann - Connoisseur No.1 (25 盒)",
           "price": "$ 695.00",
-          "stock": "14",
+          "stock": "13",
           "url": "https://cn.cohcigars.com/cigars-h.upmann"
         },
         "cohcigars:8415:8973": {
@@ -3772,7 +3772,7 @@
           "id": "cohcigars:924:967",
           "name": "Partagas - Cetros Year of the Snake (25 盒)",
           "price": "$ 275.00",
-          "stock": "185",
+          "stock": "184",
           "url": "https://cn.cohcigars.com/cigars-partagas"
         },
         "cohcigars:9253:9898": {
@@ -3937,7 +3937,7 @@
           "url": "https://cn.cohcigars.com/cigars-montecristo"
         }
       },
-      "last_checked": "2026-09-10T12:57:22+00:00",
+      "last_checked": "2026-09-10T16:41:10+00:00",
       "last_count": 438,
       "last_error": null,
       "previous": {
@@ -4022,7 +4022,7 @@
           "id": "cohcigars:11056:11706",
           "name": "El Rey Del Mundo - Royal Series LCDH (20 盒)",
           "price": "$ 1345.00",
-          "stock": "3",
+          "stock": "2",
           "url": "https://cn.cohcigars.com/cigars-el-rey-del-mundo"
         },
         "cohcigars:11057:11707": {
@@ -4302,7 +4302,7 @@
           "id": "cohcigars:136:203",
           "name": "Partagas - Serie Club 10x10 (25 盒)",
           "price": "$ 699.00",
-          "stock": "63",
+          "stock": "62",
           "url": "https://cn.cohcigars.com/cigars-partagas"
         },
         "cohcigars:13910:14564": {
@@ -4883,7 +4883,7 @@
           "id": "cohcigars:21282:22028",
           "name": "H.Upmann - Magnum Finite EL 2024 (25 盒)",
           "price": "$ 1650.00",
-          "stock": "5",
+          "stock": "4",
           "url": "https://cn.cohcigars.com/cigars-h.upmann"
         },
         "cohcigars:21285:22031": {
@@ -5296,7 +5296,7 @@
           "id": "cohcigars:2374:2644",
           "name": "H.Upmann - Magnum 54 (25 盒)",
           "price": "$ 805.00",
-          "stock": "2",
+          "stock": "1",
           "url": "https://cn.cohcigars.com/cigars-h.upmann"
         },
         "cohcigars:2375:2647": {
@@ -5639,7 +5639,7 @@
           "id": "cohcigars:26316:27224",
           "name": "Cohiba - 1966 EL 2011 (5 盒)",
           "price": "$ 269.00",
-          "stock": "36",
+          "stock": "35",
           "url": "https://cn.cohcigars.com/cigars-cohiba"
         },
         "cohcigars:26317:27225": {
@@ -6269,7 +6269,7 @@
           "id": "cohcigars:466:725",
           "name": "Montecristo - Linea 1935 Maltes (20 盒)",
           "price": "$ 605.00",
-          "stock": "6",
+          "stock": "4",
           "url": "https://cn.cohcigars.com/cigars-montecristo"
         },
         "cohcigars:46:71": {
@@ -6500,7 +6500,7 @@
           "id": "cohcigars:66:104",
           "name": "Diplomaticos - Grandes RE Alemania 2021 (25 盒)",
           "price": "$ 615.00",
-          "stock": "13",
+          "stock": "12",
           "url": "https://cn.cohcigars.com/cigars-diplomaticos"
         },
         "cohcigars:683:789": {
@@ -6731,7 +6731,7 @@
           "id": "cohcigars:8182:8735",
           "name": "Partagas - Legado EL 2020 (25 盒)",
           "price": "$ 1760.00",
-          "stock": "3",
+          "stock": "2",
           "url": "https://cn.cohcigars.com/cigars-partagas"
         },
         "cohcigars:8281:8839": {
@@ -6745,7 +6745,7 @@
           "id": "cohcigars:83:123",
           "name": "H.Upmann - Connoisseur No.1 (25 盒)",
           "price": "$ 695.00",
-          "stock": "14",
+          "stock": "13",
           "url": "https://cn.cohcigars.com/cigars-h.upmann"
         },
         "cohcigars:8415:8973": {
@@ -6892,7 +6892,7 @@
           "id": "cohcigars:924:967",
           "name": "Partagas - Cetros Year of the Snake (25 盒)",
           "price": "$ 275.00",
-          "stock": "185",
+          "stock": "184",
           "url": "https://cn.cohcigars.com/cigars-partagas"
         },
         "cohcigars:9327:9971": {
@@ -8242,7 +8242,7 @@
           "url": "https://www.ihavanas.com/details.php?ptype=cigars&pid=Partagas"
         }
       },
-      "last_checked": "2026-09-10T12:57:07+00:00",
+      "last_checked": "2026-09-10T16:40:53+00:00",
       "last_count": 192,
       "last_error": null,
       "previous": {
