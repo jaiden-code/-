@@ -685,7 +685,7 @@
           "id": "cohcigars:170:248",
           "name": "Punch - Coronations A/T (25 盒)",
           "price": "$ 490.00",
-          "stock": "28",
+          "stock": "27",
           "url": "https://cn.cohcigars.com/cigars-punch"
         },
         "cohcigars:1730:21528": {
@@ -755,7 +755,7 @@
           "id": "cohcigars:1802:2041",
           "name": "Vintage - Montecristo No.4 - 2016 (25 盒)",
           "price": "$ 890.00",
-          "stock": "45",
+          "stock": "44",
           "url": "https://cn.cohcigars.com/cigars-vintage"
         },
         "cohcigars:1820:2061": {
@@ -867,7 +867,7 @@
           "id": "cohcigars:1946:23678",
           "name": "Cohiba - Medio Siglo A/T (10x10 盒)",
           "price": "$ 89.00",
-          "stock": "195",
+          "stock": "194",
           "url": "https://cn.cohcigars.com/cigars-cohiba"
         },
         "cohcigars:1947:9595": {
@@ -1154,7 +1154,7 @@
           "id": "cohcigars:214:2408",
           "name": "Romeo Y Julieta - Mille Fleurs (10 盒)",
           "price": "$ 155.00",
-          "stock": "45",
+          "stock": "44",
           "url": "https://cn.cohcigars.com/cigars-romeo-y-julieta"
         },
         "cohcigars:214:307": {
@@ -1182,14 +1182,14 @@
           "id": "cohcigars:21860:22614",
           "name": "Cohiba - Vitosos Travel Humidor (6x10 盒)",
           "price": "$ 245.00",
-          "stock": "76",
+          "stock": "75",
           "url": "https://cn.cohcigars.com/cigars-cohiba"
         },
         "cohcigars:21860:24390": {
           "id": "cohcigars:21860:24390",
           "name": "Cohiba - Vitosos Travel Humidor (6x2 盒)",
           "price": "$ 79.00",
-          "stock": "69",
+          "stock": "68",
           "url": "https://cn.cohcigars.com/cigars-cohiba"
         },
         "cohcigars:21:38": {
@@ -2064,7 +2064,7 @@
           "id": "cohcigars:26316:27224",
           "name": "Cohiba - 1966 EL 2011 (5 盒)",
           "price": "$ 269.00",
-          "stock": "34",
+          "stock": "33",
           "url": "https://cn.cohcigars.com/cigars-cohiba"
         },
         "cohcigars:26317:27225": {
@@ -3002,7 +3002,7 @@
           "id": "cohcigars:4632:5067",
           "name": "Hoyo de Monterrey - Le Hoyo De Rio Seco (10 盒)",
           "price": "$ 398.00",
-          "stock": "21",
+          "stock": "20",
           "url": "https://cn.cohcigars.com/cigars-hoyo-de-monterrey"
         },
         "cohcigars:4633:4945": {
@@ -3226,7 +3226,7 @@
           "id": "cohcigars:55:5170",
           "name": "Cohiba - Medio Siglo A/T (10x10 盒)",
           "price": "$ 89.00",
-          "stock": "167",
+          "stock": "166",
           "url": "https://cn.cohcigars.com/cigars-cohiba"
         },
         "cohcigars:5772:6235": {
@@ -3937,7 +3937,7 @@
           "url": "https://cn.cohcigars.com/cigars-montecristo"
         }
       },
-      "last_checked": "2026-09-11T11:49:25+00:00",
+      "last_checked": "2026-09-11T16:34:15+00:00",
       "last_count": 437,
       "last_error": null,
       "previous": {
@@ -4519,7 +4519,7 @@
           "id": "cohcigars:170:248",
           "name": "Punch - Coronations A/T (25 盒)",
           "price": "$ 490.00",
-          "stock": "28",
+          "stock": "27",
           "url": "https://cn.cohcigars.com/cigars-punch"
         },
         "cohcigars:1730:21528": {
@@ -4568,7 +4568,7 @@
           "id": "cohcigars:1802:2041",
           "name": "Vintage - Montecristo No.4 - 2016 (25 盒)",
           "price": "$ 890.00",
-          "stock": "45",
+          "stock": "44",
           "url": "https://cn.cohcigars.com/cigars-vintage"
         },
         "cohcigars:185:264": {
@@ -4645,7 +4645,7 @@
           "id": "cohcigars:1946:23678",
           "name": "Cohiba - Medio Siglo A/T (10x10 盒)",
           "price": "$ 89.00",
-          "stock": "195",
+          "stock": "194",
           "url": "https://cn.cohcigars.com/cigars-cohiba"
         },
         "cohcigars:1947:9595": {
@@ -4890,7 +4890,7 @@
           "id": "cohcigars:214:2408",
           "name": "Romeo Y Julieta - Mille Fleurs (10 盒)",
           "price": "$ 155.00",
-          "stock": "45",
+          "stock": "44",
           "url": "https://cn.cohcigars.com/cigars-romeo-y-julieta"
         },
         "cohcigars:214:307": {
@@ -4918,14 +4918,14 @@
           "id": "cohcigars:21860:22614",
           "name": "Cohiba - Vitosos Travel Humidor (6x10 盒)",
           "price": "$ 245.00",
-          "stock": "76",
+          "stock": "75",
           "url": "https://cn.cohcigars.com/cigars-cohiba"
         },
         "cohcigars:21860:24390": {
           "id": "cohcigars:21860:24390",
           "name": "Cohiba - Vitosos Travel Humidor (6x2 盒)",
           "price": "$ 79.00",
-          "stock": "69",
+          "stock": "68",
           "url": "https://cn.cohcigars.com/cigars-cohiba"
         },
         "cohcigars:21:38": {
@@ -5632,7 +5632,7 @@
           "id": "cohcigars:26316:27224",
           "name": "Cohiba - 1966 EL 2011 (5 盒)",
           "price": "$ 269.00",
-          "stock": "34",
+          "stock": "33",
           "url": "https://cn.cohcigars.com/cigars-cohiba"
         },
         "cohcigars:26317:27225": {
@@ -6220,7 +6220,7 @@
           "id": "cohcigars:4632:5067",
           "name": "Hoyo de Monterrey - Le Hoyo De Rio Seco (10 盒)",
           "price": "$ 398.00",
-          "stock": "21",
+          "stock": "20",
           "url": "https://cn.cohcigars.com/cigars-hoyo-de-monterrey"
         },
         "cohcigars:4633:4945": {
@@ -6416,7 +6416,7 @@
           "id": "cohcigars:55:5170",
           "name": "Cohiba - Medio Siglo A/T (10x10 盒)",
           "price": "$ 89.00",
-          "stock": "167",
+          "stock": "166",
           "url": "https://cn.cohcigars.com/cigars-cohiba"
         },
         "cohcigars:5772:6235": {
@@ -8235,7 +8235,7 @@
           "url": "https://www.ihavanas.com/details.php?ptype=cigars&pid=Partagas"
         }
       },
-      "last_checked": "2026-09-11T11:49:11+00:00",
+      "last_checked": "2026-09-11T16:33:49+00:00",
       "last_count": 191,
       "last_error": null,
       "previous": {
