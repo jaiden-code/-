@@ -3310,7 +3310,7 @@
           "id": "cohcigars:66:104",
           "name": "Diplomaticos - Grandes RE Alemania 2021 (25 盒)",
           "price": "$ 615.00",
-          "stock": "12",
+          "stock": "11",
           "url": "https://cn.cohcigars.com/cigars-diplomaticos"
         },
         "cohcigars:683:789": {
@@ -3937,7 +3937,7 @@
           "url": "https://cn.cohcigars.com/cigars-montecristo"
         }
       },
-      "last_checked": "2026-09-11T00:36:12+00:00",
+      "last_checked": "2026-09-11T04:49:51+00:00",
       "last_count": 438,
       "last_error": null,
       "previous": {
@@ -6500,7 +6500,7 @@
           "id": "cohcigars:66:104",
           "name": "Diplomaticos - Grandes RE Alemania 2021 (25 盒)",
           "price": "$ 615.00",
-          "stock": "12",
+          "stock": "11",
           "url": "https://cn.cohcigars.com/cigars-diplomaticos"
         },
         "cohcigars:683:789": {
@@ -8242,8 +8242,8 @@
           "url": "https://www.ihavanas.com/details.php?ptype=cigars&pid=Partagas"
         }
       },
-      "last_checked": "2026-09-11T00:35:51+00:00",
-      "last_count": 192,
+      "last_checked": "2026-09-11T04:49:29+00:00",
+      "last_count": 191,
       "last_error": null,
       "previous": {
         "ihavanas:1006": {
@@ -9336,12 +9336,6 @@
           "id": "ihavanas:94",
           "name": "Hoyo de Monterrey - Le Hoyo Du Maire (Box 25)",
           "price": "US$320.00",
-          "url": "https://www.ihavanas.com/details.php?ptype=cigars&pid=Hoyo%20de%20Monterrey"
-        },
-        "ihavanas:946": {
-          "id": "ihavanas:946",
-          "name": "Hoyo de Monterrey - Le Hoyo de Rio Seco (Box 10)",
-          "price": "US$346.00",
           "url": "https://www.ihavanas.com/details.php?ptype=cigars&pid=Hoyo%20de%20Monterrey"
         },
         "ihavanas:949": {
