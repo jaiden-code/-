@@ -195,7 +195,7 @@
           "id": "cohcigars:11350:12000",
           "name": "Hoyo de Monterrey - Epicure No.3 (10 盒)",
           "price": "$ 350.00",
-          "stock": "15",
+          "stock": "14",
           "url": "https://cn.cohcigars.com/cigars-hoyo-de-monterrey"
         },
         "cohcigars:11350:12001": {
@@ -650,7 +650,7 @@
           "id": "cohcigars:1665:1881",
           "name": "Vegueros - Entretiempos (16 盒)",
           "price": "$ 286.00",
-          "stock": "17",
+          "stock": "16",
           "url": "https://cn.cohcigars.com/cigars-vegueros"
         },
         "cohcigars:1679:1902": {
@@ -1756,7 +1756,7 @@
           "id": "cohcigars:24445:25290",
           "name": "Cohiba - Panetelas (5 盒)",
           "price": "$ 105.00",
-          "stock": "36",
+          "stock": "35",
           "url": "https://cn.cohcigars.com/cigars-cohiba"
         },
         "cohcigars:24446:25292": {
@@ -1833,7 +1833,7 @@
           "id": "cohcigars:2503:2790",
           "name": "Cohiba - Robustos A/T (10 x 10 盒)",
           "price": "$ 205.00",
-          "stock": "61",
+          "stock": "60",
           "url": "https://cn.cohcigars.com/cigars-cohiba"
         },
         "cohcigars:2507:2794": {
@@ -1910,7 +1910,7 @@
           "id": "cohcigars:2569:2859",
           "name": "Guantanamera - MIni (100 x 4 盒)",
           "price": "$ 157.00",
-          "stock": "39",
+          "stock": "38",
           "url": "https://cn.cohcigars.com/cigars-guantanamera"
         },
         "cohcigars:256:364": {
@@ -2064,7 +2064,7 @@
           "id": "cohcigars:26316:27224",
           "name": "Cohiba - 1966 EL 2011 (5 盒)",
           "price": "$ 269.00",
-          "stock": "28",
+          "stock": "27",
           "url": "https://cn.cohcigars.com/cigars-cohiba"
         },
         "cohcigars:26317:27225": {
@@ -2099,7 +2099,7 @@
           "id": "cohcigars:26430:27332",
           "name": "Romeo Y Julieta - 5 Pack- Short Churchills (5 盒)",
           "price": "$ 220.00",
-          "stock": "20",
+          "stock": "19",
           "url": "https://cn.cohcigars.com/cigars-romeo-y-julieta"
         },
         "cohcigars:2649:2950": {
@@ -2190,7 +2190,7 @@
           "id": "cohcigars:271:387",
           "name": "Quintero Y Hermano - Panetelas (25 盒)",
           "price": "$ 150.00",
-          "stock": "36",
+          "stock": "35",
           "url": "https://cn.cohcigars.com/cigars-quintero-y-hermano"
         },
         "cohcigars:273:19988": {
@@ -3611,7 +3611,7 @@
           "id": "cohcigars:83:123",
           "name": "H.Upmann - Connoisseur No.1 (25 盒)",
           "price": "$ 695.00",
-          "stock": "13",
+          "stock": "12",
           "url": "https://cn.cohcigars.com/cigars-h.upmann"
         },
         "cohcigars:8415:8973": {
@@ -3972,8 +3972,8 @@
           "url": "https://cn.cohcigars.com/cigars-montecristo"
         }
       },
-      "last_checked": "2026-09-14T00:27:24+00:00",
-      "last_count": 439,
+      "last_checked": "2026-09-14T05:07:36+00:00",
+      "last_count": 433,
       "last_error": null,
       "previous": {
         "cohcigars:101:144": {
@@ -4134,7 +4134,7 @@
           "id": "cohcigars:11350:12000",
           "name": "Hoyo de Monterrey - Epicure No.3 (10 盒)",
           "price": "$ 350.00",
-          "stock": "15",
+          "stock": "14",
           "url": "https://cn.cohcigars.com/cigars-hoyo-de-monterrey"
         },
         "cohcigars:11484:12137": {
@@ -4512,7 +4512,7 @@
           "id": "cohcigars:1665:1881",
           "name": "Vegueros - Entretiempos (16 盒)",
           "price": "$ 286.00",
-          "stock": "17",
+          "stock": "16",
           "url": "https://cn.cohcigars.com/cigars-vegueros"
         },
         "cohcigars:1679:1902": {
@@ -4738,13 +4738,6 @@
           "price": "$ 335.00",
           "stock": "30",
           "url": "https://cn.cohcigars.com/cigars-romeo-y-julieta"
-        },
-        "cohcigars:19920:20641": {
-          "id": "cohcigars:19920:20641",
-          "name": "Diplomaticos - Genios RE Phoenicia (50 盒)",
-          "price": "$ 2550.00",
-          "stock": "1",
-          "url": "https://cn.cohcigars.com/cigars-diplomaticos"
         },
         "cohcigars:19936:20657": {
           "id": "cohcigars:19936:20657",
@@ -5457,7 +5450,7 @@
           "id": "cohcigars:24445:25290",
           "name": "Cohiba - Panetelas (5 盒)",
           "price": "$ 105.00",
-          "stock": "36",
+          "stock": "35",
           "url": "https://cn.cohcigars.com/cigars-cohiba"
         },
         "cohcigars:24446:25292": {
@@ -5520,7 +5513,7 @@
           "id": "cohcigars:2503:2790",
           "name": "Cohiba - Robustos A/T (10 x 10 盒)",
           "price": "$ 205.00",
-          "stock": "61",
+          "stock": "60",
           "url": "https://cn.cohcigars.com/cigars-cohiba"
         },
         "cohcigars:2507:2794": {
@@ -5597,7 +5590,7 @@
           "id": "cohcigars:2569:2859",
           "name": "Guantanamera - MIni (100 x 4 盒)",
           "price": "$ 157.00",
-          "stock": "39",
+          "stock": "38",
           "url": "https://cn.cohcigars.com/cigars-guantanamera"
         },
         "cohcigars:256:364": {
@@ -5660,7 +5653,7 @@
           "id": "cohcigars:26316:27224",
           "name": "Cohiba - 1966 EL 2011 (5 盒)",
           "price": "$ 269.00",
-          "stock": "28",
+          "stock": "27",
           "url": "https://cn.cohcigars.com/cigars-cohiba"
         },
         "cohcigars:26317:27225": {
@@ -5688,7 +5681,7 @@
           "id": "cohcigars:26430:27332",
           "name": "Romeo Y Julieta - 5 Pack- Short Churchills (5 盒)",
           "price": "$ 220.00",
-          "stock": "20",
+          "stock": "19",
           "url": "https://cn.cohcigars.com/cigars-romeo-y-julieta"
         },
         "cohcigars:265:23684": {
@@ -5712,46 +5705,11 @@
           "stock": "475",
           "url": "https://cn.cohcigars.com/cigars-romeo-y-julieta"
         },
-        "cohcigars:26868:27771": {
-          "id": "cohcigars:26868:27771",
-          "name": "Combinaciones - Hoyo: Short Hoyo Piramide EL, Hermosos No.4, Regalos EL, Destinos, Epi de Luxe (5 盒)",
-          "price": "$ 395.00",
-          "stock": "100",
-          "url": "https://cn.cohcigars.com/cigars-combinaciones"
-        },
-        "cohcigars:26869:27772": {
-          "id": "cohcigars:26869:27772",
-          "name": "Combinaciones - RYJ: Duke EL, Maravillas 8, Escudos EL, Wide Churchill, Linea d’Oro Dianas (5 盒)",
-          "price": "$ 405.00",
-          "stock": "100",
-          "url": "https://cn.cohcigars.com/cigars-combinaciones"
-        },
-        "cohcigars:26870:27773": {
-          "id": "cohcigars:26870:27773",
-          "name": "Combinaciones - Partagas: Serie C EL, Lusitania, P2, Serie D Especial, Cedros Snake (5 盒)",
-          "price": "$ 395.00",
-          "stock": "100",
-          "url": "https://cn.cohcigars.com/cigars-combinaciones"
-        },
-        "cohcigars:26871:27774": {
-          "id": "cohcigars:26871:27774",
-          "name": "Combinaciones - Punch: Regios EL, Royal Selection 11, 48LCDH, Duke RE Mexico, Platino RE India (5 盒)",
-          "price": "$ 410.00",
-          "stock": "100",
-          "url": "https://cn.cohcigars.com/cigars-combinaciones"
-        },
-        "cohcigars:26872:27775": {
-          "id": "cohcigars:26872:27775",
-          "name": "Combinaciones - H.Upmann: Mag 48 EL, Sir Winston 2003 (Old band), Mag 46 2005 (Old band), Robusto Anejados, Robusto EL (5 盒)",
-          "price": "$ 485.00",
-          "stock": "100",
-          "url": "https://cn.cohcigars.com/cigars-combinaciones"
-        },
         "cohcigars:271:387": {
           "id": "cohcigars:271:387",
           "name": "Quintero Y Hermano - Panetelas (25 盒)",
           "price": "$ 150.00",
-          "stock": "36",
+          "stock": "35",
           "url": "https://cn.cohcigars.com/cigars-quintero-y-hermano"
         },
         "cohcigars:273:19988": {
@@ -6787,7 +6745,7 @@
           "id": "cohcigars:83:123",
           "name": "H.Upmann - Connoisseur No.1 (25 盒)",
           "price": "$ 695.00",
-          "stock": "13",
+          "stock": "12",
           "url": "https://cn.cohcigars.com/cigars-h.upmann"
         },
         "cohcigars:8415:8973": {
@@ -8284,7 +8242,7 @@
           "url": "https://www.ihavanas.com/details.php?ptype=cigars&pid=Partagas"
         }
       },
-      "last_checked": "2026-09-14T00:27:06+00:00",
+      "last_checked": "2026-09-14T05:07:13+00:00",
       "last_count": 191,
       "last_error": null,
       "previous": {
