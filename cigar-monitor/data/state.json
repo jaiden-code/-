@@ -426,7 +426,7 @@
           "id": "cohcigars:132:912",
           "name": "Partagas - Lusitanias (10 盒)",
           "price": "$ 570.00",
-          "stock": "4",
+          "stock": "3",
           "url": "https://cn.cohcigars.com/cigars-partagas"
         },
         "cohcigars:133:198": {
@@ -643,7 +643,7 @@
           "id": "cohcigars:165:241",
           "name": "Punch - Punch (25 盒)",
           "price": "$ 690.00",
-          "stock": "5",
+          "stock": "4",
           "url": "https://cn.cohcigars.com/cigars-punch"
         },
         "cohcigars:1665:1881": {
@@ -1007,7 +1007,7 @@
           "id": "cohcigars:202:26938",
           "name": "Romeo Y Julieta - Romeo No.2 A/T (5x2 盒)",
           "price": "$ 149.00",
-          "stock": "61",
+          "stock": "60",
           "url": "https://cn.cohcigars.com/cigars-romeo-y-julieta"
         },
         "cohcigars:202:289": {
@@ -1595,7 +1595,7 @@
           "id": "cohcigars:235:333",
           "name": "San Cristobal De La Habana - La Punta (25 盒)",
           "price": "$ 692.00",
-          "stock": "7",
+          "stock": "6",
           "url": "https://cn.cohcigars.com/cigars-san-cristobal-de-la-habana"
         },
         "cohcigars:2374:2644": {
@@ -1777,7 +1777,7 @@
           "id": "cohcigars:24448:25295",
           "name": "Cohiba - Ambar (10x10 盒)",
           "price": "$ 115.00",
-          "stock": "188",
+          "stock": "187",
           "url": "https://cn.cohcigars.com/cigars-cohiba"
         },
         "cohcigars:24449:25296": {
@@ -2036,7 +2036,7 @@
           "id": "cohcigars:26312:27220",
           "name": "Cohiba - 1966 EL 2011 (5 盒)",
           "price": "$ 665.00",
-          "stock": "48",
+          "stock": "47",
           "url": "https://cn.cohcigars.com/cigars-cohiba"
         },
         "cohcigars:26313:27221": {
@@ -2862,7 +2862,7 @@
           "id": "cohcigars:397:20574",
           "name": "Cohiba - Siglo IV (3 盒)",
           "price": "$ 345.00",
-          "stock": "40",
+          "stock": "36",
           "url": "https://cn.cohcigars.com/cigars-cohiba"
         },
         "cohcigars:4072:4372": {
@@ -3030,7 +3030,7 @@
           "id": "cohcigars:462:722",
           "name": "Montecristo - Eagle (20 盒)",
           "price": "$ 880.00",
-          "stock": "9",
+          "stock": "7",
           "url": "https://cn.cohcigars.com/cigars-montecristo"
         },
         "cohcigars:4632:5067": {
@@ -3716,7 +3716,7 @@
           "id": "cohcigars:8963:15587",
           "name": "Vegueros - Centrogordos (4x4 盒)",
           "price": "$ 265.00",
-          "stock": "39",
+          "stock": "38",
           "url": "https://cn.cohcigars.com/cigars-vegueros"
         },
         "cohcigars:8963:22877": {
@@ -3972,8 +3972,8 @@
           "url": "https://cn.cohcigars.com/cigars-montecristo"
         }
       },
-      "last_checked": "2026-09-14T23:29:59+00:00",
-      "last_count": 432,
+      "last_checked": "2026-09-15T05:00:23+00:00",
+      "last_count": 431,
       "last_error": null,
       "previous": {
         "cohcigars:101:144": {
@@ -4316,7 +4316,7 @@
           "id": "cohcigars:132:912",
           "name": "Partagas - Lusitanias (10 盒)",
           "price": "$ 570.00",
-          "stock": "4",
+          "stock": "3",
           "url": "https://cn.cohcigars.com/cigars-partagas"
         },
         "cohcigars:133:198": {
@@ -4498,7 +4498,7 @@
           "id": "cohcigars:165:241",
           "name": "Punch - Punch (25 盒)",
           "price": "$ 690.00",
-          "stock": "5",
+          "stock": "4",
           "url": "https://cn.cohcigars.com/cigars-punch"
         },
         "cohcigars:1665:1881": {
@@ -4778,7 +4778,7 @@
           "id": "cohcigars:202:26938",
           "name": "Romeo Y Julieta - Romeo No.2 A/T (5x2 盒)",
           "price": "$ 149.00",
-          "stock": "61",
+          "stock": "60",
           "url": "https://cn.cohcigars.com/cigars-romeo-y-julieta"
         },
         "cohcigars:202:289": {
@@ -5296,7 +5296,7 @@
           "id": "cohcigars:235:333",
           "name": "San Cristobal De La Habana - La Punta (25 盒)",
           "price": "$ 692.00",
-          "stock": "7",
+          "stock": "6",
           "url": "https://cn.cohcigars.com/cigars-san-cristobal-de-la-habana"
         },
         "cohcigars:2374:2644": {
@@ -5464,7 +5464,7 @@
           "id": "cohcigars:24448:25295",
           "name": "Cohiba - Ambar (10x10 盒)",
           "price": "$ 115.00",
-          "stock": "188",
+          "stock": "187",
           "url": "https://cn.cohcigars.com/cigars-cohiba"
         },
         "cohcigars:24449:25296": {
@@ -5632,7 +5632,7 @@
           "id": "cohcigars:26312:27220",
           "name": "Cohiba - 1966 EL 2011 (5 盒)",
           "price": "$ 665.00",
-          "stock": "48",
+          "stock": "47",
           "url": "https://cn.cohcigars.com/cigars-cohiba"
         },
         "cohcigars:26314:27222": {
@@ -6108,7 +6108,7 @@
           "id": "cohcigars:397:20574",
           "name": "Cohiba - Siglo IV (3 盒)",
           "price": "$ 345.00",
-          "stock": "40",
+          "stock": "36",
           "url": "https://cn.cohcigars.com/cigars-cohiba"
         },
         "cohcigars:409:641": {
@@ -6213,7 +6213,7 @@
           "id": "cohcigars:462:722",
           "name": "Montecristo - Eagle (20 盒)",
           "price": "$ 880.00",
-          "stock": "9",
+          "stock": "7",
           "url": "https://cn.cohcigars.com/cigars-montecristo"
         },
         "cohcigars:4632:5067": {
@@ -6829,7 +6829,7 @@
           "id": "cohcigars:8963:15587",
           "name": "Vegueros - Centrogordos (4x4 盒)",
           "price": "$ 265.00",
-          "stock": "39",
+          "stock": "38",
           "url": "https://cn.cohcigars.com/cigars-vegueros"
         },
         "cohcigars:908:17330": {
@@ -6957,13 +6957,6 @@
           "price": "$ 190.00",
           "stock": "13",
           "url": "https://cn.cohcigars.com/cigars-romeo-y-julieta"
-        },
-        "cohcigars:9439:10082": {
-          "id": "cohcigars:9439:10082",
-          "name": "Por Larranaga - Picadores No.1 (25 盒)",
-          "price": "$ 550.00",
-          "stock": "1",
-          "url": "https://cn.cohcigars.com/cigars-por-larranaga"
         },
         "cohcigars:953:1003": {
           "id": "cohcigars:953:1003",
@@ -8235,7 +8228,7 @@
           "url": "https://www.ihavanas.com/details.php?ptype=cigars&pid=Partagas"
         }
       },
-      "last_checked": "2026-09-14T23:28:54+00:00",
+      "last_checked": "2026-09-15T05:00:06+00:00",
       "last_count": 191,
       "last_error": null,
       "previous": {
