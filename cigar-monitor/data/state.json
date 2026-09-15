@@ -692,7 +692,7 @@
           "id": "cohcigars:1730:21528",
           "name": "Vegueros - Mananitas (4 盒)",
           "price": "$ 60.00",
-          "stock": "32",
+          "stock": "31",
           "url": "https://cn.cohcigars.com/cigars-vegueros"
         },
         "cohcigars:1731:1963": {
@@ -3972,7 +3972,7 @@
           "url": "https://cn.cohcigars.com/cigars-montecristo"
         }
       },
-      "last_checked": "2026-09-15T17:17:11+00:00",
+      "last_checked": "2026-09-15T21:26:38+00:00",
       "last_count": 430,
       "last_error": null,
       "previous": {
@@ -4547,7 +4547,7 @@
           "id": "cohcigars:1730:21528",
           "name": "Vegueros - Mananitas (4 盒)",
           "price": "$ 60.00",
-          "stock": "32",
+          "stock": "31",
           "url": "https://cn.cohcigars.com/cigars-vegueros"
         },
         "cohcigars:1731:20576": {
@@ -8221,7 +8221,7 @@
           "url": "https://www.ihavanas.com/details.php?ptype=cigars&pid=Partagas"
         }
       },
-      "last_checked": "2026-09-15T17:16:48+00:00",
+      "last_checked": "2026-09-15T21:26:20+00:00",
       "last_count": 190,
       "last_error": null,
       "previous": {
