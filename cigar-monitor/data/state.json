@@ -62,7 +62,7 @@
           "id": "cohcigars:10801:11453",
           "name": "Quai Dorsay - No.52 (10 盒)",
           "price": "$ 370.00",
-          "stock": "8",
+          "stock": "7",
           "url": "https://cn.cohcigars.com/cigars-quai-dorsay"
         },
         "cohcigars:10847:11499": {
@@ -370,7 +370,7 @@
           "id": "cohcigars:1252:1422",
           "name": "Montecristo - Petit No.2 (25 盒)",
           "price": "$ 725.00",
-          "stock": "20",
+          "stock": "19",
           "url": "https://cn.cohcigars.com/cigars-montecristo"
         },
         "cohcigars:1252:1430": {
@@ -1035,7 +1035,7 @@
           "id": "cohcigars:20343:21066",
           "name": "Montecristo - Regata A/T (66 盒)",
           "price": "$ 190.00",
-          "stock": "5",
+          "stock": "4",
           "url": "https://cn.cohcigars.com/cigars-montecristo"
         },
         "cohcigars:203:21571": {
@@ -1056,7 +1056,7 @@
           "id": "cohcigars:203:293",
           "name": "Romeo Y Julieta - Romeo No.3 A/T (10 盒)",
           "price": "$ 167.00",
-          "stock": "31",
+          "stock": "30",
           "url": "https://cn.cohcigars.com/cigars-romeo-y-julieta"
         },
         "cohcigars:204:295": {
@@ -1168,7 +1168,7 @@
           "id": "cohcigars:216:309",
           "name": "Romeo Y Julieta - Petit Churchills A/T (25 盒)",
           "price": "$ 405.00",
-          "stock": "30",
+          "stock": "29",
           "url": "https://cn.cohcigars.com/cigars-romeo-y-julieta"
         },
         "cohcigars:2181:2449": {
@@ -1833,7 +1833,7 @@
           "id": "cohcigars:2503:2790",
           "name": "Cohiba - Robustos A/T (10 x 10 盒)",
           "price": "$ 205.00",
-          "stock": "60",
+          "stock": "59",
           "url": "https://cn.cohcigars.com/cigars-cohiba"
         },
         "cohcigars:2507:2794": {
@@ -2099,7 +2099,7 @@
           "id": "cohcigars:26430:27332",
           "name": "Romeo Y Julieta - 5 Pack- Short Churchills (5 盒)",
           "price": "$ 220.00",
-          "stock": "16",
+          "stock": "15",
           "url": "https://cn.cohcigars.com/cigars-romeo-y-julieta"
         },
         "cohcigars:2649:2950": {
@@ -3135,7 +3135,7 @@
           "id": "cohcigars:4744:5106",
           "name": "Cohiba - 1966 EL 2011 (50 盒)",
           "price": "$ 190.00",
-          "stock": "187",
+          "stock": "186",
           "url": "https://cn.cohcigars.com/cigars-cohiba"
         },
         "cohcigars:4751:5118": {
@@ -3681,7 +3681,7 @@
           "id": "cohcigars:87:127",
           "name": "H.Upmann - Majestic (25 盒)",
           "price": "$ 364.00",
-          "stock": "12",
+          "stock": "11",
           "url": "https://cn.cohcigars.com/cigars-h.upmann"
         },
         "cohcigars:8807:9440": {
@@ -3972,8 +3972,8 @@
           "url": "https://cn.cohcigars.com/cigars-montecristo"
         }
       },
-      "last_checked": "2026-09-15T12:08:40+00:00",
-      "last_count": 431,
+      "last_checked": "2026-09-15T17:05:15+00:00",
+      "last_count": 430,
       "last_error": null,
       "previous": {
         "cohcigars:101:144": {
@@ -4029,7 +4029,7 @@
           "id": "cohcigars:10801:11453",
           "name": "Quai Dorsay - No.52 (10 盒)",
           "price": "$ 370.00",
-          "stock": "8",
+          "stock": "7",
           "url": "https://cn.cohcigars.com/cigars-quai-dorsay"
         },
         "cohcigars:10847:11499": {
@@ -4260,7 +4260,7 @@
           "id": "cohcigars:1252:1422",
           "name": "Montecristo - Petit No.2 (25 盒)",
           "price": "$ 725.00",
-          "stock": "20",
+          "stock": "19",
           "url": "https://cn.cohcigars.com/cigars-montecristo"
         },
         "cohcigars:1252:1430": {
@@ -4806,7 +4806,7 @@
           "id": "cohcigars:20343:21066",
           "name": "Montecristo - Regata A/T (66 盒)",
           "price": "$ 190.00",
-          "stock": "5",
+          "stock": "4",
           "url": "https://cn.cohcigars.com/cigars-montecristo"
         },
         "cohcigars:203:21571": {
@@ -4827,7 +4827,7 @@
           "id": "cohcigars:203:293",
           "name": "Romeo Y Julieta - Romeo No.3 A/T (10 盒)",
           "price": "$ 167.00",
-          "stock": "31",
+          "stock": "30",
           "url": "https://cn.cohcigars.com/cigars-romeo-y-julieta"
         },
         "cohcigars:204:295": {
@@ -4918,7 +4918,7 @@
           "id": "cohcigars:216:309",
           "name": "Romeo Y Julieta - Petit Churchills A/T (25 盒)",
           "price": "$ 405.00",
-          "stock": "30",
+          "stock": "29",
           "url": "https://cn.cohcigars.com/cigars-romeo-y-julieta"
         },
         "cohcigars:2181:2449": {
@@ -5299,13 +5299,6 @@
           "stock": "6",
           "url": "https://cn.cohcigars.com/cigars-san-cristobal-de-la-habana"
         },
-        "cohcigars:2374:2644": {
-          "id": "cohcigars:2374:2644",
-          "name": "H.Upmann - Magnum 54 (25 盒)",
-          "price": "$ 805.00",
-          "stock": "1",
-          "url": "https://cn.cohcigars.com/cigars-h.upmann"
-        },
         "cohcigars:2375:2647": {
           "id": "cohcigars:2375:2647",
           "name": "Partagas - Petit Coronas Especiales (25 盒)",
@@ -5506,7 +5499,7 @@
           "id": "cohcigars:2503:2790",
           "name": "Cohiba - Robustos A/T (10 x 10 盒)",
           "price": "$ 205.00",
-          "stock": "60",
+          "stock": "59",
           "url": "https://cn.cohcigars.com/cigars-cohiba"
         },
         "cohcigars:2507:2794": {
@@ -5674,7 +5667,7 @@
           "id": "cohcigars:26430:27332",
           "name": "Romeo Y Julieta - 5 Pack- Short Churchills (5 盒)",
           "price": "$ 220.00",
-          "stock": "16",
+          "stock": "15",
           "url": "https://cn.cohcigars.com/cigars-romeo-y-julieta"
         },
         "cohcigars:265:23684": {
@@ -6311,7 +6304,7 @@
           "id": "cohcigars:4744:5106",
           "name": "Cohiba - 1966 EL 2011 (50 盒)",
           "price": "$ 190.00",
-          "stock": "187",
+          "stock": "186",
           "url": "https://cn.cohcigars.com/cigars-cohiba"
         },
         "cohcigars:4751:5118": {
@@ -6801,7 +6794,7 @@
           "id": "cohcigars:87:127",
           "name": "H.Upmann - Majestic (25 盒)",
           "price": "$ 364.00",
-          "stock": "12",
+          "stock": "11",
           "url": "https://cn.cohcigars.com/cigars-h.upmann"
         },
         "cohcigars:8807:9440": {
@@ -8228,8 +8221,8 @@
           "url": "https://www.ihavanas.com/details.php?ptype=cigars&pid=Partagas"
         }
       },
-      "last_checked": "2026-09-15T12:08:23+00:00",
-      "last_count": 191,
+      "last_checked": "2026-09-15T17:04:53+00:00",
+      "last_count": 190,
       "last_error": null,
       "previous": {
         "ihavanas:1006": {
@@ -8597,12 +8590,6 @@
           "name": "Romeo Y Julieta - Cupidos LCDH (Box 20)",
           "price": "US$1325.00",
           "url": "https://www.ihavanas.com/details.php?ptype=cigars&pid=Romeo%20Y%20Julieta"
-        },
-        "ihavanas:185": {
-          "id": "ihavanas:185",
-          "name": "Punch - Punch (Box 25)",
-          "price": "US$622.00",
-          "url": "https://www.ihavanas.com/details.php?ptype=cigars&pid=Punch"
         },
         "ihavanas:1860": {
           "id": "ihavanas:1860",
