@@ -314,7 +314,7 @@
           "id": "cohcigars:122:5796",
           "name": "Jose L. Piedra - Brevas (12 盒)",
           "price": "$ 88.00",
-          "stock": "44",
+          "stock": "39",
           "url": "https://cn.cohcigars.com/cigars-jose-l.-piedra"
         },
         "cohcigars:1231:1420": {
@@ -573,7 +573,7 @@
           "id": "cohcigars:154:227",
           "name": "Partagas - Aristocrats (25 盒)",
           "price": "$ 290.00",
-          "stock": "3",
+          "stock": "2",
           "url": "https://cn.cohcigars.com/cigars-partagas"
         },
         "cohcigars:15545:16209": {
@@ -1966,7 +1966,7 @@
           "id": "cohcigars:260:21409",
           "name": "Jose L. Piedra - Cremas (5 盒)",
           "price": "$ 39.00",
-          "stock": "9",
+          "stock": "8",
           "url": "https://cn.cohcigars.com/cigars-jose-l.-piedra"
         },
         "cohcigars:26182:27076": {
@@ -3303,7 +3303,7 @@
           "id": "cohcigars:614:742",
           "name": "Bolivar - Royal Coronas A/T (10 盒)",
           "price": "$ 375.00",
-          "stock": "14",
+          "stock": "13",
           "url": "https://cn.cohcigars.com/cigars-bolivar"
         },
         "cohcigars:615:743": {
@@ -3324,7 +3324,7 @@
           "id": "cohcigars:642:17328",
           "name": "Cohiba - Siglo I A/T (3 盒)",
           "price": "$ 99.00",
-          "stock": "73",
+          "stock": "72",
           "url": "https://cn.cohcigars.com/cigars-cohiba"
         },
         "cohcigars:642:21493": {
@@ -3972,7 +3972,7 @@
           "url": "https://cn.cohcigars.com/cigars-montecristo"
         }
       },
-      "last_checked": "2026-09-16T07:55:12+00:00",
+      "last_checked": "2026-09-16T13:33:28+00:00",
       "last_count": 430,
       "last_error": null,
       "previous": {
@@ -4211,7 +4211,7 @@
           "id": "cohcigars:122:5796",
           "name": "Jose L. Piedra - Brevas (12 盒)",
           "price": "$ 88.00",
-          "stock": "44",
+          "stock": "39",
           "url": "https://cn.cohcigars.com/cigars-jose-l.-piedra"
         },
         "cohcigars:1231:1420": {
@@ -4435,7 +4435,7 @@
           "id": "cohcigars:154:227",
           "name": "Partagas - Aristocrats (25 盒)",
           "price": "$ 290.00",
-          "stock": "3",
+          "stock": "2",
           "url": "https://cn.cohcigars.com/cigars-partagas"
         },
         "cohcigars:15545:16209": {
@@ -5604,7 +5604,7 @@
           "id": "cohcigars:260:21409",
           "name": "Jose L. Piedra - Cremas (5 盒)",
           "price": "$ 39.00",
-          "stock": "9",
+          "stock": "8",
           "url": "https://cn.cohcigars.com/cigars-jose-l.-piedra"
         },
         "cohcigars:26206:27104": {
@@ -6451,7 +6451,7 @@
           "id": "cohcigars:614:742",
           "name": "Bolivar - Royal Coronas A/T (10 盒)",
           "price": "$ 375.00",
-          "stock": "14",
+          "stock": "13",
           "url": "https://cn.cohcigars.com/cigars-bolivar"
         },
         "cohcigars:615:743": {
@@ -6472,7 +6472,7 @@
           "id": "cohcigars:642:17328",
           "name": "Cohiba - Siglo I A/T (3 盒)",
           "price": "$ 99.00",
-          "stock": "73",
+          "stock": "72",
           "url": "https://cn.cohcigars.com/cigars-cohiba"
         },
         "cohcigars:642:756": {
@@ -8221,7 +8221,7 @@
           "url": "https://www.ihavanas.com/details.php?ptype=cigars&pid=Partagas"
         }
       },
-      "last_checked": "2026-09-16T07:54:51+00:00",
+      "last_checked": "2026-09-16T13:33:06+00:00",
       "last_count": 189,
       "last_error": null,
       "previous": {
