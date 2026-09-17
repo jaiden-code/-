@@ -55,7 +55,7 @@
           "id": "cohcigars:107:158",
           "name": "Hoyo de Monterrey - Le Hoyo Du Depute (25 盒)",
           "price": "$ 305.00",
-          "stock": "34",
+          "stock": "33",
           "url": "https://cn.cohcigars.com/cigars-hoyo-de-monterrey"
         },
         "cohcigars:10801:11453": {
@@ -314,7 +314,7 @@
           "id": "cohcigars:122:5796",
           "name": "Jose L. Piedra - Brevas (12 盒)",
           "price": "$ 88.00",
-          "stock": "38",
+          "stock": "36",
           "url": "https://cn.cohcigars.com/cigars-jose-l.-piedra"
         },
         "cohcigars:1231:1420": {
@@ -335,7 +335,7 @@
           "id": "cohcigars:1242:1402",
           "name": "Romeo Y Julieta - Petit Churchills A/T (15 盒)",
           "price": "$ 445.00",
-          "stock": "8",
+          "stock": "7",
           "url": "https://cn.cohcigars.com/cigars-romeo-y-julieta"
         },
         "cohcigars:1242:21527": {
@@ -426,7 +426,7 @@
           "id": "cohcigars:132:912",
           "name": "Partagas - Lusitanias (10 盒)",
           "price": "$ 570.00",
-          "stock": "3",
+          "stock": "2",
           "url": "https://cn.cohcigars.com/cigars-partagas"
         },
         "cohcigars:133:198": {
@@ -545,7 +545,7 @@
           "id": "cohcigars:14:23",
           "name": "Montecristo - No.4 (10 盒)",
           "price": "$ 290.00",
-          "stock": "17",
+          "stock": "16",
           "url": "https://cn.cohcigars.com/cigars-montecristo"
         },
         "cohcigars:14:24": {
@@ -608,7 +608,7 @@
           "id": "cohcigars:15:24054",
           "name": "Montecristo - No.5 (5 盒)",
           "price": "$ 99.00",
-          "stock": "79",
+          "stock": "78",
           "url": "https://cn.cohcigars.com/cigars-montecristo"
         },
         "cohcigars:15:24391": {
@@ -636,7 +636,7 @@
           "id": "cohcigars:15:417",
           "name": "Montecristo - No.5 (10 盒)",
           "price": "$ 205.00",
-          "stock": "76",
+          "stock": "74",
           "url": "https://cn.cohcigars.com/cigars-montecristo"
         },
         "cohcigars:165:241": {
@@ -1014,7 +1014,7 @@
           "id": "cohcigars:202:289",
           "name": "Romeo Y Julieta - Romeo No.2 A/T (25 盒)",
           "price": "$ 396.00",
-          "stock": "36",
+          "stock": "34",
           "url": "https://cn.cohcigars.com/cigars-romeo-y-julieta"
         },
         "cohcigars:202:290": {
@@ -1168,7 +1168,7 @@
           "id": "cohcigars:216:309",
           "name": "Romeo Y Julieta - Petit Churchills A/T (25 盒)",
           "price": "$ 405.00",
-          "stock": "28",
+          "stock": "27",
           "url": "https://cn.cohcigars.com/cigars-romeo-y-julieta"
         },
         "cohcigars:2181:2449": {
@@ -1224,7 +1224,7 @@
           "id": "cohcigars:22898:23676",
           "name": "Cohiba - Ambar (10x10 盒)",
           "price": "$ 115.00",
-          "stock": "178",
+          "stock": "177",
           "url": "https://cn.cohcigars.com/cigars-cohiba"
         },
         "cohcigars:22899:23679": {
@@ -1525,7 +1525,7 @@
           "id": "cohcigars:23346:24173",
           "name": "Singles 6 Stick Min - 1 x Romeo Y Julieta Mille Fleurs (1 盒)",
           "price": "$ 16.00",
-          "stock": "21",
+          "stock": "19",
           "url": "https://cn.cohcigars.com/cigars-singles-6-stick-min"
         },
         "cohcigars:23347:24174": {
@@ -1686,7 +1686,7 @@
           "id": "cohcigars:2419:2694",
           "name": "Cohiba - Medio Siglo A/T (15 盒)",
           "price": "$ 1170.00",
-          "stock": "9",
+          "stock": "8",
           "url": "https://cn.cohcigars.com/cigars-cohiba"
         },
         "cohcigars:2421:2697": {
@@ -1777,7 +1777,7 @@
           "id": "cohcigars:24448:25295",
           "name": "Cohiba - Ambar (10x10 盒)",
           "price": "$ 115.00",
-          "stock": "187",
+          "stock": "186",
           "url": "https://cn.cohcigars.com/cigars-cohiba"
         },
         "cohcigars:24449:25296": {
@@ -3443,7 +3443,7 @@
           "id": "cohcigars:70:109",
           "name": "Cuaba - Divinos (25 盒)",
           "price": "$ 365.00",
-          "stock": "43",
+          "stock": "42",
           "url": "https://cn.cohcigars.com/cigars-cuaba"
         },
         "cohcigars:71:110": {
@@ -3681,7 +3681,7 @@
           "id": "cohcigars:87:127",
           "name": "H.Upmann - Majestic (25 盒)",
           "price": "$ 364.00",
-          "stock": "11",
+          "stock": "10",
           "url": "https://cn.cohcigars.com/cigars-h.upmann"
         },
         "cohcigars:8807:9440": {
@@ -3972,8 +3972,8 @@
           "url": "https://cn.cohcigars.com/cigars-montecristo"
         }
       },
-      "last_checked": "2026-09-17T00:53:38+00:00",
-      "last_count": 430,
+      "last_checked": "2026-09-17T07:46:07+00:00",
+      "last_count": 429,
       "last_error": null,
       "previous": {
         "cohcigars:101:144": {
@@ -4022,7 +4022,7 @@
           "id": "cohcigars:107:158",
           "name": "Hoyo de Monterrey - Le Hoyo Du Depute (25 盒)",
           "price": "$ 305.00",
-          "stock": "34",
+          "stock": "33",
           "url": "https://cn.cohcigars.com/cigars-hoyo-de-monterrey"
         },
         "cohcigars:10801:11453": {
@@ -4211,7 +4211,7 @@
           "id": "cohcigars:122:5796",
           "name": "Jose L. Piedra - Brevas (12 盒)",
           "price": "$ 88.00",
-          "stock": "38",
+          "stock": "36",
           "url": "https://cn.cohcigars.com/cigars-jose-l.-piedra"
         },
         "cohcigars:1231:1420": {
@@ -4225,7 +4225,7 @@
           "id": "cohcigars:1242:1402",
           "name": "Romeo Y Julieta - Petit Churchills A/T (15 盒)",
           "price": "$ 445.00",
-          "stock": "8",
+          "stock": "7",
           "url": "https://cn.cohcigars.com/cigars-romeo-y-julieta"
         },
         "cohcigars:1242:21527": {
@@ -4316,7 +4316,7 @@
           "id": "cohcigars:132:912",
           "name": "Partagas - Lusitanias (10 盒)",
           "price": "$ 570.00",
-          "stock": "3",
+          "stock": "2",
           "url": "https://cn.cohcigars.com/cigars-partagas"
         },
         "cohcigars:133:198": {
@@ -4421,7 +4421,7 @@
           "id": "cohcigars:14:23",
           "name": "Montecristo - No.4 (10 盒)",
           "price": "$ 290.00",
-          "stock": "17",
+          "stock": "16",
           "url": "https://cn.cohcigars.com/cigars-montecristo"
         },
         "cohcigars:14:26712": {
@@ -4470,7 +4470,7 @@
           "id": "cohcigars:15:24054",
           "name": "Montecristo - No.5 (5 盒)",
           "price": "$ 99.00",
-          "stock": "79",
+          "stock": "78",
           "url": "https://cn.cohcigars.com/cigars-montecristo"
         },
         "cohcigars:15:28": {
@@ -4491,7 +4491,7 @@
           "id": "cohcigars:15:417",
           "name": "Montecristo - No.5 (10 盒)",
           "price": "$ 205.00",
-          "stock": "76",
+          "stock": "74",
           "url": "https://cn.cohcigars.com/cigars-montecristo"
         },
         "cohcigars:165:241": {
@@ -4785,7 +4785,7 @@
           "id": "cohcigars:202:289",
           "name": "Romeo Y Julieta - Romeo No.2 A/T (25 盒)",
           "price": "$ 396.00",
-          "stock": "36",
+          "stock": "34",
           "url": "https://cn.cohcigars.com/cigars-romeo-y-julieta"
         },
         "cohcigars:202:290": {
@@ -4918,7 +4918,7 @@
           "id": "cohcigars:216:309",
           "name": "Romeo Y Julieta - Petit Churchills A/T (25 盒)",
           "price": "$ 405.00",
-          "stock": "28",
+          "stock": "27",
           "url": "https://cn.cohcigars.com/cigars-romeo-y-julieta"
         },
         "cohcigars:2181:2449": {
@@ -4974,7 +4974,7 @@
           "id": "cohcigars:22898:23676",
           "name": "Cohiba - Ambar (10x10 盒)",
           "price": "$ 115.00",
-          "stock": "178",
+          "stock": "177",
           "url": "https://cn.cohcigars.com/cigars-cohiba"
         },
         "cohcigars:22899:23679": {
@@ -5268,7 +5268,7 @@
           "id": "cohcigars:23346:24173",
           "name": "Singles 6 Stick Min - 1 x Romeo Y Julieta Mille Fleurs (1 盒)",
           "price": "$ 16.00",
-          "stock": "21",
+          "stock": "19",
           "url": "https://cn.cohcigars.com/cigars-singles-6-stick-min"
         },
         "cohcigars:23347:24174": {
@@ -5366,7 +5366,7 @@
           "id": "cohcigars:2419:2694",
           "name": "Cohiba - Medio Siglo A/T (15 盒)",
           "price": "$ 1170.00",
-          "stock": "9",
+          "stock": "8",
           "url": "https://cn.cohcigars.com/cigars-cohiba"
         },
         "cohcigars:2421:2697": {
@@ -5457,7 +5457,7 @@
           "id": "cohcigars:24448:25295",
           "name": "Cohiba - Ambar (10x10 盒)",
           "price": "$ 115.00",
-          "stock": "187",
+          "stock": "186",
           "url": "https://cn.cohcigars.com/cigars-cohiba"
         },
         "cohcigars:24449:25296": {
@@ -6538,13 +6538,6 @@
           "stock": "177",
           "url": "https://cn.cohcigars.com/cigars-singles-6-stick-min"
         },
-        "cohcigars:7010:7522": {
-          "id": "cohcigars:7010:7522",
-          "name": "Singles 6 Stick Min - 1 x Partagas Mille Fleurs (1 盒)",
-          "price": "$ 16.00",
-          "stock": "7",
-          "url": "https://cn.cohcigars.com/cigars-singles-6-stick-min"
-        },
         "cohcigars:7011:7523": {
           "id": "cohcigars:7011:7523",
           "name": "Singles 6 Stick Min - 1 x Trinidad Topes (1 盒)",
@@ -6577,7 +6570,7 @@
           "id": "cohcigars:70:109",
           "name": "Cuaba - Divinos (25 盒)",
           "price": "$ 365.00",
-          "stock": "43",
+          "stock": "42",
           "url": "https://cn.cohcigars.com/cigars-cuaba"
         },
         "cohcigars:71:110": {
@@ -6794,7 +6787,7 @@
           "id": "cohcigars:87:127",
           "name": "H.Upmann - Majestic (25 盒)",
           "price": "$ 364.00",
-          "stock": "11",
+          "stock": "10",
           "url": "https://cn.cohcigars.com/cigars-h.upmann"
         },
         "cohcigars:8807:9440": {
@@ -8221,7 +8214,7 @@
           "url": "https://www.ihavanas.com/details.php?ptype=cigars&pid=Partagas"
         }
       },
-      "last_checked": "2026-09-17T00:53:19+00:00",
+      "last_checked": "2026-09-17T07:45:44+00:00",
       "last_count": 189,
       "last_error": null,
       "previous": {
