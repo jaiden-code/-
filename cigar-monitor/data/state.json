@@ -608,7 +608,7 @@
           "id": "cohcigars:15:24054",
           "name": "Montecristo - No.5 (5 盒)",
           "price": "$ 99.00",
-          "stock": "78",
+          "stock": "77",
           "url": "https://cn.cohcigars.com/cigars-montecristo"
         },
         "cohcigars:15:24391": {
@@ -3979,8 +3979,8 @@
           "url": "https://cn.cohcigars.com/cigars-montecristo"
         }
       },
-      "last_checked": "2026-09-19T17:18:46+00:00",
-      "last_count": 430,
+      "last_checked": "2026-09-19T18:56:05+00:00",
+      "last_count": 429,
       "last_error": null,
       "previous": {
         "cohcigars:101:144": {
@@ -4164,13 +4164,6 @@
           "price": "$ 355.00",
           "stock": "8",
           "url": "https://cn.cohcigars.com/cigars-hoyo-de-monterrey"
-        },
-        "cohcigars:119:176": {
-          "id": "cohcigars:119:176",
-          "name": "Juan Lopez - Seleccion No.2 (25 盒)",
-          "price": "$ 560.00",
-          "stock": "1",
-          "url": "https://cn.cohcigars.com/cigars-juan-lopez"
         },
         "cohcigars:11:17": {
           "id": "cohcigars:11:17",
@@ -4477,7 +4470,7 @@
           "id": "cohcigars:15:24054",
           "name": "Montecristo - No.5 (5 盒)",
           "price": "$ 99.00",
-          "stock": "78",
+          "stock": "77",
           "url": "https://cn.cohcigars.com/cigars-montecristo"
         },
         "cohcigars:15:28": {
@@ -8228,7 +8221,7 @@
           "url": "https://www.ihavanas.com/details.php?ptype=cigars&pid=Partagas"
         }
       },
-      "last_checked": "2026-09-19T17:18:26+00:00",
+      "last_checked": "2026-09-19T18:55:43+00:00",
       "last_count": 189,
       "last_error": null,
       "previous": {
