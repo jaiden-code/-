@@ -3979,8 +3979,8 @@
           "url": "https://cn.cohcigars.com/cigars-montecristo"
         }
       },
-      "last_checked": "2026-09-20T16:29:52+00:00",
-      "last_count": 429,
+      "last_checked": "2026-09-20T18:52:02+00:00",
+      "last_count": 428,
       "last_error": null,
       "previous": {
         "cohcigars:101:144": {
@@ -6811,13 +6811,6 @@
           "stock": "144",
           "url": "https://cn.cohcigars.com/cigars-partagas"
         },
-        "cohcigars:8959:9602": {
-          "id": "cohcigars:8959:9602",
-          "name": "Rafael Gonzalez - Coronas de Lonsdales (10 盒)",
-          "price": "$ 195.00",
-          "stock": "1",
-          "url": "https://cn.cohcigars.com/cigars-rafael-gonzalez"
-        },
         "cohcigars:8963:15587": {
           "id": "cohcigars:8963:15587",
           "name": "Vegueros - Centrogordos (4x4 盒)",
@@ -8221,7 +8214,7 @@
           "url": "https://www.ihavanas.com/details.php?ptype=cigars&pid=Partagas"
         }
       },
-      "last_checked": "2026-09-20T16:29:30+00:00",
+      "last_checked": "2026-09-20T18:51:40+00:00",
       "last_count": 189,
       "last_error": null,
       "previous": {
