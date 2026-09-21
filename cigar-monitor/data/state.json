@@ -20,7 +20,7 @@
           "id": "cohcigars:102:147",
           "name": "Hoyo de Monterrey - Epicure No.2 (25 盒)",
           "price": "$ 735.00",
-          "stock": "14",
+          "stock": "13",
           "url": "https://cn.cohcigars.com/cigars-hoyo-de-monterrey"
         },
         "cohcigars:102:149": {
@@ -62,7 +62,7 @@
           "id": "cohcigars:10801:11453",
           "name": "Quai Dorsay - No.52 (10 盒)",
           "price": "$ 370.00",
-          "stock": "5",
+          "stock": "4",
           "url": "https://cn.cohcigars.com/cigars-quai-dorsay"
         },
         "cohcigars:10847:11499": {
@@ -363,7 +363,7 @@
           "id": "cohcigars:1250:1417",
           "name": "H.Upmann - Connossieur A (25 盒)",
           "price": "$ 880.00",
-          "stock": "7",
+          "stock": "6",
           "url": "https://cn.cohcigars.com/cigars-h.upmann"
         },
         "cohcigars:1252:1422": {
@@ -440,7 +440,7 @@
           "id": "cohcigars:136:203",
           "name": "Partagas - Serie Club 10x10 (25 盒)",
           "price": "$ 699.00",
-          "stock": "52",
+          "stock": "48",
           "url": "https://cn.cohcigars.com/cigars-partagas"
         },
         "cohcigars:13910:14564": {
@@ -1196,7 +1196,7 @@
           "id": "cohcigars:21:38",
           "name": "Bolivar - Belicosos Finos (25 盒)",
           "price": "$ 788.00",
-          "stock": "6",
+          "stock": "5",
           "url": "https://cn.cohcigars.com/cigars-bolivar"
         },
         "cohcigars:22284:23046": {
@@ -1868,7 +1868,7 @@
           "id": "cohcigars:251:355",
           "name": "Trinidad - Esmeralda (24 盒)",
           "price": "$ 605.00",
-          "stock": "8",
+          "stock": "7",
           "url": "https://cn.cohcigars.com/cigars-trinidad"
         },
         "cohcigars:251:356": {
@@ -2064,7 +2064,7 @@
           "id": "cohcigars:26316:27224",
           "name": "Cohiba - 1966 EL 2011 (5 盒)",
           "price": "$ 269.00",
-          "stock": "15",
+          "stock": "13",
           "url": "https://cn.cohcigars.com/cigars-cohiba"
         },
         "cohcigars:26317:27225": {
@@ -2190,7 +2190,7 @@
           "id": "cohcigars:26978:27882",
           "name": "Ramon Allones - 5 Pack- Allones No.3 (5 盒)",
           "price": "$ 229.00",
-          "stock": "99",
+          "stock": "98",
           "url": "https://cn.cohcigars.com/cigars-ramon-allones"
         },
         "cohcigars:271:387": {
@@ -2890,7 +2890,7 @@
           "id": "cohcigars:409:641",
           "name": "H.Upmann - Magnum 50 A/T (15 盒)",
           "price": "$ 755.00",
-          "stock": "3",
+          "stock": "2",
           "url": "https://cn.cohcigars.com/cigars-h.upmann"
         },
         "cohcigars:40:62": {
@@ -3247,7 +3247,7 @@
           "id": "cohcigars:5381:5818",
           "name": "Saint Luis Rey - Herfing RE Medio Oriente 2017 (10 盒)",
           "price": "$ 455.00",
-          "stock": "81",
+          "stock": "80",
           "url": "https://cn.cohcigars.com/cigars-saint-luis-rey"
         },
         "cohcigars:53:86": {
@@ -3282,7 +3282,7 @@
           "id": "cohcigars:5773:20027",
           "name": "La Flor De Cano - Elegidos (15 盒)",
           "price": "$ 205.00",
-          "stock": "12",
+          "stock": "9",
           "url": "https://cn.cohcigars.com/cigars-la-flor-de-cano"
         },
         "cohcigars:5773:22086": {
@@ -3303,7 +3303,7 @@
           "id": "cohcigars:59:95",
           "name": "Cuaba - Divinos (25 盒)",
           "price": "$ 505.00",
-          "stock": "8",
+          "stock": "7",
           "url": "https://cn.cohcigars.com/cigars-cuaba"
         },
         "cohcigars:614:742": {
@@ -3331,7 +3331,7 @@
           "id": "cohcigars:642:17328",
           "name": "Cohiba - Siglo I A/T (3 盒)",
           "price": "$ 99.00",
-          "stock": "72",
+          "stock": "71",
           "url": "https://cn.cohcigars.com/cigars-cohiba"
         },
         "cohcigars:642:21493": {
@@ -3979,7 +3979,7 @@
           "url": "https://cn.cohcigars.com/cigars-montecristo"
         }
       },
-      "last_checked": "2026-09-21T13:22:21+00:00",
+      "last_checked": "2026-09-21T19:32:18+00:00",
       "last_count": 426,
       "last_error": null,
       "previous": {
@@ -4001,7 +4001,7 @@
           "id": "cohcigars:102:147",
           "name": "Hoyo de Monterrey - Epicure No.2 (25 盒)",
           "price": "$ 735.00",
-          "stock": "14",
+          "stock": "13",
           "url": "https://cn.cohcigars.com/cigars-hoyo-de-monterrey"
         },
         "cohcigars:102:149": {
@@ -4036,7 +4036,7 @@
           "id": "cohcigars:10801:11453",
           "name": "Quai Dorsay - No.52 (10 盒)",
           "price": "$ 370.00",
-          "stock": "5",
+          "stock": "4",
           "url": "https://cn.cohcigars.com/cigars-quai-dorsay"
         },
         "cohcigars:10847:11499": {
@@ -4246,7 +4246,7 @@
           "id": "cohcigars:1250:1417",
           "name": "H.Upmann - Connossieur A (25 盒)",
           "price": "$ 880.00",
-          "stock": "7",
+          "stock": "6",
           "url": "https://cn.cohcigars.com/cigars-h.upmann"
         },
         "cohcigars:1252:1422": {
@@ -4323,7 +4323,7 @@
           "id": "cohcigars:136:203",
           "name": "Partagas - Serie Club 10x10 (25 盒)",
           "price": "$ 699.00",
-          "stock": "52",
+          "stock": "48",
           "url": "https://cn.cohcigars.com/cigars-partagas"
         },
         "cohcigars:13992:14646": {
@@ -4939,7 +4939,7 @@
           "id": "cohcigars:21:38",
           "name": "Bolivar - Belicosos Finos (25 盒)",
           "price": "$ 788.00",
-          "stock": "6",
+          "stock": "5",
           "url": "https://cn.cohcigars.com/cigars-bolivar"
         },
         "cohcigars:22284:23046": {
@@ -5527,7 +5527,7 @@
           "id": "cohcigars:251:355",
           "name": "Trinidad - Esmeralda (24 盒)",
           "price": "$ 605.00",
-          "stock": "8",
+          "stock": "7",
           "url": "https://cn.cohcigars.com/cigars-trinidad"
         },
         "cohcigars:251:356": {
@@ -5632,7 +5632,7 @@
           "id": "cohcigars:26316:27224",
           "name": "Cohiba - 1966 EL 2011 (5 盒)",
           "price": "$ 269.00",
-          "stock": "15",
+          "stock": "13",
           "url": "https://cn.cohcigars.com/cigars-cohiba"
         },
         "cohcigars:26317:27225": {
@@ -5688,7 +5688,7 @@
           "id": "cohcigars:26978:27882",
           "name": "Ramon Allones - 5 Pack- Allones No.3 (5 盒)",
           "price": "$ 229.00",
-          "stock": "99",
+          "stock": "98",
           "url": "https://cn.cohcigars.com/cigars-ramon-allones"
         },
         "cohcigars:271:387": {
@@ -6108,7 +6108,7 @@
           "id": "cohcigars:409:641",
           "name": "H.Upmann - Magnum 50 A/T (15 盒)",
           "price": "$ 755.00",
-          "stock": "3",
+          "stock": "2",
           "url": "https://cn.cohcigars.com/cigars-h.upmann"
         },
         "cohcigars:40:62": {
@@ -6395,7 +6395,7 @@
           "id": "cohcigars:5381:5818",
           "name": "Saint Luis Rey - Herfing RE Medio Oriente 2017 (10 盒)",
           "price": "$ 455.00",
-          "stock": "81",
+          "stock": "80",
           "url": "https://cn.cohcigars.com/cigars-saint-luis-rey"
         },
         "cohcigars:53:86": {
@@ -6423,7 +6423,7 @@
           "id": "cohcigars:5773:20027",
           "name": "La Flor De Cano - Elegidos (15 盒)",
           "price": "$ 205.00",
-          "stock": "12",
+          "stock": "9",
           "url": "https://cn.cohcigars.com/cigars-la-flor-de-cano"
         },
         "cohcigars:5773:22086": {
@@ -6444,7 +6444,7 @@
           "id": "cohcigars:59:95",
           "name": "Cuaba - Divinos (25 盒)",
           "price": "$ 505.00",
-          "stock": "8",
+          "stock": "7",
           "url": "https://cn.cohcigars.com/cigars-cuaba"
         },
         "cohcigars:614:742": {
@@ -6472,7 +6472,7 @@
           "id": "cohcigars:642:17328",
           "name": "Cohiba - Siglo I A/T (3 盒)",
           "price": "$ 99.00",
-          "stock": "72",
+          "stock": "71",
           "url": "https://cn.cohcigars.com/cigars-cohiba"
         },
         "cohcigars:642:756": {
@@ -8200,7 +8200,7 @@
           "url": "https://www.ihavanas.com/details.php?ptype=cigars&pid=Partagas"
         }
       },
-      "last_checked": "2026-09-21T13:21:43+00:00",
+      "last_checked": "2026-09-21T19:31:56+00:00",
       "last_count": 189,
       "last_error": null,
       "previous": {
