@@ -20,7 +20,7 @@
           "id": "cohcigars:102:147",
           "name": "Hoyo de Monterrey - Epicure No.2 (25 盒)",
           "price": "$ 735.00",
-          "stock": "18",
+          "stock": "14",
           "url": "https://cn.cohcigars.com/cigars-hoyo-de-monterrey"
         },
         "cohcigars:102:149": {
@@ -314,7 +314,7 @@
           "id": "cohcigars:122:5796",
           "name": "Jose L. Piedra - Brevas (12 盒)",
           "price": "$ 88.00",
-          "stock": "34",
+          "stock": "33",
           "url": "https://cn.cohcigars.com/cigars-jose-l.-piedra"
         },
         "cohcigars:1231:1420": {
@@ -398,7 +398,7 @@
           "id": "cohcigars:12:27",
           "name": "Montecristo - No.2 (15 盒)",
           "price": "$ 625.00",
-          "stock": "14",
+          "stock": "12",
           "url": "https://cn.cohcigars.com/cigars-montecristo"
         },
         "cohcigars:13022:13682": {
@@ -454,7 +454,7 @@
           "id": "cohcigars:13992:14646",
           "name": "Quai Dorsay - Imperiales Travel Humidor (20 盒)",
           "price": "$ 1520.00",
-          "stock": "5",
+          "stock": "4",
           "url": "https://cn.cohcigars.com/cigars-quai-dorsay"
         },
         "cohcigars:13:21": {
@@ -573,7 +573,7 @@
           "id": "cohcigars:154:227",
           "name": "Partagas - Aristocrats (25 盒)",
           "price": "$ 290.00",
-          "stock": "2",
+          "stock": "1",
           "url": "https://cn.cohcigars.com/cigars-partagas"
         },
         "cohcigars:15545:16209": {
@@ -867,7 +867,7 @@
           "id": "cohcigars:1946:23678",
           "name": "Cohiba - Medio Siglo A/T (10x10 盒)",
           "price": "$ 89.00",
-          "stock": "193",
+          "stock": "192",
           "url": "https://cn.cohcigars.com/cigars-cohiba"
         },
         "cohcigars:1947:9595": {
@@ -1252,7 +1252,7 @@
           "id": "cohcigars:230:326",
           "name": "Saint Luis Rey - Regios (25 盒)",
           "price": "$ 579.00",
-          "stock": "10",
+          "stock": "9",
           "url": "https://cn.cohcigars.com/cigars-saint-luis-rey"
         },
         "cohcigars:23307:24134": {
@@ -2050,7 +2050,7 @@
           "id": "cohcigars:26314:27222",
           "name": "Montecristo - 5 Pack- Montecristo Wide Edmundo (5 盒)",
           "price": "$ 155.00",
-          "stock": "203",
+          "stock": "202",
           "url": "https://cn.cohcigars.com/cigars-montecristo"
         },
         "cohcigars:26315:27223": {
@@ -2099,7 +2099,7 @@
           "id": "cohcigars:26430:27332",
           "name": "Romeo Y Julieta - 5 Pack- Short Churchills (5 盒)",
           "price": "$ 220.00",
-          "stock": "11",
+          "stock": "10",
           "url": "https://cn.cohcigars.com/cigars-romeo-y-julieta"
         },
         "cohcigars:2649:2950": {
@@ -2141,7 +2141,7 @@
           "id": "cohcigars:267:21510",
           "name": "Romeo Y Julieta - Puritos (5x10 盒)",
           "price": "$ 90.00",
-          "stock": "93",
+          "stock": "89",
           "url": "https://cn.cohcigars.com/cigars-romeo-y-julieta"
         },
         "cohcigars:267:23689": {
@@ -3142,7 +3142,7 @@
           "id": "cohcigars:4744:5106",
           "name": "Cohiba - 1966 EL 2011 (50 盒)",
           "price": "$ 190.00",
-          "stock": "186",
+          "stock": "185",
           "url": "https://cn.cohcigars.com/cigars-cohiba"
         },
         "cohcigars:4751:5118": {
@@ -3979,8 +3979,8 @@
           "url": "https://cn.cohcigars.com/cigars-montecristo"
         }
       },
-      "last_checked": "2026-09-21T05:30:10+00:00",
-      "last_count": 427,
+      "last_checked": "2026-09-21T12:57:47+00:00",
+      "last_count": 426,
       "last_error": null,
       "previous": {
         "cohcigars:101:144": {
@@ -4001,7 +4001,7 @@
           "id": "cohcigars:102:147",
           "name": "Hoyo de Monterrey - Epicure No.2 (25 盒)",
           "price": "$ 735.00",
-          "stock": "18",
+          "stock": "14",
           "url": "https://cn.cohcigars.com/cigars-hoyo-de-monterrey"
         },
         "cohcigars:102:149": {
@@ -4204,7 +4204,7 @@
           "id": "cohcigars:122:5796",
           "name": "Jose L. Piedra - Brevas (12 盒)",
           "price": "$ 88.00",
-          "stock": "34",
+          "stock": "33",
           "url": "https://cn.cohcigars.com/cigars-jose-l.-piedra"
         },
         "cohcigars:1231:1420": {
@@ -4281,7 +4281,7 @@
           "id": "cohcigars:12:27",
           "name": "Montecristo - No.2 (15 盒)",
           "price": "$ 625.00",
-          "stock": "14",
+          "stock": "12",
           "url": "https://cn.cohcigars.com/cigars-montecristo"
         },
         "cohcigars:13022:13682": {
@@ -4330,7 +4330,7 @@
           "id": "cohcigars:13992:14646",
           "name": "Quai Dorsay - Imperiales Travel Humidor (20 盒)",
           "price": "$ 1520.00",
-          "stock": "5",
+          "stock": "4",
           "url": "https://cn.cohcigars.com/cigars-quai-dorsay"
         },
         "cohcigars:13:21": {
@@ -4428,7 +4428,7 @@
           "id": "cohcigars:154:227",
           "name": "Partagas - Aristocrats (25 盒)",
           "price": "$ 290.00",
-          "stock": "2",
+          "stock": "1",
           "url": "https://cn.cohcigars.com/cigars-partagas"
         },
         "cohcigars:15545:16209": {
@@ -4659,7 +4659,7 @@
           "id": "cohcigars:1946:23678",
           "name": "Cohiba - Medio Siglo A/T (10x10 盒)",
           "price": "$ 89.00",
-          "stock": "193",
+          "stock": "192",
           "url": "https://cn.cohcigars.com/cigars-cohiba"
         },
         "cohcigars:1947:9595": {
@@ -4995,7 +4995,7 @@
           "id": "cohcigars:230:326",
           "name": "Saint Luis Rey - Regios (25 盒)",
           "price": "$ 579.00",
-          "stock": "10",
+          "stock": "9",
           "url": "https://cn.cohcigars.com/cigars-saint-luis-rey"
         },
         "cohcigars:23308:24135": {
@@ -5625,7 +5625,7 @@
           "id": "cohcigars:26314:27222",
           "name": "Montecristo - 5 Pack- Montecristo Wide Edmundo (5 盒)",
           "price": "$ 155.00",
-          "stock": "203",
+          "stock": "202",
           "url": "https://cn.cohcigars.com/cigars-montecristo"
         },
         "cohcigars:26316:27224": {
@@ -5660,7 +5660,7 @@
           "id": "cohcigars:26430:27332",
           "name": "Romeo Y Julieta - 5 Pack- Short Churchills (5 盒)",
           "price": "$ 220.00",
-          "stock": "11",
+          "stock": "10",
           "url": "https://cn.cohcigars.com/cigars-romeo-y-julieta"
         },
         "cohcigars:265:23684": {
@@ -5674,7 +5674,7 @@
           "id": "cohcigars:267:21510",
           "name": "Romeo Y Julieta - Puritos (5x10 盒)",
           "price": "$ 90.00",
-          "stock": "93",
+          "stock": "89",
           "url": "https://cn.cohcigars.com/cigars-romeo-y-julieta"
         },
         "cohcigars:267:23689": {
@@ -6304,7 +6304,7 @@
           "id": "cohcigars:4744:5106",
           "name": "Cohiba - 1966 EL 2011 (50 盒)",
           "price": "$ 190.00",
-          "stock": "186",
+          "stock": "185",
           "url": "https://cn.cohcigars.com/cigars-cohiba"
         },
         "cohcigars:4751:5118": {
@@ -6481,13 +6481,6 @@
           "price": "$ 550.00",
           "stock": "18",
           "url": "https://cn.cohcigars.com/cigars-cohiba"
-        },
-        "cohcigars:66:104": {
-          "id": "cohcigars:66:104",
-          "name": "Diplomaticos - Grandes RE Alemania 2021 (25 盒)",
-          "price": "$ 615.00",
-          "stock": "1",
-          "url": "https://cn.cohcigars.com/cigars-diplomaticos"
         },
         "cohcigars:683:789": {
           "id": "cohcigars:683:789",
@@ -8207,7 +8200,7 @@
           "url": "https://www.ihavanas.com/details.php?ptype=cigars&pid=Partagas"
         }
       },
-      "last_checked": "2026-09-21T05:29:48+00:00",
+      "last_checked": "2026-09-21T12:56:44+00:00",
       "last_count": 189,
       "last_error": null,
       "previous": {
