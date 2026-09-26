@@ -314,7 +314,7 @@
           "id": "cohcigars:122:5796",
           "name": "Jose L. Piedra - Brevas (12 盒)",
           "price": "$ 88.00",
-          "stock": "29",
+          "stock": "28",
           "url": "https://cn.cohcigars.com/cigars-jose-l.-piedra"
         },
         "cohcigars:1231:1420": {
@@ -573,7 +573,7 @@
           "id": "cohcigars:154:227",
           "name": "Partagas - Aliados (25 盒)",
           "price": "$ 229.00",
-          "stock": "38",
+          "stock": "37",
           "url": "https://cn.cohcigars.com/cigars-partagas"
         },
         "cohcigars:15545:16209": {
@@ -741,7 +741,7 @@
           "id": "cohcigars:1790:2029",
           "name": "Hoyo de Monterrey - Le Hoyo de San Juan (15 盒)",
           "price": "$ 499.00",
-          "stock": "27",
+          "stock": "26",
           "url": "https://cn.cohcigars.com/cigars-hoyo-de-monterrey"
         },
         "cohcigars:1790:25375": {
@@ -1189,7 +1189,7 @@
           "id": "cohcigars:21860:22614",
           "name": "Cohiba - Vitosos Travel Humidor (6x10 盒)",
           "price": "$ 245.00",
-          "stock": "71",
+          "stock": "70",
           "url": "https://cn.cohcigars.com/cigars-cohiba"
         },
         "cohcigars:21860:24390": {
@@ -1728,7 +1728,7 @@
           "id": "cohcigars:24440:25280",
           "name": "Cohiba - Robusto C/P (3 盒)",
           "price": "$ 240.00",
-          "stock": "171",
+          "stock": "170",
           "url": "https://cn.cohcigars.com/cigars-cohiba"
         },
         "cohcigars:24441:25281": {
@@ -1742,7 +1742,7 @@
           "id": "cohcigars:24442:25283",
           "name": "Cohiba - Siglo II A/T (5x5 盒)",
           "price": "$ 799.00",
-          "stock": "92",
+          "stock": "90",
           "url": "https://cn.cohcigars.com/cigars-cohiba"
         },
         "cohcigars:24443:25285": {
@@ -3072,7 +3072,7 @@
           "id": "cohcigars:4616:4922",
           "name": "Quai Dorsay - No.52 (10 盒)",
           "price": "$ 299.00",
-          "stock": "12",
+          "stock": "11",
           "url": "https://cn.cohcigars.com/cigars-quai-dorsay"
         },
         "cohcigars:462:722": {
@@ -3128,7 +3128,7 @@
           "id": "cohcigars:4641:4954",
           "name": "Trinidad - Esmeralda (12 盒)",
           "price": "$ 990.00",
-          "stock": "50",
+          "stock": "49",
           "url": "https://cn.cohcigars.com/cigars-trinidad"
         },
         "cohcigars:466:725": {
@@ -3422,7 +3422,7 @@
           "id": "cohcigars:6955:7467",
           "name": "Romeo Y Julieta - Cupidos LCDH (20 盒)",
           "price": "$ 1100.00",
-          "stock": "14",
+          "stock": "13",
           "url": "https://cn.cohcigars.com/cigars-romeo-y-julieta"
         },
         "cohcigars:6956:7468": {
@@ -4021,7 +4021,7 @@
           "url": "https://cn.cohcigars.com/cigars-montecristo"
         }
       },
-      "last_checked": "2026-09-26T11:47:59+00:00",
+      "last_checked": "2026-09-26T16:28:46+00:00",
       "last_count": 437,
       "last_error": null,
       "previous": {
@@ -4246,7 +4246,7 @@
           "id": "cohcigars:122:5796",
           "name": "Jose L. Piedra - Brevas (12 盒)",
           "price": "$ 88.00",
-          "stock": "29",
+          "stock": "28",
           "url": "https://cn.cohcigars.com/cigars-jose-l.-piedra"
         },
         "cohcigars:1231:1420": {
@@ -4463,7 +4463,7 @@
           "id": "cohcigars:154:227",
           "name": "Partagas - Aliados (25 盒)",
           "price": "$ 229.00",
-          "stock": "38",
+          "stock": "37",
           "url": "https://cn.cohcigars.com/cigars-partagas"
         },
         "cohcigars:15545:16209": {
@@ -4610,7 +4610,7 @@
           "id": "cohcigars:1790:2029",
           "name": "Hoyo de Monterrey - Le Hoyo de San Juan (15 盒)",
           "price": "$ 499.00",
-          "stock": "27",
+          "stock": "26",
           "url": "https://cn.cohcigars.com/cigars-hoyo-de-monterrey"
         },
         "cohcigars:1790:25375": {
@@ -4967,7 +4967,7 @@
           "id": "cohcigars:21860:22614",
           "name": "Cohiba - Vitosos Travel Humidor (6x10 盒)",
           "price": "$ 245.00",
-          "stock": "71",
+          "stock": "70",
           "url": "https://cn.cohcigars.com/cigars-cohiba"
         },
         "cohcigars:21860:24390": {
@@ -5436,7 +5436,7 @@
           "id": "cohcigars:24440:25280",
           "name": "Cohiba - Robusto C/P (3 盒)",
           "price": "$ 240.00",
-          "stock": "171",
+          "stock": "170",
           "url": "https://cn.cohcigars.com/cigars-cohiba"
         },
         "cohcigars:24441:25281": {
@@ -5450,7 +5450,7 @@
           "id": "cohcigars:24442:25283",
           "name": "Cohiba - Siglo II A/T (5x5 盒)",
           "price": "$ 799.00",
-          "stock": "92",
+          "stock": "90",
           "url": "https://cn.cohcigars.com/cigars-cohiba"
         },
         "cohcigars:24443:25285": {
@@ -6304,7 +6304,7 @@
           "id": "cohcigars:4616:4922",
           "name": "Quai Dorsay - No.52 (10 盒)",
           "price": "$ 299.00",
-          "stock": "12",
+          "stock": "11",
           "url": "https://cn.cohcigars.com/cigars-quai-dorsay"
         },
         "cohcigars:462:722": {
@@ -6353,7 +6353,7 @@
           "id": "cohcigars:4641:4954",
           "name": "Trinidad - Esmeralda (12 盒)",
           "price": "$ 990.00",
-          "stock": "50",
+          "stock": "49",
           "url": "https://cn.cohcigars.com/cigars-trinidad"
         },
         "cohcigars:466:725": {
@@ -6619,7 +6619,7 @@
           "id": "cohcigars:6955:7467",
           "name": "Romeo Y Julieta - Cupidos LCDH (20 盒)",
           "price": "$ 1100.00",
-          "stock": "14",
+          "stock": "13",
           "url": "https://cn.cohcigars.com/cigars-romeo-y-julieta"
         },
         "cohcigars:6956:7468": {
@@ -8319,7 +8319,7 @@
           "url": "https://www.ihavanas.com/details.php?ptype=cigars&pid=Partagas"
         }
       },
-      "last_checked": "2026-09-26T11:47:41+00:00",
+      "last_checked": "2026-09-26T16:28:29+00:00",
       "last_count": 188,
       "last_error": null,
       "previous": {
