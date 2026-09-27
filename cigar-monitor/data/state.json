@@ -27,7 +27,7 @@
           "id": "cohcigars:102:149",
           "name": "Hoyo de Monterrey - Epicure No.1 A/T (15 盒)",
           "price": "$ 388.00",
-          "stock": "38",
+          "stock": "37",
           "url": "https://cn.cohcigars.com/cigars-hoyo-de-monterrey"
         },
         "cohcigars:102:20571": {
@@ -237,7 +237,7 @@
           "id": "cohcigars:118:175",
           "name": "Juan Lopez - Seleccion No.1 (25 盒)",
           "price": "$ 588.00",
-          "stock": "15",
+          "stock": "14",
           "url": "https://cn.cohcigars.com/cigars-juan-lopez"
         },
         "cohcigars:1191:1290": {
@@ -398,7 +398,7 @@
           "id": "cohcigars:12:27",
           "name": "Montecristo - No.2 (15 盒)",
           "price": "$ 625.00",
-          "stock": "9",
+          "stock": "8",
           "url": "https://cn.cohcigars.com/cigars-montecristo"
         },
         "cohcigars:13022:13682": {
@@ -426,7 +426,7 @@
           "id": "cohcigars:132:912",
           "name": "Partagas - Linea Maestra Sampler (10 盒)",
           "price": "$ 488.00",
-          "stock": "17",
+          "stock": "16",
           "url": "https://cn.cohcigars.com/cigars-partagas"
         },
         "cohcigars:133:198": {
@@ -489,7 +489,7 @@
           "id": "cohcigars:141:210",
           "name": "Partagas - Serie P No.2 (25 盒)",
           "price": "$ 325.00",
-          "stock": "16",
+          "stock": "15",
           "url": "https://cn.cohcigars.com/cigars-partagas"
         },
         "cohcigars:141:211": {
@@ -524,7 +524,7 @@
           "id": "cohcigars:148:219",
           "name": "Partagas - Mille Fleurs (25 盒)",
           "price": "$ 269.00",
-          "stock": "21",
+          "stock": "20",
           "url": "https://cn.cohcigars.com/cigars-partagas"
         },
         "cohcigars:148:220": {
@@ -1175,7 +1175,7 @@
           "id": "cohcigars:216:309",
           "name": "Romeo Y Julieta - Petit Churchills A/T (25 盒)",
           "price": "$ 405.00",
-          "stock": "27",
+          "stock": "26",
           "url": "https://cn.cohcigars.com/cigars-romeo-y-julieta"
         },
         "cohcigars:2181:2449": {
@@ -1602,7 +1602,7 @@
           "id": "cohcigars:235:333",
           "name": "San Cristobal De La Habana - La Punta (25 盒)",
           "price": "$ 692.00",
-          "stock": "6",
+          "stock": "5",
           "url": "https://cn.cohcigars.com/cigars-san-cristobal-de-la-habana"
         },
         "cohcigars:2374:2644": {
@@ -3072,7 +3072,7 @@
           "id": "cohcigars:4616:4922",
           "name": "Quai Dorsay - No.52 (10 盒)",
           "price": "$ 299.00",
-          "stock": "6",
+          "stock": "4",
           "url": "https://cn.cohcigars.com/cigars-quai-dorsay"
         },
         "cohcigars:462:722": {
@@ -3394,7 +3394,7 @@
           "id": "cohcigars:66:104",
           "name": "Diplomaticos - Grandes RE Alemania 2021 (25 盒)",
           "price": "$ 599.00",
-          "stock": "24",
+          "stock": "21",
           "url": "https://cn.cohcigars.com/cigars-diplomaticos"
         },
         "cohcigars:683:789": {
@@ -4021,7 +4021,7 @@
           "url": "https://cn.cohcigars.com/cigars-montecristo"
         }
       },
-      "last_checked": "2026-09-27T05:47:28+00:00",
+      "last_checked": "2026-09-27T08:17:56+00:00",
       "last_count": 437,
       "last_error": null,
       "previous": {
@@ -4050,7 +4050,7 @@
           "id": "cohcigars:102:149",
           "name": "Hoyo de Monterrey - Epicure No.1 A/T (15 盒)",
           "price": "$ 388.00",
-          "stock": "38",
+          "stock": "37",
           "url": "https://cn.cohcigars.com/cigars-hoyo-de-monterrey"
         },
         "cohcigars:102:20571": {
@@ -4190,7 +4190,7 @@
           "id": "cohcigars:118:175",
           "name": "Juan Lopez - Seleccion No.1 (25 盒)",
           "price": "$ 588.00",
-          "stock": "15",
+          "stock": "14",
           "url": "https://cn.cohcigars.com/cigars-juan-lopez"
         },
         "cohcigars:1191:1290": {
@@ -4316,7 +4316,7 @@
           "id": "cohcigars:12:27",
           "name": "Montecristo - No.2 (15 盒)",
           "price": "$ 625.00",
-          "stock": "9",
+          "stock": "8",
           "url": "https://cn.cohcigars.com/cigars-montecristo"
         },
         "cohcigars:13022:13682": {
@@ -4344,7 +4344,7 @@
           "id": "cohcigars:132:912",
           "name": "Partagas - Linea Maestra Sampler (10 盒)",
           "price": "$ 488.00",
-          "stock": "17",
+          "stock": "16",
           "url": "https://cn.cohcigars.com/cigars-partagas"
         },
         "cohcigars:133:198": {
@@ -4393,7 +4393,7 @@
           "id": "cohcigars:141:210",
           "name": "Partagas - Serie P No.2 (25 盒)",
           "price": "$ 325.00",
-          "stock": "16",
+          "stock": "15",
           "url": "https://cn.cohcigars.com/cigars-partagas"
         },
         "cohcigars:141:211": {
@@ -4428,7 +4428,7 @@
           "id": "cohcigars:148:219",
           "name": "Partagas - Mille Fleurs (25 盒)",
           "price": "$ 269.00",
-          "stock": "21",
+          "stock": "20",
           "url": "https://cn.cohcigars.com/cigars-partagas"
         },
         "cohcigars:148:220": {
@@ -4953,7 +4953,7 @@
           "id": "cohcigars:216:309",
           "name": "Romeo Y Julieta - Petit Churchills A/T (25 盒)",
           "price": "$ 405.00",
-          "stock": "27",
+          "stock": "26",
           "url": "https://cn.cohcigars.com/cigars-romeo-y-julieta"
         },
         "cohcigars:2181:2449": {
@@ -5331,7 +5331,7 @@
           "id": "cohcigars:235:333",
           "name": "San Cristobal De La Habana - La Punta (25 盒)",
           "price": "$ 692.00",
-          "stock": "6",
+          "stock": "5",
           "url": "https://cn.cohcigars.com/cigars-san-cristobal-de-la-habana"
         },
         "cohcigars:2375:2647": {
@@ -6304,7 +6304,7 @@
           "id": "cohcigars:4616:4922",
           "name": "Quai Dorsay - No.52 (10 盒)",
           "price": "$ 299.00",
-          "stock": "6",
+          "stock": "4",
           "url": "https://cn.cohcigars.com/cigars-quai-dorsay"
         },
         "cohcigars:462:722": {
@@ -6598,7 +6598,7 @@
           "id": "cohcigars:66:104",
           "name": "Diplomaticos - Grandes RE Alemania 2021 (25 盒)",
           "price": "$ 599.00",
-          "stock": "24",
+          "stock": "21",
           "url": "https://cn.cohcigars.com/cigars-diplomaticos"
         },
         "cohcigars:683:789": {
@@ -8319,7 +8319,7 @@
           "url": "https://www.ihavanas.com/details.php?ptype=cigars&pid=Partagas"
         }
       },
-      "last_checked": "2026-09-27T05:47:07+00:00",
+      "last_checked": "2026-09-27T08:17:36+00:00",
       "last_count": 188,
       "last_error": null,
       "previous": {
