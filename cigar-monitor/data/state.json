@@ -314,7 +314,7 @@
           "id": "cohcigars:122:5796",
           "name": "Jose L. Piedra - Brevas (12 盒)",
           "price": "$ 88.00",
-          "stock": "28",
+          "stock": "26",
           "url": "https://cn.cohcigars.com/cigars-jose-l.-piedra"
         },
         "cohcigars:1231:1420": {
@@ -426,7 +426,7 @@
           "id": "cohcigars:132:912",
           "name": "Partagas - Linea Maestra Sampler (10 盒)",
           "price": "$ 488.00",
-          "stock": "19",
+          "stock": "17",
           "url": "https://cn.cohcigars.com/cigars-partagas"
         },
         "cohcigars:133:198": {
@@ -440,7 +440,7 @@
           "id": "cohcigars:136:203",
           "name": "Partagas - Royales Travel Humidor (25 盒)",
           "price": "$ 699.00",
-          "stock": "37",
+          "stock": "36",
           "url": "https://cn.cohcigars.com/cigars-partagas"
         },
         "cohcigars:13910:14564": {
@@ -524,7 +524,7 @@
           "id": "cohcigars:148:219",
           "name": "Partagas - Mille Fleurs (25 盒)",
           "price": "$ 269.00",
-          "stock": "24",
+          "stock": "21",
           "url": "https://cn.cohcigars.com/cigars-partagas"
         },
         "cohcigars:148:220": {
@@ -573,7 +573,7 @@
           "id": "cohcigars:154:227",
           "name": "Partagas - Aliados (25 盒)",
           "price": "$ 229.00",
-          "stock": "37",
+          "stock": "36",
           "url": "https://cn.cohcigars.com/cigars-partagas"
         },
         "cohcigars:15545:16209": {
@@ -1742,7 +1742,7 @@
           "id": "cohcigars:24442:25283",
           "name": "Cohiba - Siglo II A/T (5x5 盒)",
           "price": "$ 799.00",
-          "stock": "90",
+          "stock": "89",
           "url": "https://cn.cohcigars.com/cigars-cohiba"
         },
         "cohcigars:24443:25285": {
@@ -1840,7 +1840,7 @@
           "id": "cohcigars:2503:2790",
           "name": "Cohiba - Robustos A/T (10 x 10 盒)",
           "price": "$ 169.00",
-          "stock": "94",
+          "stock": "92",
           "url": "https://cn.cohcigars.com/cigars-cohiba"
         },
         "cohcigars:2507:2794": {
@@ -1973,7 +1973,7 @@
           "id": "cohcigars:260:21409",
           "name": "Jose L. Piedra - Cremas (5 盒)",
           "price": "$ 39.00",
-          "stock": "6",
+          "stock": "5",
           "url": "https://cn.cohcigars.com/cigars-jose-l.-piedra"
         },
         "cohcigars:26182:27076": {
@@ -2092,7 +2092,7 @@
           "id": "cohcigars:263:24306",
           "name": "Jose L. Piedra - Petit Cetros (5x2 盒)",
           "price": "$ 59.00",
-          "stock": "127",
+          "stock": "126",
           "url": "https://cn.cohcigars.com/cigars-jose-l.-piedra"
         },
         "cohcigars:26429:27331": {
@@ -2225,7 +2225,7 @@
           "id": "cohcigars:271:387",
           "name": "Quintero Y Hermano - Panetelas (25 盒)",
           "price": "$ 150.00",
-          "stock": "33",
+          "stock": "32",
           "url": "https://cn.cohcigars.com/cigars-quintero-y-hermano"
         },
         "cohcigars:273:19988": {
@@ -2953,7 +2953,7 @@
           "id": "cohcigars:4127:4427",
           "name": "Vintage - Partagas Shorts - 2015 (5x5 盒)",
           "price": "$ 385.00",
-          "stock": "50",
+          "stock": "49",
           "url": "https://cn.cohcigars.com/cigars-vintage"
         },
         "cohcigars:4151:4451": {
@@ -3072,7 +3072,7 @@
           "id": "cohcigars:4616:4922",
           "name": "Quai Dorsay - No.52 (10 盒)",
           "price": "$ 299.00",
-          "stock": "8",
+          "stock": "6",
           "url": "https://cn.cohcigars.com/cigars-quai-dorsay"
         },
         "cohcigars:462:722": {
@@ -3184,7 +3184,7 @@
           "id": "cohcigars:4744:5106",
           "name": "Cohiba - 5 Pack- Siglo I, II, III, IV, VI (50 盒)",
           "price": "$ 190.00",
-          "stock": "185",
+          "stock": "184",
           "url": "https://cn.cohcigars.com/cigars-cohiba"
         },
         "cohcigars:4751:5118": {
@@ -3394,7 +3394,7 @@
           "id": "cohcigars:66:104",
           "name": "Diplomaticos - Grandes RE Alemania 2021 (25 盒)",
           "price": "$ 599.00",
-          "stock": "25",
+          "stock": "24",
           "url": "https://cn.cohcigars.com/cigars-diplomaticos"
         },
         "cohcigars:683:789": {
@@ -4021,7 +4021,7 @@
           "url": "https://cn.cohcigars.com/cigars-montecristo"
         }
       },
-      "last_checked": "2026-09-27T00:40:45+00:00",
+      "last_checked": "2026-09-27T05:47:28+00:00",
       "last_count": 437,
       "last_error": null,
       "previous": {
@@ -4246,7 +4246,7 @@
           "id": "cohcigars:122:5796",
           "name": "Jose L. Piedra - Brevas (12 盒)",
           "price": "$ 88.00",
-          "stock": "28",
+          "stock": "26",
           "url": "https://cn.cohcigars.com/cigars-jose-l.-piedra"
         },
         "cohcigars:1231:1420": {
@@ -4344,7 +4344,7 @@
           "id": "cohcigars:132:912",
           "name": "Partagas - Linea Maestra Sampler (10 盒)",
           "price": "$ 488.00",
-          "stock": "19",
+          "stock": "17",
           "url": "https://cn.cohcigars.com/cigars-partagas"
         },
         "cohcigars:133:198": {
@@ -4358,7 +4358,7 @@
           "id": "cohcigars:136:203",
           "name": "Partagas - Royales Travel Humidor (25 盒)",
           "price": "$ 699.00",
-          "stock": "37",
+          "stock": "36",
           "url": "https://cn.cohcigars.com/cigars-partagas"
         },
         "cohcigars:13992:14646": {
@@ -4428,7 +4428,7 @@
           "id": "cohcigars:148:219",
           "name": "Partagas - Mille Fleurs (25 盒)",
           "price": "$ 269.00",
-          "stock": "24",
+          "stock": "21",
           "url": "https://cn.cohcigars.com/cigars-partagas"
         },
         "cohcigars:148:220": {
@@ -4463,7 +4463,7 @@
           "id": "cohcigars:154:227",
           "name": "Partagas - Aliados (25 盒)",
           "price": "$ 229.00",
-          "stock": "37",
+          "stock": "36",
           "url": "https://cn.cohcigars.com/cigars-partagas"
         },
         "cohcigars:15545:16209": {
@@ -5450,7 +5450,7 @@
           "id": "cohcigars:24442:25283",
           "name": "Cohiba - Siglo II A/T (5x5 盒)",
           "price": "$ 799.00",
-          "stock": "90",
+          "stock": "89",
           "url": "https://cn.cohcigars.com/cigars-cohiba"
         },
         "cohcigars:24443:25285": {
@@ -5534,7 +5534,7 @@
           "id": "cohcigars:2503:2790",
           "name": "Cohiba - Robustos A/T (10 x 10 盒)",
           "price": "$ 169.00",
-          "stock": "94",
+          "stock": "92",
           "url": "https://cn.cohcigars.com/cigars-cohiba"
         },
         "cohcigars:2507:2794": {
@@ -5639,7 +5639,7 @@
           "id": "cohcigars:260:21409",
           "name": "Jose L. Piedra - Cremas (5 盒)",
           "price": "$ 39.00",
-          "stock": "6",
+          "stock": "5",
           "url": "https://cn.cohcigars.com/cigars-jose-l.-piedra"
         },
         "cohcigars:26206:27104": {
@@ -5709,7 +5709,7 @@
           "id": "cohcigars:263:24306",
           "name": "Jose L. Piedra - Petit Cetros (5x2 盒)",
           "price": "$ 59.00",
-          "stock": "127",
+          "stock": "126",
           "url": "https://cn.cohcigars.com/cigars-jose-l.-piedra"
         },
         "cohcigars:26429:27331": {
@@ -5786,7 +5786,7 @@
           "id": "cohcigars:271:387",
           "name": "Quintero Y Hermano - Panetelas (25 盒)",
           "price": "$ 150.00",
-          "stock": "33",
+          "stock": "32",
           "url": "https://cn.cohcigars.com/cigars-quintero-y-hermano"
         },
         "cohcigars:273:19988": {
@@ -6234,7 +6234,7 @@
           "id": "cohcigars:4127:4427",
           "name": "Vintage - Partagas Shorts - 2015 (5x5 盒)",
           "price": "$ 385.00",
-          "stock": "50",
+          "stock": "49",
           "url": "https://cn.cohcigars.com/cigars-vintage"
         },
         "cohcigars:41:64": {
@@ -6304,7 +6304,7 @@
           "id": "cohcigars:4616:4922",
           "name": "Quai Dorsay - No.52 (10 盒)",
           "price": "$ 299.00",
-          "stock": "8",
+          "stock": "6",
           "url": "https://cn.cohcigars.com/cigars-quai-dorsay"
         },
         "cohcigars:462:722": {
@@ -6409,7 +6409,7 @@
           "id": "cohcigars:4744:5106",
           "name": "Cohiba - 5 Pack- Siglo I, II, III, IV, VI (50 盒)",
           "price": "$ 190.00",
-          "stock": "185",
+          "stock": "184",
           "url": "https://cn.cohcigars.com/cigars-cohiba"
         },
         "cohcigars:4751:5118": {
@@ -6598,7 +6598,7 @@
           "id": "cohcigars:66:104",
           "name": "Diplomaticos - Grandes RE Alemania 2021 (25 盒)",
           "price": "$ 599.00",
-          "stock": "25",
+          "stock": "24",
           "url": "https://cn.cohcigars.com/cigars-diplomaticos"
         },
         "cohcigars:683:789": {
@@ -8319,7 +8319,7 @@
           "url": "https://www.ihavanas.com/details.php?ptype=cigars&pid=Partagas"
         }
       },
-      "last_checked": "2026-09-27T00:40:23+00:00",
+      "last_checked": "2026-09-27T05:47:07+00:00",
       "last_count": 188,
       "last_error": null,
       "previous": {
