@@ -237,7 +237,7 @@
           "id": "cohcigars:118:175",
           "name": "Juan Lopez - Seleccion No.1 (25 盒)",
           "price": "$ 588.00",
-          "stock": "14",
+          "stock": "13",
           "url": "https://cn.cohcigars.com/cigars-juan-lopez"
         },
         "cohcigars:1191:1290": {
@@ -440,7 +440,7 @@
           "id": "cohcigars:136:203",
           "name": "Partagas - Royales Travel Humidor (25 盒)",
           "price": "$ 699.00",
-          "stock": "34",
+          "stock": "33",
           "url": "https://cn.cohcigars.com/cigars-partagas"
         },
         "cohcigars:13910:14564": {
@@ -930,7 +930,7 @@
           "id": "cohcigars:196:793",
           "name": "Romeo Y Julieta - Churchills A/T (15 盒)",
           "price": "$ 785.00",
-          "stock": "9",
+          "stock": "8",
           "url": "https://cn.cohcigars.com/cigars-romeo-y-julieta"
         },
         "cohcigars:19829:20532": {
@@ -1203,7 +1203,7 @@
           "id": "cohcigars:21:38",
           "name": "Bolivar - Belicosos Finos (25 盒)",
           "price": "$ 788.00",
-          "stock": "4",
+          "stock": "3",
           "url": "https://cn.cohcigars.com/cigars-bolivar"
         },
         "cohcigars:22284:23046": {
@@ -1630,7 +1630,7 @@
           "id": "cohcigars:2376:25889",
           "name": "Quintero Y Hermano - Tubulares A/T (3x3 盒)",
           "price": "$ 79.00",
-          "stock": "148",
+          "stock": "147",
           "url": "https://cn.cohcigars.com/cigars-quintero-y-hermano"
         },
         "cohcigars:2379:2652": {
@@ -1742,7 +1742,7 @@
           "id": "cohcigars:24442:25283",
           "name": "Cohiba - Siglo II A/T (5x5 盒)",
           "price": "$ 799.00",
-          "stock": "83",
+          "stock": "81",
           "url": "https://cn.cohcigars.com/cigars-cohiba"
         },
         "cohcigars:24443:25285": {
@@ -3352,7 +3352,7 @@
           "id": "cohcigars:614:742",
           "name": "Bolivar - Royal Coronas A/T (10 盒)",
           "price": "$ 375.00",
-          "stock": "13",
+          "stock": "11",
           "url": "https://cn.cohcigars.com/cigars-bolivar"
         },
         "cohcigars:615:743": {
@@ -3394,7 +3394,7 @@
           "id": "cohcigars:66:104",
           "name": "Diplomaticos - Grandes RE Alemania 2021 (25 盒)",
           "price": "$ 599.00",
-          "stock": "7",
+          "stock": "6",
           "url": "https://cn.cohcigars.com/cigars-diplomaticos"
         },
         "cohcigars:683:789": {
@@ -4021,7 +4021,7 @@
           "url": "https://cn.cohcigars.com/cigars-montecristo"
         }
       },
-      "last_checked": "2026-09-29T06:14:02+00:00",
+      "last_checked": "2026-09-29T08:38:38+00:00",
       "last_count": 437,
       "last_error": null,
       "previous": {
@@ -4190,7 +4190,7 @@
           "id": "cohcigars:118:175",
           "name": "Juan Lopez - Seleccion No.1 (25 盒)",
           "price": "$ 588.00",
-          "stock": "14",
+          "stock": "13",
           "url": "https://cn.cohcigars.com/cigars-juan-lopez"
         },
         "cohcigars:1191:1290": {
@@ -4358,7 +4358,7 @@
           "id": "cohcigars:136:203",
           "name": "Partagas - Royales Travel Humidor (25 盒)",
           "price": "$ 699.00",
-          "stock": "34",
+          "stock": "33",
           "url": "https://cn.cohcigars.com/cigars-partagas"
         },
         "cohcigars:13992:14646": {
@@ -4757,7 +4757,7 @@
           "id": "cohcigars:196:793",
           "name": "Romeo Y Julieta - Churchills A/T (15 盒)",
           "price": "$ 785.00",
-          "stock": "9",
+          "stock": "8",
           "url": "https://cn.cohcigars.com/cigars-romeo-y-julieta"
         },
         "cohcigars:19829:20532": {
@@ -4988,7 +4988,7 @@
           "id": "cohcigars:21:38",
           "name": "Bolivar - Belicosos Finos (25 盒)",
           "price": "$ 788.00",
-          "stock": "4",
+          "stock": "3",
           "url": "https://cn.cohcigars.com/cigars-bolivar"
         },
         "cohcigars:22284:23046": {
@@ -5352,7 +5352,7 @@
           "id": "cohcigars:2376:25889",
           "name": "Quintero Y Hermano - Tubulares A/T (3x3 盒)",
           "price": "$ 79.00",
-          "stock": "148",
+          "stock": "147",
           "url": "https://cn.cohcigars.com/cigars-quintero-y-hermano"
         },
         "cohcigars:2379:2652": {
@@ -5457,7 +5457,7 @@
           "id": "cohcigars:24442:25283",
           "name": "Cohiba - Siglo II A/T (5x5 盒)",
           "price": "$ 799.00",
-          "stock": "83",
+          "stock": "81",
           "url": "https://cn.cohcigars.com/cigars-cohiba"
         },
         "cohcigars:24443:25285": {
@@ -6563,7 +6563,7 @@
           "id": "cohcigars:614:742",
           "name": "Bolivar - Royal Coronas A/T (10 盒)",
           "price": "$ 375.00",
-          "stock": "13",
+          "stock": "11",
           "url": "https://cn.cohcigars.com/cigars-bolivar"
         },
         "cohcigars:615:743": {
@@ -6598,7 +6598,7 @@
           "id": "cohcigars:66:104",
           "name": "Diplomaticos - Grandes RE Alemania 2021 (25 盒)",
           "price": "$ 599.00",
-          "stock": "7",
+          "stock": "6",
           "url": "https://cn.cohcigars.com/cigars-diplomaticos"
         },
         "cohcigars:683:789": {
@@ -8319,7 +8319,7 @@
           "url": "https://www.ihavanas.com/details.php?ptype=cigars&pid=Partagas"
         }
       },
-      "last_checked": "2026-09-29T06:13:45+00:00",
+      "last_checked": "2026-09-29T08:38:22+00:00",
       "last_count": 188,
       "last_error": null,
       "previous": {
