@@ -137,9 +137,9 @@
         },
         "cohcigars:111:165": {
           "id": "cohcigars:111:165",
-          "name": "Hoyo de Monterrey - Monterreys No.4 EL 2021 (25 盒)",
-          "price": "$ 499.00",
-          "stock": "14",
+          "name": "Hoyo de Monterrey - Petit Robustos (25 盒)",
+          "price": "$ 600.00",
+          "stock": "13",
           "url": "https://cn.cohcigars.com/cigars-hoyo-de-monterrey"
         },
         "cohcigars:111:20573": {
@@ -551,8 +551,8 @@
         "cohcigars:14:24": {
           "id": "cohcigars:14:24",
           "name": "Montecristo - No.4 (25 盒)",
-          "price": "$ 525.00",
-          "stock": "1",
+          "price": "$ 565.00",
+          "stock": "100",
           "url": "https://cn.cohcigars.com/cigars-montecristo"
         },
         "cohcigars:14:26712": {
@@ -678,7 +678,7 @@
           "id": "cohcigars:1708:1939",
           "name": "Trinidad - Robusto Extra Gift Box (12 盒)",
           "price": "$ 499.00",
-          "stock": "45",
+          "stock": "44",
           "url": "https://cn.cohcigars.com/cigars-trinidad"
         },
         "cohcigars:170:248": {
@@ -739,15 +739,15 @@
         },
         "cohcigars:1790:2029": {
           "id": "cohcigars:1790:2029",
-          "name": "Hoyo de Monterrey - Le Hoyo de San Juan (15 盒)",
-          "price": "$ 499.00",
+          "name": "Hoyo de Monterrey - Le Hoyo De San Juan A/T (15 盒)",
+          "price": "$ 690.00",
           "stock": "26",
           "url": "https://cn.cohcigars.com/cigars-hoyo-de-monterrey"
         },
         "cohcigars:1790:25375": {
           "id": "cohcigars:1790:25375",
-          "name": "Hoyo de Monterrey - Le Hoyo de San Juan (3x2 盒)",
-          "price": "$ 259.00",
+          "name": "Hoyo de Monterrey - Le Hoyo De San Juan A/T (3x2 盒)",
+          "price": "$ 320.00",
           "stock": "97",
           "url": "https://cn.cohcigars.com/cigars-hoyo-de-monterrey"
         },
@@ -2225,7 +2225,7 @@
           "id": "cohcigars:271:387",
           "name": "Quintero Y Hermano - Panetelas (25 盒)",
           "price": "$ 150.00",
-          "stock": "31",
+          "stock": "30",
           "url": "https://cn.cohcigars.com/cigars-quintero-y-hermano"
         },
         "cohcigars:273:19988": {
@@ -2967,7 +2967,7 @@
           "id": "cohcigars:41:64",
           "name": "Cohiba - Maduro 5 Genios (10 盒)",
           "price": "$ 888.00",
-          "stock": "50",
+          "stock": "49",
           "url": "https://cn.cohcigars.com/cigars-cohiba"
         },
         "cohcigars:4222:4522": {
@@ -4021,8 +4021,8 @@
           "url": "https://cn.cohcigars.com/cigars-montecristo"
         }
       },
-      "last_checked": "2026-09-28T23:30:56+00:00",
-      "last_count": 436,
+      "last_checked": "2026-09-29T02:02:27+00:00",
+      "last_count": 437,
       "last_error": null,
       "previous": {
         "cohcigars:101:144": {
@@ -4132,9 +4132,9 @@
         },
         "cohcigars:111:165": {
           "id": "cohcigars:111:165",
-          "name": "Hoyo de Monterrey - Monterreys No.4 EL 2021 (25 盒)",
-          "price": "$ 499.00",
-          "stock": "14",
+          "name": "Hoyo de Monterrey - Petit Robustos (25 盒)",
+          "price": "$ 600.00",
+          "stock": "13",
           "url": "https://cn.cohcigars.com/cigars-hoyo-de-monterrey"
         },
         "cohcigars:111:20573": {
@@ -4452,6 +4452,13 @@
           "stock": "14",
           "url": "https://cn.cohcigars.com/cigars-montecristo"
         },
+        "cohcigars:14:24": {
+          "id": "cohcigars:14:24",
+          "name": "Montecristo - No.4 (25 盒)",
+          "price": "$ 565.00",
+          "stock": "100",
+          "url": "https://cn.cohcigars.com/cigars-montecristo"
+        },
         "cohcigars:14:26712": {
           "id": "cohcigars:14:26712",
           "name": "Montecristo - No.4 (3x2 盒)",
@@ -4561,7 +4568,7 @@
           "id": "cohcigars:1708:1939",
           "name": "Trinidad - Robusto Extra Gift Box (12 盒)",
           "price": "$ 499.00",
-          "stock": "45",
+          "stock": "44",
           "url": "https://cn.cohcigars.com/cigars-trinidad"
         },
         "cohcigars:170:248": {
@@ -4608,15 +4615,15 @@
         },
         "cohcigars:1790:2029": {
           "id": "cohcigars:1790:2029",
-          "name": "Hoyo de Monterrey - Le Hoyo de San Juan (15 盒)",
-          "price": "$ 499.00",
+          "name": "Hoyo de Monterrey - Le Hoyo De San Juan A/T (15 盒)",
+          "price": "$ 690.00",
           "stock": "26",
           "url": "https://cn.cohcigars.com/cigars-hoyo-de-monterrey"
         },
         "cohcigars:1790:25375": {
           "id": "cohcigars:1790:25375",
-          "name": "Hoyo de Monterrey - Le Hoyo de San Juan (3x2 盒)",
-          "price": "$ 259.00",
+          "name": "Hoyo de Monterrey - Le Hoyo De San Juan A/T (3x2 盒)",
+          "price": "$ 320.00",
           "stock": "97",
           "url": "https://cn.cohcigars.com/cigars-hoyo-de-monterrey"
         },
@@ -5786,7 +5793,7 @@
           "id": "cohcigars:271:387",
           "name": "Quintero Y Hermano - Panetelas (25 盒)",
           "price": "$ 150.00",
-          "stock": "31",
+          "stock": "30",
           "url": "https://cn.cohcigars.com/cigars-quintero-y-hermano"
         },
         "cohcigars:273:19988": {
@@ -6241,7 +6248,7 @@
           "id": "cohcigars:41:64",
           "name": "Cohiba - Maduro 5 Genios (10 盒)",
           "price": "$ 888.00",
-          "stock": "50",
+          "stock": "49",
           "url": "https://cn.cohcigars.com/cigars-cohiba"
         },
         "cohcigars:4222:4522": {
@@ -8312,7 +8319,7 @@
           "url": "https://www.ihavanas.com/details.php?ptype=cigars&pid=Partagas"
         }
       },
-      "last_checked": "2026-09-28T23:30:36+00:00",
+      "last_checked": "2026-09-29T02:02:07+00:00",
       "last_count": 188,
       "last_error": null,
       "previous": {
