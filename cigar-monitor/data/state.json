@@ -1056,7 +1056,7 @@
           "id": "cohcigars:203:292",
           "name": "Romeo Y Julieta - Romeo No.3 A/T (25 盒)",
           "price": "$ 318.00",
-          "stock": "46",
+          "stock": "45",
           "url": "https://cn.cohcigars.com/cigars-romeo-y-julieta"
         },
         "cohcigars:203:293": {
@@ -1070,7 +1070,7 @@
           "id": "cohcigars:204:295",
           "name": "Romeo Y Julieta - Short Churchills (25 盒)",
           "price": "$ 765.00",
-          "stock": "16",
+          "stock": "15",
           "url": "https://cn.cohcigars.com/cigars-romeo-y-julieta"
         },
         "cohcigars:204:296": {
@@ -2071,7 +2071,7 @@
           "id": "cohcigars:26316:27224",
           "name": "Cohiba - 5 Pack- Siglo I, II, III, IV, VI (5 盒)",
           "price": "$ 335.00",
-          "stock": "11",
+          "stock": "10",
           "url": "https://cn.cohcigars.com/cigars-cohiba"
         },
         "cohcigars:26317:27225": {
@@ -2162,7 +2162,7 @@
           "id": "cohcigars:267:23689",
           "name": "Romeo Y Julieta - Petit Royales A/T (25x2 盒)",
           "price": "$ 99.00",
-          "stock": "474",
+          "stock": "473",
           "url": "https://cn.cohcigars.com/cigars-romeo-y-julieta"
         },
         "cohcigars:26868:27771": {
@@ -2232,7 +2232,7 @@
           "id": "cohcigars:273:19988",
           "name": "Montecristo - Petit Tubos (25 x2 盒)",
           "price": "$ 99.00",
-          "stock": "308",
+          "stock": "307",
           "url": "https://cn.cohcigars.com/cigars-montecristo"
         },
         "cohcigars:274:23682": {
@@ -2904,7 +2904,7 @@
           "id": "cohcigars:3974:4274",
           "name": "Vintage - Montecristo No.4 - 2016 (15 盒)",
           "price": "$ 499.00",
-          "stock": "198",
+          "stock": "197",
           "url": "https://cn.cohcigars.com/cigars-vintage"
         },
         "cohcigars:397:20574": {
@@ -2967,7 +2967,7 @@
           "id": "cohcigars:41:64",
           "name": "Cohiba - Maduro 5 Genios (10 盒)",
           "price": "$ 888.00",
-          "stock": "49",
+          "stock": "48",
           "url": "https://cn.cohcigars.com/cigars-cohiba"
         },
         "cohcigars:4222:4522": {
@@ -4021,8 +4021,8 @@
           "url": "https://cn.cohcigars.com/cigars-montecristo"
         }
       },
-      "last_checked": "2026-09-29T16:32:51+00:00",
-      "last_count": 437,
+      "last_checked": "2026-09-29T19:39:19+00:00",
+      "last_count": 436,
       "last_error": null,
       "previous": {
         "cohcigars:101:144": {
@@ -4051,13 +4051,6 @@
           "name": "Hoyo de Monterrey - Epicure No.1 A/T (15 盒)",
           "price": "$ 388.00",
           "stock": "29",
-          "url": "https://cn.cohcigars.com/cigars-hoyo-de-monterrey"
-        },
-        "cohcigars:102:20571": {
-          "id": "cohcigars:102:20571",
-          "name": "Hoyo de Monterrey - Epicure No.2 (3 盒)",
-          "price": "$ 99.00",
-          "stock": "1",
           "url": "https://cn.cohcigars.com/cigars-hoyo-de-monterrey"
         },
         "cohcigars:105:154": {
@@ -4862,7 +4855,7 @@
           "id": "cohcigars:203:292",
           "name": "Romeo Y Julieta - Romeo No.3 A/T (25 盒)",
           "price": "$ 318.00",
-          "stock": "46",
+          "stock": "45",
           "url": "https://cn.cohcigars.com/cigars-romeo-y-julieta"
         },
         "cohcigars:203:293": {
@@ -4876,7 +4869,7 @@
           "id": "cohcigars:204:295",
           "name": "Romeo Y Julieta - Short Churchills (25 盒)",
           "price": "$ 765.00",
-          "stock": "16",
+          "stock": "15",
           "url": "https://cn.cohcigars.com/cigars-romeo-y-julieta"
         },
         "cohcigars:204:296": {
@@ -5702,7 +5695,7 @@
           "id": "cohcigars:26316:27224",
           "name": "Cohiba - 5 Pack- Siglo I, II, III, IV, VI (5 盒)",
           "price": "$ 335.00",
-          "stock": "11",
+          "stock": "10",
           "url": "https://cn.cohcigars.com/cigars-cohiba"
         },
         "cohcigars:26317:27225": {
@@ -5765,7 +5758,7 @@
           "id": "cohcigars:267:23689",
           "name": "Romeo Y Julieta - Petit Royales A/T (25x2 盒)",
           "price": "$ 99.00",
-          "stock": "474",
+          "stock": "473",
           "url": "https://cn.cohcigars.com/cigars-romeo-y-julieta"
         },
         "cohcigars:26977:27881": {
@@ -5800,7 +5793,7 @@
           "id": "cohcigars:273:19988",
           "name": "Montecristo - Petit Tubos (25 x2 盒)",
           "price": "$ 99.00",
-          "stock": "308",
+          "stock": "307",
           "url": "https://cn.cohcigars.com/cigars-montecristo"
         },
         "cohcigars:274:23682": {
@@ -6206,7 +6199,7 @@
           "id": "cohcigars:3974:4274",
           "name": "Vintage - Montecristo No.4 - 2016 (15 盒)",
           "price": "$ 499.00",
-          "stock": "198",
+          "stock": "197",
           "url": "https://cn.cohcigars.com/cigars-vintage"
         },
         "cohcigars:397:20574": {
@@ -6248,7 +6241,7 @@
           "id": "cohcigars:41:64",
           "name": "Cohiba - Maduro 5 Genios (10 盒)",
           "price": "$ 888.00",
-          "stock": "49",
+          "stock": "48",
           "url": "https://cn.cohcigars.com/cigars-cohiba"
         },
         "cohcigars:4222:4522": {
@@ -8319,7 +8312,7 @@
           "url": "https://www.ihavanas.com/details.php?ptype=cigars&pid=Partagas"
         }
       },
-      "last_checked": "2026-09-29T16:32:28+00:00",
+      "last_checked": "2026-09-29T19:39:00+00:00",
       "last_count": 188,
       "last_error": null,
       "previous": {
