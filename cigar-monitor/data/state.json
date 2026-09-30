@@ -27,7 +27,7 @@
           "id": "cohcigars:102:149",
           "name": "Hoyo de Monterrey - Epicure No.1 A/T (15 盒)",
           "price": "$ 388.00",
-          "stock": "28",
+          "stock": "27",
           "url": "https://cn.cohcigars.com/cigars-hoyo-de-monterrey"
         },
         "cohcigars:102:20571": {
@@ -398,7 +398,7 @@
           "id": "cohcigars:12:27",
           "name": "Montecristo - No.2 (15 盒)",
           "price": "$ 625.00",
-          "stock": "8",
+          "stock": "7",
           "url": "https://cn.cohcigars.com/cigars-montecristo"
         },
         "cohcigars:13022:13682": {
@@ -678,7 +678,7 @@
           "id": "cohcigars:1708:1939",
           "name": "Trinidad - Robusto Extra Gift Box (12 盒)",
           "price": "$ 499.00",
-          "stock": "44",
+          "stock": "43",
           "url": "https://cn.cohcigars.com/cigars-trinidad"
         },
         "cohcigars:170:248": {
@@ -1014,7 +1014,7 @@
           "id": "cohcigars:202:26938",
           "name": "Romeo Y Julieta - Romeo No.2 A/T (5x2 盒)",
           "price": "$ 149.00",
-          "stock": "51",
+          "stock": "50",
           "url": "https://cn.cohcigars.com/cigars-romeo-y-julieta"
         },
         "cohcigars:202:289": {
@@ -1742,7 +1742,7 @@
           "id": "cohcigars:24442:25283",
           "name": "Cohiba - Siglo II A/T (5x5 盒)",
           "price": "$ 799.00",
-          "stock": "79",
+          "stock": "78",
           "url": "https://cn.cohcigars.com/cigars-cohiba"
         },
         "cohcigars:24443:25285": {
@@ -2008,7 +2008,7 @@
           "id": "cohcigars:26214:27112",
           "name": "Diplomaticos - 5 Pack- No.2 (5 盒)",
           "price": "$ 155.00",
-          "stock": "8",
+          "stock": "7",
           "url": "https://cn.cohcigars.com/cigars-diplomaticos"
         },
         "cohcigars:26257:27156": {
@@ -3261,7 +3261,7 @@
           "id": "cohcigars:50:81",
           "name": "Cohiba - Siglo IV (10 盒)",
           "price": "$ 1188.00",
-          "stock": "100",
+          "stock": "99",
           "url": "https://cn.cohcigars.com/cigars-cohiba"
         },
         "cohcigars:5142:5552": {
@@ -3373,7 +3373,7 @@
           "id": "cohcigars:642:17328",
           "name": "Cohiba - Siglo I A/T (3 盒)",
           "price": "$ 99.00",
-          "stock": "69",
+          "stock": "68",
           "url": "https://cn.cohcigars.com/cigars-cohiba"
         },
         "cohcigars:642:21493": {
@@ -3912,7 +3912,7 @@
           "id": "cohcigars:933:980",
           "name": "H.Upmann - Half Corona (25 盒)",
           "price": "$ 340.00",
-          "stock": "17",
+          "stock": "16",
           "url": "https://cn.cohcigars.com/cigars-h.upmann"
         },
         "cohcigars:9341:9985": {
@@ -4021,7 +4021,7 @@
           "url": "https://cn.cohcigars.com/cigars-montecristo"
         }
       },
-      "last_checked": "2026-09-30T13:01:09+00:00",
+      "last_checked": "2026-09-30T19:27:51+00:00",
       "last_count": 435,
       "last_error": null,
       "previous": {
@@ -4050,7 +4050,7 @@
           "id": "cohcigars:102:149",
           "name": "Hoyo de Monterrey - Epicure No.1 A/T (15 盒)",
           "price": "$ 388.00",
-          "stock": "28",
+          "stock": "27",
           "url": "https://cn.cohcigars.com/cigars-hoyo-de-monterrey"
         },
         "cohcigars:105:154": {
@@ -4302,7 +4302,7 @@
           "id": "cohcigars:12:27",
           "name": "Montecristo - No.2 (15 盒)",
           "price": "$ 625.00",
-          "stock": "8",
+          "stock": "7",
           "url": "https://cn.cohcigars.com/cigars-montecristo"
         },
         "cohcigars:13022:13682": {
@@ -4554,7 +4554,7 @@
           "id": "cohcigars:1708:1939",
           "name": "Trinidad - Robusto Extra Gift Box (12 盒)",
           "price": "$ 499.00",
-          "stock": "44",
+          "stock": "43",
           "url": "https://cn.cohcigars.com/cigars-trinidad"
         },
         "cohcigars:170:248": {
@@ -4806,7 +4806,7 @@
           "id": "cohcigars:202:26938",
           "name": "Romeo Y Julieta - Romeo No.2 A/T (5x2 盒)",
           "price": "$ 149.00",
-          "stock": "51",
+          "stock": "50",
           "url": "https://cn.cohcigars.com/cigars-romeo-y-julieta"
         },
         "cohcigars:202:289": {
@@ -5443,7 +5443,7 @@
           "id": "cohcigars:24442:25283",
           "name": "Cohiba - Siglo II A/T (5x5 盒)",
           "price": "$ 799.00",
-          "stock": "79",
+          "stock": "78",
           "url": "https://cn.cohcigars.com/cigars-cohiba"
         },
         "cohcigars:24443:25285": {
@@ -5646,7 +5646,7 @@
           "id": "cohcigars:26214:27112",
           "name": "Diplomaticos - 5 Pack- No.2 (5 盒)",
           "price": "$ 155.00",
-          "stock": "8",
+          "stock": "7",
           "url": "https://cn.cohcigars.com/cigars-diplomaticos"
         },
         "cohcigars:26311:27219": {
@@ -6465,7 +6465,7 @@
           "id": "cohcigars:50:81",
           "name": "Cohiba - Siglo IV (10 盒)",
           "price": "$ 1188.00",
-          "stock": "100",
+          "stock": "99",
           "url": "https://cn.cohcigars.com/cigars-cohiba"
         },
         "cohcigars:5142:5552": {
@@ -6570,7 +6570,7 @@
           "id": "cohcigars:642:17328",
           "name": "Cohiba - Siglo I A/T (3 盒)",
           "price": "$ 99.00",
-          "stock": "69",
+          "stock": "68",
           "url": "https://cn.cohcigars.com/cigars-cohiba"
         },
         "cohcigars:642:756": {
@@ -6997,7 +6997,7 @@
           "id": "cohcigars:933:980",
           "name": "H.Upmann - Half Corona (25 盒)",
           "price": "$ 340.00",
-          "stock": "17",
+          "stock": "16",
           "url": "https://cn.cohcigars.com/cigars-h.upmann"
         },
         "cohcigars:9344:9988": {
@@ -8305,7 +8305,7 @@
           "url": "https://www.ihavanas.com/details.php?ptype=cigars&pid=Partagas"
         }
       },
-      "last_checked": "2026-09-30T13:00:46+00:00",
+      "last_checked": "2026-09-30T19:26:57+00:00",
       "last_count": 188,
       "last_error": null,
       "previous": {
