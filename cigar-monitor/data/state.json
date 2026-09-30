@@ -797,7 +797,7 @@
           "id": "cohcigars:187:267",
           "name": "Montecristo - Edmundos (25 盒)",
           "price": "$ 995.00",
-          "stock": "8",
+          "stock": "4",
           "url": "https://cn.cohcigars.com/cigars-montecristo"
         },
         "cohcigars:187:268": {
@@ -1189,7 +1189,7 @@
           "id": "cohcigars:21860:22614",
           "name": "Cohiba - Vitosos Travel Humidor (6x10 盒)",
           "price": "$ 245.00",
-          "stock": "69",
+          "stock": "68",
           "url": "https://cn.cohcigars.com/cigars-cohiba"
         },
         "cohcigars:21860:24390": {
@@ -1476,7 +1476,7 @@
           "id": "cohcigars:23338:24165",
           "name": "Singles 6 Stick Min - 1 x Por Larranaga Picadores No.1 (1 盒)",
           "price": "$ 25.00",
-          "stock": "43",
+          "stock": "42",
           "url": "https://cn.cohcigars.com/cigars-singles-6-stick-min"
         },
         "cohcigars:23339:24166": {
@@ -1532,7 +1532,7 @@
           "id": "cohcigars:23346:24173",
           "name": "Singles 6 Stick Min - 1 x Romeo Y Julieta Mille Fleurs (1 盒)",
           "price": "$ 16.00",
-          "stock": "17",
+          "stock": "16",
           "url": "https://cn.cohcigars.com/cigars-singles-6-stick-min"
         },
         "cohcigars:23347:24174": {
@@ -1840,7 +1840,7 @@
           "id": "cohcigars:2503:2790",
           "name": "Cohiba - Robustos A/T (10 x 10 盒)",
           "price": "$ 169.00",
-          "stock": "85",
+          "stock": "84",
           "url": "https://cn.cohcigars.com/cigars-cohiba"
         },
         "cohcigars:2507:2794": {
@@ -2267,7 +2267,7 @@
           "id": "cohcigars:278:23680",
           "name": "Montecristo - 80 Aniversario 2016 (20x5 盒)",
           "price": "$ 115.00",
-          "stock": "2956",
+          "stock": "2955",
           "url": "https://cn.cohcigars.com/cigars-montecristo"
         },
         "cohcigars:2794:3107": {
@@ -2330,7 +2330,7 @@
           "id": "cohcigars:287:406",
           "name": "Guantanamera - Cristales (5 x 5 盒)",
           "price": "$ 130.00",
-          "stock": "94",
+          "stock": "91",
           "url": "https://cn.cohcigars.com/cigars-guantanamera"
         },
         "cohcigars:293:17329": {
@@ -2421,7 +2421,7 @@
           "id": "cohcigars:3037:3345",
           "name": "Singles 6 Stick Min - 1 x Partagas Shorts (1 盒)",
           "price": "$ 19.00",
-          "stock": "110",
+          "stock": "109",
           "url": "https://cn.cohcigars.com/cigars-singles-6-stick-min"
         },
         "cohcigars:3041:3349": {
@@ -3506,7 +3506,7 @@
           "id": "cohcigars:7212:7720",
           "name": "Singles 6 Stick Min - 1 x Hoyo de Monterrey Epicure No.1 (1 盒)",
           "price": "$ 30.00",
-          "stock": "129",
+          "stock": "126",
           "url": "https://cn.cohcigars.com/cigars-singles-6-stick-min"
         },
         "cohcigars:7214:7722": {
@@ -4021,7 +4021,7 @@
           "url": "https://cn.cohcigars.com/cigars-montecristo"
         }
       },
-      "last_checked": "2026-09-30T19:38:44+00:00",
+      "last_checked": "2026-09-30T23:56:22+00:00",
       "last_count": 435,
       "last_error": null,
       "previous": {
@@ -4638,7 +4638,7 @@
           "id": "cohcigars:187:267",
           "name": "Montecristo - Edmundos (25 盒)",
           "price": "$ 995.00",
-          "stock": "8",
+          "stock": "4",
           "url": "https://cn.cohcigars.com/cigars-montecristo"
         },
         "cohcigars:187:268": {
@@ -4960,7 +4960,7 @@
           "id": "cohcigars:21860:22614",
           "name": "Cohiba - Vitosos Travel Humidor (6x10 盒)",
           "price": "$ 245.00",
-          "stock": "69",
+          "stock": "68",
           "url": "https://cn.cohcigars.com/cigars-cohiba"
         },
         "cohcigars:21860:24390": {
@@ -5240,7 +5240,7 @@
           "id": "cohcigars:23338:24165",
           "name": "Singles 6 Stick Min - 1 x Por Larranaga Picadores No.1 (1 盒)",
           "price": "$ 25.00",
-          "stock": "43",
+          "stock": "42",
           "url": "https://cn.cohcigars.com/cigars-singles-6-stick-min"
         },
         "cohcigars:23339:24166": {
@@ -5296,7 +5296,7 @@
           "id": "cohcigars:23346:24173",
           "name": "Singles 6 Stick Min - 1 x Romeo Y Julieta Mille Fleurs (1 盒)",
           "price": "$ 16.00",
-          "stock": "17",
+          "stock": "16",
           "url": "https://cn.cohcigars.com/cigars-singles-6-stick-min"
         },
         "cohcigars:23347:24174": {
@@ -5527,7 +5527,7 @@
           "id": "cohcigars:2503:2790",
           "name": "Cohiba - Robustos A/T (10 x 10 盒)",
           "price": "$ 169.00",
-          "stock": "85",
+          "stock": "84",
           "url": "https://cn.cohcigars.com/cigars-cohiba"
         },
         "cohcigars:2507:2794": {
@@ -5807,7 +5807,7 @@
           "id": "cohcigars:278:23680",
           "name": "Montecristo - 80 Aniversario 2016 (20x5 盒)",
           "price": "$ 115.00",
-          "stock": "2956",
+          "stock": "2955",
           "url": "https://cn.cohcigars.com/cigars-montecristo"
         },
         "cohcigars:2794:3107": {
@@ -5849,7 +5849,7 @@
           "id": "cohcigars:287:406",
           "name": "Guantanamera - Cristales (5 x 5 盒)",
           "price": "$ 130.00",
-          "stock": "94",
+          "stock": "91",
           "url": "https://cn.cohcigars.com/cigars-guantanamera"
         },
         "cohcigars:293:17329": {
@@ -5919,7 +5919,7 @@
           "id": "cohcigars:3037:3345",
           "name": "Singles 6 Stick Min - 1 x Partagas Shorts (1 盒)",
           "price": "$ 19.00",
-          "stock": "110",
+          "stock": "109",
           "url": "https://cn.cohcigars.com/cigars-singles-6-stick-min"
         },
         "cohcigars:3041:3349": {
@@ -6682,7 +6682,7 @@
           "id": "cohcigars:7212:7720",
           "name": "Singles 6 Stick Min - 1 x Hoyo de Monterrey Epicure No.1 (1 盒)",
           "price": "$ 30.00",
-          "stock": "129",
+          "stock": "126",
           "url": "https://cn.cohcigars.com/cigars-singles-6-stick-min"
         },
         "cohcigars:7214:7722": {
@@ -8305,7 +8305,7 @@
           "url": "https://www.ihavanas.com/details.php?ptype=cigars&pid=Partagas"
         }
       },
-      "last_checked": "2026-09-30T19:38:21+00:00",
+      "last_checked": "2026-09-30T23:55:20+00:00",
       "last_count": 188,
       "last_error": null,
       "previous": {
