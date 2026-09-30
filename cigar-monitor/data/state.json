@@ -314,7 +314,7 @@
           "id": "cohcigars:122:5796",
           "name": "Jose L. Piedra - Brevas (12 盒)",
           "price": "$ 88.00",
-          "stock": "22",
+          "stock": "21",
           "url": "https://cn.cohcigars.com/cigars-jose-l.-piedra"
         },
         "cohcigars:1231:1420": {
@@ -1014,7 +1014,7 @@
           "id": "cohcigars:202:26938",
           "name": "Romeo Y Julieta - Romeo No.2 A/T (5x2 盒)",
           "price": "$ 149.00",
-          "stock": "52",
+          "stock": "51",
           "url": "https://cn.cohcigars.com/cigars-romeo-y-julieta"
         },
         "cohcigars:202:289": {
@@ -1203,7 +1203,7 @@
           "id": "cohcigars:21:38",
           "name": "Bolivar - Belicosos Finos (25 盒)",
           "price": "$ 788.00",
-          "stock": "3",
+          "stock": "2",
           "url": "https://cn.cohcigars.com/cigars-bolivar"
         },
         "cohcigars:22284:23046": {
@@ -1840,7 +1840,7 @@
           "id": "cohcigars:2503:2790",
           "name": "Cohiba - Robustos A/T (10 x 10 盒)",
           "price": "$ 169.00",
-          "stock": "88",
+          "stock": "85",
           "url": "https://cn.cohcigars.com/cigars-cohiba"
         },
         "cohcigars:2507:2794": {
@@ -2071,7 +2071,7 @@
           "id": "cohcigars:26316:27224",
           "name": "Cohiba - 5 Pack- Siglo I, II, III, IV, VI (5 盒)",
           "price": "$ 335.00",
-          "stock": "10",
+          "stock": "9",
           "url": "https://cn.cohcigars.com/cigars-cohiba"
         },
         "cohcigars:26317:27225": {
@@ -3394,7 +3394,7 @@
           "id": "cohcigars:66:104",
           "name": "Diplomaticos - Grandes RE Alemania 2021 (25 盒)",
           "price": "$ 599.00",
-          "stock": "6",
+          "stock": "4",
           "url": "https://cn.cohcigars.com/cigars-diplomaticos"
         },
         "cohcigars:683:789": {
@@ -4021,8 +4021,8 @@
           "url": "https://cn.cohcigars.com/cigars-montecristo"
         }
       },
-      "last_checked": "2026-09-30T05:59:58+00:00",
-      "last_count": 436,
+      "last_checked": "2026-09-30T12:43:30+00:00",
+      "last_count": 435,
       "last_error": null,
       "previous": {
         "cohcigars:101:144": {
@@ -4073,13 +4073,6 @@
           "price": "$ 370.00",
           "stock": "3",
           "url": "https://cn.cohcigars.com/cigars-quai-dorsay"
-        },
-        "cohcigars:10847:11499": {
-          "id": "cohcigars:10847:11499",
-          "name": "Bolivar - New Gold Medal (10 盒)",
-          "price": "$ 625.00",
-          "stock": "1",
-          "url": "https://cn.cohcigars.com/cigars-bolivar"
         },
         "cohcigars:10:15": {
           "id": "cohcigars:10:15",
@@ -4239,7 +4232,7 @@
           "id": "cohcigars:122:5796",
           "name": "Jose L. Piedra - Brevas (12 盒)",
           "price": "$ 88.00",
-          "stock": "22",
+          "stock": "21",
           "url": "https://cn.cohcigars.com/cigars-jose-l.-piedra"
         },
         "cohcigars:1231:1420": {
@@ -4813,7 +4806,7 @@
           "id": "cohcigars:202:26938",
           "name": "Romeo Y Julieta - Romeo No.2 A/T (5x2 盒)",
           "price": "$ 149.00",
-          "stock": "52",
+          "stock": "51",
           "url": "https://cn.cohcigars.com/cigars-romeo-y-julieta"
         },
         "cohcigars:202:289": {
@@ -4981,7 +4974,7 @@
           "id": "cohcigars:21:38",
           "name": "Bolivar - Belicosos Finos (25 盒)",
           "price": "$ 788.00",
-          "stock": "3",
+          "stock": "2",
           "url": "https://cn.cohcigars.com/cigars-bolivar"
         },
         "cohcigars:22284:23046": {
@@ -5534,7 +5527,7 @@
           "id": "cohcigars:2503:2790",
           "name": "Cohiba - Robustos A/T (10 x 10 盒)",
           "price": "$ 169.00",
-          "stock": "88",
+          "stock": "85",
           "url": "https://cn.cohcigars.com/cigars-cohiba"
         },
         "cohcigars:2507:2794": {
@@ -5695,7 +5688,7 @@
           "id": "cohcigars:26316:27224",
           "name": "Cohiba - 5 Pack- Siglo I, II, III, IV, VI (5 盒)",
           "price": "$ 335.00",
-          "stock": "10",
+          "stock": "9",
           "url": "https://cn.cohcigars.com/cigars-cohiba"
         },
         "cohcigars:26317:27225": {
@@ -6591,7 +6584,7 @@
           "id": "cohcigars:66:104",
           "name": "Diplomaticos - Grandes RE Alemania 2021 (25 盒)",
           "price": "$ 599.00",
-          "stock": "6",
+          "stock": "4",
           "url": "https://cn.cohcigars.com/cigars-diplomaticos"
         },
         "cohcigars:683:789": {
@@ -8312,7 +8305,7 @@
           "url": "https://www.ihavanas.com/details.php?ptype=cigars&pid=Partagas"
         }
       },
-      "last_checked": "2026-09-30T05:59:00+00:00",
+      "last_checked": "2026-09-30T12:43:13+00:00",
       "last_count": 188,
       "last_error": null,
       "previous": {
