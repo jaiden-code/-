@@ -13,7 +13,7 @@
           "id": "cohcigars:101:20572",
           "name": "Hoyo de Monterrey - Epicure No.1 (3 盒)",
           "price": "$ 120.00",
-          "stock": "48",
+          "stock": "47",
           "url": "https://cn.cohcigars.com/cigars-hoyo-de-monterrey"
         },
         "cohcigars:102:147": {
@@ -90,7 +90,7 @@
           "id": "cohcigars:11056:11706",
           "name": "El Rey Del Mundo - Royal Series LCDH (20 盒)",
           "price": "$ 1345.00",
-          "stock": "2",
+          "stock": "1",
           "url": "https://cn.cohcigars.com/cigars-el-rey-del-mundo"
         },
         "cohcigars:11057:11707": {
@@ -167,7 +167,7 @@
           "id": "cohcigars:11208:11857",
           "name": "Partagas - Legado EL 2020 (20 盒)",
           "price": "$ 1200.00",
-          "stock": "13",
+          "stock": "12",
           "url": "https://cn.cohcigars.com/cigars-partagas"
         },
         "cohcigars:11209:11858": {
@@ -258,7 +258,7 @@
           "id": "cohcigars:11:17",
           "name": "Montecristo - No.1 (25 盒)",
           "price": "$ 825.00",
-          "stock": "8",
+          "stock": "7",
           "url": "https://cn.cohcigars.com/cigars-montecristo"
         },
         "cohcigars:12097:12750": {
@@ -524,7 +524,7 @@
           "id": "cohcigars:148:219",
           "name": "Partagas - Mille Fleurs (25 盒)",
           "price": "$ 269.00",
-          "stock": "10",
+          "stock": "9",
           "url": "https://cn.cohcigars.com/cigars-partagas"
         },
         "cohcigars:148:220": {
@@ -552,7 +552,7 @@
           "id": "cohcigars:14:24",
           "name": "Montecristo - No.4 (25 盒)",
           "price": "$ 565.00",
-          "stock": "100",
+          "stock": "99",
           "url": "https://cn.cohcigars.com/cigars-montecristo"
         },
         "cohcigars:14:26712": {
@@ -1196,7 +1196,7 @@
           "id": "cohcigars:21860:24390",
           "name": "Cohiba - Vitosos Travel Humidor (6x2 盒)",
           "price": "$ 79.00",
-          "stock": "67",
+          "stock": "66",
           "url": "https://cn.cohcigars.com/cigars-cohiba"
         },
         "cohcigars:21:38": {
@@ -1651,7 +1651,7 @@
           "id": "cohcigars:23878:24706",
           "name": "Trinidad - Robusto Extra Gift Box (10x3 盒)",
           "price": "$ 59.00",
-          "stock": "53",
+          "stock": "52",
           "url": "https://cn.cohcigars.com/cigars-trinidad"
         },
         "cohcigars:23879:24707": {
@@ -2036,7 +2036,7 @@
           "id": "cohcigars:26311:27219",
           "name": "Partagas - 5 Pack- Cedros Year of Snake (5 盒)",
           "price": "$ 415.00",
-          "stock": "95",
+          "stock": "94",
           "url": "https://cn.cohcigars.com/cigars-partagas"
         },
         "cohcigars:26312:27220": {
@@ -2911,7 +2911,7 @@
           "id": "cohcigars:397:20574",
           "name": "Cohiba - Siglo IV (3 盒)",
           "price": "$ 345.00",
-          "stock": "34",
+          "stock": "33",
           "url": "https://cn.cohcigars.com/cigars-cohiba"
         },
         "cohcigars:4072:4372": {
@@ -4021,7 +4021,7 @@
           "url": "https://cn.cohcigars.com/cigars-montecristo"
         }
       },
-      "last_checked": "2026-10-01T13:54:54+00:00",
+      "last_checked": "2026-10-01T19:36:07+00:00",
       "last_count": 435,
       "last_error": null,
       "previous": {
@@ -4036,7 +4036,7 @@
           "id": "cohcigars:101:20572",
           "name": "Hoyo de Monterrey - Epicure No.1 (3 盒)",
           "price": "$ 120.00",
-          "stock": "48",
+          "stock": "47",
           "url": "https://cn.cohcigars.com/cigars-hoyo-de-monterrey"
         },
         "cohcigars:102:147": {
@@ -4092,7 +4092,7 @@
           "id": "cohcigars:11056:11706",
           "name": "El Rey Del Mundo - Royal Series LCDH (20 盒)",
           "price": "$ 1345.00",
-          "stock": "2",
+          "stock": "1",
           "url": "https://cn.cohcigars.com/cigars-el-rey-del-mundo"
         },
         "cohcigars:11057:11707": {
@@ -4148,7 +4148,7 @@
           "id": "cohcigars:11208:11857",
           "name": "Partagas - Legado EL 2020 (20 盒)",
           "price": "$ 1200.00",
-          "stock": "13",
+          "stock": "12",
           "url": "https://cn.cohcigars.com/cigars-partagas"
         },
         "cohcigars:11209:11858": {
@@ -4190,7 +4190,7 @@
           "id": "cohcigars:11:17",
           "name": "Montecristo - No.1 (25 盒)",
           "price": "$ 825.00",
-          "stock": "8",
+          "stock": "7",
           "url": "https://cn.cohcigars.com/cigars-montecristo"
         },
         "cohcigars:12097:12750": {
@@ -4414,7 +4414,7 @@
           "id": "cohcigars:148:219",
           "name": "Partagas - Mille Fleurs (25 盒)",
           "price": "$ 269.00",
-          "stock": "10",
+          "stock": "9",
           "url": "https://cn.cohcigars.com/cigars-partagas"
         },
         "cohcigars:148:220": {
@@ -4442,7 +4442,7 @@
           "id": "cohcigars:14:24",
           "name": "Montecristo - No.4 (25 盒)",
           "price": "$ 565.00",
-          "stock": "100",
+          "stock": "99",
           "url": "https://cn.cohcigars.com/cigars-montecristo"
         },
         "cohcigars:14:26712": {
@@ -4967,7 +4967,7 @@
           "id": "cohcigars:21860:24390",
           "name": "Cohiba - Vitosos Travel Humidor (6x2 盒)",
           "price": "$ 79.00",
-          "stock": "67",
+          "stock": "66",
           "url": "https://cn.cohcigars.com/cigars-cohiba"
         },
         "cohcigars:21:38": {
@@ -5359,7 +5359,7 @@
           "id": "cohcigars:23878:24706",
           "name": "Trinidad - Robusto Extra Gift Box (10x3 盒)",
           "price": "$ 59.00",
-          "stock": "53",
+          "stock": "52",
           "url": "https://cn.cohcigars.com/cigars-trinidad"
         },
         "cohcigars:23879:24707": {
@@ -5653,7 +5653,7 @@
           "id": "cohcigars:26311:27219",
           "name": "Partagas - 5 Pack- Cedros Year of Snake (5 盒)",
           "price": "$ 415.00",
-          "stock": "95",
+          "stock": "94",
           "url": "https://cn.cohcigars.com/cigars-partagas"
         },
         "cohcigars:26312:27220": {
@@ -6199,7 +6199,7 @@
           "id": "cohcigars:397:20574",
           "name": "Cohiba - Siglo IV (3 盒)",
           "price": "$ 345.00",
-          "stock": "34",
+          "stock": "33",
           "url": "https://cn.cohcigars.com/cigars-cohiba"
         },
         "cohcigars:409:641": {
@@ -8305,7 +8305,7 @@
           "url": "https://www.ihavanas.com/details.php?ptype=cigars&pid=Partagas"
         }
       },
-      "last_checked": "2026-10-01T13:54:34+00:00",
+      "last_checked": "2026-10-01T19:35:39+00:00",
       "last_count": 188,
       "last_error": null,
       "previous": {
