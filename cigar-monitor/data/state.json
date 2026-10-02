@@ -27,7 +27,7 @@
           "id": "cohcigars:102:149",
           "name": "Hoyo de Monterrey - Epicure No.1 A/T (15 盒)",
           "price": "$ 388.00",
-          "stock": "26",
+          "stock": "25",
           "url": "https://cn.cohcigars.com/cigars-hoyo-de-monterrey"
         },
         "cohcigars:102:20571": {
@@ -426,7 +426,7 @@
           "id": "cohcigars:132:912",
           "name": "Partagas - Linea Maestra Sampler (10 盒)",
           "price": "$ 488.00",
-          "stock": "8",
+          "stock": "7",
           "url": "https://cn.cohcigars.com/cigars-partagas"
         },
         "cohcigars:133:198": {
@@ -1014,7 +1014,7 @@
           "id": "cohcigars:202:26938",
           "name": "Romeo Y Julieta - Romeo No.2 A/T (5x2 盒)",
           "price": "$ 149.00",
-          "stock": "48",
+          "stock": "47",
           "url": "https://cn.cohcigars.com/cigars-romeo-y-julieta"
         },
         "cohcigars:202:289": {
@@ -1203,7 +1203,7 @@
           "id": "cohcigars:21:38",
           "name": "Bolivar - Belicosos Finos (25 盒)",
           "price": "$ 788.00",
-          "stock": "2",
+          "stock": "1",
           "url": "https://cn.cohcigars.com/cigars-bolivar"
         },
         "cohcigars:22284:23046": {
@@ -1651,7 +1651,7 @@
           "id": "cohcigars:23878:24706",
           "name": "Trinidad - Robusto Extra Gift Box (10x3 盒)",
           "price": "$ 59.00",
-          "stock": "52",
+          "stock": "51",
           "url": "https://cn.cohcigars.com/cigars-trinidad"
         },
         "cohcigars:23879:24707": {
@@ -2120,7 +2120,7 @@
           "id": "cohcigars:2649:2950",
           "name": "Vintage - 5 Pack- PCC Regionals: Bolivar Short Bolivar, Diplo PCC 30th, RA Celestiales Finos, PL Robustos Larranaga and Belicosos (25 盒)",
           "price": "$ 485.00",
-          "stock": "47",
+          "stock": "46",
           "url": "https://cn.cohcigars.com/cigars-vintage"
         },
         "cohcigars:2652:2959": {
@@ -2228,6 +2228,13 @@
           "stock": "30",
           "url": "https://cn.cohcigars.com/cigars-quintero-y-hermano"
         },
+        "cohcigars:27373:28278": {
+          "id": "cohcigars:27373:28278",
+          "name": "Fonseca - Fonseca Du Nord RE Canada (10 盒)",
+          "price": "$ 790.00",
+          "stock": "50",
+          "url": "https://cn.cohcigars.com/cigars-fonseca"
+        },
         "cohcigars:273:19988": {
           "id": "cohcigars:273:19988",
           "name": "Montecristo - Petit Tubos (25 x2 盒)",
@@ -2267,7 +2274,7 @@
           "id": "cohcigars:278:23680",
           "name": "Montecristo - 80 Aniversario 2016 (20x5 盒)",
           "price": "$ 115.00",
-          "stock": "2954",
+          "stock": "2953",
           "url": "https://cn.cohcigars.com/cigars-montecristo"
         },
         "cohcigars:2794:3107": {
@@ -4021,8 +4028,8 @@
           "url": "https://cn.cohcigars.com/cigars-montecristo"
         }
       },
-      "last_checked": "2026-10-02T06:14:15+00:00",
-      "last_count": 433,
+      "last_checked": "2026-10-02T12:46:06+00:00",
+      "last_count": 434,
       "last_error": null,
       "previous": {
         "cohcigars:101:144": {
@@ -4050,7 +4057,7 @@
           "id": "cohcigars:102:149",
           "name": "Hoyo de Monterrey - Epicure No.1 A/T (15 盒)",
           "price": "$ 388.00",
-          "stock": "26",
+          "stock": "25",
           "url": "https://cn.cohcigars.com/cigars-hoyo-de-monterrey"
         },
         "cohcigars:105:154": {
@@ -4323,7 +4330,7 @@
           "id": "cohcigars:132:912",
           "name": "Partagas - Linea Maestra Sampler (10 盒)",
           "price": "$ 488.00",
-          "stock": "8",
+          "stock": "7",
           "url": "https://cn.cohcigars.com/cigars-partagas"
         },
         "cohcigars:133:198": {
@@ -4799,7 +4806,7 @@
           "id": "cohcigars:202:26938",
           "name": "Romeo Y Julieta - Romeo No.2 A/T (5x2 盒)",
           "price": "$ 149.00",
-          "stock": "48",
+          "stock": "47",
           "url": "https://cn.cohcigars.com/cigars-romeo-y-julieta"
         },
         "cohcigars:202:289": {
@@ -4967,7 +4974,7 @@
           "id": "cohcigars:21:38",
           "name": "Bolivar - Belicosos Finos (25 盒)",
           "price": "$ 788.00",
-          "stock": "2",
+          "stock": "1",
           "url": "https://cn.cohcigars.com/cigars-bolivar"
         },
         "cohcigars:22284:23046": {
@@ -5345,7 +5352,7 @@
           "id": "cohcigars:23878:24706",
           "name": "Trinidad - Robusto Extra Gift Box (10x3 盒)",
           "price": "$ 59.00",
-          "stock": "52",
+          "stock": "51",
           "url": "https://cn.cohcigars.com/cigars-trinidad"
         },
         "cohcigars:23879:24707": {
@@ -5716,7 +5723,7 @@
           "id": "cohcigars:2649:2950",
           "name": "Vintage - 5 Pack- PCC Regionals: Bolivar Short Bolivar, Diplo PCC 30th, RA Celestiales Finos, PL Robustos Larranaga and Belicosos (25 盒)",
           "price": "$ 485.00",
-          "stock": "47",
+          "stock": "46",
           "url": "https://cn.cohcigars.com/cigars-vintage"
         },
         "cohcigars:265:23684": {
@@ -5768,6 +5775,13 @@
           "stock": "30",
           "url": "https://cn.cohcigars.com/cigars-quintero-y-hermano"
         },
+        "cohcigars:27373:28278": {
+          "id": "cohcigars:27373:28278",
+          "name": "Fonseca - Fonseca Du Nord RE Canada (10 盒)",
+          "price": "$ 790.00",
+          "stock": "50",
+          "url": "https://cn.cohcigars.com/cigars-fonseca"
+        },
         "cohcigars:273:19988": {
           "id": "cohcigars:273:19988",
           "name": "Montecristo - Petit Tubos (25 x2 盒)",
@@ -5793,7 +5807,7 @@
           "id": "cohcigars:278:23680",
           "name": "Montecristo - 80 Aniversario 2016 (20x5 盒)",
           "price": "$ 115.00",
-          "stock": "2954",
+          "stock": "2953",
           "url": "https://cn.cohcigars.com/cigars-montecristo"
         },
         "cohcigars:2794:3107": {
@@ -8291,7 +8305,7 @@
           "url": "https://www.ihavanas.com/details.php?ptype=cigars&pid=Partagas"
         }
       },
-      "last_checked": "2026-10-02T06:13:51+00:00",
+      "last_checked": "2026-10-02T12:45:48+00:00",
       "last_count": 188,
       "last_error": null,
       "previous": {
