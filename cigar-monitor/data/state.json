@@ -524,7 +524,7 @@
           "id": "cohcigars:148:219",
           "name": "Partagas - Mille Fleurs (25 盒)",
           "price": "$ 269.00",
-          "stock": "7",
+          "stock": "6",
           "url": "https://cn.cohcigars.com/cigars-partagas"
         },
         "cohcigars:148:220": {
@@ -573,7 +573,7 @@
           "id": "cohcigars:154:227",
           "name": "Partagas - Aliados (25 盒)",
           "price": "$ 229.00",
-          "stock": "25",
+          "stock": "24",
           "url": "https://cn.cohcigars.com/cigars-partagas"
         },
         "cohcigars:15545:16209": {
@@ -1168,7 +1168,7 @@
           "id": "cohcigars:214:307",
           "name": "Romeo Y Julieta - Mille Fleurs (25 盒)",
           "price": "$ 339.00",
-          "stock": "17",
+          "stock": "16",
           "url": "https://cn.cohcigars.com/cigars-romeo-y-julieta"
         },
         "cohcigars:216:309": {
@@ -1791,7 +1791,7 @@
           "id": "cohcigars:24449:25296",
           "name": "Cohiba - Medio Siglo A/T (20x5 盒)",
           "price": "$ 89.00",
-          "stock": "193",
+          "stock": "192",
           "url": "https://cn.cohcigars.com/cigars-cohiba"
         },
         "cohcigars:24450:25297": {
@@ -1973,7 +1973,7 @@
           "id": "cohcigars:260:21409",
           "name": "Jose L. Piedra - Cremas (5 盒)",
           "price": "$ 39.00",
-          "stock": "4",
+          "stock": "3",
           "url": "https://cn.cohcigars.com/cigars-jose-l.-piedra"
         },
         "cohcigars:26182:27076": {
@@ -2295,7 +2295,7 @@
           "id": "cohcigars:282:6163",
           "name": "Partagas - Cetros Year of the Snake (20x5 盒)",
           "price": "$ 90.00",
-          "stock": "917",
+          "stock": "916",
           "url": "https://cn.cohcigars.com/cigars-partagas"
         },
         "cohcigars:2840:3155": {
@@ -2904,7 +2904,7 @@
           "id": "cohcigars:396:17331",
           "name": "Cohiba - Siglo IV (3 盒)",
           "price": "$ 225.00",
-          "stock": "60",
+          "stock": "59",
           "url": "https://cn.cohcigars.com/cigars-cohiba"
         },
         "cohcigars:3974:4274": {
@@ -3338,7 +3338,7 @@
           "id": "cohcigars:5773:22086",
           "name": "La Flor De Cano - Elegidos (3 盒)",
           "price": "$ 50.00",
-          "stock": "319",
+          "stock": "318",
           "url": "https://cn.cohcigars.com/cigars-la-flor-de-cano"
         },
         "cohcigars:58:94": {
@@ -4028,7 +4028,7 @@
           "url": "https://cn.cohcigars.com/cigars-montecristo"
         }
       },
-      "last_checked": "2026-10-03T12:03:03+00:00",
+      "last_checked": "2026-10-03T16:27:45+00:00",
       "last_count": 433,
       "last_error": null,
       "previous": {
@@ -4407,7 +4407,7 @@
           "id": "cohcigars:148:219",
           "name": "Partagas - Mille Fleurs (25 盒)",
           "price": "$ 269.00",
-          "stock": "7",
+          "stock": "6",
           "url": "https://cn.cohcigars.com/cigars-partagas"
         },
         "cohcigars:148:220": {
@@ -4449,7 +4449,7 @@
           "id": "cohcigars:154:227",
           "name": "Partagas - Aliados (25 盒)",
           "price": "$ 229.00",
-          "stock": "25",
+          "stock": "24",
           "url": "https://cn.cohcigars.com/cigars-partagas"
         },
         "cohcigars:15545:16209": {
@@ -4932,7 +4932,7 @@
           "id": "cohcigars:214:307",
           "name": "Romeo Y Julieta - Mille Fleurs (25 盒)",
           "price": "$ 339.00",
-          "stock": "17",
+          "stock": "16",
           "url": "https://cn.cohcigars.com/cigars-romeo-y-julieta"
         },
         "cohcigars:216:309": {
@@ -5478,7 +5478,7 @@
           "id": "cohcigars:24449:25296",
           "name": "Cohiba - Medio Siglo A/T (20x5 盒)",
           "price": "$ 89.00",
-          "stock": "193",
+          "stock": "192",
           "url": "https://cn.cohcigars.com/cigars-cohiba"
         },
         "cohcigars:24450:25297": {
@@ -5618,7 +5618,7 @@
           "id": "cohcigars:260:21409",
           "name": "Jose L. Piedra - Cremas (5 盒)",
           "price": "$ 39.00",
-          "stock": "4",
+          "stock": "3",
           "url": "https://cn.cohcigars.com/cigars-jose-l.-piedra"
         },
         "cohcigars:26206:27104": {
@@ -5821,7 +5821,7 @@
           "id": "cohcigars:282:6163",
           "name": "Partagas - Cetros Year of the Snake (20x5 盒)",
           "price": "$ 90.00",
-          "stock": "917",
+          "stock": "916",
           "url": "https://cn.cohcigars.com/cigars-partagas"
         },
         "cohcigars:2863:3180": {
@@ -6178,7 +6178,7 @@
           "id": "cohcigars:396:17331",
           "name": "Cohiba - Siglo IV (3 盒)",
           "price": "$ 225.00",
-          "stock": "60",
+          "stock": "59",
           "url": "https://cn.cohcigars.com/cigars-cohiba"
         },
         "cohcigars:3974:4274": {
@@ -6521,7 +6521,7 @@
           "id": "cohcigars:5773:22086",
           "name": "La Flor De Cano - Elegidos (3 盒)",
           "price": "$ 50.00",
-          "stock": "319",
+          "stock": "318",
           "url": "https://cn.cohcigars.com/cigars-la-flor-de-cano"
         },
         "cohcigars:58:94": {
@@ -8298,7 +8298,7 @@
           "url": "https://www.ihavanas.com/details.php?ptype=cigars&pid=Partagas"
         }
       },
-      "last_checked": "2026-10-03T12:02:40+00:00",
+      "last_checked": "2026-10-03T16:27:22+00:00",
       "last_count": 188,
       "last_error": null,
       "previous": {
