@@ -27,7 +27,7 @@
           "id": "cohcigars:102:149",
           "name": "Hoyo de Monterrey - Epicure No.1 A/T (15 盒)",
           "price": "$ 388.00",
-          "stock": "25",
+          "stock": "24",
           "url": "https://cn.cohcigars.com/cigars-hoyo-de-monterrey"
         },
         "cohcigars:102:20571": {
@@ -489,7 +489,7 @@
           "id": "cohcigars:141:210",
           "name": "Partagas - Serie P No.2 (25 盒)",
           "price": "$ 325.00",
-          "stock": "15",
+          "stock": "14",
           "url": "https://cn.cohcigars.com/cigars-partagas"
         },
         "cohcigars:141:211": {
@@ -573,7 +573,7 @@
           "id": "cohcigars:154:227",
           "name": "Partagas - Aliados (25 盒)",
           "price": "$ 229.00",
-          "stock": "24",
+          "stock": "21",
           "url": "https://cn.cohcigars.com/cigars-partagas"
         },
         "cohcigars:15545:16209": {
@@ -1168,7 +1168,7 @@
           "id": "cohcigars:214:307",
           "name": "Romeo Y Julieta - Mille Fleurs (25 盒)",
           "price": "$ 339.00",
-          "stock": "16",
+          "stock": "15",
           "url": "https://cn.cohcigars.com/cigars-romeo-y-julieta"
         },
         "cohcigars:216:309": {
@@ -3401,7 +3401,7 @@
           "id": "cohcigars:66:104",
           "name": "Diplomaticos - Grandes RE Alemania 2021 (25 盒)",
           "price": "$ 599.00",
-          "stock": "2",
+          "stock": "1",
           "url": "https://cn.cohcigars.com/cigars-diplomaticos"
         },
         "cohcigars:683:789": {
@@ -4028,7 +4028,7 @@
           "url": "https://cn.cohcigars.com/cigars-montecristo"
         }
       },
-      "last_checked": "2026-10-04T00:43:21+00:00",
+      "last_checked": "2026-10-04T06:22:05+00:00",
       "last_count": 433,
       "last_error": null,
       "previous": {
@@ -4057,7 +4057,7 @@
           "id": "cohcigars:102:149",
           "name": "Hoyo de Monterrey - Epicure No.1 A/T (15 盒)",
           "price": "$ 388.00",
-          "stock": "25",
+          "stock": "24",
           "url": "https://cn.cohcigars.com/cigars-hoyo-de-monterrey"
         },
         "cohcigars:105:154": {
@@ -4372,7 +4372,7 @@
           "id": "cohcigars:141:210",
           "name": "Partagas - Serie P No.2 (25 盒)",
           "price": "$ 325.00",
-          "stock": "15",
+          "stock": "14",
           "url": "https://cn.cohcigars.com/cigars-partagas"
         },
         "cohcigars:141:211": {
@@ -4449,7 +4449,7 @@
           "id": "cohcigars:154:227",
           "name": "Partagas - Aliados (25 盒)",
           "price": "$ 229.00",
-          "stock": "24",
+          "stock": "21",
           "url": "https://cn.cohcigars.com/cigars-partagas"
         },
         "cohcigars:15545:16209": {
@@ -4932,7 +4932,7 @@
           "id": "cohcigars:214:307",
           "name": "Romeo Y Julieta - Mille Fleurs (25 盒)",
           "price": "$ 339.00",
-          "stock": "16",
+          "stock": "15",
           "url": "https://cn.cohcigars.com/cigars-romeo-y-julieta"
         },
         "cohcigars:216:309": {
@@ -6577,7 +6577,7 @@
           "id": "cohcigars:66:104",
           "name": "Diplomaticos - Grandes RE Alemania 2021 (25 盒)",
           "price": "$ 599.00",
-          "stock": "2",
+          "stock": "1",
           "url": "https://cn.cohcigars.com/cigars-diplomaticos"
         },
         "cohcigars:683:789": {
@@ -8298,7 +8298,7 @@
           "url": "https://www.ihavanas.com/details.php?ptype=cigars&pid=Partagas"
         }
       },
-      "last_checked": "2026-10-04T00:42:58+00:00",
+      "last_checked": "2026-10-04T06:21:42+00:00",
       "last_count": 188,
       "last_error": null,
       "previous": {
