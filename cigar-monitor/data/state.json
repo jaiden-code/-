@@ -1770,7 +1770,7 @@
           "id": "cohcigars:24446:25292",
           "name": "Cohiba - Exquisitos C/P (5x5 盒)",
           "price": "$ 720.00",
-          "stock": "30",
+          "stock": "29",
           "url": "https://cn.cohcigars.com/cigars-cohiba"
         },
         "cohcigars:24447:25294": {
@@ -4028,8 +4028,8 @@
           "url": "https://cn.cohcigars.com/cigars-montecristo"
         }
       },
-      "last_checked": "2026-10-04T23:15:16+00:00",
-      "last_count": 432,
+      "last_checked": "2026-10-05T01:17:25+00:00",
+      "last_count": 431,
       "last_error": null,
       "previous": {
         "cohcigars:101:144": {
@@ -4963,13 +4963,6 @@
           "stock": "64",
           "url": "https://cn.cohcigars.com/cigars-cohiba"
         },
-        "cohcigars:21:38": {
-          "id": "cohcigars:21:38",
-          "name": "Bolivar - Belicosos Finos (25 盒)",
-          "price": "$ 788.00",
-          "stock": "1",
-          "url": "https://cn.cohcigars.com/cigars-bolivar"
-        },
         "cohcigars:22284:23046": {
           "id": "cohcigars:22284:23046",
           "name": "Singles 6 Stick Min - 1 x Cohiba Ambar (1 盒)",
@@ -5457,7 +5450,7 @@
           "id": "cohcigars:24446:25292",
           "name": "Cohiba - Exquisitos C/P (5x5 盒)",
           "price": "$ 720.00",
-          "stock": "30",
+          "stock": "29",
           "url": "https://cn.cohcigars.com/cigars-cohiba"
         },
         "cohcigars:24447:25294": {
@@ -8291,7 +8284,7 @@
           "url": "https://www.ihavanas.com/details.php?ptype=cigars&pid=Partagas"
         }
       },
-      "last_checked": "2026-10-04T23:14:57+00:00",
+      "last_checked": "2026-10-05T01:17:05+00:00",
       "last_count": 188,
       "last_error": null,
       "previous": {
