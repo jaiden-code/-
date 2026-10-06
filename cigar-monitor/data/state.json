@@ -398,7 +398,7 @@
           "id": "cohcigars:12:27",
           "name": "Montecristo - No.2 (15 盒)",
           "price": "$ 625.00",
-          "stock": "7",
+          "stock": "6",
           "url": "https://cn.cohcigars.com/cigars-montecristo"
         },
         "cohcigars:13022:13682": {
@@ -4028,7 +4028,7 @@
           "url": "https://cn.cohcigars.com/cigars-montecristo"
         }
       },
-      "last_checked": "2026-10-06T15:16:03+00:00",
+      "last_checked": "2026-10-06T16:56:10+00:00",
       "last_count": 430,
       "last_error": null,
       "previous": {
@@ -4302,7 +4302,7 @@
           "id": "cohcigars:12:27",
           "name": "Montecristo - No.2 (15 盒)",
           "price": "$ 625.00",
-          "stock": "7",
+          "stock": "6",
           "url": "https://cn.cohcigars.com/cigars-montecristo"
         },
         "cohcigars:13022:13682": {
@@ -8277,7 +8277,7 @@
           "url": "https://www.ihavanas.com/details.php?ptype=cigars&pid=Partagas"
         }
       },
-      "last_checked": "2026-10-06T15:15:39+00:00",
+      "last_checked": "2026-10-06T16:55:47+00:00",
       "last_count": 188,
       "last_error": null,
       "previous": {
