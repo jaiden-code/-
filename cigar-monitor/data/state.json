@@ -489,7 +489,7 @@
           "id": "cohcigars:141:210",
           "name": "Partagas - Serie P No.2 (25 盒)",
           "price": "$ 325.00",
-          "stock": "14",
+          "stock": "13",
           "url": "https://cn.cohcigars.com/cigars-partagas"
         },
         "cohcigars:141:211": {
@@ -587,7 +587,7 @@
           "id": "cohcigars:1556:17327",
           "name": "Cohiba - Robustos A/T (3 盒)",
           "price": "$ 255.00",
-          "stock": "187",
+          "stock": "186",
           "url": "https://cn.cohcigars.com/cigars-cohiba"
         },
         "cohcigars:1556:1751": {
@@ -727,7 +727,7 @@
           "id": "cohcigars:1766:2001",
           "name": "Montecristo - Media Corona (25 盒)",
           "price": "$ 365.00",
-          "stock": "3",
+          "stock": "2",
           "url": "https://cn.cohcigars.com/cigars-montecristo"
         },
         "cohcigars:17686:18354": {
@@ -1014,7 +1014,7 @@
           "id": "cohcigars:202:26938",
           "name": "Romeo Y Julieta - Romeo No.2 A/T (5x2 盒)",
           "price": "$ 149.00",
-          "stock": "38",
+          "stock": "37",
           "url": "https://cn.cohcigars.com/cigars-romeo-y-julieta"
         },
         "cohcigars:202:289": {
@@ -3289,7 +3289,7 @@
           "id": "cohcigars:5142:5552",
           "name": "Montecristo - Regata A/T (10x10 盒)",
           "price": "$ 150.00",
-          "stock": "872",
+          "stock": "871",
           "url": "https://cn.cohcigars.com/cigars-montecristo"
         },
         "cohcigars:52:84": {
@@ -4049,7 +4049,7 @@
           "url": "https://cn.cohcigars.com/cigars-montecristo"
         }
       },
-      "last_checked": "2026-10-07T06:29:53+00:00",
+      "last_checked": "2026-10-07T08:47:58+00:00",
       "last_count": 436,
       "last_error": null,
       "previous": {
@@ -4400,7 +4400,7 @@
           "id": "cohcigars:141:210",
           "name": "Partagas - Serie P No.2 (25 盒)",
           "price": "$ 325.00",
-          "stock": "14",
+          "stock": "13",
           "url": "https://cn.cohcigars.com/cigars-partagas"
         },
         "cohcigars:141:211": {
@@ -4484,7 +4484,7 @@
           "id": "cohcigars:1556:17327",
           "name": "Cohiba - Robustos A/T (3 盒)",
           "price": "$ 255.00",
-          "stock": "187",
+          "stock": "186",
           "url": "https://cn.cohcigars.com/cigars-cohiba"
         },
         "cohcigars:1556:1751": {
@@ -4603,7 +4603,7 @@
           "id": "cohcigars:1766:2001",
           "name": "Montecristo - Media Corona (25 盒)",
           "price": "$ 365.00",
-          "stock": "3",
+          "stock": "2",
           "url": "https://cn.cohcigars.com/cigars-montecristo"
         },
         "cohcigars:1790:2029": {
@@ -4813,7 +4813,7 @@
           "id": "cohcigars:202:26938",
           "name": "Romeo Y Julieta - Romeo No.2 A/T (5x2 盒)",
           "price": "$ 149.00",
-          "stock": "38",
+          "stock": "37",
           "url": "https://cn.cohcigars.com/cigars-romeo-y-julieta"
         },
         "cohcigars:202:289": {
@@ -6500,7 +6500,7 @@
           "id": "cohcigars:5142:5552",
           "name": "Montecristo - Regata A/T (10x10 盒)",
           "price": "$ 150.00",
-          "stock": "872",
+          "stock": "871",
           "url": "https://cn.cohcigars.com/cigars-montecristo"
         },
         "cohcigars:52:84": {
@@ -8340,7 +8340,7 @@
           "url": "https://www.ihavanas.com/details.php?ptype=cigars&pid=Partagas"
         }
       },
-      "last_checked": "2026-10-07T06:29:33+00:00",
+      "last_checked": "2026-10-07T08:46:50+00:00",
       "last_count": 188,
       "last_error": null,
       "previous": {
