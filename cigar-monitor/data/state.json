@@ -27,7 +27,7 @@
           "id": "cohcigars:102:149",
           "name": "Hoyo de Monterrey - Epicure No.1 A/T (15 盒)",
           "price": "$ 388.00",
-          "stock": "17",
+          "stock": "16",
           "url": "https://cn.cohcigars.com/cigars-hoyo-de-monterrey"
         },
         "cohcigars:102:20571": {
@@ -573,7 +573,7 @@
           "id": "cohcigars:154:227",
           "name": "Partagas - Aliados (25 盒)",
           "price": "$ 229.00",
-          "stock": "10",
+          "stock": "8",
           "url": "https://cn.cohcigars.com/cigars-partagas"
         },
         "cohcigars:15545:16209": {
@@ -678,7 +678,7 @@
           "id": "cohcigars:1708:1939",
           "name": "Trinidad - Robusto Extra Gift Box (12 盒)",
           "price": "$ 499.00",
-          "stock": "39",
+          "stock": "38",
           "url": "https://cn.cohcigars.com/cigars-trinidad"
         },
         "cohcigars:170:248": {
@@ -1651,7 +1651,7 @@
           "id": "cohcigars:23878:24706",
           "name": "Trinidad - Robusto Extra Gift Box (10x3 盒)",
           "price": "$ 59.00",
-          "stock": "51",
+          "stock": "50",
           "url": "https://cn.cohcigars.com/cigars-trinidad"
         },
         "cohcigars:23879:24707": {
@@ -1861,7 +1861,7 @@
           "id": "cohcigars:25142:26026",
           "name": "Trinidad - Villa LCDH (12 盒)",
           "price": "$ 1290.00",
-          "stock": "4",
+          "stock": "3",
           "url": "https://cn.cohcigars.com/cigars-trinidad"
         },
         "cohcigars:25144:26028": {
@@ -3324,7 +3324,7 @@
           "id": "cohcigars:54:5459",
           "name": "Cohiba - Ambar (20x5 盒)",
           "price": "$ 115.00",
-          "stock": "295",
+          "stock": "294",
           "url": "https://cn.cohcigars.com/cigars-cohiba"
         },
         "cohcigars:55:5170": {
@@ -3415,7 +3415,7 @@
           "id": "cohcigars:66:104",
           "name": "Diplomaticos - Grandes RE Alemania 2021 (25 盒)",
           "price": "$ 599.00",
-          "stock": "24",
+          "stock": "23",
           "url": "https://cn.cohcigars.com/cigars-diplomaticos"
         },
         "cohcigars:683:789": {
@@ -3429,7 +3429,7 @@
           "id": "cohcigars:6937:7450",
           "name": "Ramon Allones - Phoenicio 40th Anniversary RE Libano 2019 (20 盒)",
           "price": "$ 2250.00",
-          "stock": "14",
+          "stock": "13",
           "url": "https://cn.cohcigars.com/cigars-ramon-allones"
         },
         "cohcigars:6937:8690": {
@@ -3646,7 +3646,7 @@
           "id": "cohcigars:779:25847",
           "name": "Partagas - Serie D No.4 A/T (3 盒)",
           "price": "$ 128.00",
-          "stock": "84",
+          "stock": "83",
           "url": "https://cn.cohcigars.com/cigars-partagas"
         },
         "cohcigars:779:28364": {
@@ -4017,7 +4017,7 @@
           "id": "cohcigars:953:1003",
           "name": "Romeo Y Julieta - Wide Churchills A/T (15 盒)",
           "price": "$ 612.00",
-          "stock": "10",
+          "stock": "9",
           "url": "https://cn.cohcigars.com/cigars-romeo-y-julieta"
         },
         "cohcigars:9586:10232": {
@@ -4049,7 +4049,7 @@
           "url": "https://cn.cohcigars.com/cigars-montecristo"
         }
       },
-      "last_checked": "2026-10-07T13:57:57+00:00",
+      "last_checked": "2026-10-07T17:27:14+00:00",
       "last_count": 436,
       "last_error": null,
       "previous": {
@@ -4078,7 +4078,7 @@
           "id": "cohcigars:102:149",
           "name": "Hoyo de Monterrey - Epicure No.1 A/T (15 盒)",
           "price": "$ 388.00",
-          "stock": "17",
+          "stock": "16",
           "url": "https://cn.cohcigars.com/cigars-hoyo-de-monterrey"
         },
         "cohcigars:105:154": {
@@ -4470,7 +4470,7 @@
           "id": "cohcigars:154:227",
           "name": "Partagas - Aliados (25 盒)",
           "price": "$ 229.00",
-          "stock": "10",
+          "stock": "8",
           "url": "https://cn.cohcigars.com/cigars-partagas"
         },
         "cohcigars:15545:16209": {
@@ -4561,7 +4561,7 @@
           "id": "cohcigars:1708:1939",
           "name": "Trinidad - Robusto Extra Gift Box (12 盒)",
           "price": "$ 499.00",
-          "stock": "39",
+          "stock": "38",
           "url": "https://cn.cohcigars.com/cigars-trinidad"
         },
         "cohcigars:170:248": {
@@ -5359,7 +5359,7 @@
           "id": "cohcigars:23878:24706",
           "name": "Trinidad - Robusto Extra Gift Box (10x3 盒)",
           "price": "$ 59.00",
-          "stock": "51",
+          "stock": "50",
           "url": "https://cn.cohcigars.com/cigars-trinidad"
         },
         "cohcigars:23879:24707": {
@@ -5555,7 +5555,7 @@
           "id": "cohcigars:25142:26026",
           "name": "Trinidad - Villa LCDH (12 盒)",
           "price": "$ 1290.00",
-          "stock": "4",
+          "stock": "3",
           "url": "https://cn.cohcigars.com/cigars-trinidad"
         },
         "cohcigars:25144:26028": {
@@ -6528,7 +6528,7 @@
           "id": "cohcigars:54:5459",
           "name": "Cohiba - Ambar (20x5 盒)",
           "price": "$ 115.00",
-          "stock": "295",
+          "stock": "294",
           "url": "https://cn.cohcigars.com/cigars-cohiba"
         },
         "cohcigars:55:5170": {
@@ -6612,7 +6612,7 @@
           "id": "cohcigars:66:104",
           "name": "Diplomaticos - Grandes RE Alemania 2021 (25 盒)",
           "price": "$ 599.00",
-          "stock": "24",
+          "stock": "23",
           "url": "https://cn.cohcigars.com/cigars-diplomaticos"
         },
         "cohcigars:683:789": {
@@ -6626,7 +6626,7 @@
           "id": "cohcigars:6937:7450",
           "name": "Ramon Allones - Phoenicio 40th Anniversary RE Libano 2019 (20 盒)",
           "price": "$ 2250.00",
-          "stock": "14",
+          "stock": "13",
           "url": "https://cn.cohcigars.com/cigars-ramon-allones"
         },
         "cohcigars:6955:7467": {
@@ -6822,7 +6822,7 @@
           "id": "cohcigars:779:25847",
           "name": "Partagas - Serie D No.4 A/T (3 盒)",
           "price": "$ 128.00",
-          "stock": "84",
+          "stock": "83",
           "url": "https://cn.cohcigars.com/cigars-partagas"
         },
         "cohcigars:779:28364": {
@@ -7074,7 +7074,7 @@
           "id": "cohcigars:953:1003",
           "name": "Romeo Y Julieta - Wide Churchills A/T (15 盒)",
           "price": "$ 612.00",
-          "stock": "10",
+          "stock": "9",
           "url": "https://cn.cohcigars.com/cigars-romeo-y-julieta"
         },
         "cohcigars:9586:10232": {
@@ -8340,7 +8340,7 @@
           "url": "https://www.ihavanas.com/details.php?ptype=cigars&pid=Partagas"
         }
       },
-      "last_checked": "2026-10-07T13:56:54+00:00",
+      "last_checked": "2026-10-07T17:26:52+00:00",
       "last_count": 188,
       "last_error": null,
       "previous": {
