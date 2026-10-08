@@ -27,7 +27,7 @@
           "id": "cohcigars:102:149",
           "name": "Hoyo de Monterrey - Epicure No.1 A/T (15 盒)",
           "price": "$ 388.00",
-          "stock": "13",
+          "stock": "12",
           "url": "https://cn.cohcigars.com/cigars-hoyo-de-monterrey"
         },
         "cohcigars:102:20571": {
@@ -573,7 +573,7 @@
           "id": "cohcigars:154:227",
           "name": "Partagas - Aliados (25 盒)",
           "price": "$ 229.00",
-          "stock": "8",
+          "stock": "6",
           "url": "https://cn.cohcigars.com/cigars-partagas"
         },
         "cohcigars:15545:16209": {
@@ -1021,7 +1021,7 @@
           "id": "cohcigars:202:289",
           "name": "Romeo Y Julieta - Romeo No.2 A/T (25 盒)",
           "price": "$ 396.00",
-          "stock": "34",
+          "stock": "32",
           "url": "https://cn.cohcigars.com/cigars-romeo-y-julieta"
         },
         "cohcigars:202:290": {
@@ -1903,7 +1903,7 @@
           "id": "cohcigars:2565:20183",
           "name": "Montecristo - No.5 (10x10 盒)",
           "price": "$ 119.00",
-          "stock": "89",
+          "stock": "87",
           "url": "https://cn.cohcigars.com/cigars-montecristo"
         },
         "cohcigars:2568:2858": {
@@ -2309,7 +2309,7 @@
           "id": "cohcigars:282:6163",
           "name": "Partagas - Cetros Year of the Snake (20x5 盒)",
           "price": "$ 90.00",
-          "stock": "916",
+          "stock": "914",
           "url": "https://cn.cohcigars.com/cigars-partagas"
         },
         "cohcigars:2840:3155": {
@@ -3058,7 +3058,7 @@
           "id": "cohcigars:4593:4894",
           "name": "Trinidad - Robusto Extra Gift Box (10x10 盒)",
           "price": "$ 199.00",
-          "stock": "81",
+          "stock": "79",
           "url": "https://cn.cohcigars.com/cigars-trinidad"
         },
         "cohcigars:4597:4902": {
@@ -3415,7 +3415,7 @@
           "id": "cohcigars:66:104",
           "name": "Diplomaticos - Grandes RE Alemania 2021 (25 盒)",
           "price": "$ 599.00",
-          "stock": "22",
+          "stock": "20",
           "url": "https://cn.cohcigars.com/cigars-diplomaticos"
         },
         "cohcigars:683:789": {
@@ -3758,7 +3758,7 @@
           "id": "cohcigars:87:127",
           "name": "H.Upmann - Majestic (25 盒)",
           "price": "$ 364.00",
-          "stock": "6",
+          "stock": "5",
           "url": "https://cn.cohcigars.com/cigars-h.upmann"
         },
         "cohcigars:8807:9440": {
@@ -4049,7 +4049,7 @@
           "url": "https://cn.cohcigars.com/cigars-montecristo"
         }
       },
-      "last_checked": "2026-10-08T06:40:06+00:00",
+      "last_checked": "2026-10-08T13:41:19+00:00",
       "last_count": 435,
       "last_error": null,
       "previous": {
@@ -4078,7 +4078,7 @@
           "id": "cohcigars:102:149",
           "name": "Hoyo de Monterrey - Epicure No.1 A/T (15 盒)",
           "price": "$ 388.00",
-          "stock": "13",
+          "stock": "12",
           "url": "https://cn.cohcigars.com/cigars-hoyo-de-monterrey"
         },
         "cohcigars:105:154": {
@@ -4470,7 +4470,7 @@
           "id": "cohcigars:154:227",
           "name": "Partagas - Aliados (25 盒)",
           "price": "$ 229.00",
-          "stock": "8",
+          "stock": "6",
           "url": "https://cn.cohcigars.com/cigars-partagas"
         },
         "cohcigars:15545:16209": {
@@ -4820,7 +4820,7 @@
           "id": "cohcigars:202:289",
           "name": "Romeo Y Julieta - Romeo No.2 A/T (25 盒)",
           "price": "$ 396.00",
-          "stock": "34",
+          "stock": "32",
           "url": "https://cn.cohcigars.com/cigars-romeo-y-julieta"
         },
         "cohcigars:202:290": {
@@ -5590,7 +5590,7 @@
           "id": "cohcigars:2565:20183",
           "name": "Montecristo - No.5 (10x10 盒)",
           "price": "$ 119.00",
-          "stock": "89",
+          "stock": "87",
           "url": "https://cn.cohcigars.com/cigars-montecristo"
         },
         "cohcigars:2568:2858": {
@@ -5849,7 +5849,7 @@
           "id": "cohcigars:282:6163",
           "name": "Partagas - Cetros Year of the Snake (20x5 盒)",
           "price": "$ 90.00",
-          "stock": "916",
+          "stock": "914",
           "url": "https://cn.cohcigars.com/cigars-partagas"
         },
         "cohcigars:2863:3180": {
@@ -6290,7 +6290,7 @@
           "id": "cohcigars:4593:4894",
           "name": "Trinidad - Robusto Extra Gift Box (10x10 盒)",
           "price": "$ 199.00",
-          "stock": "81",
+          "stock": "79",
           "url": "https://cn.cohcigars.com/cigars-trinidad"
         },
         "cohcigars:4597:4902": {
@@ -6605,7 +6605,7 @@
           "id": "cohcigars:66:104",
           "name": "Diplomaticos - Grandes RE Alemania 2021 (25 盒)",
           "price": "$ 599.00",
-          "stock": "22",
+          "stock": "20",
           "url": "https://cn.cohcigars.com/cigars-diplomaticos"
         },
         "cohcigars:683:789": {
@@ -6913,7 +6913,7 @@
           "id": "cohcigars:87:127",
           "name": "H.Upmann - Majestic (25 盒)",
           "price": "$ 364.00",
-          "stock": "6",
+          "stock": "5",
           "url": "https://cn.cohcigars.com/cigars-h.upmann"
         },
         "cohcigars:8807:9440": {
@@ -8333,7 +8333,7 @@
           "url": "https://www.ihavanas.com/details.php?ptype=cigars&pid=Partagas"
         }
       },
-      "last_checked": "2026-10-08T06:39:43+00:00",
+      "last_checked": "2026-10-08T13:40:54+00:00",
       "last_count": 188,
       "last_error": null,
       "previous": {
