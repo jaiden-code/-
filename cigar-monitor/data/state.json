@@ -27,7 +27,7 @@
           "id": "cohcigars:102:149",
           "name": "Hoyo de Monterrey - Epicure No.1 A/T (15 盒)",
           "price": "$ 388.00",
-          "stock": "12",
+          "stock": "11",
           "url": "https://cn.cohcigars.com/cigars-hoyo-de-monterrey"
         },
         "cohcigars:102:20571": {
@@ -174,7 +174,7 @@
           "id": "cohcigars:11209:11858",
           "name": "Partagas - Legado EL 2020 (20 盒)",
           "price": "$ 1150.00",
-          "stock": "29",
+          "stock": "28",
           "url": "https://cn.cohcigars.com/cigars-partagas"
         },
         "cohcigars:11241:11889": {
@@ -202,7 +202,7 @@
           "id": "cohcigars:11350:12001",
           "name": "Hoyo de Monterrey - Epicure No.3 (25 盒)",
           "price": "$ 695.00",
-          "stock": "30",
+          "stock": "28",
           "url": "https://cn.cohcigars.com/cigars-hoyo-de-monterrey"
         },
         "cohcigars:11383:12034": {
@@ -573,7 +573,7 @@
           "id": "cohcigars:154:227",
           "name": "Partagas - Aliados (25 盒)",
           "price": "$ 229.00",
-          "stock": "6",
+          "stock": "4",
           "url": "https://cn.cohcigars.com/cigars-partagas"
         },
         "cohcigars:15545:16209": {
@@ -678,7 +678,7 @@
           "id": "cohcigars:1708:1939",
           "name": "Trinidad - Robusto Extra Gift Box (12 盒)",
           "price": "$ 499.00",
-          "stock": "38",
+          "stock": "37",
           "url": "https://cn.cohcigars.com/cigars-trinidad"
         },
         "cohcigars:170:248": {
@@ -3415,7 +3415,7 @@
           "id": "cohcigars:66:104",
           "name": "Diplomaticos - Grandes RE Alemania 2021 (25 盒)",
           "price": "$ 599.00",
-          "stock": "20",
+          "stock": "19",
           "url": "https://cn.cohcigars.com/cigars-diplomaticos"
         },
         "cohcigars:683:789": {
@@ -4049,7 +4049,7 @@
           "url": "https://cn.cohcigars.com/cigars-montecristo"
         }
       },
-      "last_checked": "2026-10-08T14:02:44+00:00",
+      "last_checked": "2026-10-08T19:59:05+00:00",
       "last_count": 435,
       "last_error": null,
       "previous": {
@@ -4078,7 +4078,7 @@
           "id": "cohcigars:102:149",
           "name": "Hoyo de Monterrey - Epicure No.1 A/T (15 盒)",
           "price": "$ 388.00",
-          "stock": "12",
+          "stock": "11",
           "url": "https://cn.cohcigars.com/cigars-hoyo-de-monterrey"
         },
         "cohcigars:105:154": {
@@ -4176,7 +4176,7 @@
           "id": "cohcigars:11209:11858",
           "name": "Partagas - Legado EL 2020 (20 盒)",
           "price": "$ 1150.00",
-          "stock": "29",
+          "stock": "28",
           "url": "https://cn.cohcigars.com/cigars-partagas"
         },
         "cohcigars:11350:12000": {
@@ -4190,7 +4190,7 @@
           "id": "cohcigars:11350:12001",
           "name": "Hoyo de Monterrey - Epicure No.3 (25 盒)",
           "price": "$ 695.00",
-          "stock": "30",
+          "stock": "28",
           "url": "https://cn.cohcigars.com/cigars-hoyo-de-monterrey"
         },
         "cohcigars:11484:12137": {
@@ -4470,7 +4470,7 @@
           "id": "cohcigars:154:227",
           "name": "Partagas - Aliados (25 盒)",
           "price": "$ 229.00",
-          "stock": "6",
+          "stock": "4",
           "url": "https://cn.cohcigars.com/cigars-partagas"
         },
         "cohcigars:15545:16209": {
@@ -4561,7 +4561,7 @@
           "id": "cohcigars:1708:1939",
           "name": "Trinidad - Robusto Extra Gift Box (12 盒)",
           "price": "$ 499.00",
-          "stock": "38",
+          "stock": "37",
           "url": "https://cn.cohcigars.com/cigars-trinidad"
         },
         "cohcigars:170:248": {
@@ -6605,7 +6605,7 @@
           "id": "cohcigars:66:104",
           "name": "Diplomaticos - Grandes RE Alemania 2021 (25 盒)",
           "price": "$ 599.00",
-          "stock": "20",
+          "stock": "19",
           "url": "https://cn.cohcigars.com/cigars-diplomaticos"
         },
         "cohcigars:683:789": {
@@ -8333,7 +8333,7 @@
           "url": "https://www.ihavanas.com/details.php?ptype=cigars&pid=Partagas"
         }
       },
-      "last_checked": "2026-10-08T14:02:25+00:00",
+      "last_checked": "2026-10-08T19:58:46+00:00",
       "last_count": 188,
       "last_error": null,
       "previous": {
