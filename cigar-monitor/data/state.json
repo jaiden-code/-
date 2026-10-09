@@ -83,7 +83,7 @@
           "id": "cohcigars:11055:11705",
           "name": "Ramon Allones - Allones No.3 (10 盒)",
           "price": "$ 430.00",
-          "stock": "12",
+          "stock": "11",
           "url": "https://cn.cohcigars.com/cigars-ramon-allones"
         },
         "cohcigars:11056:11706": {
@@ -489,7 +489,7 @@
           "id": "cohcigars:141:210",
           "name": "Partagas - Serie P No.2 (25 盒)",
           "price": "$ 325.00",
-          "stock": "12",
+          "stock": "11",
           "url": "https://cn.cohcigars.com/cigars-partagas"
         },
         "cohcigars:141:211": {
@@ -1742,7 +1742,7 @@
           "id": "cohcigars:24442:25283",
           "name": "Cohiba - Siglo II A/T (5x5 盒)",
           "price": "$ 799.00",
-          "stock": "59",
+          "stock": "54",
           "url": "https://cn.cohcigars.com/cigars-cohiba"
         },
         "cohcigars:24443:25285": {
@@ -3282,7 +3282,7 @@
           "id": "cohcigars:50:81",
           "name": "Cohiba - Siglo IV (10 盒)",
           "price": "$ 1188.00",
-          "stock": "98",
+          "stock": "97",
           "url": "https://cn.cohcigars.com/cigars-cohiba"
         },
         "cohcigars:5142:5552": {
@@ -4049,7 +4049,7 @@
           "url": "https://cn.cohcigars.com/cigars-montecristo"
         }
       },
-      "last_checked": "2026-10-08T20:09:20+00:00",
+      "last_checked": "2026-10-09T00:26:55+00:00",
       "last_count": 435,
       "last_error": null,
       "previous": {
@@ -4113,7 +4113,7 @@
           "id": "cohcigars:11055:11705",
           "name": "Ramon Allones - Allones No.3 (10 盒)",
           "price": "$ 430.00",
-          "stock": "12",
+          "stock": "11",
           "url": "https://cn.cohcigars.com/cigars-ramon-allones"
         },
         "cohcigars:11057:11707": {
@@ -4400,7 +4400,7 @@
           "id": "cohcigars:141:210",
           "name": "Partagas - Serie P No.2 (25 盒)",
           "price": "$ 325.00",
-          "stock": "12",
+          "stock": "11",
           "url": "https://cn.cohcigars.com/cigars-partagas"
         },
         "cohcigars:141:211": {
@@ -5443,7 +5443,7 @@
           "id": "cohcigars:24442:25283",
           "name": "Cohiba - Siglo II A/T (5x5 盒)",
           "price": "$ 799.00",
-          "stock": "59",
+          "stock": "54",
           "url": "https://cn.cohcigars.com/cigars-cohiba"
         },
         "cohcigars:24443:25285": {
@@ -6486,7 +6486,7 @@
           "id": "cohcigars:50:81",
           "name": "Cohiba - Siglo IV (10 盒)",
           "price": "$ 1188.00",
-          "stock": "98",
+          "stock": "97",
           "url": "https://cn.cohcigars.com/cigars-cohiba"
         },
         "cohcigars:5142:5552": {
@@ -8333,7 +8333,7 @@
           "url": "https://www.ihavanas.com/details.php?ptype=cigars&pid=Partagas"
         }
       },
-      "last_checked": "2026-10-08T20:08:56+00:00",
+      "last_checked": "2026-10-09T00:26:32+00:00",
       "last_count": 188,
       "last_error": null,
       "previous": {
