@@ -6,7 +6,7 @@
           "id": "cohcigars:100:141",
           "name": "Hoyo de Monterrey - Double Coronas (25 盒)",
           "price": "$ 1480.00",
-          "stock": "8",
+          "stock": "6",
           "url": "https://cn.cohcigars.com/cigars-hoyo-de-monterrey"
         },
         "cohcigars:101:144": {
@@ -580,7 +580,7 @@
           "id": "cohcigars:154:227",
           "name": "Partagas - Aliados (25 盒)",
           "price": "$ 229.00",
-          "stock": "98",
+          "stock": "97",
           "url": "https://cn.cohcigars.com/cigars-partagas"
         },
         "cohcigars:15545:16209": {
@@ -958,7 +958,7 @@
           "id": "cohcigars:198:281",
           "name": "Romeo Y Julieta - Club Limited Edition Tin (25 盒)",
           "price": "$ 260.00",
-          "stock": "16",
+          "stock": "15",
           "url": "https://cn.cohcigars.com/cigars-romeo-y-julieta"
         },
         "cohcigars:19920:20641": {
@@ -1021,7 +1021,7 @@
           "id": "cohcigars:202:26938",
           "name": "Romeo Y Julieta - Romeo No.2 A/T (5x2 盒)",
           "price": "$ 149.00",
-          "stock": "36",
+          "stock": "35",
           "url": "https://cn.cohcigars.com/cigars-romeo-y-julieta"
         },
         "cohcigars:202:289": {
@@ -1203,7 +1203,7 @@
           "id": "cohcigars:21860:24390",
           "name": "Cohiba - Vitosos Travel Humidor (6x2 盒)",
           "price": "$ 79.00",
-          "stock": "61",
+          "stock": "60",
           "url": "https://cn.cohcigars.com/cigars-cohiba"
         },
         "cohcigars:21:38": {
@@ -1469,7 +1469,7 @@
           "id": "cohcigars:23336:24163",
           "name": "Singles 6 Stick Min - 1 x Partagas Maduro No.3 (1 盒)",
           "price": "$ 42.00",
-          "stock": "164",
+          "stock": "163",
           "url": "https://cn.cohcigars.com/cigars-singles-6-stick-min"
         },
         "cohcigars:23337:24164": {
@@ -1882,7 +1882,7 @@
           "id": "cohcigars:251:355",
           "name": "Trinidad - Fundadores (24 盒)",
           "price": "$ 605.00",
-          "stock": "5",
+          "stock": "4",
           "url": "https://cn.cohcigars.com/cigars-trinidad"
         },
         "cohcigars:251:356": {
@@ -2365,7 +2365,7 @@
           "id": "cohcigars:293:17329",
           "name": "Cohiba - Siglo II A/T (3 盒)",
           "price": "$ 109.00",
-          "stock": "193",
+          "stock": "192",
           "url": "https://cn.cohcigars.com/cigars-cohiba"
         },
         "cohcigars:293:412": {
@@ -2463,14 +2463,14 @@
           "id": "cohcigars:3045:3353",
           "name": "Singles 6 Stick Min - 1 x Montecristo Open Master (1 盒)",
           "price": "$ 34.00",
-          "stock": "77",
+          "stock": "76",
           "url": "https://cn.cohcigars.com/cigars-singles-6-stick-min"
         },
         "cohcigars:3048:3356": {
           "id": "cohcigars:3048:3356",
           "name": "Singles 6 Stick Min - 1 x Partagas Serie P No.2 (1 盒)",
           "price": "$ 36.00",
-          "stock": "3",
+          "stock": "2",
           "url": "https://cn.cohcigars.com/cigars-singles-6-stick-min"
         },
         "cohcigars:3049:3357": {
@@ -2589,7 +2589,7 @@
           "id": "cohcigars:3076:3383",
           "name": "Singles 6 Stick Min - 1 x Montecristo Petit No.2 (1 盒)",
           "price": "$ 29.00",
-          "stock": "145",
+          "stock": "142",
           "url": "https://cn.cohcigars.com/cigars-singles-6-stick-min"
         },
         "cohcigars:3077:3384": {
@@ -2610,7 +2610,7 @@
           "id": "cohcigars:3080:3387",
           "name": "Singles 6 Stick Min - 1 x Partagas Serie E No.2 (1 盒)",
           "price": "$ 39.00",
-          "stock": "48",
+          "stock": "46",
           "url": "https://cn.cohcigars.com/cigars-singles-6-stick-min"
         },
         "cohcigars:30:49": {
@@ -3870,7 +3870,7 @@
           "id": "cohcigars:911:28370",
           "name": "Montecristo - Master A/T (3x2 盒)",
           "price": "$ 155.00",
-          "stock": "74",
+          "stock": "72",
           "url": "https://cn.cohcigars.com/cigars-montecristo"
         },
         "cohcigars:913:956": {
@@ -4063,7 +4063,7 @@
           "url": "https://cn.cohcigars.com/cigars-montecristo"
         }
       },
-      "last_checked": "2026-10-10T13:04:00+00:00",
+      "last_checked": "2026-10-10T18:40:52+00:00",
       "last_count": 440,
       "last_error": null,
       "previous": {
@@ -4071,7 +4071,7 @@
           "id": "cohcigars:100:141",
           "name": "Hoyo de Monterrey - Double Coronas (25 盒)",
           "price": "$ 1480.00",
-          "stock": "8",
+          "stock": "6",
           "url": "https://cn.cohcigars.com/cigars-hoyo-de-monterrey"
         },
         "cohcigars:101:144": {
@@ -4505,7 +4505,7 @@
           "id": "cohcigars:154:227",
           "name": "Partagas - Aliados (25 盒)",
           "price": "$ 229.00",
-          "stock": "98",
+          "stock": "97",
           "url": "https://cn.cohcigars.com/cigars-partagas"
         },
         "cohcigars:15545:16209": {
@@ -4799,7 +4799,7 @@
           "id": "cohcigars:198:281",
           "name": "Romeo Y Julieta - Club Limited Edition Tin (25 盒)",
           "price": "$ 260.00",
-          "stock": "16",
+          "stock": "15",
           "url": "https://cn.cohcigars.com/cigars-romeo-y-julieta"
         },
         "cohcigars:19936:20657": {
@@ -4848,7 +4848,7 @@
           "id": "cohcigars:202:26938",
           "name": "Romeo Y Julieta - Romeo No.2 A/T (5x2 盒)",
           "price": "$ 149.00",
-          "stock": "36",
+          "stock": "35",
           "url": "https://cn.cohcigars.com/cigars-romeo-y-julieta"
         },
         "cohcigars:202:289": {
@@ -5009,7 +5009,7 @@
           "id": "cohcigars:21860:24390",
           "name": "Cohiba - Vitosos Travel Humidor (6x2 盒)",
           "price": "$ 79.00",
-          "stock": "61",
+          "stock": "60",
           "url": "https://cn.cohcigars.com/cigars-cohiba"
         },
         "cohcigars:21:38": {
@@ -5268,7 +5268,7 @@
           "id": "cohcigars:23336:24163",
           "name": "Singles 6 Stick Min - 1 x Partagas Maduro No.3 (1 盒)",
           "price": "$ 42.00",
-          "stock": "164",
+          "stock": "163",
           "url": "https://cn.cohcigars.com/cigars-singles-6-stick-min"
         },
         "cohcigars:23337:24164": {
@@ -5597,7 +5597,7 @@
           "id": "cohcigars:251:355",
           "name": "Trinidad - Fundadores (24 盒)",
           "price": "$ 605.00",
-          "stock": "5",
+          "stock": "4",
           "url": "https://cn.cohcigars.com/cigars-trinidad"
         },
         "cohcigars:251:356": {
@@ -5912,7 +5912,7 @@
           "id": "cohcigars:293:17329",
           "name": "Cohiba - Siglo II A/T (3 盒)",
           "price": "$ 109.00",
-          "stock": "193",
+          "stock": "192",
           "url": "https://cn.cohcigars.com/cigars-cohiba"
         },
         "cohcigars:293:412": {
@@ -5989,14 +5989,14 @@
           "id": "cohcigars:3045:3353",
           "name": "Singles 6 Stick Min - 1 x Montecristo Open Master (1 盒)",
           "price": "$ 34.00",
-          "stock": "77",
+          "stock": "76",
           "url": "https://cn.cohcigars.com/cigars-singles-6-stick-min"
         },
         "cohcigars:3048:3356": {
           "id": "cohcigars:3048:3356",
           "name": "Singles 6 Stick Min - 1 x Partagas Serie P No.2 (1 盒)",
           "price": "$ 36.00",
-          "stock": "3",
+          "stock": "2",
           "url": "https://cn.cohcigars.com/cigars-singles-6-stick-min"
         },
         "cohcigars:3049:3357": {
@@ -6101,7 +6101,7 @@
           "id": "cohcigars:3076:3383",
           "name": "Singles 6 Stick Min - 1 x Montecristo Petit No.2 (1 盒)",
           "price": "$ 29.00",
-          "stock": "145",
+          "stock": "142",
           "url": "https://cn.cohcigars.com/cigars-singles-6-stick-min"
         },
         "cohcigars:3077:3384": {
@@ -6122,7 +6122,7 @@
           "id": "cohcigars:3080:3387",
           "name": "Singles 6 Stick Min - 1 x Partagas Serie E No.2 (1 盒)",
           "price": "$ 39.00",
-          "stock": "48",
+          "stock": "46",
           "url": "https://cn.cohcigars.com/cigars-singles-6-stick-min"
         },
         "cohcigars:3240:3543": {
@@ -7025,7 +7025,7 @@
           "id": "cohcigars:911:28370",
           "name": "Montecristo - Master A/T (3x2 盒)",
           "price": "$ 155.00",
-          "stock": "74",
+          "stock": "72",
           "url": "https://cn.cohcigars.com/cigars-montecristo"
         },
         "cohcigars:914:957": {
@@ -8382,7 +8382,7 @@
           "url": "https://www.ihavanas.com/details.php?ptype=cigars&pid=Partagas"
         }
       },
-      "last_checked": "2026-10-10T13:03:38+00:00",
+      "last_checked": "2026-10-10T18:40:25+00:00",
       "last_count": 188,
       "last_error": null,
       "previous": {
