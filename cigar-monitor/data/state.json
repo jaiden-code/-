@@ -172,14 +172,14 @@
         },
         "cohcigars:11208:11857": {
           "id": "cohcigars:11208:11857",
-          "name": "Partagas - Legado EL 2020 (20 盒)",
+          "name": "Partagas - Cetros Year of the Snake (20 盒)",
           "price": "$ 1200.00",
           "stock": "12",
           "url": "https://cn.cohcigars.com/cigars-partagas"
         },
         "cohcigars:11209:11858": {
           "id": "cohcigars:11209:11858",
-          "name": "Partagas - Legado EL 2020 (20 盒)",
+          "name": "Partagas - Cetros Year of the Snake (20 盒)",
           "price": "$ 1150.00",
           "stock": "28",
           "url": "https://cn.cohcigars.com/cigars-partagas"
@@ -361,7 +361,7 @@
         },
         "cohcigars:12461:13118": {
           "id": "cohcigars:12461:13118",
-          "name": "Partagas - Legado EL 2020 (20 盒)",
+          "name": "Partagas - Cetros Year of the Snake (20 盒)",
           "price": "$ 1100.00",
           "stock": "34",
           "url": "https://cn.cohcigars.com/cigars-partagas"
@@ -580,7 +580,7 @@
           "id": "cohcigars:154:227",
           "name": "Partagas - Aliados (25 盒)",
           "price": "$ 229.00",
-          "stock": "97",
+          "stock": "96",
           "url": "https://cn.cohcigars.com/cigars-partagas"
         },
         "cohcigars:15545:16209": {
@@ -1658,7 +1658,7 @@
           "id": "cohcigars:23878:24706",
           "name": "Trinidad - Robusto Extra Gift Box (10x3 盒)",
           "price": "$ 59.00",
-          "stock": "50",
+          "stock": "49",
           "url": "https://cn.cohcigars.com/cigars-trinidad"
         },
         "cohcigars:23879:24707": {
@@ -1777,7 +1777,7 @@
           "id": "cohcigars:24446:25292",
           "name": "Cohiba - Exquisitos C/P (5x5 盒)",
           "price": "$ 720.00",
-          "stock": "29",
+          "stock": "25",
           "url": "https://cn.cohcigars.com/cigars-cohiba"
         },
         "cohcigars:24447:25294": {
@@ -2358,7 +2358,7 @@
           "id": "cohcigars:287:406",
           "name": "Guantanamera - Cristales (5 x 5 盒)",
           "price": "$ 130.00",
-          "stock": "88",
+          "stock": "87",
           "url": "https://cn.cohcigars.com/cigars-guantanamera"
         },
         "cohcigars:293:17329": {
@@ -3422,7 +3422,7 @@
           "id": "cohcigars:66:104",
           "name": "Diplomaticos - Grandes RE Alemania 2021 (25 盒)",
           "price": "$ 599.00",
-          "stock": "11",
+          "stock": "10",
           "url": "https://cn.cohcigars.com/cigars-diplomaticos"
         },
         "cohcigars:683:789": {
@@ -3933,7 +3933,7 @@
           "id": "cohcigars:9336:9980",
           "name": "Bolivar - 5 Pack- Bolivar Gold Medal LCDH (2009) (5 盒)",
           "price": "$ 620.00",
-          "stock": "9",
+          "stock": "8",
           "url": "https://cn.cohcigars.com/cigars-bolivar"
         },
         "cohcigars:9337:9981": {
@@ -4063,8 +4063,8 @@
           "url": "https://cn.cohcigars.com/cigars-montecristo"
         }
       },
-      "last_checked": "2026-10-10T23:50:50+00:00",
-      "last_count": 440,
+      "last_checked": "2026-10-11T05:56:10+00:00",
+      "last_count": 439,
       "last_error": null,
       "previous": {
         "cohcigars:100:141": {
@@ -4188,14 +4188,14 @@
         },
         "cohcigars:11208:11857": {
           "id": "cohcigars:11208:11857",
-          "name": "Partagas - Legado EL 2020 (20 盒)",
+          "name": "Partagas - Cetros Year of the Snake (20 盒)",
           "price": "$ 1200.00",
           "stock": "12",
           "url": "https://cn.cohcigars.com/cigars-partagas"
         },
         "cohcigars:11209:11858": {
           "id": "cohcigars:11209:11858",
-          "name": "Partagas - Legado EL 2020 (20 盒)",
+          "name": "Partagas - Cetros Year of the Snake (20 盒)",
           "price": "$ 1150.00",
           "stock": "28",
           "url": "https://cn.cohcigars.com/cigars-partagas"
@@ -4321,7 +4321,7 @@
         },
         "cohcigars:12461:13118": {
           "id": "cohcigars:12461:13118",
-          "name": "Partagas - Legado EL 2020 (20 盒)",
+          "name": "Partagas - Cetros Year of the Snake (20 盒)",
           "price": "$ 1100.00",
           "stock": "34",
           "url": "https://cn.cohcigars.com/cigars-partagas"
@@ -4505,7 +4505,7 @@
           "id": "cohcigars:154:227",
           "name": "Partagas - Aliados (25 盒)",
           "price": "$ 229.00",
-          "stock": "97",
+          "stock": "96",
           "url": "https://cn.cohcigars.com/cigars-partagas"
         },
         "cohcigars:15545:16209": {
@@ -5394,7 +5394,7 @@
           "id": "cohcigars:23878:24706",
           "name": "Trinidad - Robusto Extra Gift Box (10x3 盒)",
           "price": "$ 59.00",
-          "stock": "50",
+          "stock": "49",
           "url": "https://cn.cohcigars.com/cigars-trinidad"
         },
         "cohcigars:23879:24707": {
@@ -5506,7 +5506,7 @@
           "id": "cohcigars:24446:25292",
           "name": "Cohiba - Exquisitos C/P (5x5 盒)",
           "price": "$ 720.00",
-          "stock": "29",
+          "stock": "25",
           "url": "https://cn.cohcigars.com/cigars-cohiba"
         },
         "cohcigars:24447:25294": {
@@ -5905,7 +5905,7 @@
           "id": "cohcigars:287:406",
           "name": "Guantanamera - Cristales (5 x 5 盒)",
           "price": "$ 130.00",
-          "stock": "88",
+          "stock": "87",
           "url": "https://cn.cohcigars.com/cigars-guantanamera"
         },
         "cohcigars:293:17329": {
@@ -6647,7 +6647,7 @@
           "id": "cohcigars:66:104",
           "name": "Diplomaticos - Grandes RE Alemania 2021 (25 盒)",
           "price": "$ 599.00",
-          "stock": "11",
+          "stock": "10",
           "url": "https://cn.cohcigars.com/cigars-diplomaticos"
         },
         "cohcigars:683:789": {
@@ -6874,13 +6874,6 @@
           "stock": "19",
           "url": "https://cn.cohcigars.com/cigars-h.upmann"
         },
-        "cohcigars:8182:8735": {
-          "id": "cohcigars:8182:8735",
-          "name": "Partagas - Legado EL 2020 (25 盒)",
-          "price": "$ 1760.00",
-          "stock": "1",
-          "url": "https://cn.cohcigars.com/cigars-partagas"
-        },
         "cohcigars:8281:8839": {
           "id": "cohcigars:8281:8839",
           "name": "La Gloria Cubana - Glorias LCDH (20 盒)",
@@ -7053,7 +7046,7 @@
           "id": "cohcigars:9336:9980",
           "name": "Bolivar - 5 Pack- Bolivar Gold Medal LCDH (2009) (5 盒)",
           "price": "$ 620.00",
-          "stock": "9",
+          "stock": "8",
           "url": "https://cn.cohcigars.com/cigars-bolivar"
         },
         "cohcigars:9337:9981": {
@@ -8382,7 +8375,7 @@
           "url": "https://www.ihavanas.com/details.php?ptype=cigars&pid=Partagas"
         }
       },
-      "last_checked": "2026-10-10T23:50:27+00:00",
+      "last_checked": "2026-10-11T05:55:49+00:00",
       "last_count": 188,
       "last_error": null,
       "previous": {
