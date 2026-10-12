@@ -34,7 +34,7 @@
           "id": "cohcigars:102:149",
           "name": "Hoyo de Monterrey - Epicure No.1 A/T (15 盒)",
           "price": "$ 388.00",
-          "stock": "2",
+          "stock": "1",
           "url": "https://cn.cohcigars.com/cigars-hoyo-de-monterrey"
         },
         "cohcigars:102:20571": {
@@ -587,7 +587,7 @@
           "id": "cohcigars:154:227",
           "name": "Partagas - Aliados (25 盒)",
           "price": "$ 229.00",
-          "stock": "89",
+          "stock": "87",
           "url": "https://cn.cohcigars.com/cigars-partagas"
         },
         "cohcigars:15545:16209": {
@@ -1028,7 +1028,7 @@
           "id": "cohcigars:202:26938",
           "name": "Romeo Y Julieta - Romeo No.2 A/T (5x2 盒)",
           "price": "$ 149.00",
-          "stock": "35",
+          "stock": "34",
           "url": "https://cn.cohcigars.com/cigars-romeo-y-julieta"
         },
         "cohcigars:202:289": {
@@ -1105,7 +1105,7 @@
           "id": "cohcigars:2052:24352",
           "name": "Trinidad - Robusto Extra Gift Box (3x2 盒)",
           "price": "$ 255.00",
-          "stock": "51",
+          "stock": "49",
           "url": "https://cn.cohcigars.com/cigars-trinidad"
         },
         "cohcigars:2054:2317": {
@@ -1117,9 +1117,9 @@
         },
         "cohcigars:20576:21298": {
           "id": "cohcigars:20576:21298",
-          "name": "Trinidad - 5 Pack- Esmeralda (12 盒)",
-          "price": "$ 1690.00",
-          "stock": "19",
+          "name": "Trinidad - 5 Pack- Trinidad: Fundadores, Topes, Esmeralda, Media Luna, Coloniales (12 盒)",
+          "price": "$ 1299.00",
+          "stock": "59",
           "url": "https://cn.cohcigars.com/cigars-trinidad"
         },
         "cohcigars:205:297": {
@@ -1175,7 +1175,7 @@
           "id": "cohcigars:214:2408",
           "name": "Romeo Y Julieta - Mille Fleurs (10 盒)",
           "price": "$ 155.00",
-          "stock": "40",
+          "stock": "39",
           "url": "https://cn.cohcigars.com/cigars-romeo-y-julieta"
         },
         "cohcigars:214:307": {
@@ -1275,6 +1275,20 @@
           "price": "$ 579.00",
           "stock": "9",
           "url": "https://cn.cohcigars.com/cigars-saint-luis-rey"
+        },
+        "cohcigars:23220:24014": {
+          "id": "cohcigars:23220:24014",
+          "name": "Quai Dorsay - 5 Pack- Quai d'Orsay: 54, 52, 50, Imperiales, Especial d'Orsay (20 盒)",
+          "price": "$ 1299.00",
+          "stock": "39",
+          "url": "https://cn.cohcigars.com/cigars-quai-dorsay"
+        },
+        "cohcigars:23220:24015": {
+          "id": "cohcigars:23220:24015",
+          "name": "Quai Dorsay - 5 Pack- Quai d'Orsay: 54, 52, 50, Imperiales, Especial d'Orsay (5 盒)",
+          "price": "$ 425.00",
+          "stock": "91",
+          "url": "https://cn.cohcigars.com/cigars-quai-dorsay"
         },
         "cohcigars:23307:24134": {
           "id": "cohcigars:23307:24134",
@@ -1831,9 +1845,9 @@
         },
         "cohcigars:248:347": {
           "id": "cohcigars:248:347",
-          "name": "Trinidad - 5 Pack- Esmeralda (24 盒)",
+          "name": "Trinidad - 5 Pack- Trinidad: Fundadores, Topes, Esmeralda, Media Luna, Coloniales (24 盒)",
           "price": "$ 990.00",
-          "stock": "4",
+          "stock": "1",
           "url": "https://cn.cohcigars.com/cigars-trinidad"
         },
         "cohcigars:249:350": {
@@ -2290,6 +2304,41 @@
           "price": "$ 335.00",
           "stock": "153",
           "url": "https://cn.cohcigars.com/cigars-montecristo"
+        },
+        "cohcigars:27633:28542": {
+          "id": "cohcigars:27633:28542",
+          "name": "Diplomaticos - 5 Pack- Diplo: Bushido, Genios, Norteno, Grandes, Reserva Exclusiva (5 盒)",
+          "price": "$ 490.00",
+          "stock": "100",
+          "url": "https://cn.cohcigars.com/cigars-diplomaticos"
+        },
+        "cohcigars:27634:28543": {
+          "id": "cohcigars:27634:28543",
+          "name": "Montecristo - 5 Pack- Montecristo: 1,2,3,4,5 (5 盒)",
+          "price": "$ 185.00",
+          "stock": "100",
+          "url": "https://cn.cohcigars.com/cigars-montecristo"
+        },
+        "cohcigars:27635:28544": {
+          "id": "cohcigars:27635:28544",
+          "name": "Cohiba - 3 Pack- Cohiba Maduro: Genios, Magicos, Secretos (3 盒)",
+          "price": "$ 390.00",
+          "stock": "100",
+          "url": "https://cn.cohcigars.com/cigars-cohiba"
+        },
+        "cohcigars:27636:28545": {
+          "id": "cohcigars:27636:28545",
+          "name": "Trinidad - 5 Pack- Trinidad: Fundadores, Topes, Esmeralda, Media Luna, Coloniales (5 盒)",
+          "price": "$ 415.00",
+          "stock": "100",
+          "url": "https://cn.cohcigars.com/cigars-trinidad"
+        },
+        "cohcigars:27637:28546": {
+          "id": "cohcigars:27637:28546",
+          "name": "Quai Dorsay - 5 Pack- Quai d'Orsay: 54, 52, 50, Imperiales, Especial d'Orsay (5 盒)",
+          "price": "$ 290.00",
+          "stock": "100",
+          "url": "https://cn.cohcigars.com/cigars-quai-dorsay"
         },
         "cohcigars:2766:3074": {
           "id": "cohcigars:2766:3074",
@@ -3261,7 +3310,7 @@
           "id": "cohcigars:4768:5152",
           "name": "Por Larranaga - Galanes (10 盒)",
           "price": "$ 305.00",
-          "stock": "12",
+          "stock": "11",
           "url": "https://cn.cohcigars.com/cigars-por-larranaga"
         },
         "cohcigars:4772:20445": {
@@ -4077,8 +4126,8 @@
           "url": "https://cn.cohcigars.com/cigars-montecristo"
         }
       },
-      "last_checked": "2026-10-12T16:08:20+00:00",
-      "last_count": 443,
+      "last_checked": "2026-10-12T23:02:34+00:00",
+      "last_count": 452,
       "last_error": null,
       "previous": {
         "cohcigars:100:141": {
@@ -4113,7 +4162,7 @@
           "id": "cohcigars:102:149",
           "name": "Hoyo de Monterrey - Epicure No.1 A/T (15 盒)",
           "price": "$ 388.00",
-          "stock": "2",
+          "stock": "1",
           "url": "https://cn.cohcigars.com/cigars-hoyo-de-monterrey"
         },
         "cohcigars:105:154": {
@@ -4526,7 +4575,7 @@
           "id": "cohcigars:154:227",
           "name": "Partagas - Aliados (25 盒)",
           "price": "$ 229.00",
-          "stock": "89",
+          "stock": "87",
           "url": "https://cn.cohcigars.com/cigars-partagas"
         },
         "cohcigars:15545:16209": {
@@ -4869,7 +4918,7 @@
           "id": "cohcigars:202:26938",
           "name": "Romeo Y Julieta - Romeo No.2 A/T (5x2 盒)",
           "price": "$ 149.00",
-          "stock": "35",
+          "stock": "34",
           "url": "https://cn.cohcigars.com/cigars-romeo-y-julieta"
         },
         "cohcigars:202:289": {
@@ -4946,7 +4995,14 @@
           "id": "cohcigars:2052:24352",
           "name": "Trinidad - Robusto Extra Gift Box (3x2 盒)",
           "price": "$ 255.00",
-          "stock": "51",
+          "stock": "49",
+          "url": "https://cn.cohcigars.com/cigars-trinidad"
+        },
+        "cohcigars:20576:21298": {
+          "id": "cohcigars:20576:21298",
+          "name": "Trinidad - 5 Pack- Trinidad: Fundadores, Topes, Esmeralda, Media Luna, Coloniales (12 盒)",
+          "price": "$ 1299.00",
+          "stock": "59",
           "url": "https://cn.cohcigars.com/cigars-trinidad"
         },
         "cohcigars:205:297": {
@@ -4995,7 +5051,7 @@
           "id": "cohcigars:214:2408",
           "name": "Romeo Y Julieta - Mille Fleurs (10 盒)",
           "price": "$ 155.00",
-          "stock": "40",
+          "stock": "39",
           "url": "https://cn.cohcigars.com/cigars-romeo-y-julieta"
         },
         "cohcigars:214:307": {
@@ -5095,6 +5151,20 @@
           "price": "$ 579.00",
           "stock": "9",
           "url": "https://cn.cohcigars.com/cigars-saint-luis-rey"
+        },
+        "cohcigars:23220:24014": {
+          "id": "cohcigars:23220:24014",
+          "name": "Quai Dorsay - 5 Pack- Quai d'Orsay: 54, 52, 50, Imperiales, Especial d'Orsay (20 盒)",
+          "price": "$ 1299.00",
+          "stock": "39",
+          "url": "https://cn.cohcigars.com/cigars-quai-dorsay"
+        },
+        "cohcigars:23220:24015": {
+          "id": "cohcigars:23220:24015",
+          "name": "Quai Dorsay - 5 Pack- Quai d'Orsay: 54, 52, 50, Imperiales, Especial d'Orsay (5 盒)",
+          "price": "$ 425.00",
+          "stock": "91",
+          "url": "https://cn.cohcigars.com/cigars-quai-dorsay"
         },
         "cohcigars:23308:24135": {
           "id": "cohcigars:23308:24135",
@@ -5579,6 +5649,13 @@
           "stock": "10",
           "url": "https://cn.cohcigars.com/cigars-sancho-panza"
         },
+        "cohcigars:248:347": {
+          "id": "cohcigars:248:347",
+          "name": "Trinidad - 5 Pack- Trinidad: Fundadores, Topes, Esmeralda, Media Luna, Coloniales (24 盒)",
+          "price": "$ 990.00",
+          "stock": "1",
+          "url": "https://cn.cohcigars.com/cigars-trinidad"
+        },
         "cohcigars:249:350": {
           "id": "cohcigars:249:350",
           "name": "Trinidad - Fundadores (24 盒)",
@@ -5879,6 +5956,41 @@
           "price": "$ 335.00",
           "stock": "153",
           "url": "https://cn.cohcigars.com/cigars-montecristo"
+        },
+        "cohcigars:27633:28542": {
+          "id": "cohcigars:27633:28542",
+          "name": "Diplomaticos - 5 Pack- Diplo: Bushido, Genios, Norteno, Grandes, Reserva Exclusiva (5 盒)",
+          "price": "$ 490.00",
+          "stock": "100",
+          "url": "https://cn.cohcigars.com/cigars-diplomaticos"
+        },
+        "cohcigars:27634:28543": {
+          "id": "cohcigars:27634:28543",
+          "name": "Montecristo - 5 Pack- Montecristo: 1,2,3,4,5 (5 盒)",
+          "price": "$ 185.00",
+          "stock": "100",
+          "url": "https://cn.cohcigars.com/cigars-montecristo"
+        },
+        "cohcigars:27635:28544": {
+          "id": "cohcigars:27635:28544",
+          "name": "Cohiba - 3 Pack- Cohiba Maduro: Genios, Magicos, Secretos (3 盒)",
+          "price": "$ 390.00",
+          "stock": "100",
+          "url": "https://cn.cohcigars.com/cigars-cohiba"
+        },
+        "cohcigars:27636:28545": {
+          "id": "cohcigars:27636:28545",
+          "name": "Trinidad - 5 Pack- Trinidad: Fundadores, Topes, Esmeralda, Media Luna, Coloniales (5 盒)",
+          "price": "$ 415.00",
+          "stock": "100",
+          "url": "https://cn.cohcigars.com/cigars-trinidad"
+        },
+        "cohcigars:27637:28546": {
+          "id": "cohcigars:27637:28546",
+          "name": "Quai Dorsay - 5 Pack- Quai d'Orsay: 54, 52, 50, Imperiales, Especial d'Orsay (5 盒)",
+          "price": "$ 290.00",
+          "stock": "100",
+          "url": "https://cn.cohcigars.com/cigars-quai-dorsay"
         },
         "cohcigars:278:23680": {
           "id": "cohcigars:278:23680",
@@ -6514,7 +6626,7 @@
           "id": "cohcigars:4768:5152",
           "name": "Por Larranaga - Galanes (10 盒)",
           "price": "$ 305.00",
-          "stock": "12",
+          "stock": "11",
           "url": "https://cn.cohcigars.com/cigars-por-larranaga"
         },
         "cohcigars:4772:20445": {
@@ -8417,8 +8529,8 @@
           "url": "https://www.ihavanas.com/details.php?ptype=cigars&pid=Partagas"
         }
       },
-      "last_checked": "2026-10-12T16:07:59+00:00",
-      "last_count": 188,
+      "last_checked": "2026-10-12T23:02:09+00:00",
+      "last_count": 187,
       "last_error": null,
       "previous": {
         "ihavanas:1006": {
@@ -9308,12 +9420,6 @@
           "name": "Cohiba - Robustos A/T (Box 15)",
           "price": "US$1425.00",
           "url": "https://www.ihavanas.com/details.php?ptype=cigars&pid=Cohiba"
-        },
-        "ihavanas:644": {
-          "id": "ihavanas:644",
-          "name": "Trinidad - Vigia (Box 12)",
-          "price": "US$455.00",
-          "url": "https://www.ihavanas.com/details.php?ptype=cigars&pid=Trinidad"
         },
         "ihavanas:645": {
           "id": "ihavanas:645",
