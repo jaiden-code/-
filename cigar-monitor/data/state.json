@@ -118,7 +118,7 @@
           "id": "cohcigars:1106:24016",
           "name": "Quintero Y Hermano - Favoritos (5 盒)",
           "price": "$ 59.00",
-          "stock": "94",
+          "stock": "87",
           "url": "https://cn.cohcigars.com/cigars-quintero-y-hermano"
         },
         "cohcigars:11070:11720": {
@@ -265,7 +265,7 @@
           "id": "cohcigars:119:176",
           "name": "Juan Lopez - Seleccion No.2 (25 盒)",
           "price": "$ 560.00",
-          "stock": "12",
+          "stock": "11",
           "url": "https://cn.cohcigars.com/cigars-juan-lopez"
         },
         "cohcigars:11:17": {
@@ -356,7 +356,7 @@
           "id": "cohcigars:1242:21527",
           "name": "Romeo Y Julieta - Petit Churchills A/T (3x2 盒)",
           "price": "$ 185.00",
-          "stock": "37",
+          "stock": "36",
           "url": "https://cn.cohcigars.com/cigars-romeo-y-julieta"
         },
         "cohcigars:12460:13117": {
@@ -587,7 +587,7 @@
           "id": "cohcigars:154:227",
           "name": "Partagas - Aliados (25 盒)",
           "price": "$ 229.00",
-          "stock": "87",
+          "stock": "85",
           "url": "https://cn.cohcigars.com/cigars-partagas"
         },
         "cohcigars:15545:16209": {
@@ -601,7 +601,7 @@
           "id": "cohcigars:1556:17327",
           "name": "Cohiba - Robustos A/T (3 盒)",
           "price": "$ 209.00",
-          "stock": "198",
+          "stock": "195",
           "url": "https://cn.cohcigars.com/cigars-cohiba"
         },
         "cohcigars:1556:1751": {
@@ -1203,7 +1203,7 @@
           "id": "cohcigars:21860:22614",
           "name": "Cohiba - Vitosos Travel Humidor (6x10 盒)",
           "price": "$ 245.00",
-          "stock": "56",
+          "stock": "55",
           "url": "https://cn.cohcigars.com/cigars-cohiba"
         },
         "cohcigars:21860:24390": {
@@ -1679,7 +1679,7 @@
           "id": "cohcigars:23878:24706",
           "name": "Trinidad - Robusto Extra Gift Box (10x3 盒)",
           "price": "$ 59.00",
-          "stock": "48",
+          "stock": "47",
           "url": "https://cn.cohcigars.com/cigars-trinidad"
         },
         "cohcigars:23879:24707": {
@@ -2197,7 +2197,7 @@
           "id": "cohcigars:267:21510",
           "name": "Romeo Y Julieta - Puritos (5x10 盒)",
           "price": "$ 90.00",
-          "stock": "87",
+          "stock": "85",
           "url": "https://cn.cohcigars.com/cigars-romeo-y-julieta"
         },
         "cohcigars:267:23689": {
@@ -2421,14 +2421,14 @@
           "id": "cohcigars:287:406",
           "name": "Guantanamera - Cristales (5 x 5 盒)",
           "price": "$ 130.00",
-          "stock": "86",
+          "stock": "84",
           "url": "https://cn.cohcigars.com/cigars-guantanamera"
         },
         "cohcigars:293:17329": {
           "id": "cohcigars:293:17329",
           "name": "Cohiba - Siglo II A/T (3 盒)",
           "price": "$ 109.00",
-          "stock": "178",
+          "stock": "177",
           "url": "https://cn.cohcigars.com/cigars-cohiba"
         },
         "cohcigars:293:412": {
@@ -3345,7 +3345,7 @@
           "id": "cohcigars:4:7",
           "name": "H.Upmann - Magnum 46 (25 盒)",
           "price": "$ 825.00",
-          "stock": "6",
+          "stock": "5",
           "url": "https://cn.cohcigars.com/cigars-h.upmann"
         },
         "cohcigars:50:81": {
@@ -3436,7 +3436,7 @@
           "id": "cohcigars:59:95",
           "name": "Cuaba - Divinos (25 盒)",
           "price": "$ 505.00",
-          "stock": "2",
+          "stock": "1",
           "url": "https://cn.cohcigars.com/cigars-cuaba"
         },
         "cohcigars:614:742": {
@@ -3730,7 +3730,7 @@
           "id": "cohcigars:780:858",
           "name": "Romeo Y Julieta - Wide Churchills (25 盒)",
           "price": "$ 910.00",
-          "stock": "19",
+          "stock": "18",
           "url": "https://cn.cohcigars.com/cigars-romeo-y-julieta"
         },
         "cohcigars:8139:8689": {
@@ -3842,7 +3842,7 @@
           "id": "cohcigars:8822:19989",
           "name": "Partagas - Serie P No.2 (50 盒)",
           "price": "$ 99.00",
-          "stock": "136",
+          "stock": "135",
           "url": "https://cn.cohcigars.com/cigars-partagas"
         },
         "cohcigars:88:621": {
@@ -3856,7 +3856,7 @@
           "id": "cohcigars:8959:9602",
           "name": "Rafael Gonzalez - Coronas de Lonsdales (10 盒)",
           "price": "$ 195.00",
-          "stock": "27",
+          "stock": "24",
           "url": "https://cn.cohcigars.com/cigars-rafael-gonzalez"
         },
         "cohcigars:8963:15587": {
@@ -4126,8 +4126,8 @@
           "url": "https://cn.cohcigars.com/cigars-montecristo"
         }
       },
-      "last_checked": "2026-10-13T07:07:15+00:00",
-      "last_count": 444,
+      "last_checked": "2026-10-13T16:05:02+00:00",
+      "last_count": 443,
       "last_error": null,
       "previous": {
         "cohcigars:100:141": {
@@ -4204,7 +4204,7 @@
           "id": "cohcigars:1106:24016",
           "name": "Quintero Y Hermano - Favoritos (5 盒)",
           "price": "$ 59.00",
-          "stock": "94",
+          "stock": "87",
           "url": "https://cn.cohcigars.com/cigars-quintero-y-hermano"
         },
         "cohcigars:11070:11720": {
@@ -4302,7 +4302,7 @@
           "id": "cohcigars:119:176",
           "name": "Juan Lopez - Seleccion No.2 (25 盒)",
           "price": "$ 560.00",
-          "stock": "12",
+          "stock": "11",
           "url": "https://cn.cohcigars.com/cigars-juan-lopez"
         },
         "cohcigars:11:17": {
@@ -4372,7 +4372,7 @@
           "id": "cohcigars:1242:21527",
           "name": "Romeo Y Julieta - Petit Churchills A/T (3x2 盒)",
           "price": "$ 185.00",
-          "stock": "37",
+          "stock": "36",
           "url": "https://cn.cohcigars.com/cigars-romeo-y-julieta"
         },
         "cohcigars:12460:13117": {
@@ -4568,7 +4568,7 @@
           "id": "cohcigars:154:227",
           "name": "Partagas - Aliados (25 盒)",
           "price": "$ 229.00",
-          "stock": "87",
+          "stock": "85",
           "url": "https://cn.cohcigars.com/cigars-partagas"
         },
         "cohcigars:15545:16209": {
@@ -4582,7 +4582,7 @@
           "id": "cohcigars:1556:17327",
           "name": "Cohiba - Robustos A/T (3 盒)",
           "price": "$ 209.00",
-          "stock": "198",
+          "stock": "195",
           "url": "https://cn.cohcigars.com/cigars-cohiba"
         },
         "cohcigars:1556:1751": {
@@ -5065,7 +5065,7 @@
           "id": "cohcigars:21860:22614",
           "name": "Cohiba - Vitosos Travel Humidor (6x10 盒)",
           "price": "$ 245.00",
-          "stock": "56",
+          "stock": "55",
           "url": "https://cn.cohcigars.com/cigars-cohiba"
         },
         "cohcigars:21860:24390": {
@@ -5464,7 +5464,7 @@
           "id": "cohcigars:23878:24706",
           "name": "Trinidad - Robusto Extra Gift Box (10x3 盒)",
           "price": "$ 59.00",
-          "stock": "48",
+          "stock": "47",
           "url": "https://cn.cohcigars.com/cigars-trinidad"
         },
         "cohcigars:23879:24707": {
@@ -5849,7 +5849,7 @@
           "id": "cohcigars:267:21510",
           "name": "Romeo Y Julieta - Puritos (5x10 盒)",
           "price": "$ 90.00",
-          "stock": "87",
+          "stock": "85",
           "url": "https://cn.cohcigars.com/cigars-romeo-y-julieta"
         },
         "cohcigars:267:23689": {
@@ -5982,14 +5982,14 @@
           "id": "cohcigars:287:406",
           "name": "Guantanamera - Cristales (5 x 5 盒)",
           "price": "$ 130.00",
-          "stock": "86",
+          "stock": "84",
           "url": "https://cn.cohcigars.com/cigars-guantanamera"
         },
         "cohcigars:293:17329": {
           "id": "cohcigars:293:17329",
           "name": "Cohiba - Siglo II A/T (3 盒)",
           "price": "$ 109.00",
-          "stock": "178",
+          "stock": "177",
           "url": "https://cn.cohcigars.com/cigars-cohiba"
         },
         "cohcigars:293:412": {
@@ -6598,7 +6598,7 @@
           "id": "cohcigars:4:7",
           "name": "H.Upmann - Magnum 46 (25 盒)",
           "price": "$ 825.00",
-          "stock": "6",
+          "stock": "5",
           "url": "https://cn.cohcigars.com/cigars-h.upmann"
         },
         "cohcigars:50:81": {
@@ -6682,7 +6682,7 @@
           "id": "cohcigars:59:95",
           "name": "Cuaba - Divinos (25 盒)",
           "price": "$ 505.00",
-          "stock": "2",
+          "stock": "1",
           "url": "https://cn.cohcigars.com/cigars-cuaba"
         },
         "cohcigars:614:742": {
@@ -6719,13 +6719,6 @@
           "price": "$ 550.00",
           "stock": "18",
           "url": "https://cn.cohcigars.com/cigars-cohiba"
-        },
-        "cohcigars:66:104": {
-          "id": "cohcigars:66:104",
-          "name": "Diplomaticos - Grandes RE Alemania 2021 (25 盒)",
-          "price": "$ 599.00",
-          "stock": "4",
-          "url": "https://cn.cohcigars.com/cigars-diplomaticos"
         },
         "cohcigars:683:789": {
           "id": "cohcigars:683:789",
@@ -6948,7 +6941,7 @@
           "id": "cohcigars:780:858",
           "name": "Romeo Y Julieta - Wide Churchills (25 盒)",
           "price": "$ 910.00",
-          "stock": "19",
+          "stock": "18",
           "url": "https://cn.cohcigars.com/cigars-romeo-y-julieta"
         },
         "cohcigars:8139:8689": {
@@ -7046,14 +7039,14 @@
           "id": "cohcigars:8822:19989",
           "name": "Partagas - Serie P No.2 (50 盒)",
           "price": "$ 99.00",
-          "stock": "136",
+          "stock": "135",
           "url": "https://cn.cohcigars.com/cigars-partagas"
         },
         "cohcigars:8959:9602": {
           "id": "cohcigars:8959:9602",
           "name": "Rafael Gonzalez - Coronas de Lonsdales (10 盒)",
           "price": "$ 195.00",
-          "stock": "27",
+          "stock": "24",
           "url": "https://cn.cohcigars.com/cigars-rafael-gonzalez"
         },
         "cohcigars:8963:15587": {
@@ -8473,8 +8466,8 @@
           "url": "https://www.ihavanas.com/details.php?ptype=cigars&pid=Partagas"
         }
       },
-      "last_checked": "2026-10-13T07:06:56+00:00",
-      "last_count": 187,
+      "last_checked": "2026-10-13T16:04:37+00:00",
+      "last_count": 186,
       "last_error": null,
       "previous": {
         "ihavanas:1006": {
@@ -9381,12 +9374,6 @@
           "id": "ihavanas:71",
           "name": "H.Upmann - Connoisseur No.1 (Box 25)",
           "price": "US$695.00",
-          "url": "https://www.ihavanas.com/details.php?ptype=cigars&pid=H.Upmann"
-        },
-        "ihavanas:72": {
-          "id": "ihavanas:72",
-          "name": "H.Upmann - Magnum 46 (Box 25)",
-          "price": "US$705.00",
           "url": "https://www.ihavanas.com/details.php?ptype=cigars&pid=H.Upmann"
         },
         "ihavanas:738": {
