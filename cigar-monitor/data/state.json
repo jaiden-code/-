@@ -27,7 +27,7 @@
           "id": "cohcigars:102:147",
           "name": "Hoyo de Monterrey - Epicure No.2 (25 盒)",
           "price": "$ 735.00",
-          "stock": "11",
+          "stock": "10",
           "url": "https://cn.cohcigars.com/cigars-hoyo-de-monterrey"
         },
         "cohcigars:102:149": {
@@ -265,7 +265,7 @@
           "id": "cohcigars:119:176",
           "name": "Juan Lopez - Seleccion No.2 (25 盒)",
           "price": "$ 560.00",
-          "stock": "10",
+          "stock": "8",
           "url": "https://cn.cohcigars.com/cigars-juan-lopez"
         },
         "cohcigars:11:17": {
@@ -587,7 +587,7 @@
           "id": "cohcigars:154:227",
           "name": "Partagas - Aliados (25 盒)",
           "price": "$ 229.00",
-          "stock": "76",
+          "stock": "75",
           "url": "https://cn.cohcigars.com/cigars-partagas"
         },
         "cohcigars:15545:16209": {
@@ -1063,7 +1063,7 @@
           "id": "cohcigars:203:21571",
           "name": "Romeo Y Julieta - Romeo No.3 A/T (3x2 盒)",
           "price": "$ 135.00",
-          "stock": "11",
+          "stock": "10",
           "url": "https://cn.cohcigars.com/cigars-romeo-y-julieta"
         },
         "cohcigars:203:292": {
@@ -1840,7 +1840,7 @@
           "id": "cohcigars:244:342",
           "name": "Sancho Panza - Non Plus (25 盒)",
           "price": "$ 488.00",
-          "stock": "10",
+          "stock": "8",
           "url": "https://cn.cohcigars.com/cigars-sancho-panza"
         },
         "cohcigars:248:347": {
@@ -3877,7 +3877,7 @@
           "id": "cohcigars:8963:15587",
           "name": "Vegueros - Centrogordos (4x4 盒)",
           "price": "$ 265.00",
-          "stock": "32",
+          "stock": "31",
           "url": "https://cn.cohcigars.com/cigars-vegueros"
         },
         "cohcigars:8963:22877": {
@@ -4080,7 +4080,7 @@
           "id": "cohcigars:9412:10056",
           "name": "Romeo Y Julieta - 5 Pack- Short Churchills (5 盒)",
           "price": "$ 190.00",
-          "stock": "13",
+          "stock": "12",
           "url": "https://cn.cohcigars.com/cigars-romeo-y-julieta"
         },
         "cohcigars:9420:10064": {
@@ -4140,7 +4140,7 @@
           "url": "https://cn.cohcigars.com/cigars-montecristo"
         }
       },
-      "last_checked": "2026-10-14T14:03:00+00:00",
+      "last_checked": "2026-10-14T18:41:30+00:00",
       "last_count": 445,
       "last_error": null,
       "previous": {
@@ -4169,7 +4169,7 @@
           "id": "cohcigars:102:147",
           "name": "Hoyo de Monterrey - Epicure No.2 (25 盒)",
           "price": "$ 735.00",
-          "stock": "11",
+          "stock": "10",
           "url": "https://cn.cohcigars.com/cigars-hoyo-de-monterrey"
         },
         "cohcigars:105:154": {
@@ -4316,7 +4316,7 @@
           "id": "cohcigars:119:176",
           "name": "Juan Lopez - Seleccion No.2 (25 盒)",
           "price": "$ 560.00",
-          "stock": "10",
+          "stock": "8",
           "url": "https://cn.cohcigars.com/cigars-juan-lopez"
         },
         "cohcigars:11:17": {
@@ -4582,7 +4582,7 @@
           "id": "cohcigars:154:227",
           "name": "Partagas - Aliados (25 盒)",
           "price": "$ 229.00",
-          "stock": "76",
+          "stock": "75",
           "url": "https://cn.cohcigars.com/cigars-partagas"
         },
         "cohcigars:15545:16209": {
@@ -4960,7 +4960,7 @@
           "id": "cohcigars:203:21571",
           "name": "Romeo Y Julieta - Romeo No.3 A/T (3x2 盒)",
           "price": "$ 135.00",
-          "stock": "11",
+          "stock": "10",
           "url": "https://cn.cohcigars.com/cigars-romeo-y-julieta"
         },
         "cohcigars:203:292": {
@@ -5632,7 +5632,7 @@
           "id": "cohcigars:244:342",
           "name": "Sancho Panza - Non Plus (25 盒)",
           "price": "$ 488.00",
-          "stock": "10",
+          "stock": "8",
           "url": "https://cn.cohcigars.com/cigars-sancho-panza"
         },
         "cohcigars:249:350": {
@@ -7081,7 +7081,7 @@
           "id": "cohcigars:8963:15587",
           "name": "Vegueros - Centrogordos (4x4 盒)",
           "price": "$ 265.00",
-          "stock": "32",
+          "stock": "31",
           "url": "https://cn.cohcigars.com/cigars-vegueros"
         },
         "cohcigars:908:17330": {
@@ -7221,7 +7221,7 @@
           "id": "cohcigars:9412:10056",
           "name": "Romeo Y Julieta - 5 Pack- Short Churchills (5 盒)",
           "price": "$ 190.00",
-          "stock": "13",
+          "stock": "12",
           "url": "https://cn.cohcigars.com/cigars-romeo-y-julieta"
         },
         "cohcigars:953:1003": {
@@ -8494,7 +8494,7 @@
           "url": "https://www.ihavanas.com/details.php?ptype=cigars&pid=Partagas"
         }
       },
-      "last_checked": "2026-10-14T14:02:40+00:00",
+      "last_checked": "2026-10-14T18:41:10+00:00",
       "last_count": 186,
       "last_error": null,
       "previous": {
