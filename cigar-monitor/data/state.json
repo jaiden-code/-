@@ -118,7 +118,7 @@
           "id": "cohcigars:1106:24016",
           "name": "Quintero Y Hermano - Favoritos (5 盒)",
           "price": "$ 59.00",
-          "stock": "86",
+          "stock": "84",
           "url": "https://cn.cohcigars.com/cigars-quintero-y-hermano"
         },
         "cohcigars:11070:11720": {
@@ -587,7 +587,7 @@
           "id": "cohcigars:154:227",
           "name": "Partagas - Aliados (25 盒)",
           "price": "$ 229.00",
-          "stock": "84",
+          "stock": "76",
           "url": "https://cn.cohcigars.com/cigars-partagas"
         },
         "cohcigars:15545:16209": {
@@ -1217,7 +1217,7 @@
           "id": "cohcigars:21:38",
           "name": "Bolivar - Belicosos Finos (25 盒)",
           "price": "$ 788.00",
-          "stock": "16",
+          "stock": "15",
           "url": "https://cn.cohcigars.com/cigars-bolivar"
         },
         "cohcigars:22284:23046": {
@@ -1273,7 +1273,7 @@
           "id": "cohcigars:230:326",
           "name": "Saint Luis Rey - Regios (25 盒)",
           "price": "$ 579.00",
-          "stock": "9",
+          "stock": "8",
           "url": "https://cn.cohcigars.com/cigars-saint-luis-rey"
         },
         "cohcigars:23220:24014": {
@@ -1630,7 +1630,7 @@
           "id": "cohcigars:235:333",
           "name": "San Cristobal De La Habana - La Punta (25 盒)",
           "price": "$ 692.00",
-          "stock": "5",
+          "stock": "4",
           "url": "https://cn.cohcigars.com/cigars-san-cristobal-de-la-habana"
         },
         "cohcigars:2374:2644": {
@@ -1770,7 +1770,7 @@
           "id": "cohcigars:24442:25283",
           "name": "Cohiba - Siglo II A/T (5x5 盒)",
           "price": "$ 799.00",
-          "stock": "51",
+          "stock": "48",
           "url": "https://cn.cohcigars.com/cigars-cohiba"
         },
         "cohcigars:24443:25285": {
@@ -1868,7 +1868,7 @@
           "id": "cohcigars:2503:2790",
           "name": "Cohiba - Robustos A/T (10 x 10 盒)",
           "price": "$ 169.00",
-          "stock": "81",
+          "stock": "80",
           "url": "https://cn.cohcigars.com/cigars-cohiba"
         },
         "cohcigars:2507:2794": {
@@ -2267,7 +2267,7 @@
           "id": "cohcigars:271:387",
           "name": "Quintero Y Hermano - Panetelas (25 盒)",
           "price": "$ 150.00",
-          "stock": "26",
+          "stock": "25",
           "url": "https://cn.cohcigars.com/cigars-quintero-y-hermano"
         },
         "cohcigars:27373:28278": {
@@ -2347,6 +2347,20 @@
           "stock": "22",
           "url": "https://cn.cohcigars.com/cigars-vintage"
         },
+        "cohcigars:27698:28607": {
+          "id": "cohcigars:27698:28607",
+          "name": "Por Larranaga - 5 Pack- Fenix RE Phoenicia 2021 (5 盒)",
+          "price": "$ 370.00",
+          "stock": "40",
+          "url": "https://cn.cohcigars.com/cigars-por-larranaga"
+        },
+        "cohcigars:27701:28610": {
+          "id": "cohcigars:27701:28610",
+          "name": "La Gloria Cubana - 5 Pack- Glorias LCDH (5 盒)",
+          "price": "$ 355.00",
+          "stock": "50",
+          "url": "https://cn.cohcigars.com/cigars-la-gloria-cubana"
+        },
         "cohcigars:2780:3088": {
           "id": "cohcigars:2780:3088",
           "name": "Vintage - Partagas Serie D No.5 - 2016 (10 盒)",
@@ -2379,7 +2393,7 @@
           "id": "cohcigars:282:6163",
           "name": "Partagas - Cetros Year of the Snake (20x5 盒)",
           "price": "$ 90.00",
-          "stock": "912",
+          "stock": "911",
           "url": "https://cn.cohcigars.com/cigars-partagas"
         },
         "cohcigars:2840:3155": {
@@ -3478,7 +3492,7 @@
           "id": "cohcigars:642:756",
           "name": "Cohiba - Siglo I A/T (15 盒)",
           "price": "$ 550.00",
-          "stock": "18",
+          "stock": "17",
           "url": "https://cn.cohcigars.com/cigars-cohiba"
         },
         "cohcigars:66:104": {
@@ -4126,8 +4140,8 @@
           "url": "https://cn.cohcigars.com/cigars-montecristo"
         }
       },
-      "last_checked": "2026-10-14T08:01:50+00:00",
-      "last_count": 443,
+      "last_checked": "2026-10-14T13:47:50+00:00",
+      "last_count": 445,
       "last_error": null,
       "previous": {
         "cohcigars:100:141": {
@@ -4204,7 +4218,7 @@
           "id": "cohcigars:1106:24016",
           "name": "Quintero Y Hermano - Favoritos (5 盒)",
           "price": "$ 59.00",
-          "stock": "86",
+          "stock": "84",
           "url": "https://cn.cohcigars.com/cigars-quintero-y-hermano"
         },
         "cohcigars:11070:11720": {
@@ -4568,7 +4582,7 @@
           "id": "cohcigars:154:227",
           "name": "Partagas - Aliados (25 盒)",
           "price": "$ 229.00",
-          "stock": "84",
+          "stock": "76",
           "url": "https://cn.cohcigars.com/cigars-partagas"
         },
         "cohcigars:15545:16209": {
@@ -5079,7 +5093,7 @@
           "id": "cohcigars:21:38",
           "name": "Bolivar - Belicosos Finos (25 盒)",
           "price": "$ 788.00",
-          "stock": "16",
+          "stock": "15",
           "url": "https://cn.cohcigars.com/cigars-bolivar"
         },
         "cohcigars:22284:23046": {
@@ -5135,7 +5149,7 @@
           "id": "cohcigars:230:326",
           "name": "Saint Luis Rey - Regios (25 盒)",
           "price": "$ 579.00",
-          "stock": "9",
+          "stock": "8",
           "url": "https://cn.cohcigars.com/cigars-saint-luis-rey"
         },
         "cohcigars:23308:24135": {
@@ -5429,7 +5443,7 @@
           "id": "cohcigars:235:333",
           "name": "San Cristobal De La Habana - La Punta (25 盒)",
           "price": "$ 692.00",
-          "stock": "5",
+          "stock": "4",
           "url": "https://cn.cohcigars.com/cigars-san-cristobal-de-la-habana"
         },
         "cohcigars:2375:2647": {
@@ -5548,7 +5562,7 @@
           "id": "cohcigars:24442:25283",
           "name": "Cohiba - Siglo II A/T (5x5 盒)",
           "price": "$ 799.00",
-          "stock": "51",
+          "stock": "48",
           "url": "https://cn.cohcigars.com/cigars-cohiba"
         },
         "cohcigars:24443:25285": {
@@ -5639,7 +5653,7 @@
           "id": "cohcigars:2503:2790",
           "name": "Cohiba - Robustos A/T (10 x 10 盒)",
           "price": "$ 169.00",
-          "stock": "81",
+          "stock": "80",
           "url": "https://cn.cohcigars.com/cigars-cohiba"
         },
         "cohcigars:25144:26028": {
@@ -5884,7 +5898,7 @@
           "id": "cohcigars:271:387",
           "name": "Quintero Y Hermano - Panetelas (25 盒)",
           "price": "$ 150.00",
-          "stock": "26",
+          "stock": "25",
           "url": "https://cn.cohcigars.com/cigars-quintero-y-hermano"
         },
         "cohcigars:27373:28278": {
@@ -5936,6 +5950,20 @@
           "stock": "100",
           "url": "https://cn.cohcigars.com/cigars-cohiba"
         },
+        "cohcigars:27698:28607": {
+          "id": "cohcigars:27698:28607",
+          "name": "Por Larranaga - 5 Pack- Fenix RE Phoenicia 2021 (5 盒)",
+          "price": "$ 370.00",
+          "stock": "40",
+          "url": "https://cn.cohcigars.com/cigars-por-larranaga"
+        },
+        "cohcigars:27701:28610": {
+          "id": "cohcigars:27701:28610",
+          "name": "La Gloria Cubana - 5 Pack- Glorias LCDH (5 盒)",
+          "price": "$ 355.00",
+          "stock": "50",
+          "url": "https://cn.cohcigars.com/cigars-la-gloria-cubana"
+        },
         "cohcigars:278:23680": {
           "id": "cohcigars:278:23680",
           "name": "Montecristo - 80 Aniversario 2016 (20x5 盒)",
@@ -5961,7 +5989,7 @@
           "id": "cohcigars:282:6163",
           "name": "Partagas - Cetros Year of the Snake (20x5 盒)",
           "price": "$ 90.00",
-          "stock": "912",
+          "stock": "911",
           "url": "https://cn.cohcigars.com/cigars-partagas"
         },
         "cohcigars:2863:3180": {
@@ -6717,7 +6745,7 @@
           "id": "cohcigars:642:756",
           "name": "Cohiba - Siglo I A/T (15 盒)",
           "price": "$ 550.00",
-          "stock": "18",
+          "stock": "17",
           "url": "https://cn.cohcigars.com/cigars-cohiba"
         },
         "cohcigars:683:789": {
@@ -8466,7 +8494,7 @@
           "url": "https://www.ihavanas.com/details.php?ptype=cigars&pid=Partagas"
         }
       },
-      "last_checked": "2026-10-14T08:01:26+00:00",
+      "last_checked": "2026-10-14T13:47:24+00:00",
       "last_count": 186,
       "last_error": null,
       "previous": {
