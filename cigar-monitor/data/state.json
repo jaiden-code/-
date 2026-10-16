@@ -181,7 +181,7 @@
           "id": "cohcigars:11208:11857",
           "name": "Partagas - Cetros Year of the Snake (20 盒)",
           "price": "$ 1200.00",
-          "stock": "12",
+          "stock": "11",
           "url": "https://cn.cohcigars.com/cigars-partagas"
         },
         "cohcigars:11209:11858": {
@@ -587,7 +587,7 @@
           "id": "cohcigars:154:227",
           "name": "Partagas - Aliados (25 盒)",
           "price": "$ 229.00",
-          "stock": "72",
+          "stock": "69",
           "url": "https://cn.cohcigars.com/cigars-partagas"
         },
         "cohcigars:15545:16209": {
@@ -601,7 +601,7 @@
           "id": "cohcigars:1556:17327",
           "name": "Cohiba - Robustos A/T (3 盒)",
           "price": "$ 209.00",
-          "stock": "195",
+          "stock": "194",
           "url": "https://cn.cohcigars.com/cigars-cohiba"
         },
         "cohcigars:1556:1751": {
@@ -671,7 +671,7 @@
           "id": "cohcigars:1679:1902",
           "name": "Cohiba - Robusto Supremos EL 2014 (10 盒)",
           "price": "$ 4500.00",
-          "stock": "5",
+          "stock": "4",
           "url": "https://cn.cohcigars.com/cigars-cohiba"
         },
         "cohcigars:16:30": {
@@ -1749,7 +1749,7 @@
           "id": "cohcigars:24440:25279",
           "name": "Cohiba - Robusto C/P (15 盒)",
           "price": "$ 1490.00",
-          "stock": "19",
+          "stock": "18",
           "url": "https://cn.cohcigars.com/cigars-cohiba"
         },
         "cohcigars:24440:25280": {
@@ -1777,7 +1777,7 @@
           "id": "cohcigars:24443:25285",
           "name": "Cohiba - Siglo III C/P (5x5 盒)",
           "price": "$ 1790.00",
-          "stock": "10",
+          "stock": "9",
           "url": "https://cn.cohcigars.com/cigars-cohiba"
         },
         "cohcigars:24445:25289": {
@@ -1903,7 +1903,7 @@
           "id": "cohcigars:251:355",
           "name": "Trinidad - Fundadores (24 盒)",
           "price": "$ 605.00",
-          "stock": "3",
+          "stock": "2",
           "url": "https://cn.cohcigars.com/cigars-trinidad"
         },
         "cohcigars:251:356": {
@@ -2456,7 +2456,7 @@
           "id": "cohcigars:2942:3273",
           "name": "Romeo Y Julieta - Petit Royales (25 盒)",
           "price": "$ 410.00",
-          "stock": "30",
+          "stock": "29",
           "url": "https://cn.cohcigars.com/cigars-romeo-y-julieta"
         },
         "cohcigars:294:413": {
@@ -3366,7 +3366,7 @@
           "id": "cohcigars:50:81",
           "name": "Cohiba - Siglo VI (10 盒)",
           "price": "$ 1510.00",
-          "stock": "96",
+          "stock": "95",
           "url": "https://cn.cohcigars.com/cigars-cohiba"
         },
         "cohcigars:5142:5552": {
@@ -3394,7 +3394,7 @@
           "id": "cohcigars:5381:5818",
           "name": "Saint Luis Rey - Herfing RE Medio Oriente 2017 (10 盒)",
           "price": "$ 455.00",
-          "stock": "78",
+          "stock": "77",
           "url": "https://cn.cohcigars.com/cigars-saint-luis-rey"
         },
         "cohcigars:53:86": {
@@ -3737,7 +3737,7 @@
           "id": "cohcigars:779:28364",
           "name": "Partagas - Serie D No.4 A/T (3x2 盒)",
           "price": "$ 219.00",
-          "stock": "35",
+          "stock": "34",
           "url": "https://cn.cohcigars.com/cigars-partagas"
         },
         "cohcigars:780:858": {
@@ -4059,7 +4059,7 @@
           "id": "cohcigars:9350:9994",
           "name": "Cohiba - Ambar (10 盒)",
           "price": "$ 1450.00",
-          "stock": "15",
+          "stock": "14",
           "url": "https://cn.cohcigars.com/cigars-cohiba"
         },
         "cohcigars:935:982": {
@@ -4140,7 +4140,7 @@
           "url": "https://cn.cohcigars.com/cigars-montecristo"
         }
       },
-      "last_checked": "2026-10-16T00:46:13+00:00",
+      "last_checked": "2026-10-16T05:07:40+00:00",
       "last_count": 444,
       "last_error": null,
       "previous": {
@@ -4260,7 +4260,7 @@
           "id": "cohcigars:11208:11857",
           "name": "Partagas - Cetros Year of the Snake (20 盒)",
           "price": "$ 1200.00",
-          "stock": "12",
+          "stock": "11",
           "url": "https://cn.cohcigars.com/cigars-partagas"
         },
         "cohcigars:11209:11858": {
@@ -4575,7 +4575,7 @@
           "id": "cohcigars:154:227",
           "name": "Partagas - Aliados (25 盒)",
           "price": "$ 229.00",
-          "stock": "72",
+          "stock": "69",
           "url": "https://cn.cohcigars.com/cigars-partagas"
         },
         "cohcigars:15545:16209": {
@@ -4589,7 +4589,7 @@
           "id": "cohcigars:1556:17327",
           "name": "Cohiba - Robustos A/T (3 盒)",
           "price": "$ 209.00",
-          "stock": "195",
+          "stock": "194",
           "url": "https://cn.cohcigars.com/cigars-cohiba"
         },
         "cohcigars:1556:1751": {
@@ -4645,7 +4645,7 @@
           "id": "cohcigars:1679:1902",
           "name": "Cohiba - Robusto Supremos EL 2014 (10 盒)",
           "price": "$ 4500.00",
-          "stock": "5",
+          "stock": "4",
           "url": "https://cn.cohcigars.com/cigars-cohiba"
         },
         "cohcigars:16:30": {
@@ -5534,7 +5534,7 @@
           "id": "cohcigars:24440:25279",
           "name": "Cohiba - Robusto C/P (15 盒)",
           "price": "$ 1490.00",
-          "stock": "19",
+          "stock": "18",
           "url": "https://cn.cohcigars.com/cigars-cohiba"
         },
         "cohcigars:24440:25280": {
@@ -5562,7 +5562,7 @@
           "id": "cohcigars:24443:25285",
           "name": "Cohiba - Siglo III C/P (5x5 盒)",
           "price": "$ 1790.00",
-          "stock": "10",
+          "stock": "9",
           "url": "https://cn.cohcigars.com/cigars-cohiba"
         },
         "cohcigars:24445:25289": {
@@ -5660,7 +5660,7 @@
           "id": "cohcigars:251:355",
           "name": "Trinidad - Fundadores (24 盒)",
           "price": "$ 605.00",
-          "stock": "3",
+          "stock": "2",
           "url": "https://cn.cohcigars.com/cigars-trinidad"
         },
         "cohcigars:251:356": {
@@ -6024,7 +6024,7 @@
           "id": "cohcigars:2942:3273",
           "name": "Romeo Y Julieta - Petit Royales (25 盒)",
           "price": "$ 410.00",
-          "stock": "30",
+          "stock": "29",
           "url": "https://cn.cohcigars.com/cigars-romeo-y-julieta"
         },
         "cohcigars:296:22633": {
@@ -6626,7 +6626,7 @@
           "id": "cohcigars:50:81",
           "name": "Cohiba - Siglo VI (10 盒)",
           "price": "$ 1510.00",
-          "stock": "96",
+          "stock": "95",
           "url": "https://cn.cohcigars.com/cigars-cohiba"
         },
         "cohcigars:5142:5552": {
@@ -6647,7 +6647,7 @@
           "id": "cohcigars:5381:5818",
           "name": "Saint Luis Rey - Herfing RE Medio Oriente 2017 (10 盒)",
           "price": "$ 455.00",
-          "stock": "78",
+          "stock": "77",
           "url": "https://cn.cohcigars.com/cigars-saint-luis-rey"
         },
         "cohcigars:53:86": {
@@ -6955,7 +6955,7 @@
           "id": "cohcigars:779:28364",
           "name": "Partagas - Serie D No.4 A/T (3x2 盒)",
           "price": "$ 219.00",
-          "stock": "35",
+          "stock": "34",
           "url": "https://cn.cohcigars.com/cigars-partagas"
         },
         "cohcigars:780:858": {
@@ -7193,7 +7193,7 @@
           "id": "cohcigars:9350:9994",
           "name": "Cohiba - Ambar (10 盒)",
           "price": "$ 1450.00",
-          "stock": "15",
+          "stock": "14",
           "url": "https://cn.cohcigars.com/cigars-cohiba"
         },
         "cohcigars:935:982": {
@@ -8487,7 +8487,7 @@
           "url": "https://www.ihavanas.com/details.php?ptype=cigars&pid=Partagas"
         }
       },
-      "last_checked": "2026-10-16T00:45:52+00:00",
+      "last_checked": "2026-10-16T05:07:16+00:00",
       "last_count": 186,
       "last_error": null,
       "previous": {
