@@ -118,7 +118,7 @@
           "id": "cohcigars:1106:24016",
           "name": "Quintero Y Hermano - Favoritos (5 盒)",
           "price": "$ 59.00",
-          "stock": "79",
+          "stock": "77",
           "url": "https://cn.cohcigars.com/cigars-quintero-y-hermano"
         },
         "cohcigars:11070:11720": {
@@ -160,7 +160,7 @@
           "id": "cohcigars:111:20573",
           "name": "Hoyo de Monterrey - Petit Robustos (3x2 盒)",
           "price": "$ 180.00",
-          "stock": "101",
+          "stock": "100",
           "url": "https://cn.cohcigars.com/cigars-hoyo-de-monterrey"
         },
         "cohcigars:11205:11854": {
@@ -706,7 +706,7 @@
           "id": "cohcigars:1730:21528",
           "name": "Vegueros - Mananitas (4 盒)",
           "price": "$ 60.00",
-          "stock": "24",
+          "stock": "23",
           "url": "https://cn.cohcigars.com/cigars-vegueros"
         },
         "cohcigars:1731:1963": {
@@ -1917,7 +1917,7 @@
           "id": "cohcigars:251:356",
           "name": "Trinidad - Fundadores (12 盒)",
           "price": "$ 390.00",
-          "stock": "16",
+          "stock": "15",
           "url": "https://cn.cohcigars.com/cigars-trinidad"
         },
         "cohcigars:252:358": {
@@ -3884,7 +3884,7 @@
           "id": "cohcigars:8959:9602",
           "name": "Rafael Gonzalez - Coronas de Lonsdales (10 盒)",
           "price": "$ 195.00",
-          "stock": "20",
+          "stock": "19",
           "url": "https://cn.cohcigars.com/cigars-rafael-gonzalez"
         },
         "cohcigars:8963:15587": {
@@ -4161,8 +4161,8 @@
           "url": "https://cn.cohcigars.com/cigars-montecristo"
         }
       },
-      "last_checked": "2026-10-16T13:18:40+00:00",
-      "last_count": 450,
+      "last_checked": "2026-10-16T16:58:03+00:00",
+      "last_count": 449,
       "last_error": null,
       "previous": {
         "cohcigars:100:141": {
@@ -4239,7 +4239,7 @@
           "id": "cohcigars:1106:24016",
           "name": "Quintero Y Hermano - Favoritos (5 盒)",
           "price": "$ 59.00",
-          "stock": "79",
+          "stock": "77",
           "url": "https://cn.cohcigars.com/cigars-quintero-y-hermano"
         },
         "cohcigars:11070:11720": {
@@ -4267,7 +4267,7 @@
           "id": "cohcigars:111:20573",
           "name": "Hoyo de Monterrey - Petit Robustos (3x2 盒)",
           "price": "$ 180.00",
-          "stock": "101",
+          "stock": "100",
           "url": "https://cn.cohcigars.com/cigars-hoyo-de-monterrey"
         },
         "cohcigars:11205:11854": {
@@ -4715,7 +4715,7 @@
           "id": "cohcigars:1730:21528",
           "name": "Vegueros - Mananitas (4 盒)",
           "price": "$ 60.00",
-          "stock": "24",
+          "stock": "23",
           "url": "https://cn.cohcigars.com/cigars-vegueros"
         },
         "cohcigars:1731:20576": {
@@ -5709,7 +5709,7 @@
           "id": "cohcigars:251:356",
           "name": "Trinidad - Fundadores (12 盒)",
           "price": "$ 390.00",
-          "stock": "16",
+          "stock": "15",
           "url": "https://cn.cohcigars.com/cigars-trinidad"
         },
         "cohcigars:252:358": {
@@ -6748,13 +6748,6 @@
           "stock": "10",
           "url": "https://cn.cohcigars.com/cigars-cuaba"
         },
-        "cohcigars:59:95": {
-          "id": "cohcigars:59:95",
-          "name": "Cuaba - Divinos (25 盒)",
-          "price": "$ 505.00",
-          "stock": "1",
-          "url": "https://cn.cohcigars.com/cigars-cuaba"
-        },
         "cohcigars:614:742": {
           "id": "cohcigars:614:742",
           "name": "Bolivar - Royal Coronas A/T (10 盒)",
@@ -7123,7 +7116,7 @@
           "id": "cohcigars:8959:9602",
           "name": "Rafael Gonzalez - Coronas de Lonsdales (10 盒)",
           "price": "$ 195.00",
-          "stock": "20",
+          "stock": "19",
           "url": "https://cn.cohcigars.com/cigars-rafael-gonzalez"
         },
         "cohcigars:8963:15587": {
@@ -8550,7 +8543,7 @@
           "url": "https://www.ihavanas.com/details.php?ptype=cigars&pid=Partagas"
         }
       },
-      "last_checked": "2026-10-16T13:18:22+00:00",
+      "last_checked": "2026-10-16T16:57:42+00:00",
       "last_count": 186,
       "last_error": null,
       "previous": {
