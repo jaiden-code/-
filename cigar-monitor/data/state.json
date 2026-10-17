@@ -69,7 +69,7 @@
           "id": "cohcigars:10801:11453",
           "name": "Quai Dorsay - No.52 (10 盒)",
           "price": "$ 370.00",
-          "stock": "20",
+          "stock": "19",
           "url": "https://cn.cohcigars.com/cigars-quai-dorsay"
         },
         "cohcigars:10847:11499": {
@@ -587,7 +587,7 @@
           "id": "cohcigars:154:227",
           "name": "Partagas - Aliados (25 盒)",
           "price": "$ 229.00",
-          "stock": "64",
+          "stock": "62",
           "url": "https://cn.cohcigars.com/cigars-partagas"
         },
         "cohcigars:15545:16209": {
@@ -2204,7 +2204,7 @@
           "id": "cohcigars:267:21510",
           "name": "Romeo Y Julieta - Puritos (5x10 盒)",
           "price": "$ 90.00",
-          "stock": "85",
+          "stock": "83",
           "url": "https://cn.cohcigars.com/cigars-romeo-y-julieta"
         },
         "cohcigars:267:23689": {
@@ -2323,7 +2323,7 @@
           "id": "cohcigars:27634:28543",
           "name": "Montecristo - 5 Pack- Montecristo Wide Edmundo (5 盒)",
           "price": "$ 145.00",
-          "stock": "97",
+          "stock": "95",
           "url": "https://cn.cohcigars.com/cigars-montecristo"
         },
         "cohcigars:27635:28544": {
@@ -3499,7 +3499,7 @@
           "id": "cohcigars:642:21493",
           "name": "Cohiba - Siglo I A/T (3x2 盒)",
           "price": "$ 165.00",
-          "stock": "100",
+          "stock": "99",
           "url": "https://cn.cohcigars.com/cigars-cohiba"
         },
         "cohcigars:642:756": {
@@ -3982,7 +3982,7 @@
           "id": "cohcigars:9240:9885",
           "name": "La Gloria Cubana - Turquinos (10 盒)",
           "price": "$ 345.00",
-          "stock": "38",
+          "stock": "37",
           "url": "https://cn.cohcigars.com/cigars-la-gloria-cubana"
         },
         "cohcigars:9247:9892": {
@@ -4161,7 +4161,7 @@
           "url": "https://cn.cohcigars.com/cigars-montecristo"
         }
       },
-      "last_checked": "2026-10-17T12:14:40+00:00",
+      "last_checked": "2026-10-17T18:59:03+00:00",
       "last_count": 449,
       "last_error": null,
       "previous": {
@@ -4211,7 +4211,7 @@
           "id": "cohcigars:10801:11453",
           "name": "Quai Dorsay - No.52 (10 盒)",
           "price": "$ 370.00",
-          "stock": "20",
+          "stock": "19",
           "url": "https://cn.cohcigars.com/cigars-quai-dorsay"
         },
         "cohcigars:10:15": {
@@ -4610,7 +4610,7 @@
           "id": "cohcigars:154:227",
           "name": "Partagas - Aliados (25 盒)",
           "price": "$ 229.00",
-          "stock": "64",
+          "stock": "62",
           "url": "https://cn.cohcigars.com/cigars-partagas"
         },
         "cohcigars:15545:16209": {
@@ -5898,7 +5898,7 @@
           "id": "cohcigars:267:21510",
           "name": "Romeo Y Julieta - Puritos (5x10 盒)",
           "price": "$ 90.00",
-          "stock": "85",
+          "stock": "83",
           "url": "https://cn.cohcigars.com/cigars-romeo-y-julieta"
         },
         "cohcigars:267:23689": {
@@ -5975,7 +5975,7 @@
           "id": "cohcigars:27634:28543",
           "name": "Montecristo - 5 Pack- Montecristo Wide Edmundo (5 盒)",
           "price": "$ 145.00",
-          "stock": "97",
+          "stock": "95",
           "url": "https://cn.cohcigars.com/cigars-montecristo"
         },
         "cohcigars:27635:28544": {
@@ -6780,7 +6780,7 @@
           "id": "cohcigars:642:21493",
           "name": "Cohiba - Siglo I A/T (3x2 盒)",
           "price": "$ 165.00",
-          "stock": "100",
+          "stock": "99",
           "url": "https://cn.cohcigars.com/cigars-cohiba"
         },
         "cohcigars:642:756": {
@@ -7186,7 +7186,7 @@
           "id": "cohcigars:9240:9885",
           "name": "La Gloria Cubana - Turquinos (10 盒)",
           "price": "$ 345.00",
-          "stock": "38",
+          "stock": "37",
           "url": "https://cn.cohcigars.com/cigars-la-gloria-cubana"
         },
         "cohcigars:924:967": {
@@ -8543,7 +8543,7 @@
           "url": "https://www.ihavanas.com/details.php?ptype=cigars&pid=Partagas"
         }
       },
-      "last_checked": "2026-10-17T12:14:15+00:00",
+      "last_checked": "2026-10-17T18:50:37+00:00",
       "last_count": 186,
       "last_error": null,
       "previous": {
