@@ -69,7 +69,7 @@
           "id": "cohcigars:10801:11453",
           "name": "Quai Dorsay - No.52 (10 盒)",
           "price": "$ 370.00",
-          "stock": "15",
+          "stock": "14",
           "url": "https://cn.cohcigars.com/cigars-quai-dorsay"
         },
         "cohcigars:10847:11499": {
@@ -258,7 +258,7 @@
           "id": "cohcigars:1191:1290",
           "name": "Hoyo de Monterrey - Epicure De Luxe (10 盒)",
           "price": "$ 355.00",
-          "stock": "6",
+          "stock": "5",
           "url": "https://cn.cohcigars.com/cigars-hoyo-de-monterrey"
         },
         "cohcigars:119:176": {
@@ -699,7 +699,7 @@
           "id": "cohcigars:1708:1939",
           "name": "Trinidad - Robusto Extra Gift Box (12 盒)",
           "price": "$ 499.00",
-          "stock": "34",
+          "stock": "33",
           "url": "https://cn.cohcigars.com/cigars-trinidad"
         },
         "cohcigars:170:248": {
@@ -1224,7 +1224,7 @@
           "id": "cohcigars:21:38",
           "name": "Bolivar - Belicosos Finos (25 盒)",
           "price": "$ 788.00",
-          "stock": "12",
+          "stock": "11",
           "url": "https://cn.cohcigars.com/cigars-bolivar"
         },
         "cohcigars:22284:23046": {
@@ -1882,7 +1882,7 @@
           "id": "cohcigars:2503:2790",
           "name": "Cohiba - Robustos A/T (10 x 10 盒)",
           "price": "$ 169.00",
-          "stock": "74",
+          "stock": "73",
           "url": "https://cn.cohcigars.com/cigars-cohiba"
         },
         "cohcigars:2507:2794": {
@@ -3079,7 +3079,7 @@
           "id": "cohcigars:366:541",
           "name": "Hoyo de Monterrey - Epicure Especial (10 盒)",
           "price": "$ 380.00",
-          "stock": "100",
+          "stock": "99",
           "url": "https://cn.cohcigars.com/cigars-hoyo-de-monterrey"
         },
         "cohcigars:368:594": {
@@ -4385,7 +4385,7 @@
           "url": "https://cn.cohcigars.com/cigars-montecristo"
         }
       },
-      "last_checked": "2026-10-22T17:38:48+00:00",
+      "last_checked": "2026-10-22T21:42:24+00:00",
       "last_count": 482,
       "last_error": null,
       "previous": {
@@ -4435,7 +4435,7 @@
           "id": "cohcigars:10801:11453",
           "name": "Quai Dorsay - No.52 (10 盒)",
           "price": "$ 370.00",
-          "stock": "15",
+          "stock": "14",
           "url": "https://cn.cohcigars.com/cigars-quai-dorsay"
         },
         "cohcigars:10:15": {
@@ -4554,7 +4554,7 @@
           "id": "cohcigars:1191:1290",
           "name": "Hoyo de Monterrey - Epicure De Luxe (10 盒)",
           "price": "$ 355.00",
-          "stock": "6",
+          "stock": "5",
           "url": "https://cn.cohcigars.com/cigars-hoyo-de-monterrey"
         },
         "cohcigars:119:176": {
@@ -4925,7 +4925,7 @@
           "id": "cohcigars:1708:1939",
           "name": "Trinidad - Robusto Extra Gift Box (12 盒)",
           "price": "$ 499.00",
-          "stock": "34",
+          "stock": "33",
           "url": "https://cn.cohcigars.com/cigars-trinidad"
         },
         "cohcigars:170:248": {
@@ -5352,7 +5352,7 @@
           "id": "cohcigars:21:38",
           "name": "Bolivar - Belicosos Finos (25 盒)",
           "price": "$ 788.00",
-          "stock": "12",
+          "stock": "11",
           "url": "https://cn.cohcigars.com/cigars-bolivar"
         },
         "cohcigars:22284:23046": {
@@ -5919,7 +5919,7 @@
           "id": "cohcigars:2503:2790",
           "name": "Cohiba - Robustos A/T (10 x 10 盒)",
           "price": "$ 169.00",
-          "stock": "74",
+          "stock": "73",
           "url": "https://cn.cohcigars.com/cigars-cohiba"
         },
         "cohcigars:25144:26028": {
@@ -6738,7 +6738,7 @@
           "id": "cohcigars:366:541",
           "name": "Hoyo de Monterrey - Epicure Especial (10 盒)",
           "price": "$ 380.00",
-          "stock": "100",
+          "stock": "99",
           "url": "https://cn.cohcigars.com/cigars-hoyo-de-monterrey"
         },
         "cohcigars:368:594": {
@@ -8998,7 +8998,7 @@
           "url": "https://www.ihavanas.com/details.php?ptype=cigars&pid=Partagas"
         }
       },
-      "last_checked": "2026-10-22T17:38:21+00:00",
+      "last_checked": "2026-10-22T21:42:00+00:00",
       "last_count": 185,
       "last_error": null,
       "previous": {
