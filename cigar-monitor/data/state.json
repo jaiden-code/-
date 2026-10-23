@@ -27,7 +27,7 @@
           "id": "cohcigars:102:147",
           "name": "Hoyo de Monterrey - Epicure No.2 (25 盒)",
           "price": "$ 735.00",
-          "stock": "7",
+          "stock": "6",
           "url": "https://cn.cohcigars.com/cigars-hoyo-de-monterrey"
         },
         "cohcigars:102:149": {
@@ -601,7 +601,7 @@
           "id": "cohcigars:1554:1749",
           "name": "Vegueros - Mananitas (16 盒)",
           "price": "$ 199.00",
-          "stock": "76",
+          "stock": "65",
           "url": "https://cn.cohcigars.com/cigars-vegueros"
         },
         "cohcigars:1556:17327": {
@@ -1189,7 +1189,7 @@
           "id": "cohcigars:214:307",
           "name": "Romeo Y Julieta - Mille Fleurs (25 盒)",
           "price": "$ 339.00",
-          "stock": "12",
+          "stock": "11",
           "url": "https://cn.cohcigars.com/cigars-romeo-y-julieta"
         },
         "cohcigars:216:309": {
@@ -1210,7 +1210,7 @@
           "id": "cohcigars:21860:22614",
           "name": "Cohiba - Vitosos Travel Humidor (6x10 盒)",
           "price": "$ 245.00",
-          "stock": "49",
+          "stock": "47",
           "url": "https://cn.cohcigars.com/cigars-cohiba"
         },
         "cohcigars:21860:24390": {
@@ -1350,7 +1350,7 @@
           "id": "cohcigars:23314:24141",
           "name": "Singles 6 Stick Min - 1 x H.Upmann Coronas Major A/T (1 盒)",
           "price": "$ 24.00",
-          "stock": "13",
+          "stock": "12",
           "url": "https://cn.cohcigars.com/cigars-singles-6-stick-min"
         },
         "cohcigars:23315:24142": {
@@ -1378,7 +1378,7 @@
           "id": "cohcigars:23319:24146",
           "name": "Singles 6 Stick Min - 1 x Hoyo de Monterrey Le Hoyo Du Maire (1 盒)",
           "price": "$ 16.00",
-          "stock": "61",
+          "stock": "60",
           "url": "https://cn.cohcigars.com/cigars-singles-6-stick-min"
         },
         "cohcigars:23320:24147": {
@@ -2603,7 +2603,7 @@
           "id": "cohcigars:3046:3354",
           "name": "Singles 6 Stick Min - 1 x Por Larranaga Petit Coronas (1 盒)",
           "price": "$ 17.00",
-          "stock": "186",
+          "stock": "185",
           "url": "https://cn.cohcigars.com/cigars-singles-6-stick-min"
         },
         "cohcigars:3048:3356": {
@@ -2680,7 +2680,7 @@
           "id": "cohcigars:3060:3368",
           "name": "Singles 6 Stick Min - 1 x San Cristobal El Principe (1 盒)",
           "price": "$ 18.00",
-          "stock": "99",
+          "stock": "98",
           "url": "https://cn.cohcigars.com/cigars-singles-6-stick-min"
         },
         "cohcigars:3061:3369": {
@@ -2778,7 +2778,7 @@
           "id": "cohcigars:3078:3385",
           "name": "Singles 6 Stick Min - 1 x Montecristo Edmundo (1 盒)",
           "price": "$ 35.00",
-          "stock": "200",
+          "stock": "199",
           "url": "https://cn.cohcigars.com/cigars-singles-6-stick-min"
         },
         "cohcigars:3079:3386": {
@@ -2799,7 +2799,7 @@
           "id": "cohcigars:30:49",
           "name": "Bolivar - Royal Coronas (25 盒)",
           "price": "$ 665.00",
-          "stock": "10",
+          "stock": "9",
           "url": "https://cn.cohcigars.com/cigars-bolivar"
         },
         "cohcigars:3239:3542": {
@@ -2827,7 +2827,7 @@
           "id": "cohcigars:3266:3569",
           "name": "Singles 6 Stick Min - 1 x Partagas Lusitanias (1 盒)",
           "price": "$ 65.00",
-          "stock": "13",
+          "stock": "11",
           "url": "https://cn.cohcigars.com/cigars-singles-6-stick-min"
         },
         "cohcigars:3272:3575": {
@@ -2841,7 +2841,7 @@
           "id": "cohcigars:3273:3576",
           "name": "Singles 6 Stick Min - 1 x Vegas Robaina Famosos (1 盒)",
           "price": "$ 23.00",
-          "stock": "82",
+          "stock": "78",
           "url": "https://cn.cohcigars.com/cigars-singles-6-stick-min"
         },
         "cohcigars:3274:3577": {
@@ -2967,7 +2967,7 @@
           "id": "cohcigars:3493:3796",
           "name": "Singles 6 Stick Min - 1 x Hoyo de Monterrey Petit Robustos (1 盒)",
           "price": "$ 22.00",
-          "stock": "193",
+          "stock": "192",
           "url": "https://cn.cohcigars.com/cigars-singles-6-stick-min"
         },
         "cohcigars:3494:3798": {
@@ -2988,7 +2988,7 @@
           "id": "cohcigars:3496:3799",
           "name": "Singles 6 Stick Min - 1 x Montecristo Petit Edmundo (1 盒)",
           "price": "$ 27.00",
-          "stock": "145",
+          "stock": "144",
           "url": "https://cn.cohcigars.com/cigars-singles-6-stick-min"
         },
         "cohcigars:3498:3801": {
@@ -3597,7 +3597,7 @@
           "id": "cohcigars:54:5459",
           "name": "Cohiba - Ambar (20x5 盒)",
           "price": "$ 115.00",
-          "stock": "291",
+          "stock": "290",
           "url": "https://cn.cohcigars.com/cigars-cohiba"
         },
         "cohcigars:55:5170": {
@@ -3660,7 +3660,7 @@
           "id": "cohcigars:615:743",
           "name": "Punch - Punch (10 盒)",
           "price": "$ 290.00",
-          "stock": "100",
+          "stock": "99",
           "url": "https://cn.cohcigars.com/cigars-punch"
         },
         "cohcigars:62:99": {
@@ -3695,7 +3695,7 @@
           "id": "cohcigars:66:104",
           "name": "Diplomaticos - Grandes RE Alemania 2021 (25 盒)",
           "price": "$ 599.00",
-          "stock": "39",
+          "stock": "38",
           "url": "https://cn.cohcigars.com/cigars-diplomaticos"
         },
         "cohcigars:683:789": {
@@ -3758,7 +3758,7 @@
           "id": "cohcigars:7009:7521",
           "name": "Singles 6 Stick Min - 1 x Romeo Y Julieta Coronitas En Cedros (1 盒)",
           "price": "$ 18.00",
-          "stock": "177",
+          "stock": "176",
           "url": "https://cn.cohcigars.com/cigars-singles-6-stick-min"
         },
         "cohcigars:7010:7522": {
@@ -3786,7 +3786,7 @@
           "id": "cohcigars:7016:7528",
           "name": "Singles 6 Stick Min - 1 x Romeo Y Julieta Cedros de Luxe No.2 (1 盒)",
           "price": "$ 24.00",
-          "stock": "60",
+          "stock": "59",
           "url": "https://cn.cohcigars.com/cigars-singles-6-stick-min"
         },
         "cohcigars:7017:7530": {
@@ -3821,14 +3821,14 @@
           "id": "cohcigars:7208:7716",
           "name": "Singles 6 Stick Min - 1 x Bolivar Petit Coronas (1 盒)",
           "price": "$ 20.00",
-          "stock": "193",
+          "stock": "192",
           "url": "https://cn.cohcigars.com/cigars-singles-6-stick-min"
         },
         "cohcigars:7211:7719": {
           "id": "cohcigars:7211:7719",
           "name": "Singles 6 Stick Min - 1 x H.Upmann Magnum 50 (1 盒)",
           "price": "$ 38.00",
-          "stock": "187",
+          "stock": "186",
           "url": "https://cn.cohcigars.com/cigars-singles-6-stick-min"
         },
         "cohcigars:7212:7720": {
@@ -3842,7 +3842,7 @@
           "id": "cohcigars:7214:7722",
           "name": "Singles 6 Stick Min - 1 x Hoyo de Monterrey Palmas Extra (1 盒)",
           "price": "$ 20.00",
-          "stock": "8",
+          "stock": "7",
           "url": "https://cn.cohcigars.com/cigars-singles-6-stick-min"
         },
         "cohcigars:7218:7726": {
@@ -3870,21 +3870,21 @@
           "id": "cohcigars:7225:7733",
           "name": "Singles 6 Stick Min - 1 x Quai Dorsay 54 (1 盒)",
           "price": "$ 31.00",
-          "stock": "31",
+          "stock": "30",
           "url": "https://cn.cohcigars.com/cigars-singles-6-stick-min"
         },
         "cohcigars:7226:7734": {
           "id": "cohcigars:7226:7734",
           "name": "Singles 6 Stick Min - 1 x Quintero y Hermano Brevas (1 盒)",
           "price": "$ 12.00",
-          "stock": "436",
+          "stock": "435",
           "url": "https://cn.cohcigars.com/cigars-singles-6-stick-min"
         },
         "cohcigars:7231:7739": {
           "id": "cohcigars:7231:7739",
           "name": "Singles 6 Stick Min - 1 x Romeo Y Julieta Cedros de Luxe No.3 (1 盒)",
           "price": "$ 22.00",
-          "stock": "91",
+          "stock": "90",
           "url": "https://cn.cohcigars.com/cigars-singles-6-stick-min"
         },
         "cohcigars:7232:7740": {
@@ -4115,7 +4115,7 @@
           "id": "cohcigars:8963:15587",
           "name": "Vegueros - Centrogordos (4x4 盒)",
           "price": "$ 265.00",
-          "stock": "25",
+          "stock": "24",
           "url": "https://cn.cohcigars.com/cigars-vegueros"
         },
         "cohcigars:8963:22877": {
@@ -4276,7 +4276,7 @@
           "id": "cohcigars:933:980",
           "name": "H.Upmann - Half Corona (25 盒)",
           "price": "$ 340.00",
-          "stock": "10",
+          "stock": "9",
           "url": "https://cn.cohcigars.com/cigars-h.upmann"
         },
         "cohcigars:9341:9985": {
@@ -4385,7 +4385,7 @@
           "url": "https://cn.cohcigars.com/cigars-montecristo"
         }
       },
-      "last_checked": "2026-10-23T00:58:22+00:00",
+      "last_checked": "2026-10-23T07:38:32+00:00",
       "last_count": 482,
       "last_error": null,
       "previous": {
@@ -4414,7 +4414,7 @@
           "id": "cohcigars:102:147",
           "name": "Hoyo de Monterrey - Epicure No.2 (25 盒)",
           "price": "$ 735.00",
-          "stock": "7",
+          "stock": "6",
           "url": "https://cn.cohcigars.com/cigars-hoyo-de-monterrey"
         },
         "cohcigars:105:154": {
@@ -4841,7 +4841,7 @@
           "id": "cohcigars:1554:1749",
           "name": "Vegueros - Mananitas (16 盒)",
           "price": "$ 199.00",
-          "stock": "76",
+          "stock": "65",
           "url": "https://cn.cohcigars.com/cigars-vegueros"
         },
         "cohcigars:1556:17327": {
@@ -5317,7 +5317,7 @@
           "id": "cohcigars:214:307",
           "name": "Romeo Y Julieta - Mille Fleurs (25 盒)",
           "price": "$ 339.00",
-          "stock": "12",
+          "stock": "11",
           "url": "https://cn.cohcigars.com/cigars-romeo-y-julieta"
         },
         "cohcigars:216:309": {
@@ -5338,7 +5338,7 @@
           "id": "cohcigars:21860:22614",
           "name": "Cohiba - Vitosos Travel Humidor (6x10 盒)",
           "price": "$ 245.00",
-          "stock": "49",
+          "stock": "47",
           "url": "https://cn.cohcigars.com/cigars-cohiba"
         },
         "cohcigars:21860:24390": {
@@ -5457,7 +5457,7 @@
           "id": "cohcigars:23314:24141",
           "name": "Singles 6 Stick Min - 1 x H.Upmann Coronas Major A/T (1 盒)",
           "price": "$ 24.00",
-          "stock": "13",
+          "stock": "12",
           "url": "https://cn.cohcigars.com/cigars-singles-6-stick-min"
         },
         "cohcigars:23315:24142": {
@@ -5485,7 +5485,7 @@
           "id": "cohcigars:23319:24146",
           "name": "Singles 6 Stick Min - 1 x Hoyo de Monterrey Le Hoyo Du Maire (1 盒)",
           "price": "$ 16.00",
-          "stock": "61",
+          "stock": "60",
           "url": "https://cn.cohcigars.com/cigars-singles-6-stick-min"
         },
         "cohcigars:23320:24147": {
@@ -6395,7 +6395,7 @@
           "id": "cohcigars:3046:3354",
           "name": "Singles 6 Stick Min - 1 x Por Larranaga Petit Coronas (1 盒)",
           "price": "$ 17.00",
-          "stock": "186",
+          "stock": "185",
           "url": "https://cn.cohcigars.com/cigars-singles-6-stick-min"
         },
         "cohcigars:3048:3356": {
@@ -6465,7 +6465,7 @@
           "id": "cohcigars:3060:3368",
           "name": "Singles 6 Stick Min - 1 x San Cristobal El Principe (1 盒)",
           "price": "$ 18.00",
-          "stock": "99",
+          "stock": "98",
           "url": "https://cn.cohcigars.com/cigars-singles-6-stick-min"
         },
         "cohcigars:3061:3369": {
@@ -6556,7 +6556,7 @@
           "id": "cohcigars:3078:3385",
           "name": "Singles 6 Stick Min - 1 x Montecristo Edmundo (1 盒)",
           "price": "$ 35.00",
-          "stock": "200",
+          "stock": "199",
           "url": "https://cn.cohcigars.com/cigars-singles-6-stick-min"
         },
         "cohcigars:3079:3386": {
@@ -6577,7 +6577,7 @@
           "id": "cohcigars:30:49",
           "name": "Bolivar - Royal Coronas (25 盒)",
           "price": "$ 665.00",
-          "stock": "10",
+          "stock": "9",
           "url": "https://cn.cohcigars.com/cigars-bolivar"
         },
         "cohcigars:3240:3543": {
@@ -6591,7 +6591,7 @@
           "id": "cohcigars:3266:3569",
           "name": "Singles 6 Stick Min - 1 x Partagas Lusitanias (1 盒)",
           "price": "$ 65.00",
-          "stock": "13",
+          "stock": "11",
           "url": "https://cn.cohcigars.com/cigars-singles-6-stick-min"
         },
         "cohcigars:3272:3575": {
@@ -6605,7 +6605,7 @@
           "id": "cohcigars:3273:3576",
           "name": "Singles 6 Stick Min - 1 x Vegas Robaina Famosos (1 盒)",
           "price": "$ 23.00",
-          "stock": "82",
+          "stock": "78",
           "url": "https://cn.cohcigars.com/cigars-singles-6-stick-min"
         },
         "cohcigars:3277:3580": {
@@ -6682,7 +6682,7 @@
           "id": "cohcigars:3493:3796",
           "name": "Singles 6 Stick Min - 1 x Hoyo de Monterrey Petit Robustos (1 盒)",
           "price": "$ 22.00",
-          "stock": "193",
+          "stock": "192",
           "url": "https://cn.cohcigars.com/cigars-singles-6-stick-min"
         },
         "cohcigars:3495:3797": {
@@ -6696,7 +6696,7 @@
           "id": "cohcigars:3496:3799",
           "name": "Singles 6 Stick Min - 1 x Montecristo Petit Edmundo (1 盒)",
           "price": "$ 27.00",
-          "stock": "145",
+          "stock": "144",
           "url": "https://cn.cohcigars.com/cigars-singles-6-stick-min"
         },
         "cohcigars:3498:3801": {
@@ -7123,7 +7123,7 @@
           "id": "cohcigars:54:5459",
           "name": "Cohiba - Ambar (20x5 盒)",
           "price": "$ 115.00",
-          "stock": "291",
+          "stock": "290",
           "url": "https://cn.cohcigars.com/cigars-cohiba"
         },
         "cohcigars:55:5170": {
@@ -7172,7 +7172,7 @@
           "id": "cohcigars:615:743",
           "name": "Punch - Punch (10 盒)",
           "price": "$ 290.00",
-          "stock": "100",
+          "stock": "99",
           "url": "https://cn.cohcigars.com/cigars-punch"
         },
         "cohcigars:62:99": {
@@ -7207,7 +7207,7 @@
           "id": "cohcigars:66:104",
           "name": "Diplomaticos - Grandes RE Alemania 2021 (25 盒)",
           "price": "$ 599.00",
-          "stock": "39",
+          "stock": "38",
           "url": "https://cn.cohcigars.com/cigars-diplomaticos"
         },
         "cohcigars:683:789": {
@@ -7263,7 +7263,7 @@
           "id": "cohcigars:7009:7521",
           "name": "Singles 6 Stick Min - 1 x Romeo Y Julieta Coronitas En Cedros (1 盒)",
           "price": "$ 18.00",
-          "stock": "177",
+          "stock": "176",
           "url": "https://cn.cohcigars.com/cigars-singles-6-stick-min"
         },
         "cohcigars:7011:7523": {
@@ -7284,7 +7284,7 @@
           "id": "cohcigars:7016:7528",
           "name": "Singles 6 Stick Min - 1 x Romeo Y Julieta Cedros de Luxe No.2 (1 盒)",
           "price": "$ 24.00",
-          "stock": "60",
+          "stock": "59",
           "url": "https://cn.cohcigars.com/cigars-singles-6-stick-min"
         },
         "cohcigars:7017:7530": {
@@ -7319,14 +7319,14 @@
           "id": "cohcigars:7208:7716",
           "name": "Singles 6 Stick Min - 1 x Bolivar Petit Coronas (1 盒)",
           "price": "$ 20.00",
-          "stock": "193",
+          "stock": "192",
           "url": "https://cn.cohcigars.com/cigars-singles-6-stick-min"
         },
         "cohcigars:7211:7719": {
           "id": "cohcigars:7211:7719",
           "name": "Singles 6 Stick Min - 1 x H.Upmann Magnum 50 (1 盒)",
           "price": "$ 38.00",
-          "stock": "187",
+          "stock": "186",
           "url": "https://cn.cohcigars.com/cigars-singles-6-stick-min"
         },
         "cohcigars:7212:7720": {
@@ -7340,7 +7340,7 @@
           "id": "cohcigars:7214:7722",
           "name": "Singles 6 Stick Min - 1 x Hoyo de Monterrey Palmas Extra (1 盒)",
           "price": "$ 20.00",
-          "stock": "8",
+          "stock": "7",
           "url": "https://cn.cohcigars.com/cigars-singles-6-stick-min"
         },
         "cohcigars:7218:7726": {
@@ -7368,21 +7368,21 @@
           "id": "cohcigars:7225:7733",
           "name": "Singles 6 Stick Min - 1 x Quai Dorsay 54 (1 盒)",
           "price": "$ 31.00",
-          "stock": "31",
+          "stock": "30",
           "url": "https://cn.cohcigars.com/cigars-singles-6-stick-min"
         },
         "cohcigars:7226:7734": {
           "id": "cohcigars:7226:7734",
           "name": "Singles 6 Stick Min - 1 x Quintero y Hermano Brevas (1 盒)",
           "price": "$ 12.00",
-          "stock": "436",
+          "stock": "435",
           "url": "https://cn.cohcigars.com/cigars-singles-6-stick-min"
         },
         "cohcigars:7231:7739": {
           "id": "cohcigars:7231:7739",
           "name": "Singles 6 Stick Min - 1 x Romeo Y Julieta Cedros de Luxe No.3 (1 盒)",
           "price": "$ 22.00",
-          "stock": "91",
+          "stock": "90",
           "url": "https://cn.cohcigars.com/cigars-singles-6-stick-min"
         },
         "cohcigars:7232:7740": {
@@ -7585,7 +7585,7 @@
           "id": "cohcigars:8963:15587",
           "name": "Vegueros - Centrogordos (4x4 盒)",
           "price": "$ 265.00",
-          "stock": "25",
+          "stock": "24",
           "url": "https://cn.cohcigars.com/cigars-vegueros"
         },
         "cohcigars:908:17330": {
@@ -7697,7 +7697,7 @@
           "id": "cohcigars:933:980",
           "name": "H.Upmann - Half Corona (25 盒)",
           "price": "$ 340.00",
-          "stock": "10",
+          "stock": "9",
           "url": "https://cn.cohcigars.com/cigars-h.upmann"
         },
         "cohcigars:9344:9988": {
@@ -8998,7 +8998,7 @@
           "url": "https://www.ihavanas.com/details.php?ptype=cigars&pid=Partagas"
         }
       },
-      "last_checked": "2026-10-23T00:57:11+00:00",
+      "last_checked": "2026-10-23T07:38:15+00:00",
       "last_count": 185,
       "last_error": null,
       "previous": {
