@@ -118,7 +118,7 @@
           "id": "cohcigars:1106:24016",
           "name": "Quintero Y Hermano - Favoritos (5 盒)",
           "price": "$ 59.00",
-          "stock": "68",
+          "stock": "67",
           "url": "https://cn.cohcigars.com/cigars-quintero-y-hermano"
         },
         "cohcigars:11070:11720": {
@@ -587,7 +587,7 @@
           "id": "cohcigars:154:227",
           "name": "Partagas - Aliados (25 盒)",
           "price": "$ 229.00",
-          "stock": "44",
+          "stock": "43",
           "url": "https://cn.cohcigars.com/cigars-partagas"
         },
         "cohcigars:15545:16209": {
@@ -699,7 +699,7 @@
           "id": "cohcigars:1708:1939",
           "name": "Trinidad - Robusto Extra Gift Box (12 盒)",
           "price": "$ 499.00",
-          "stock": "33",
+          "stock": "32",
           "url": "https://cn.cohcigars.com/cigars-trinidad"
         },
         "cohcigars:170:248": {
@@ -804,7 +804,7 @@
           "id": "cohcigars:186:265",
           "name": "Ramon Allones - Specially Selected (25 盒)",
           "price": "$ 703.00",
-          "stock": "20",
+          "stock": "19",
           "url": "https://cn.cohcigars.com/cigars-ramon-allones"
         },
         "cohcigars:187:12032": {
@@ -1161,7 +1161,7 @@
           "id": "cohcigars:21281:22027",
           "name": "Ramon Allones - Absolutos EL 2024 (20 盒)",
           "price": "$ 1250.00",
-          "stock": "16",
+          "stock": "15",
           "url": "https://cn.cohcigars.com/cigars-ramon-allones"
         },
         "cohcigars:21282:22028": {
@@ -1525,7 +1525,7 @@
           "id": "cohcigars:23340:24167",
           "name": "Singles 6 Stick Min - 1 x Rafael Gonzalez Panetelas Extra (1 盒)",
           "price": "$ 15.00",
-          "stock": "458",
+          "stock": "456",
           "url": "https://cn.cohcigars.com/cigars-singles-6-stick-min"
         },
         "cohcigars:23341:24168": {
@@ -2589,7 +2589,7 @@
           "id": "cohcigars:3042:3350",
           "name": "Singles 6 Stick Min - 1 x Vegas Robaina Unicos (1 盒)",
           "price": "$ 30.00",
-          "stock": "43",
+          "stock": "39",
           "url": "https://cn.cohcigars.com/cigars-singles-6-stick-min"
         },
         "cohcigars:3045:3353": {
@@ -3625,7 +3625,7 @@
           "id": "cohcigars:5773:22086",
           "name": "La Flor De Cano - Elegidos (3 盒)",
           "price": "$ 50.00",
-          "stock": "317",
+          "stock": "315",
           "url": "https://cn.cohcigars.com/cigars-la-flor-de-cano"
         },
         "cohcigars:5773:6236": {
@@ -4385,7 +4385,7 @@
           "url": "https://cn.cohcigars.com/cigars-montecristo"
         }
       },
-      "last_checked": "2026-10-24T12:55:54+00:00",
+      "last_checked": "2026-10-24T16:02:17+00:00",
       "last_count": 481,
       "last_error": null,
       "previous": {
@@ -4463,7 +4463,7 @@
           "id": "cohcigars:1106:24016",
           "name": "Quintero Y Hermano - Favoritos (5 盒)",
           "price": "$ 59.00",
-          "stock": "68",
+          "stock": "67",
           "url": "https://cn.cohcigars.com/cigars-quintero-y-hermano"
         },
         "cohcigars:11070:11720": {
@@ -4827,7 +4827,7 @@
           "id": "cohcigars:154:227",
           "name": "Partagas - Aliados (25 盒)",
           "price": "$ 229.00",
-          "stock": "44",
+          "stock": "43",
           "url": "https://cn.cohcigars.com/cigars-partagas"
         },
         "cohcigars:15545:16209": {
@@ -4925,7 +4925,7 @@
           "id": "cohcigars:1708:1939",
           "name": "Trinidad - Robusto Extra Gift Box (12 盒)",
           "price": "$ 499.00",
-          "stock": "33",
+          "stock": "32",
           "url": "https://cn.cohcigars.com/cigars-trinidad"
         },
         "cohcigars:170:248": {
@@ -5002,7 +5002,7 @@
           "id": "cohcigars:186:265",
           "name": "Ramon Allones - Specially Selected (25 盒)",
           "price": "$ 703.00",
-          "stock": "20",
+          "stock": "19",
           "url": "https://cn.cohcigars.com/cigars-ramon-allones"
         },
         "cohcigars:187:12032": {
@@ -5289,7 +5289,7 @@
           "id": "cohcigars:21281:22027",
           "name": "Ramon Allones - Absolutos EL 2024 (20 盒)",
           "price": "$ 1250.00",
-          "stock": "16",
+          "stock": "15",
           "url": "https://cn.cohcigars.com/cigars-ramon-allones"
         },
         "cohcigars:21282:22028": {
@@ -5625,7 +5625,7 @@
           "id": "cohcigars:23340:24167",
           "name": "Singles 6 Stick Min - 1 x Rafael Gonzalez Panetelas Extra (1 盒)",
           "price": "$ 15.00",
-          "stock": "458",
+          "stock": "456",
           "url": "https://cn.cohcigars.com/cigars-singles-6-stick-min"
         },
         "cohcigars:23341:24168": {
@@ -6381,7 +6381,7 @@
           "id": "cohcigars:3042:3350",
           "name": "Singles 6 Stick Min - 1 x Vegas Robaina Unicos (1 盒)",
           "price": "$ 30.00",
-          "stock": "43",
+          "stock": "39",
           "url": "https://cn.cohcigars.com/cigars-singles-6-stick-min"
         },
         "cohcigars:3045:3353": {
@@ -7144,7 +7144,7 @@
           "id": "cohcigars:5773:22086",
           "name": "La Flor De Cano - Elegidos (3 盒)",
           "price": "$ 50.00",
-          "stock": "317",
+          "stock": "315",
           "url": "https://cn.cohcigars.com/cigars-la-flor-de-cano"
         },
         "cohcigars:5773:6236": {
@@ -8991,7 +8991,7 @@
           "url": "https://www.ihavanas.com/details.php?ptype=cigars&pid=Partagas"
         }
       },
-      "last_checked": "2026-10-24T12:55:30+00:00",
+      "last_checked": "2026-10-24T16:01:53+00:00",
       "last_count": 185,
       "last_error": null,
       "previous": {
