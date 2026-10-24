@@ -237,7 +237,7 @@
           "id": "cohcigars:11484:12137",
           "name": "Sancho Panza - 5 Pack- Non Plus (5 盒)",
           "price": "$ 105.00",
-          "stock": "5",
+          "stock": "4",
           "url": "https://cn.cohcigars.com/cigars-sancho-panza"
         },
         "cohcigars:11485:12138": {
@@ -454,7 +454,7 @@
           "id": "cohcigars:136:203",
           "name": "Partagas - Royales Travel Humidor (25 盒)",
           "price": "$ 699.00",
-          "stock": "9",
+          "stock": "8",
           "url": "https://cn.cohcigars.com/cigars-partagas"
         },
         "cohcigars:13910:14564": {
@@ -587,7 +587,7 @@
           "id": "cohcigars:154:227",
           "name": "Partagas - Aliados (25 盒)",
           "price": "$ 229.00",
-          "stock": "43",
+          "stock": "42",
           "url": "https://cn.cohcigars.com/cigars-partagas"
         },
         "cohcigars:15545:16209": {
@@ -1056,7 +1056,7 @@
           "id": "cohcigars:202:291",
           "name": "Romeo Y Julieta - Romeo No.2 A/T (15 盒)",
           "price": "$ 245.00",
-          "stock": "100",
+          "stock": "99",
           "url": "https://cn.cohcigars.com/cigars-romeo-y-julieta"
         },
         "cohcigars:20343:21066": {
@@ -1077,7 +1077,7 @@
           "id": "cohcigars:203:292",
           "name": "Romeo Y Julieta - Romeo No.3 A/T (25 盒)",
           "price": "$ 318.00",
-          "stock": "44",
+          "stock": "43",
           "url": "https://cn.cohcigars.com/cigars-romeo-y-julieta"
         },
         "cohcigars:203:293": {
@@ -2211,14 +2211,14 @@
           "id": "cohcigars:267:21510",
           "name": "Romeo Y Julieta - Puritos (5x10 盒)",
           "price": "$ 90.00",
-          "stock": "82",
+          "stock": "81",
           "url": "https://cn.cohcigars.com/cigars-romeo-y-julieta"
         },
         "cohcigars:267:23689": {
           "id": "cohcigars:267:23689",
           "name": "Romeo Y Julieta - Petit Royales A/T (25x2 盒)",
           "price": "$ 99.00",
-          "stock": "472",
+          "stock": "471",
           "url": "https://cn.cohcigars.com/cigars-romeo-y-julieta"
         },
         "cohcigars:26868:27771": {
@@ -2302,7 +2302,7 @@
           "id": "cohcigars:273:19988",
           "name": "Montecristo - Petit Tubos (25 x2 盒)",
           "price": "$ 99.00",
-          "stock": "304",
+          "stock": "303",
           "url": "https://cn.cohcigars.com/cigars-montecristo"
         },
         "cohcigars:274:23682": {
@@ -2407,7 +2407,7 @@
           "id": "cohcigars:278:23680",
           "name": "Montecristo - 80 Aniversario 2016 (20x5 盒)",
           "price": "$ 115.00",
-          "stock": "2951",
+          "stock": "2950",
           "url": "https://cn.cohcigars.com/cigars-montecristo"
         },
         "cohcigars:2794:3107": {
@@ -2428,7 +2428,7 @@
           "id": "cohcigars:282:6163",
           "name": "Partagas - Cetros Year of the Snake (20x5 盒)",
           "price": "$ 90.00",
-          "stock": "907",
+          "stock": "906",
           "url": "https://cn.cohcigars.com/cigars-partagas"
         },
         "cohcigars:2840:3155": {
@@ -2470,7 +2470,7 @@
           "id": "cohcigars:287:406",
           "name": "Guantanamera - Cristales (5 x 5 盒)",
           "price": "$ 130.00",
-          "stock": "84",
+          "stock": "83",
           "url": "https://cn.cohcigars.com/cigars-guantanamera"
         },
         "cohcigars:293:17329": {
@@ -3597,7 +3597,7 @@
           "id": "cohcigars:54:5459",
           "name": "Cohiba - Ambar (20x5 盒)",
           "price": "$ 115.00",
-          "stock": "290",
+          "stock": "289",
           "url": "https://cn.cohcigars.com/cigars-cohiba"
         },
         "cohcigars:55:5170": {
@@ -3737,7 +3737,7 @@
           "id": "cohcigars:6957:7469",
           "name": "Romeo Y Julieta - Cupidos LCDH (20 盒)",
           "price": "$ 950.00",
-          "stock": "14",
+          "stock": "13",
           "url": "https://cn.cohcigars.com/cigars-romeo-y-julieta"
         },
         "cohcigars:7001:7514": {
@@ -4094,7 +4094,7 @@
           "id": "cohcigars:8822:19989",
           "name": "Partagas - Serie P No.2 (50 盒)",
           "price": "$ 99.00",
-          "stock": "134",
+          "stock": "133",
           "url": "https://cn.cohcigars.com/cigars-partagas"
         },
         "cohcigars:88:621": {
@@ -4385,7 +4385,7 @@
           "url": "https://cn.cohcigars.com/cigars-montecristo"
         }
       },
-      "last_checked": "2026-10-24T16:02:17+00:00",
+      "last_checked": "2026-10-24T17:36:49+00:00",
       "last_count": 481,
       "last_error": null,
       "previous": {
@@ -4540,7 +4540,7 @@
           "id": "cohcigars:11484:12137",
           "name": "Sancho Panza - 5 Pack- Non Plus (5 盒)",
           "price": "$ 105.00",
-          "stock": "5",
+          "stock": "4",
           "url": "https://cn.cohcigars.com/cigars-sancho-panza"
         },
         "cohcigars:118:175": {
@@ -4715,7 +4715,7 @@
           "id": "cohcigars:136:203",
           "name": "Partagas - Royales Travel Humidor (25 盒)",
           "price": "$ 699.00",
-          "stock": "9",
+          "stock": "8",
           "url": "https://cn.cohcigars.com/cigars-partagas"
         },
         "cohcigars:13992:14646": {
@@ -4827,7 +4827,7 @@
           "id": "cohcigars:154:227",
           "name": "Partagas - Aliados (25 盒)",
           "price": "$ 229.00",
-          "stock": "43",
+          "stock": "42",
           "url": "https://cn.cohcigars.com/cigars-partagas"
         },
         "cohcigars:15545:16209": {
@@ -5205,7 +5205,7 @@
           "id": "cohcigars:202:291",
           "name": "Romeo Y Julieta - Romeo No.2 A/T (15 盒)",
           "price": "$ 245.00",
-          "stock": "100",
+          "stock": "99",
           "url": "https://cn.cohcigars.com/cigars-romeo-y-julieta"
         },
         "cohcigars:20343:21066": {
@@ -5226,7 +5226,7 @@
           "id": "cohcigars:203:292",
           "name": "Romeo Y Julieta - Romeo No.3 A/T (25 盒)",
           "price": "$ 318.00",
-          "stock": "44",
+          "stock": "43",
           "url": "https://cn.cohcigars.com/cigars-romeo-y-julieta"
         },
         "cohcigars:203:293": {
@@ -6115,14 +6115,14 @@
           "id": "cohcigars:267:21510",
           "name": "Romeo Y Julieta - Puritos (5x10 盒)",
           "price": "$ 90.00",
-          "stock": "82",
+          "stock": "81",
           "url": "https://cn.cohcigars.com/cigars-romeo-y-julieta"
         },
         "cohcigars:267:23689": {
           "id": "cohcigars:267:23689",
           "name": "Romeo Y Julieta - Petit Royales A/T (25x2 盒)",
           "price": "$ 99.00",
-          "stock": "472",
+          "stock": "471",
           "url": "https://cn.cohcigars.com/cigars-romeo-y-julieta"
         },
         "cohcigars:26977:27881": {
@@ -6171,7 +6171,7 @@
           "id": "cohcigars:273:19988",
           "name": "Montecristo - Petit Tubos (25 x2 盒)",
           "price": "$ 99.00",
-          "stock": "304",
+          "stock": "303",
           "url": "https://cn.cohcigars.com/cigars-montecristo"
         },
         "cohcigars:274:23682": {
@@ -6241,7 +6241,7 @@
           "id": "cohcigars:278:23680",
           "name": "Montecristo - 80 Aniversario 2016 (20x5 盒)",
           "price": "$ 115.00",
-          "stock": "2951",
+          "stock": "2950",
           "url": "https://cn.cohcigars.com/cigars-montecristo"
         },
         "cohcigars:2794:3107": {
@@ -6262,7 +6262,7 @@
           "id": "cohcigars:282:6163",
           "name": "Partagas - Cetros Year of the Snake (20x5 盒)",
           "price": "$ 90.00",
-          "stock": "907",
+          "stock": "906",
           "url": "https://cn.cohcigars.com/cigars-partagas"
         },
         "cohcigars:2863:3180": {
@@ -6283,7 +6283,7 @@
           "id": "cohcigars:287:406",
           "name": "Guantanamera - Cristales (5 x 5 盒)",
           "price": "$ 130.00",
-          "stock": "84",
+          "stock": "83",
           "url": "https://cn.cohcigars.com/cigars-guantanamera"
         },
         "cohcigars:293:17329": {
@@ -7123,7 +7123,7 @@
           "id": "cohcigars:54:5459",
           "name": "Cohiba - Ambar (20x5 盒)",
           "price": "$ 115.00",
-          "stock": "290",
+          "stock": "289",
           "url": "https://cn.cohcigars.com/cigars-cohiba"
         },
         "cohcigars:55:5170": {
@@ -7242,7 +7242,7 @@
           "id": "cohcigars:6957:7469",
           "name": "Romeo Y Julieta - Cupidos LCDH (20 盒)",
           "price": "$ 950.00",
-          "stock": "14",
+          "stock": "13",
           "url": "https://cn.cohcigars.com/cigars-romeo-y-julieta"
         },
         "cohcigars:7001:7514": {
@@ -7564,7 +7564,7 @@
           "id": "cohcigars:8822:19989",
           "name": "Partagas - Serie P No.2 (50 盒)",
           "price": "$ 99.00",
-          "stock": "134",
+          "stock": "133",
           "url": "https://cn.cohcigars.com/cigars-partagas"
         },
         "cohcigars:8959:9602": {
@@ -8991,7 +8991,7 @@
           "url": "https://www.ihavanas.com/details.php?ptype=cigars&pid=Partagas"
         }
       },
-      "last_checked": "2026-10-24T16:01:53+00:00",
+      "last_checked": "2026-10-24T17:35:56+00:00",
       "last_count": 185,
       "last_error": null,
       "previous": {
