@@ -412,7 +412,7 @@
           "id": "cohcigars:12:27",
           "name": "Montecristo - No.2 (15 盒)",
           "price": "$ 640.00",
-          "stock": "15",
+          "stock": "14",
           "url": "https://cn.cohcigars.com/cigars-montecristo"
         },
         "cohcigars:13022:13682": {
@@ -601,7 +601,7 @@
           "id": "cohcigars:1554:1749",
           "name": "Vegueros - Mananitas (16 盒)",
           "price": "$ 199.00",
-          "stock": "55",
+          "stock": "54",
           "url": "https://cn.cohcigars.com/cigars-vegueros"
         },
         "cohcigars:1556:17327": {
@@ -2477,7 +2477,7 @@
           "id": "cohcigars:293:17329",
           "name": "Cohiba - Siglo II A/T (3 盒)",
           "price": "$ 109.00",
-          "stock": "161",
+          "stock": "160",
           "url": "https://cn.cohcigars.com/cigars-cohiba"
         },
         "cohcigars:293:412": {
@@ -3695,7 +3695,7 @@
           "id": "cohcigars:66:104",
           "name": "Diplomaticos - Grandes RE Alemania 2021 (25 盒)",
           "price": "$ 599.00",
-          "stock": "21",
+          "stock": "20",
           "url": "https://cn.cohcigars.com/cigars-diplomaticos"
         },
         "cohcigars:683:789": {
@@ -4385,7 +4385,7 @@
           "url": "https://cn.cohcigars.com/cigars-montecristo"
         }
       },
-      "last_checked": "2026-10-25T16:49:45+00:00",
+      "last_checked": "2026-10-25T20:56:33+00:00",
       "last_count": 478,
       "last_error": null,
       "previous": {
@@ -4666,7 +4666,7 @@
           "id": "cohcigars:12:27",
           "name": "Montecristo - No.2 (15 盒)",
           "price": "$ 640.00",
-          "stock": "15",
+          "stock": "14",
           "url": "https://cn.cohcigars.com/cigars-montecristo"
         },
         "cohcigars:13022:13682": {
@@ -4834,7 +4834,7 @@
           "id": "cohcigars:1554:1749",
           "name": "Vegueros - Mananitas (16 盒)",
           "price": "$ 199.00",
-          "stock": "55",
+          "stock": "54",
           "url": "https://cn.cohcigars.com/cigars-vegueros"
         },
         "cohcigars:1556:17327": {
@@ -6269,7 +6269,7 @@
           "id": "cohcigars:293:17329",
           "name": "Cohiba - Siglo II A/T (3 盒)",
           "price": "$ 109.00",
-          "stock": "161",
+          "stock": "160",
           "url": "https://cn.cohcigars.com/cigars-cohiba"
         },
         "cohcigars:293:412": {
@@ -7186,7 +7186,7 @@
           "id": "cohcigars:66:104",
           "name": "Diplomaticos - Grandes RE Alemania 2021 (25 盒)",
           "price": "$ 599.00",
-          "stock": "21",
+          "stock": "20",
           "url": "https://cn.cohcigars.com/cigars-diplomaticos"
         },
         "cohcigars:683:789": {
@@ -8970,7 +8970,7 @@
           "url": "https://www.ihavanas.com/details.php?ptype=cigars&pid=Partagas"
         }
       },
-      "last_checked": "2026-10-25T16:49:18+00:00",
+      "last_checked": "2026-10-25T20:56:13+00:00",
       "last_count": 185,
       "last_error": null,
       "previous": {
