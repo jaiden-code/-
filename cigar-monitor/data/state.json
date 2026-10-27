@@ -706,7 +706,7 @@
           "id": "cohcigars:1708:1939",
           "name": "Trinidad - Robusto Extra Gift Box (12 盒)",
           "price": "$ 499.00",
-          "stock": "32",
+          "stock": "31",
           "url": "https://cn.cohcigars.com/cigars-trinidad"
         },
         "cohcigars:170:248": {
@@ -3177,7 +3177,7 @@
           "id": "cohcigars:3974:4274",
           "name": "Vintage - Montecristo No.4 - 2016 (15 盒)",
           "price": "$ 499.00",
-          "stock": "195",
+          "stock": "193",
           "url": "https://cn.cohcigars.com/cigars-vintage"
         },
         "cohcigars:397:20574": {
@@ -4399,7 +4399,7 @@
           "url": "https://cn.cohcigars.com/cigars-montecristo"
         }
       },
-      "last_checked": "2026-10-27T00:05:13+00:00",
+      "last_checked": "2026-10-27T01:30:43+00:00",
       "last_count": 481,
       "last_error": null,
       "previous": {
@@ -4939,7 +4939,7 @@
           "id": "cohcigars:1708:1939",
           "name": "Trinidad - Robusto Extra Gift Box (12 盒)",
           "price": "$ 499.00",
-          "stock": "32",
+          "stock": "31",
           "url": "https://cn.cohcigars.com/cigars-trinidad"
         },
         "cohcigars:170:248": {
@@ -6780,7 +6780,7 @@
           "id": "cohcigars:3974:4274",
           "name": "Vintage - Montecristo No.4 - 2016 (15 盒)",
           "price": "$ 499.00",
-          "stock": "195",
+          "stock": "193",
           "url": "https://cn.cohcigars.com/cigars-vintage"
         },
         "cohcigars:397:20574": {
@@ -9005,7 +9005,7 @@
           "url": "https://www.ihavanas.com/details.php?ptype=cigars&pid=Partagas"
         }
       },
-      "last_checked": "2026-10-27T00:04:54+00:00",
+      "last_checked": "2026-10-27T01:30:26+00:00",
       "last_count": 185,
       "last_error": null,
       "previous": {
