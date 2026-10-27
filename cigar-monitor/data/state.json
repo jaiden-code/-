@@ -125,7 +125,7 @@
           "id": "cohcigars:1106:24016",
           "name": "Quintero Y Hermano - Favoritos (5 盒)",
           "price": "$ 59.00",
-          "stock": "61",
+          "stock": "60",
           "url": "https://cn.cohcigars.com/cigars-quintero-y-hermano"
         },
         "cohcigars:11070:11720": {
@@ -272,7 +272,7 @@
           "id": "cohcigars:119:176",
           "name": "Juan Lopez - Seleccion No.2 (25 盒)",
           "price": "$ 560.00",
-          "stock": "7",
+          "stock": "6",
           "url": "https://cn.cohcigars.com/cigars-juan-lopez"
         },
         "cohcigars:11:17": {
@@ -419,7 +419,7 @@
           "id": "cohcigars:12:27",
           "name": "Montecristo - No.2 (15 盒)",
           "price": "$ 640.00",
-          "stock": "14",
+          "stock": "11",
           "url": "https://cn.cohcigars.com/cigars-montecristo"
         },
         "cohcigars:13022:13682": {
@@ -461,7 +461,7 @@
           "id": "cohcigars:136:203",
           "name": "Partagas - Royales Travel Humidor (25 盒)",
           "price": "$ 699.00",
-          "stock": "8",
+          "stock": "7",
           "url": "https://cn.cohcigars.com/cigars-partagas"
         },
         "cohcigars:13910:14564": {
@@ -594,7 +594,7 @@
           "id": "cohcigars:154:227",
           "name": "Partagas - Aliados (25 盒)",
           "price": "$ 229.00",
-          "stock": "34",
+          "stock": "33",
           "url": "https://cn.cohcigars.com/cigars-partagas"
         },
         "cohcigars:15545:16209": {
@@ -1672,7 +1672,7 @@
           "id": "cohcigars:2376:25889",
           "name": "Quintero Y Hermano - Tubulares A/T (3x3 盒)",
           "price": "$ 79.00",
-          "stock": "141",
+          "stock": "140",
           "url": "https://cn.cohcigars.com/cigars-quintero-y-hermano"
         },
         "cohcigars:2379:2652": {
@@ -2162,14 +2162,14 @@
           "id": "cohcigars:26429:27331",
           "name": "Punch - 5pk- 898 Asia, Duke Mexico, Princesa, Punch, Short Punch (5 盒)",
           "price": "$ 335.00",
-          "stock": "91",
+          "stock": "90",
           "url": "https://cn.cohcigars.com/cigars-punch"
         },
         "cohcigars:26430:27332": {
           "id": "cohcigars:26430:27332",
           "name": "Romeo Y Julieta - 5pk Churchill A/T- Petit, Short, Wide, Churchill, Anejados (5 盒)",
           "price": "$ 250.00",
-          "stock": "5",
+          "stock": "4",
           "url": "https://cn.cohcigars.com/cigars-romeo-y-julieta"
         },
         "cohcigars:26431:27333": {
@@ -2309,7 +2309,7 @@
           "id": "cohcigars:273:19988",
           "name": "Montecristo - Petit Tubos (25 x2 盒)",
           "price": "$ 99.00",
-          "stock": "303",
+          "stock": "301",
           "url": "https://cn.cohcigars.com/cigars-montecristo"
         },
         "cohcigars:274:23682": {
@@ -3695,7 +3695,7 @@
           "id": "cohcigars:642:21493",
           "name": "Cohiba - Siglo I A/T (3x2 盒)",
           "price": "$ 165.00",
-          "stock": "91",
+          "stock": "90",
           "url": "https://cn.cohcigars.com/cigars-cohiba"
         },
         "cohcigars:642:756": {
@@ -3709,7 +3709,7 @@
           "id": "cohcigars:66:104",
           "name": "Diplomaticos - Grandes RE Alemania 2021 (25 盒)",
           "price": "$ 599.00",
-          "stock": "19",
+          "stock": "17",
           "url": "https://cn.cohcigars.com/cigars-diplomaticos"
         },
         "cohcigars:683:789": {
@@ -4220,7 +4220,7 @@
           "id": "cohcigars:9240:9885",
           "name": "La Gloria Cubana - Turquinos (10 盒)",
           "price": "$ 345.00",
-          "stock": "18",
+          "stock": "17",
           "url": "https://cn.cohcigars.com/cigars-la-gloria-cubana"
         },
         "cohcigars:9247:9892": {
@@ -4399,8 +4399,8 @@
           "url": "https://cn.cohcigars.com/cigars-montecristo"
         }
       },
-      "last_checked": "2026-10-27T07:58:27+00:00",
-      "last_count": 481,
+      "last_checked": "2026-10-27T12:41:11+00:00",
+      "last_count": 480,
       "last_error": null,
       "previous": {
         "cohcigars:100:141": {
@@ -4484,7 +4484,7 @@
           "id": "cohcigars:1106:24016",
           "name": "Quintero Y Hermano - Favoritos (5 盒)",
           "price": "$ 59.00",
-          "stock": "61",
+          "stock": "60",
           "url": "https://cn.cohcigars.com/cigars-quintero-y-hermano"
         },
         "cohcigars:11070:11720": {
@@ -4582,7 +4582,7 @@
           "id": "cohcigars:119:176",
           "name": "Juan Lopez - Seleccion No.2 (25 盒)",
           "price": "$ 560.00",
-          "stock": "7",
+          "stock": "6",
           "url": "https://cn.cohcigars.com/cigars-juan-lopez"
         },
         "cohcigars:11:17": {
@@ -4687,7 +4687,7 @@
           "id": "cohcigars:12:27",
           "name": "Montecristo - No.2 (15 盒)",
           "price": "$ 640.00",
-          "stock": "14",
+          "stock": "11",
           "url": "https://cn.cohcigars.com/cigars-montecristo"
         },
         "cohcigars:13022:13682": {
@@ -4729,7 +4729,7 @@
           "id": "cohcigars:136:203",
           "name": "Partagas - Royales Travel Humidor (25 盒)",
           "price": "$ 699.00",
-          "stock": "8",
+          "stock": "7",
           "url": "https://cn.cohcigars.com/cigars-partagas"
         },
         "cohcigars:13992:14646": {
@@ -4841,7 +4841,7 @@
           "id": "cohcigars:154:227",
           "name": "Partagas - Aliados (25 盒)",
           "price": "$ 229.00",
-          "stock": "34",
+          "stock": "33",
           "url": "https://cn.cohcigars.com/cigars-partagas"
         },
         "cohcigars:15545:16209": {
@@ -5723,7 +5723,7 @@
           "id": "cohcigars:2376:25889",
           "name": "Quintero Y Hermano - Tubulares A/T (3x3 盒)",
           "price": "$ 79.00",
-          "stock": "141",
+          "stock": "140",
           "url": "https://cn.cohcigars.com/cigars-quintero-y-hermano"
         },
         "cohcigars:2379:2652": {
@@ -5829,13 +5829,6 @@
           "name": "Cohiba - Siglo I C/P (5x5 盒)",
           "price": "$ 840.00",
           "stock": "20",
-          "url": "https://cn.cohcigars.com/cigars-cohiba"
-        },
-        "cohcigars:24442:25283": {
-          "id": "cohcigars:24442:25283",
-          "name": "Cohiba - Siglo II A/T (5x5 盒)",
-          "price": "$ 799.00",
-          "stock": "7",
           "url": "https://cn.cohcigars.com/cigars-cohiba"
         },
         "cohcigars:24443:25285": {
@@ -6080,14 +6073,14 @@
           "id": "cohcigars:26429:27331",
           "name": "Punch - 5pk- 898 Asia, Duke Mexico, Princesa, Punch, Short Punch (5 盒)",
           "price": "$ 335.00",
-          "stock": "91",
+          "stock": "90",
           "url": "https://cn.cohcigars.com/cigars-punch"
         },
         "cohcigars:26430:27332": {
           "id": "cohcigars:26430:27332",
           "name": "Romeo Y Julieta - 5pk Churchill A/T- Petit, Short, Wide, Churchill, Anejados (5 盒)",
           "price": "$ 250.00",
-          "stock": "5",
+          "stock": "4",
           "url": "https://cn.cohcigars.com/cigars-romeo-y-julieta"
         },
         "cohcigars:26431:27333": {
@@ -6171,7 +6164,7 @@
           "id": "cohcigars:273:19988",
           "name": "Montecristo - Petit Tubos (25 x2 盒)",
           "price": "$ 99.00",
-          "stock": "303",
+          "stock": "301",
           "url": "https://cn.cohcigars.com/cigars-montecristo"
         },
         "cohcigars:274:23682": {
@@ -7200,7 +7193,7 @@
           "id": "cohcigars:642:21493",
           "name": "Cohiba - Siglo I A/T (3x2 盒)",
           "price": "$ 165.00",
-          "stock": "91",
+          "stock": "90",
           "url": "https://cn.cohcigars.com/cigars-cohiba"
         },
         "cohcigars:642:756": {
@@ -7214,7 +7207,7 @@
           "id": "cohcigars:66:104",
           "name": "Diplomaticos - Grandes RE Alemania 2021 (25 盒)",
           "price": "$ 599.00",
-          "stock": "19",
+          "stock": "17",
           "url": "https://cn.cohcigars.com/cigars-diplomaticos"
         },
         "cohcigars:683:789": {
@@ -7655,7 +7648,7 @@
           "id": "cohcigars:9240:9885",
           "name": "La Gloria Cubana - Turquinos (10 盒)",
           "price": "$ 345.00",
-          "stock": "18",
+          "stock": "17",
           "url": "https://cn.cohcigars.com/cigars-la-gloria-cubana"
         },
         "cohcigars:924:967": {
@@ -9005,7 +8998,7 @@
           "url": "https://www.ihavanas.com/details.php?ptype=cigars&pid=Partagas"
         }
       },
-      "last_checked": "2026-10-27T07:58:10+00:00",
+      "last_checked": "2026-10-27T12:40:48+00:00",
       "last_count": 185,
       "last_error": null,
       "previous": {
