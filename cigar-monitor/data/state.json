@@ -328,7 +328,7 @@
           "id": "cohcigars:122:22996",
           "name": "Jose L. Piedra - Brevas (5x2 盒)",
           "price": "$ 89.00",
-          "stock": "365",
+          "stock": "364",
           "url": "https://cn.cohcigars.com/cigars-jose-l.-piedra"
         },
         "cohcigars:122:5796": {
@@ -594,7 +594,7 @@
           "id": "cohcigars:154:227",
           "name": "Partagas - Aliados (25 盒)",
           "price": "$ 229.00",
-          "stock": "22",
+          "stock": "21",
           "url": "https://cn.cohcigars.com/cigars-partagas"
         },
         "cohcigars:15545:16209": {
@@ -3618,7 +3618,7 @@
           "id": "cohcigars:5358:5794",
           "name": "Quintero Y Hermano - Favoritos A/T (15 盒)",
           "price": "$ 186.00",
-          "stock": "49",
+          "stock": "48",
           "url": "https://cn.cohcigars.com/cigars-quintero-y-hermano"
         },
         "cohcigars:5381:5818": {
@@ -3716,7 +3716,7 @@
           "id": "cohcigars:642:17328",
           "name": "Cohiba - Siglo I A/T (3 盒)",
           "price": "$ 120.00",
-          "stock": "66",
+          "stock": "65",
           "url": "https://cn.cohcigars.com/cigars-cohiba"
         },
         "cohcigars:642:21493": {
@@ -4157,7 +4157,7 @@
           "id": "cohcigars:8963:15587",
           "name": "Vegueros - Centrofinos (4x4 盒)",
           "price": "$ 229.00",
-          "stock": "28",
+          "stock": "27",
           "url": "https://cn.cohcigars.com/cigars-vegueros"
         },
         "cohcigars:8963:22877": {
@@ -4427,7 +4427,7 @@
           "url": "https://cn.cohcigars.com/cigars-montecristo"
         }
       },
-      "last_checked": "2026-10-31T06:18:14+00:00",
+      "last_checked": "2026-10-31T12:43:11+00:00",
       "last_count": 485,
       "last_error": null,
       "previous": {
@@ -4652,7 +4652,7 @@
           "id": "cohcigars:122:22996",
           "name": "Jose L. Piedra - Brevas (5x2 盒)",
           "price": "$ 89.00",
-          "stock": "365",
+          "stock": "364",
           "url": "https://cn.cohcigars.com/cigars-jose-l.-piedra"
         },
         "cohcigars:1231:1420": {
@@ -4862,7 +4862,7 @@
           "id": "cohcigars:154:227",
           "name": "Partagas - Aliados (25 盒)",
           "price": "$ 229.00",
-          "stock": "22",
+          "stock": "21",
           "url": "https://cn.cohcigars.com/cigars-partagas"
         },
         "cohcigars:15545:16209": {
@@ -7158,7 +7158,7 @@
           "id": "cohcigars:5358:5794",
           "name": "Quintero Y Hermano - Favoritos A/T (15 盒)",
           "price": "$ 186.00",
-          "stock": "49",
+          "stock": "48",
           "url": "https://cn.cohcigars.com/cigars-quintero-y-hermano"
         },
         "cohcigars:5381:5818": {
@@ -7249,7 +7249,7 @@
           "id": "cohcigars:642:17328",
           "name": "Cohiba - Siglo I A/T (3 盒)",
           "price": "$ 120.00",
-          "stock": "66",
+          "stock": "65",
           "url": "https://cn.cohcigars.com/cigars-cohiba"
         },
         "cohcigars:642:21493": {
@@ -7641,7 +7641,7 @@
           "id": "cohcigars:8963:15587",
           "name": "Vegueros - Centrofinos (4x4 盒)",
           "price": "$ 229.00",
-          "stock": "28",
+          "stock": "27",
           "url": "https://cn.cohcigars.com/cigars-vegueros"
         },
         "cohcigars:908:17330": {
@@ -9061,7 +9061,7 @@
           "url": "https://www.ihavanas.com/details.php?ptype=cigars&pid=Partagas"
         }
       },
-      "last_checked": "2026-10-31T06:17:54+00:00",
+      "last_checked": "2026-10-31T12:42:50+00:00",
       "last_count": 184,
       "last_error": null,
       "previous": {
