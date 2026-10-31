@@ -20,7 +20,7 @@
           "id": "cohcigars:101:20572",
           "name": "Hoyo de Monterrey - Epicure No.1 (3 盒)",
           "price": "$ 120.00",
-          "stock": "47",
+          "stock": "46",
           "url": "https://cn.cohcigars.com/cigars-hoyo-de-monterrey"
         },
         "cohcigars:102:147": {
@@ -594,7 +594,7 @@
           "id": "cohcigars:154:227",
           "name": "Partagas - Aliados (25 盒)",
           "price": "$ 229.00",
-          "stock": "21",
+          "stock": "19",
           "url": "https://cn.cohcigars.com/cigars-partagas"
         },
         "cohcigars:15545:16209": {
@@ -1287,7 +1287,7 @@
           "id": "cohcigars:22900:23683",
           "name": "Partagas - Royales Travel Humidor (10x10 盒)",
           "price": "$ 95.00",
-          "stock": "88",
+          "stock": "87",
           "url": "https://cn.cohcigars.com/cigars-partagas"
         },
         "cohcigars:22901:23685": {
@@ -2295,7 +2295,7 @@
           "id": "cohcigars:26:44",
           "name": "Bolivar - Coronas Junior (25 盒)",
           "price": "$ 406.00",
-          "stock": "15",
+          "stock": "14",
           "url": "https://cn.cohcigars.com/cigars-bolivar"
         },
         "cohcigars:27131:28035": {
@@ -2869,7 +2869,7 @@
           "id": "cohcigars:3273:3576",
           "name": "Singles 6 Stick Min - 1 x Vegas Robaina Famosos (1 盒)",
           "price": "$ 23.00",
-          "stock": "17",
+          "stock": "11",
           "url": "https://cn.cohcigars.com/cigars-singles-6-stick-min"
         },
         "cohcigars:3274:3577": {
@@ -4157,7 +4157,7 @@
           "id": "cohcigars:8963:15587",
           "name": "Vegueros - Centrofinos (4x4 盒)",
           "price": "$ 229.00",
-          "stock": "27",
+          "stock": "25",
           "url": "https://cn.cohcigars.com/cigars-vegueros"
         },
         "cohcigars:8963:22877": {
@@ -4427,7 +4427,7 @@
           "url": "https://cn.cohcigars.com/cigars-montecristo"
         }
       },
-      "last_checked": "2026-10-31T13:05:20+00:00",
+      "last_checked": "2026-10-31T18:37:42+00:00",
       "last_count": 485,
       "last_error": null,
       "previous": {
@@ -4449,7 +4449,7 @@
           "id": "cohcigars:101:20572",
           "name": "Hoyo de Monterrey - Epicure No.1 (3 盒)",
           "price": "$ 120.00",
-          "stock": "47",
+          "stock": "46",
           "url": "https://cn.cohcigars.com/cigars-hoyo-de-monterrey"
         },
         "cohcigars:102:147": {
@@ -4862,7 +4862,7 @@
           "id": "cohcigars:154:227",
           "name": "Partagas - Aliados (25 盒)",
           "price": "$ 229.00",
-          "stock": "21",
+          "stock": "19",
           "url": "https://cn.cohcigars.com/cigars-partagas"
         },
         "cohcigars:15545:16209": {
@@ -5443,7 +5443,7 @@
           "id": "cohcigars:22900:23683",
           "name": "Partagas - Royales Travel Humidor (10x10 盒)",
           "price": "$ 95.00",
-          "stock": "88",
+          "stock": "87",
           "url": "https://cn.cohcigars.com/cigars-partagas"
         },
         "cohcigars:22901:23685": {
@@ -6178,7 +6178,7 @@
           "id": "cohcigars:26:44",
           "name": "Bolivar - Coronas Junior (25 盒)",
           "price": "$ 406.00",
-          "stock": "15",
+          "stock": "14",
           "url": "https://cn.cohcigars.com/cigars-bolivar"
         },
         "cohcigars:27131:28035": {
@@ -6640,7 +6640,7 @@
           "id": "cohcigars:3273:3576",
           "name": "Singles 6 Stick Min - 1 x Vegas Robaina Famosos (1 盒)",
           "price": "$ 23.00",
-          "stock": "17",
+          "stock": "11",
           "url": "https://cn.cohcigars.com/cigars-singles-6-stick-min"
         },
         "cohcigars:3277:3580": {
@@ -7641,7 +7641,7 @@
           "id": "cohcigars:8963:15587",
           "name": "Vegueros - Centrofinos (4x4 盒)",
           "price": "$ 229.00",
-          "stock": "27",
+          "stock": "25",
           "url": "https://cn.cohcigars.com/cigars-vegueros"
         },
         "cohcigars:908:17330": {
@@ -9061,7 +9061,7 @@
           "url": "https://www.ihavanas.com/details.php?ptype=cigars&pid=Partagas"
         }
       },
-      "last_checked": "2026-10-31T13:05:03+00:00",
+      "last_checked": "2026-10-31T18:37:23+00:00",
       "last_count": 184,
       "last_error": null,
       "previous": {
