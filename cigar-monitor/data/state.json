@@ -496,7 +496,7 @@
           "id": "cohcigars:140:208",
           "name": "Partagas - Serie Mini 20x5 (25 盒)",
           "price": "$ 835.00",
-          "stock": "17",
+          "stock": "16",
           "url": "https://cn.cohcigars.com/cigars-partagas"
         },
         "cohcigars:140:209": {
@@ -1203,7 +1203,7 @@
           "id": "cohcigars:214:2408",
           "name": "Romeo Y Julieta - Exhibicion No.4 (10 盒)",
           "price": "$ 129.00",
-          "stock": "42",
+          "stock": "41",
           "url": "https://cn.cohcigars.com/cigars-romeo-y-julieta"
         },
         "cohcigars:214:307": {
@@ -1245,7 +1245,7 @@
           "id": "cohcigars:21:38",
           "name": "Bolivar - Belicosos Finos (25 盒)",
           "price": "$ 788.00",
-          "stock": "8",
+          "stock": "7",
           "url": "https://cn.cohcigars.com/cigars-bolivar"
         },
         "cohcigars:22284:23046": {
@@ -2505,7 +2505,7 @@
           "id": "cohcigars:293:17329",
           "name": "Cohiba - Siglo II A/T (3 盒)",
           "price": "$ 109.00",
-          "stock": "155",
+          "stock": "153",
           "url": "https://cn.cohcigars.com/cigars-cohiba"
         },
         "cohcigars:293:412": {
@@ -4427,7 +4427,7 @@
           "url": "https://cn.cohcigars.com/cigars-montecristo"
         }
       },
-      "last_checked": "2026-11-01T16:55:08+00:00",
+      "last_checked": "2026-11-01T20:33:48+00:00",
       "last_count": 483,
       "last_error": null,
       "previous": {
@@ -4778,7 +4778,7 @@
           "id": "cohcigars:140:208",
           "name": "Partagas - Serie Mini 20x5 (25 盒)",
           "price": "$ 835.00",
-          "stock": "17",
+          "stock": "16",
           "url": "https://cn.cohcigars.com/cigars-partagas"
         },
         "cohcigars:140:209": {
@@ -5345,7 +5345,7 @@
           "id": "cohcigars:214:2408",
           "name": "Romeo Y Julieta - Exhibicion No.4 (10 盒)",
           "price": "$ 129.00",
-          "stock": "42",
+          "stock": "41",
           "url": "https://cn.cohcigars.com/cigars-romeo-y-julieta"
         },
         "cohcigars:214:307": {
@@ -5387,7 +5387,7 @@
           "id": "cohcigars:21:38",
           "name": "Bolivar - Belicosos Finos (25 盒)",
           "price": "$ 788.00",
-          "stock": "8",
+          "stock": "7",
           "url": "https://cn.cohcigars.com/cigars-bolivar"
         },
         "cohcigars:22284:23046": {
@@ -6318,7 +6318,7 @@
           "id": "cohcigars:293:17329",
           "name": "Cohiba - Siglo II A/T (3 盒)",
           "price": "$ 109.00",
-          "stock": "155",
+          "stock": "153",
           "url": "https://cn.cohcigars.com/cigars-cohiba"
         },
         "cohcigars:293:412": {
@@ -9047,7 +9047,7 @@
           "url": "https://www.ihavanas.com/details.php?ptype=cigars&pid=Partagas"
         }
       },
-      "last_checked": "2026-11-01T16:54:50+00:00",
+      "last_checked": "2026-11-01T20:33:28+00:00",
       "last_count": 184,
       "last_error": null,
       "previous": {
