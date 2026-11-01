@@ -573,7 +573,7 @@
           "id": "cohcigars:14:24",
           "name": "Montecristo - No.4 (25 盒)",
           "price": "$ 495.00",
-          "stock": "90",
+          "stock": "89",
           "url": "https://cn.cohcigars.com/cigars-montecristo"
         },
         "cohcigars:14:26712": {
@@ -1203,7 +1203,7 @@
           "id": "cohcigars:214:2408",
           "name": "Romeo Y Julieta - Exhibicion No.4 (10 盒)",
           "price": "$ 129.00",
-          "stock": "43",
+          "stock": "42",
           "url": "https://cn.cohcigars.com/cigars-romeo-y-julieta"
         },
         "cohcigars:214:307": {
@@ -1245,7 +1245,7 @@
           "id": "cohcigars:21:38",
           "name": "Bolivar - Belicosos Finos (25 盒)",
           "price": "$ 788.00",
-          "stock": "9",
+          "stock": "8",
           "url": "https://cn.cohcigars.com/cigars-bolivar"
         },
         "cohcigars:22284:23046": {
@@ -1903,7 +1903,7 @@
           "id": "cohcigars:2503:2790",
           "name": "Cohiba - Robustos A/T (10 x 10 盒)",
           "price": "$ 169.00",
-          "stock": "65",
+          "stock": "63",
           "url": "https://cn.cohcigars.com/cigars-cohiba"
         },
         "cohcigars:2507:2794": {
@@ -4157,7 +4157,7 @@
           "id": "cohcigars:8963:15587",
           "name": "Vegueros - Centrofinos (4x4 盒)",
           "price": "$ 229.00",
-          "stock": "25",
+          "stock": "24",
           "url": "https://cn.cohcigars.com/cigars-vegueros"
         },
         "cohcigars:8963:22877": {
@@ -4427,7 +4427,7 @@
           "url": "https://cn.cohcigars.com/cigars-montecristo"
         }
       },
-      "last_checked": "2026-11-01T06:18:14+00:00",
+      "last_checked": "2026-11-01T09:44:31+00:00",
       "last_count": 483,
       "last_error": null,
       "previous": {
@@ -4841,7 +4841,7 @@
           "id": "cohcigars:14:24",
           "name": "Montecristo - No.4 (25 盒)",
           "price": "$ 495.00",
-          "stock": "90",
+          "stock": "89",
           "url": "https://cn.cohcigars.com/cigars-montecristo"
         },
         "cohcigars:14:26712": {
@@ -5345,7 +5345,7 @@
           "id": "cohcigars:214:2408",
           "name": "Romeo Y Julieta - Exhibicion No.4 (10 盒)",
           "price": "$ 129.00",
-          "stock": "43",
+          "stock": "42",
           "url": "https://cn.cohcigars.com/cigars-romeo-y-julieta"
         },
         "cohcigars:214:307": {
@@ -5387,7 +5387,7 @@
           "id": "cohcigars:21:38",
           "name": "Bolivar - Belicosos Finos (25 盒)",
           "price": "$ 788.00",
-          "stock": "9",
+          "stock": "8",
           "url": "https://cn.cohcigars.com/cigars-bolivar"
         },
         "cohcigars:22284:23046": {
@@ -5954,7 +5954,7 @@
           "id": "cohcigars:2503:2790",
           "name": "Cohiba - Robustos A/T (10 x 10 盒)",
           "price": "$ 169.00",
-          "stock": "65",
+          "stock": "63",
           "url": "https://cn.cohcigars.com/cigars-cohiba"
         },
         "cohcigars:25144:26028": {
@@ -7627,7 +7627,7 @@
           "id": "cohcigars:8963:15587",
           "name": "Vegueros - Centrofinos (4x4 盒)",
           "price": "$ 229.00",
-          "stock": "25",
+          "stock": "24",
           "url": "https://cn.cohcigars.com/cigars-vegueros"
         },
         "cohcigars:908:17330": {
@@ -9047,7 +9047,7 @@
           "url": "https://www.ihavanas.com/details.php?ptype=cigars&pid=Partagas"
         }
       },
-      "last_checked": "2026-11-01T06:17:58+00:00",
+      "last_checked": "2026-11-01T09:44:15+00:00",
       "last_count": 184,
       "last_error": null,
       "previous": {
