@@ -524,7 +524,7 @@
           "id": "cohcigars:14258:14913",
           "name": "Troya - Tubos (15 盒)",
           "price": "$ 95.00",
-          "stock": "2",
+          "stock": "1",
           "url": "https://cn.cohcigars.com/cigars-troya"
         },
         "cohcigars:142:212": {
@@ -615,7 +615,7 @@
           "id": "cohcigars:1556:17327",
           "name": "Cohiba - Robustos A/T (3 盒)",
           "price": "$ 209.00",
-          "stock": "186",
+          "stock": "185",
           "url": "https://cn.cohcigars.com/cigars-cohiba"
         },
         "cohcigars:1556:1751": {
@@ -811,7 +811,7 @@
           "id": "cohcigars:186:265",
           "name": "Ramon Allones - Specially Selected (25 盒)",
           "price": "$ 703.00",
-          "stock": "18",
+          "stock": "17",
           "url": "https://cn.cohcigars.com/cigars-ramon-allones"
         },
         "cohcigars:187:12032": {
@@ -1070,7 +1070,7 @@
           "id": "cohcigars:202:291",
           "name": "Romeo Y Julieta - Romeo No.2 A/T (15 盒)",
           "price": "$ 245.00",
-          "stock": "99",
+          "stock": "98",
           "url": "https://cn.cohcigars.com/cigars-romeo-y-julieta"
         },
         "cohcigars:20343:21066": {
@@ -1777,7 +1777,7 @@
           "id": "cohcigars:2430:28753",
           "name": "Partagas - Serie E No.2 A/T (3x2 盒)",
           "price": "$ 245.00",
-          "stock": "68",
+          "stock": "66",
           "url": "https://cn.cohcigars.com/cigars-partagas"
         },
         "cohcigars:24440:25279": {
@@ -2967,7 +2967,7 @@
           "id": "cohcigars:3489:3792",
           "name": "Singles 6 Stick Min - 1 x H Upmann Connoisseur No.1 (1 盒)",
           "price": "$ 23.00",
-          "stock": "159",
+          "stock": "157",
           "url": "https://cn.cohcigars.com/cigars-singles-6-stick-min"
         },
         "cohcigars:3490:3793": {
@@ -3352,7 +3352,7 @@
           "id": "cohcigars:4573:4874",
           "name": "Singles 6 Stick Min - 1 x Diplomaticos No.2 (1 盒)",
           "price": "$ 28.00",
-          "stock": "142",
+          "stock": "139",
           "url": "https://cn.cohcigars.com/cigars-singles-6-stick-min"
         },
         "cohcigars:4593:4894": {
@@ -3863,7 +3863,7 @@
           "id": "cohcigars:7208:7716",
           "name": "Singles 6 Stick Min - 1 x Bolivar Petit Coronas (1 盒)",
           "price": "$ 20.00",
-          "stock": "172",
+          "stock": "171",
           "url": "https://cn.cohcigars.com/cigars-singles-6-stick-min"
         },
         "cohcigars:7211:7719": {
@@ -4157,7 +4157,7 @@
           "id": "cohcigars:8963:15587",
           "name": "Vegueros - Centrofinos (4x4 盒)",
           "price": "$ 229.00",
-          "stock": "22",
+          "stock": "21",
           "url": "https://cn.cohcigars.com/cigars-vegueros"
         },
         "cohcigars:8963:22877": {
@@ -4227,7 +4227,7 @@
           "id": "cohcigars:911:28370",
           "name": "Montecristo - Master A/T (3x2 盒)",
           "price": "$ 155.00",
-          "stock": "34",
+          "stock": "33",
           "url": "https://cn.cohcigars.com/cigars-montecristo"
         },
         "cohcigars:913:956": {
@@ -4427,7 +4427,7 @@
           "url": "https://cn.cohcigars.com/cigars-montecristo"
         }
       },
-      "last_checked": "2026-11-04T00:38:53+00:00",
+      "last_checked": "2026-11-04T06:59:34+00:00",
       "last_count": 481,
       "last_error": null,
       "previous": {
@@ -4799,7 +4799,7 @@
           "id": "cohcigars:14258:14913",
           "name": "Troya - Tubos (15 盒)",
           "price": "$ 95.00",
-          "stock": "2",
+          "stock": "1",
           "url": "https://cn.cohcigars.com/cigars-troya"
         },
         "cohcigars:142:212": {
@@ -4876,7 +4876,7 @@
           "id": "cohcigars:1556:17327",
           "name": "Cohiba - Robustos A/T (3 盒)",
           "price": "$ 209.00",
-          "stock": "186",
+          "stock": "185",
           "url": "https://cn.cohcigars.com/cigars-cohiba"
         },
         "cohcigars:1556:1751": {
@@ -5016,7 +5016,7 @@
           "id": "cohcigars:186:265",
           "name": "Ramon Allones - Specially Selected (25 盒)",
           "price": "$ 703.00",
-          "stock": "18",
+          "stock": "17",
           "url": "https://cn.cohcigars.com/cigars-ramon-allones"
         },
         "cohcigars:187:12032": {
@@ -5226,7 +5226,7 @@
           "id": "cohcigars:202:291",
           "name": "Romeo Y Julieta - Romeo No.2 A/T (15 盒)",
           "price": "$ 245.00",
-          "stock": "99",
+          "stock": "98",
           "url": "https://cn.cohcigars.com/cigars-romeo-y-julieta"
         },
         "cohcigars:20343:21066": {
@@ -5835,7 +5835,7 @@
           "id": "cohcigars:2430:28753",
           "name": "Partagas - Serie E No.2 A/T (3x2 盒)",
           "price": "$ 245.00",
-          "stock": "68",
+          "stock": "66",
           "url": "https://cn.cohcigars.com/cigars-partagas"
         },
         "cohcigars:24440:25279": {
@@ -6661,7 +6661,7 @@
           "id": "cohcigars:3489:3792",
           "name": "Singles 6 Stick Min - 1 x H Upmann Connoisseur No.1 (1 盒)",
           "price": "$ 23.00",
-          "stock": "159",
+          "stock": "157",
           "url": "https://cn.cohcigars.com/cigars-singles-6-stick-min"
         },
         "cohcigars:3490:3793": {
@@ -6885,7 +6885,7 @@
           "id": "cohcigars:4573:4874",
           "name": "Singles 6 Stick Min - 1 x Diplomaticos No.2 (1 盒)",
           "price": "$ 28.00",
-          "stock": "142",
+          "stock": "139",
           "url": "https://cn.cohcigars.com/cigars-singles-6-stick-min"
         },
         "cohcigars:4593:4894": {
@@ -7354,7 +7354,7 @@
           "id": "cohcigars:7208:7716",
           "name": "Singles 6 Stick Min - 1 x Bolivar Petit Coronas (1 盒)",
           "price": "$ 20.00",
-          "stock": "172",
+          "stock": "171",
           "url": "https://cn.cohcigars.com/cigars-singles-6-stick-min"
         },
         "cohcigars:7211:7719": {
@@ -7613,7 +7613,7 @@
           "id": "cohcigars:8963:15587",
           "name": "Vegueros - Centrofinos (4x4 盒)",
           "price": "$ 229.00",
-          "stock": "22",
+          "stock": "21",
           "url": "https://cn.cohcigars.com/cigars-vegueros"
         },
         "cohcigars:908:17330": {
@@ -7662,7 +7662,7 @@
           "id": "cohcigars:911:28370",
           "name": "Montecristo - Master A/T (3x2 盒)",
           "price": "$ 155.00",
-          "stock": "34",
+          "stock": "33",
           "url": "https://cn.cohcigars.com/cigars-montecristo"
         },
         "cohcigars:913:956": {
@@ -9033,7 +9033,7 @@
           "url": "https://www.ihavanas.com/details.php?ptype=cigars&pid=Partagas"
         }
       },
-      "last_checked": "2026-11-04T00:38:34+00:00",
+      "last_checked": "2026-11-04T06:59:15+00:00",
       "last_count": 184,
       "last_error": null,
       "previous": {
