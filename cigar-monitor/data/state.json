@@ -503,7 +503,7 @@
           "id": "cohcigars:140:208",
           "name": "Partagas - Serie Mini 20x5 (25 盒)",
           "price": "$ 835.00",
-          "stock": "15",
+          "stock": "14",
           "url": "https://cn.cohcigars.com/cigars-partagas"
         },
         "cohcigars:140:209": {
@@ -559,7 +559,7 @@
           "id": "cohcigars:148:220",
           "name": "Partagas - Lusitanias (10 盒)",
           "price": "$ 135.00",
-          "stock": "99",
+          "stock": "96",
           "url": "https://cn.cohcigars.com/cigars-partagas"
         },
         "cohcigars:14964:15628": {
@@ -713,7 +713,7 @@
           "id": "cohcigars:1708:1939",
           "name": "Trinidad - Robusto Extra Gift Box (12 盒)",
           "price": "$ 499.00",
-          "stock": "25",
+          "stock": "21",
           "url": "https://cn.cohcigars.com/cigars-trinidad"
         },
         "cohcigars:170:248": {
@@ -4318,7 +4318,7 @@
           "id": "cohcigars:928:974",
           "name": "Partagas - Serie E No.2 (25 盒)",
           "price": "$ 998.00",
-          "stock": "18",
+          "stock": "17",
           "url": "https://cn.cohcigars.com/cigars-partagas"
         },
         "cohcigars:9327:9971": {
@@ -4360,7 +4360,7 @@
           "id": "cohcigars:933:980",
           "name": "H.Upmann - Half Corona (25 盒)",
           "price": "$ 340.00",
-          "stock": "3",
+          "stock": "2",
           "url": "https://cn.cohcigars.com/cigars-h.upmann"
         },
         "cohcigars:9341:9985": {
@@ -4483,7 +4483,7 @@
           "url": "https://cn.cohcigars.com/cigars-montecristo"
         }
       },
-      "last_checked": "2026-11-06T17:41:18+00:00",
+      "last_checked": "2026-11-06T21:34:30+00:00",
       "last_count": 493,
       "last_error": null,
       "previous": {
@@ -4827,7 +4827,7 @@
           "id": "cohcigars:140:208",
           "name": "Partagas - Serie Mini 20x5 (25 盒)",
           "price": "$ 835.00",
-          "stock": "15",
+          "stock": "14",
           "url": "https://cn.cohcigars.com/cigars-partagas"
         },
         "cohcigars:140:209": {
@@ -4876,7 +4876,7 @@
           "id": "cohcigars:148:220",
           "name": "Partagas - Lusitanias (10 盒)",
           "price": "$ 135.00",
-          "stock": "99",
+          "stock": "96",
           "url": "https://cn.cohcigars.com/cigars-partagas"
         },
         "cohcigars:14964:15628": {
@@ -5016,7 +5016,7 @@
           "id": "cohcigars:1708:1939",
           "name": "Trinidad - Robusto Extra Gift Box (12 盒)",
           "price": "$ 499.00",
-          "stock": "25",
+          "stock": "21",
           "url": "https://cn.cohcigars.com/cigars-trinidad"
         },
         "cohcigars:170:248": {
@@ -7823,7 +7823,7 @@
           "id": "cohcigars:928:974",
           "name": "Partagas - Serie E No.2 (25 盒)",
           "price": "$ 998.00",
-          "stock": "18",
+          "stock": "17",
           "url": "https://cn.cohcigars.com/cigars-partagas"
         },
         "cohcigars:9327:9971": {
@@ -7858,7 +7858,7 @@
           "id": "cohcigars:933:980",
           "name": "H.Upmann - Half Corona (25 盒)",
           "price": "$ 340.00",
-          "stock": "3",
+          "stock": "2",
           "url": "https://cn.cohcigars.com/cigars-h.upmann"
         },
         "cohcigars:9344:9988": {
@@ -9173,7 +9173,7 @@
           "url": "https://www.ihavanas.com/details.php?ptype=cigars&pid=Partagas"
         }
       },
-      "last_checked": "2026-11-06T17:40:57+00:00",
+      "last_checked": "2026-11-06T21:34:13+00:00",
       "last_count": 184,
       "last_error": null,
       "previous": {
