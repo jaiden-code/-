@@ -559,7 +559,7 @@
           "id": "cohcigars:148:220",
           "name": "Partagas - Lusitanias (10 盒)",
           "price": "$ 135.00",
-          "stock": "95",
+          "stock": "94",
           "url": "https://cn.cohcigars.com/cigars-partagas"
         },
         "cohcigars:14964:15628": {
@@ -1245,7 +1245,7 @@
           "id": "cohcigars:21860:24390",
           "name": "Cohiba - Vitosos Travel Humidor (6x2 盒)",
           "price": "$ 79.00",
-          "stock": "59",
+          "stock": "58",
           "url": "https://cn.cohcigars.com/cigars-cohiba"
         },
         "cohcigars:21:38": {
@@ -3632,7 +3632,7 @@
           "id": "cohcigars:5142:5552",
           "name": "Montecristo - Regata A/T (10x10 盒)",
           "price": "$ 150.00",
-          "stock": "858",
+          "stock": "856",
           "url": "https://cn.cohcigars.com/cigars-montecristo"
         },
         "cohcigars:52:84": {
@@ -4483,8 +4483,8 @@
           "url": "https://cn.cohcigars.com/cigars-montecristo"
         }
       },
-      "last_checked": "2026-11-08T01:28:57+00:00",
-      "last_count": 493,
+      "last_checked": "2026-11-08T06:42:50+00:00",
+      "last_count": 492,
       "last_error": null,
       "previous": {
         "cohcigars:100:141": {
@@ -4876,7 +4876,7 @@
           "id": "cohcigars:148:220",
           "name": "Partagas - Lusitanias (10 盒)",
           "price": "$ 135.00",
-          "stock": "95",
+          "stock": "94",
           "url": "https://cn.cohcigars.com/cigars-partagas"
         },
         "cohcigars:14964:15628": {
@@ -4913,13 +4913,6 @@
           "price": "$ 156.00",
           "stock": "48",
           "url": "https://cn.cohcigars.com/cigars-quintero-y-hermano"
-        },
-        "cohcigars:154:227": {
-          "id": "cohcigars:154:227",
-          "name": "Partagas - Aliados (25 盒)",
-          "price": "$ 229.00",
-          "stock": "1",
-          "url": "https://cn.cohcigars.com/cigars-partagas"
         },
         "cohcigars:15545:16209": {
           "id": "cohcigars:15545:16209",
@@ -5457,7 +5450,7 @@
           "id": "cohcigars:21860:24390",
           "name": "Cohiba - Vitosos Travel Humidor (6x2 盒)",
           "price": "$ 79.00",
-          "stock": "59",
+          "stock": "58",
           "url": "https://cn.cohcigars.com/cigars-cohiba"
         },
         "cohcigars:21:38": {
@@ -7228,7 +7221,7 @@
           "id": "cohcigars:5142:5552",
           "name": "Montecristo - Regata A/T (10x10 盒)",
           "price": "$ 150.00",
-          "stock": "858",
+          "stock": "856",
           "url": "https://cn.cohcigars.com/cigars-montecristo"
         },
         "cohcigars:52:84": {
@@ -9173,8 +9166,8 @@
           "url": "https://www.ihavanas.com/details.php?ptype=cigars&pid=Partagas"
         }
       },
-      "last_checked": "2026-11-08T01:28:37+00:00",
-      "last_count": 184,
+      "last_checked": "2026-11-08T06:42:34+00:00",
+      "last_count": 183,
       "last_error": null,
       "previous": {
         "ihavanas:1006": {
@@ -9961,12 +9954,6 @@
           "id": "ihavanas:45",
           "name": "Cohiba - Siglo IV (Box 25)",
           "price": "US$1811.00",
-          "url": "https://www.ihavanas.com/details.php?ptype=cigars&pid=Cohiba"
-        },
-        "ihavanas:47": {
-          "id": "ihavanas:47",
-          "name": "Cohiba - Siglo V A/T (Box 15)",
-          "price": "US$1448.00",
           "url": "https://www.ihavanas.com/details.php?ptype=cigars&pid=Cohiba"
         },
         "ihavanas:50": {
