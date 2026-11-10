@@ -286,7 +286,7 @@
           "id": "cohcigars:119:176",
           "name": "Juan Lopez - Cincuenta y Cuatro RE Espana 2025 (25 盒)",
           "price": "$ 469.00",
-          "stock": "61",
+          "stock": "56",
           "url": "https://cn.cohcigars.com/cigars-juan-lopez"
         },
         "cohcigars:11:17": {
@@ -461,7 +461,7 @@
           "id": "cohcigars:132:912",
           "name": "Partagas - Linea Maestra Sampler (10 盒)",
           "price": "$ 415.00",
-          "stock": "24",
+          "stock": "23",
           "url": "https://cn.cohcigars.com/cigars-partagas"
         },
         "cohcigars:133:198": {
@@ -559,7 +559,7 @@
           "id": "cohcigars:148:219",
           "name": "Partagas - Linea Maestra Sampler (25 盒)",
           "price": "$ 229.00",
-          "stock": "15",
+          "stock": "10",
           "url": "https://cn.cohcigars.com/cigars-partagas"
         },
         "cohcigars:148:220": {
@@ -643,7 +643,7 @@
           "id": "cohcigars:1556:29557",
           "name": "Cohiba - Robustos A/T (3x3 盒)",
           "price": "$ 590.00",
-          "stock": "97",
+          "stock": "96",
           "url": "https://cn.cohcigars.com/cigars-cohiba"
         },
         "cohcigars:157:231": {
@@ -1084,7 +1084,7 @@
           "id": "cohcigars:202:289",
           "name": "Romeo Y Julieta - Romeo No.2 A/T (25 盒)",
           "price": "$ 290.00",
-          "stock": "86",
+          "stock": "85",
           "url": "https://cn.cohcigars.com/cigars-romeo-y-julieta"
         },
         "cohcigars:202:290": {
@@ -1154,7 +1154,7 @@
           "id": "cohcigars:2052:24352",
           "name": "Trinidad - Robusto Extra Gift Box (3x2 盒)",
           "price": "$ 199.00",
-          "stock": "38",
+          "stock": "31",
           "url": "https://cn.cohcigars.com/cigars-trinidad"
         },
         "cohcigars:2053:2316": {
@@ -1966,7 +1966,7 @@
           "id": "cohcigars:251:355",
           "name": "Trinidad - Fundadores (24 盒)",
           "price": "$ 399.00",
-          "stock": "262",
+          "stock": "258",
           "url": "https://cn.cohcigars.com/cigars-trinidad"
         },
         "cohcigars:251:356": {
@@ -2918,7 +2918,7 @@
           "id": "cohcigars:30:49",
           "name": "Bolivar - Royal Coronas (25 盒)",
           "price": "$ 665.00",
-          "stock": "2",
+          "stock": "1",
           "url": "https://cn.cohcigars.com/cigars-bolivar"
         },
         "cohcigars:3239:3542": {
@@ -3198,7 +3198,7 @@
           "id": "cohcigars:366:541",
           "name": "Hoyo de Monterrey - Epicure De Luxe (10 盒)",
           "price": "$ 265.00",
-          "stock": "20",
+          "stock": "18",
           "url": "https://cn.cohcigars.com/cigars-hoyo-de-monterrey"
         },
         "cohcigars:368:594": {
@@ -3506,7 +3506,7 @@
           "id": "cohcigars:4632:5067",
           "name": "Hoyo de Monterrey - Epicure No.3 (10 盒)",
           "price": "$ 285.00",
-          "stock": "86",
+          "stock": "85",
           "url": "https://cn.cohcigars.com/cigars-hoyo-de-monterrey"
         },
         "cohcigars:4633:4945": {
@@ -3765,7 +3765,7 @@
           "id": "cohcigars:5773:29558",
           "name": "La Flor De Cano - Elegidos (3x3 盒)",
           "price": "$ 89.00",
-          "stock": "58",
+          "stock": "56",
           "url": "https://cn.cohcigars.com/cigars-la-flor-de-cano"
         },
         "cohcigars:5773:6236": {
@@ -4560,7 +4560,7 @@
           "url": "https://cn.cohcigars.com/cigars-montecristo"
         }
       },
-      "last_checked": "2026-11-10T02:55:40+00:00",
+      "last_checked": "2026-11-10T04:09:55+00:00",
       "last_count": 489,
       "last_error": null,
       "previous": {
@@ -4750,7 +4750,7 @@
           "id": "cohcigars:119:176",
           "name": "Juan Lopez - Cincuenta y Cuatro RE Espana 2025 (25 盒)",
           "price": "$ 469.00",
-          "stock": "61",
+          "stock": "56",
           "url": "https://cn.cohcigars.com/cigars-juan-lopez"
         },
         "cohcigars:11:17": {
@@ -4876,7 +4876,7 @@
           "id": "cohcigars:132:912",
           "name": "Partagas - Linea Maestra Sampler (10 盒)",
           "price": "$ 415.00",
-          "stock": "24",
+          "stock": "23",
           "url": "https://cn.cohcigars.com/cigars-partagas"
         },
         "cohcigars:136:203": {
@@ -4960,7 +4960,7 @@
           "id": "cohcigars:148:219",
           "name": "Partagas - Linea Maestra Sampler (25 盒)",
           "price": "$ 229.00",
-          "stock": "15",
+          "stock": "10",
           "url": "https://cn.cohcigars.com/cigars-partagas"
         },
         "cohcigars:148:220": {
@@ -5037,7 +5037,7 @@
           "id": "cohcigars:1556:29557",
           "name": "Cohiba - Robustos A/T (3x3 盒)",
           "price": "$ 590.00",
-          "stock": "97",
+          "stock": "96",
           "url": "https://cn.cohcigars.com/cigars-cohiba"
         },
         "cohcigars:157:231": {
@@ -5380,7 +5380,7 @@
           "id": "cohcigars:202:289",
           "name": "Romeo Y Julieta - Romeo No.2 A/T (25 盒)",
           "price": "$ 290.00",
-          "stock": "86",
+          "stock": "85",
           "url": "https://cn.cohcigars.com/cigars-romeo-y-julieta"
         },
         "cohcigars:202:290": {
@@ -5450,7 +5450,7 @@
           "id": "cohcigars:2052:24352",
           "name": "Trinidad - Robusto Extra Gift Box (3x2 盒)",
           "price": "$ 199.00",
-          "stock": "38",
+          "stock": "31",
           "url": "https://cn.cohcigars.com/cigars-trinidad"
         },
         "cohcigars:2053:2316": {
@@ -6129,7 +6129,7 @@
           "id": "cohcigars:251:355",
           "name": "Trinidad - Fundadores (24 盒)",
           "price": "$ 399.00",
-          "stock": "262",
+          "stock": "258",
           "url": "https://cn.cohcigars.com/cigars-trinidad"
         },
         "cohcigars:251:356": {
@@ -6822,7 +6822,7 @@
           "id": "cohcigars:30:49",
           "name": "Bolivar - Royal Coronas (25 盒)",
           "price": "$ 665.00",
-          "stock": "2",
+          "stock": "1",
           "url": "https://cn.cohcigars.com/cigars-bolivar"
         },
         "cohcigars:3266:3569": {
@@ -6962,7 +6962,7 @@
           "id": "cohcigars:366:541",
           "name": "Hoyo de Monterrey - Epicure De Luxe (10 盒)",
           "price": "$ 265.00",
-          "stock": "20",
+          "stock": "18",
           "url": "https://cn.cohcigars.com/cigars-hoyo-de-monterrey"
         },
         "cohcigars:368:594": {
@@ -7109,7 +7109,7 @@
           "id": "cohcigars:4632:5067",
           "name": "Hoyo de Monterrey - Epicure No.3 (10 盒)",
           "price": "$ 285.00",
-          "stock": "86",
+          "stock": "85",
           "url": "https://cn.cohcigars.com/cigars-hoyo-de-monterrey"
         },
         "cohcigars:4633:4945": {
@@ -7340,7 +7340,7 @@
           "id": "cohcigars:5773:29558",
           "name": "La Flor De Cano - Elegidos (3x3 盒)",
           "price": "$ 89.00",
-          "stock": "58",
+          "stock": "56",
           "url": "https://cn.cohcigars.com/cigars-la-flor-de-cano"
         },
         "cohcigars:5773:6236": {
@@ -9222,7 +9222,7 @@
           "url": "https://www.ihavanas.com/details.php?ptype=cigars&pid=Partagas"
         }
       },
-      "last_checked": "2026-11-10T02:55:22+00:00",
+      "last_checked": "2026-11-10T04:09:38+00:00",
       "last_count": 181,
       "last_error": null,
       "previous": {
