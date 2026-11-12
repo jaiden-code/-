@@ -237,7 +237,7 @@
           "id": "cohcigars:11350:12001",
           "name": "Hoyo de Monterrey - Epicure No.3 (25 盒)",
           "price": "$ 695.00",
-          "stock": "13",
+          "stock": "12",
           "url": "https://cn.cohcigars.com/cigars-hoyo-de-monterrey"
         },
         "cohcigars:11383:12034": {
@@ -1903,7 +1903,7 @@
           "id": "cohcigars:244:342",
           "name": "Sancho Panza - Non Plus (25 盒)",
           "price": "$ 488.00",
-          "stock": "7",
+          "stock": "6",
           "url": "https://cn.cohcigars.com/cigars-sancho-panza"
         },
         "cohcigars:248:347": {
@@ -2260,7 +2260,7 @@
           "id": "cohcigars:266:23686",
           "name": "Romeo Y Julieta - Mini 10x10 (20x5 盒)",
           "price": "$ 59.00",
-          "stock": "496",
+          "stock": "495",
           "url": "https://cn.cohcigars.com/cigars-romeo-y-julieta"
         },
         "cohcigars:2675:2980": {
@@ -4395,7 +4395,7 @@
           "id": "cohcigars:928:974",
           "name": "Partagas - Serie D No.6 (25 盒)",
           "price": "$ 799.00",
-          "stock": "2",
+          "stock": "1",
           "url": "https://cn.cohcigars.com/cigars-partagas"
         },
         "cohcigars:9327:9971": {
@@ -4560,7 +4560,7 @@
           "url": "https://cn.cohcigars.com/cigars-montecristo"
         }
       },
-      "last_checked": "2026-11-12T18:36:19+00:00",
+      "last_checked": "2026-11-12T23:53:24+00:00",
       "last_count": 478,
       "last_error": null,
       "previous": {
@@ -4722,7 +4722,7 @@
           "id": "cohcigars:11350:12001",
           "name": "Hoyo de Monterrey - Epicure No.3 (25 盒)",
           "price": "$ 695.00",
-          "stock": "13",
+          "stock": "12",
           "url": "https://cn.cohcigars.com/cigars-hoyo-de-monterrey"
         },
         "cohcigars:11386:12037": {
@@ -6052,7 +6052,7 @@
           "id": "cohcigars:244:342",
           "name": "Sancho Panza - Non Plus (25 盒)",
           "price": "$ 488.00",
-          "stock": "7",
+          "stock": "6",
           "url": "https://cn.cohcigars.com/cigars-sancho-panza"
         },
         "cohcigars:249:350": {
@@ -6255,7 +6255,7 @@
           "id": "cohcigars:266:23686",
           "name": "Romeo Y Julieta - Mini 10x10 (20x5 盒)",
           "price": "$ 59.00",
-          "stock": "496",
+          "stock": "495",
           "url": "https://cn.cohcigars.com/cigars-romeo-y-julieta"
         },
         "cohcigars:267:21510": {
@@ -7802,7 +7802,7 @@
           "id": "cohcigars:928:974",
           "name": "Partagas - Serie D No.6 (25 盒)",
           "price": "$ 799.00",
-          "stock": "2",
+          "stock": "1",
           "url": "https://cn.cohcigars.com/cigars-partagas"
         },
         "cohcigars:9327:9971": {
@@ -9145,7 +9145,7 @@
           "url": "https://www.ihavanas.com/details.php?ptype=cigars&pid=Partagas"
         }
       },
-      "last_checked": "2026-11-12T18:35:58+00:00",
+      "last_checked": "2026-11-12T23:53:06+00:00",
       "last_count": 181,
       "last_error": null,
       "previous": {
