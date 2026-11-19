@@ -307,7 +307,7 @@
           "id": "cohcigars:119:176",
           "name": "Juan Lopez - Seleccion No.2 (25 盒)",
           "price": "$ 560.00",
-          "stock": "19",
+          "stock": "17",
           "url": "https://cn.cohcigars.com/cigars-juan-lopez"
         },
         "cohcigars:11:17": {
@@ -566,7 +566,7 @@
           "id": "cohcigars:142:212",
           "name": "Partagas - Shorts (25 盒)",
           "price": "$ 299.00",
-          "stock": "22",
+          "stock": "21",
           "url": "https://cn.cohcigars.com/cigars-partagas"
         },
         "cohcigars:148:21471": {
@@ -622,7 +622,7 @@
           "id": "cohcigars:1544:1739",
           "name": "Quintero Y Hermano - Petit Quintero (25 盒)",
           "price": "$ 156.00",
-          "stock": "36",
+          "stock": "35",
           "url": "https://cn.cohcigars.com/cigars-quintero-y-hermano"
         },
         "cohcigars:154:227": {
@@ -965,7 +965,7 @@
           "id": "cohcigars:1950:23681",
           "name": "Montecristo - Mini Filter Aroma – 20 x 5 (20x5 盒)",
           "price": "$ 125.00",
-          "stock": "463",
+          "stock": "462",
           "url": "https://cn.cohcigars.com/cigars-montecristo"
         },
         "cohcigars:1951:23690": {
@@ -1252,7 +1252,7 @@
           "id": "cohcigars:214:2408",
           "name": "Romeo Y Julieta - Exhibicion No.4 (10 盒)",
           "price": "$ 129.00",
-          "stock": "29",
+          "stock": "28",
           "url": "https://cn.cohcigars.com/cigars-romeo-y-julieta"
         },
         "cohcigars:214:307": {
@@ -1322,7 +1322,7 @@
           "id": "cohcigars:22898:23676",
           "name": "Cohiba - Ambar (10x10 盒)",
           "price": "$ 115.00",
-          "stock": "153",
+          "stock": "152",
           "url": "https://cn.cohcigars.com/cigars-cohiba"
         },
         "cohcigars:22899:23679": {
@@ -4630,7 +4630,7 @@
           "url": "https://cn.cohcigars.com/cigars-montecristo"
         }
       },
-      "last_checked": "2026-11-19T10:27:51+00:00",
+      "last_checked": "2026-11-19T13:55:01+00:00",
       "last_count": 493,
       "last_error": null,
       "previous": {
@@ -4841,7 +4841,7 @@
           "id": "cohcigars:119:176",
           "name": "Juan Lopez - Seleccion No.2 (25 盒)",
           "price": "$ 560.00",
-          "stock": "19",
+          "stock": "17",
           "url": "https://cn.cohcigars.com/cigars-juan-lopez"
         },
         "cohcigars:11:17": {
@@ -5023,7 +5023,7 @@
           "id": "cohcigars:142:212",
           "name": "Partagas - Shorts (25 盒)",
           "price": "$ 299.00",
-          "stock": "22",
+          "stock": "21",
           "url": "https://cn.cohcigars.com/cigars-partagas"
         },
         "cohcigars:148:21471": {
@@ -5072,7 +5072,7 @@
           "id": "cohcigars:1544:1739",
           "name": "Quintero Y Hermano - Petit Quintero (25 盒)",
           "price": "$ 156.00",
-          "stock": "36",
+          "stock": "35",
           "url": "https://cn.cohcigars.com/cigars-quintero-y-hermano"
         },
         "cohcigars:15545:16209": {
@@ -5338,7 +5338,7 @@
           "id": "cohcigars:1950:23681",
           "name": "Montecristo - Mini Filter Aroma – 20 x 5 (20x5 盒)",
           "price": "$ 125.00",
-          "stock": "463",
+          "stock": "462",
           "url": "https://cn.cohcigars.com/cigars-montecristo"
         },
         "cohcigars:1951:23690": {
@@ -5583,7 +5583,7 @@
           "id": "cohcigars:214:2408",
           "name": "Romeo Y Julieta - Exhibicion No.4 (10 盒)",
           "price": "$ 129.00",
-          "stock": "29",
+          "stock": "28",
           "url": "https://cn.cohcigars.com/cigars-romeo-y-julieta"
         },
         "cohcigars:214:307": {
@@ -5639,7 +5639,7 @@
           "id": "cohcigars:22898:23676",
           "name": "Cohiba - Ambar (10x10 盒)",
           "price": "$ 115.00",
-          "stock": "153",
+          "stock": "152",
           "url": "https://cn.cohcigars.com/cigars-cohiba"
         },
         "cohcigars:22899:23679": {
@@ -9320,7 +9320,7 @@
           "url": "https://www.ihavanas.com/details.php?ptype=cigars&pid=Partagas"
         }
       },
-      "last_checked": "2026-11-19T10:27:32+00:00",
+      "last_checked": "2026-11-19T13:54:43+00:00",
       "last_count": 180,
       "last_error": null,
       "previous": {
