@@ -139,7 +139,7 @@
           "id": "cohcigars:1105:1258",
           "name": "Rafael Gonzalez - Perlas (25 盒)",
           "price": "$ 242.00",
-          "stock": "20",
+          "stock": "19",
           "url": "https://cn.cohcigars.com/cigars-rafael-gonzalez"
         },
         "cohcigars:1106:1183": {
@@ -622,7 +622,7 @@
           "id": "cohcigars:14:26712",
           "name": "Montecristo - No.4 (3x2 盒)",
           "price": "$ 195.00",
-          "stock": "98",
+          "stock": "97",
           "url": "https://cn.cohcigars.com/cigars-montecristo"
         },
         "cohcigars:1544:1739": {
@@ -1854,7 +1854,7 @@
           "id": "cohcigars:24440:25280",
           "name": "Cohiba - Robusto C/P (3 盒)",
           "price": "$ 240.00",
-          "stock": "167",
+          "stock": "166",
           "url": "https://cn.cohcigars.com/cigars-cohiba"
         },
         "cohcigars:24441:25281": {
@@ -2652,7 +2652,7 @@
           "id": "cohcigars:293:17329",
           "name": "Cohiba - Siglo II A/T (3 盒)",
           "price": "$ 109.00",
-          "stock": "41",
+          "stock": "40",
           "url": "https://cn.cohcigars.com/cigars-cohiba"
         },
         "cohcigars:293:412": {
@@ -4651,7 +4651,7 @@
           "url": "https://cn.cohcigars.com/cigars-montecristo"
         }
       },
-      "last_checked": "2026-11-23T14:49:35+00:00",
+      "last_checked": "2026-11-23T15:23:46+00:00",
       "last_count": 500,
       "last_error": null,
       "previous": {
@@ -4743,7 +4743,7 @@
           "id": "cohcigars:1105:1258",
           "name": "Rafael Gonzalez - Perlas (25 盒)",
           "price": "$ 242.00",
-          "stock": "20",
+          "stock": "19",
           "url": "https://cn.cohcigars.com/cigars-rafael-gonzalez"
         },
         "cohcigars:1106:24016": {
@@ -5086,7 +5086,7 @@
           "id": "cohcigars:14:26712",
           "name": "Montecristo - No.4 (3x2 盒)",
           "price": "$ 195.00",
-          "stock": "98",
+          "stock": "97",
           "url": "https://cn.cohcigars.com/cigars-montecristo"
         },
         "cohcigars:1544:1739": {
@@ -6115,7 +6115,7 @@
           "id": "cohcigars:24440:25280",
           "name": "Cohiba - Robusto C/P (3 盒)",
           "price": "$ 240.00",
-          "stock": "167",
+          "stock": "166",
           "url": "https://cn.cohcigars.com/cigars-cohiba"
         },
         "cohcigars:24441:25281": {
@@ -6668,7 +6668,7 @@
           "id": "cohcigars:293:17329",
           "name": "Cohiba - Siglo II A/T (3 盒)",
           "price": "$ 109.00",
-          "stock": "41",
+          "stock": "40",
           "url": "https://cn.cohcigars.com/cigars-cohiba"
         },
         "cohcigars:293:412": {
@@ -9390,7 +9390,7 @@
           "url": "https://www.ihavanas.com/details.php?ptype=cigars&pid=Partagas"
         }
       },
-      "last_checked": "2026-11-23T14:49:17+00:00",
+      "last_checked": "2026-11-23T15:23:26+00:00",
       "last_count": 180,
       "last_error": null,
       "previous": {
