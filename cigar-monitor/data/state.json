@@ -153,7 +153,7 @@
           "id": "cohcigars:1106:24016",
           "name": "Quintero Y Hermano - Favoritos (5 盒)",
           "price": "$ 59.00",
-          "stock": "34",
+          "stock": "33",
           "url": "https://cn.cohcigars.com/cigars-quintero-y-hermano"
         },
         "cohcigars:11070:11720": {
@@ -573,7 +573,7 @@
           "id": "cohcigars:142:212",
           "name": "Partagas - Shorts (25 盒)",
           "price": "$ 299.00",
-          "stock": "19",
+          "stock": "18",
           "url": "https://cn.cohcigars.com/cigars-partagas"
         },
         "cohcigars:148:21471": {
@@ -629,7 +629,7 @@
           "id": "cohcigars:1544:1739",
           "name": "Quintero Y Hermano - Petit Quintero (25 盒)",
           "price": "$ 156.00",
-          "stock": "33",
+          "stock": "32",
           "url": "https://cn.cohcigars.com/cigars-quintero-y-hermano"
         },
         "cohcigars:154:227": {
@@ -1287,14 +1287,14 @@
           "id": "cohcigars:21860:22614",
           "name": "Cohiba - Vitosos Travel Humidor (6x10 盒)",
           "price": "$ 245.00",
-          "stock": "72",
+          "stock": "71",
           "url": "https://cn.cohcigars.com/cigars-cohiba"
         },
         "cohcigars:21860:24390": {
           "id": "cohcigars:21860:24390",
           "name": "Cohiba - Vitosos Travel Humidor (6x2 盒)",
           "price": "$ 79.00",
-          "stock": "54",
+          "stock": "53",
           "url": "https://cn.cohcigars.com/cigars-cohiba"
         },
         "cohcigars:21:38": {
@@ -1959,7 +1959,7 @@
           "id": "cohcigars:2503:25293",
           "name": "Cohiba - Robustos A/T (10x3 盒)",
           "price": "$ 65.00",
-          "stock": "54",
+          "stock": "53",
           "url": "https://cn.cohcigars.com/cigars-cohiba"
         },
         "cohcigars:2503:2790": {
@@ -2036,7 +2036,7 @@
           "id": "cohcigars:2568:2858",
           "name": "Guantanamera - Puritos (50 x 2 盒)",
           "price": "$ 137.00",
-          "stock": "10",
+          "stock": "9",
           "url": "https://cn.cohcigars.com/cigars-guantanamera"
         },
         "cohcigars:2569:2859": {
@@ -2232,7 +2232,7 @@
           "id": "cohcigars:263:24306",
           "name": "Jose L. Piedra - Petit Cetros (5x2 盒)",
           "price": "$ 59.00",
-          "stock": "98",
+          "stock": "97",
           "url": "https://cn.cohcigars.com/cigars-jose-l.-piedra"
         },
         "cohcigars:26428:27330": {
@@ -3352,7 +3352,7 @@
           "id": "cohcigars:397:20574",
           "name": "Cohiba - Siglo IV (3 盒)",
           "price": "$ 345.00",
-          "stock": "32",
+          "stock": "31",
           "url": "https://cn.cohcigars.com/cigars-cohiba"
         },
         "cohcigars:4049:4349": {
@@ -3737,7 +3737,7 @@
           "id": "cohcigars:4779:5166",
           "name": "San Cristobal De La Habana - Harimau Malaya RE Malasia 2020 (10 盒)",
           "price": "$ 660.00",
-          "stock": "13",
+          "stock": "12",
           "url": "https://cn.cohcigars.com/cigars-san-cristobal-de-la-habana"
         },
         "cohcigars:4858:5279": {
@@ -3793,7 +3793,7 @@
           "id": "cohcigars:5381:5818",
           "name": "Saint Luis Rey - Herfing RE Medio Oriente 2017 (10 盒)",
           "price": "$ 455.00",
-          "stock": "86",
+          "stock": "85",
           "url": "https://cn.cohcigars.com/cigars-saint-luis-rey"
         },
         "cohcigars:53:86": {
@@ -3884,7 +3884,7 @@
           "id": "cohcigars:615:743",
           "name": "Punch - Punch (10 盒)",
           "price": "$ 290.00",
-          "stock": "88",
+          "stock": "87",
           "url": "https://cn.cohcigars.com/cigars-punch"
         },
         "cohcigars:62:99": {
@@ -4360,7 +4360,7 @@
           "id": "cohcigars:908:17330",
           "name": "Cohiba - Siglo III A/T (3 盒)",
           "price": "$ 205.00",
-          "stock": "42",
+          "stock": "41",
           "url": "https://cn.cohcigars.com/cigars-cohiba"
         },
         "cohcigars:908:951": {
@@ -4416,7 +4416,7 @@
           "id": "cohcigars:911:28370",
           "name": "Montecristo - Master A/T (3x2 盒)",
           "price": "$ 155.00",
-          "stock": "21",
+          "stock": "20",
           "url": "https://cn.cohcigars.com/cigars-montecristo"
         },
         "cohcigars:913:956": {
@@ -4612,7 +4612,7 @@
           "id": "cohcigars:9585:10231",
           "name": "Bolivar - 5 Pack- Bolivar Belicosos Finos (5 盒)",
           "price": "$ 180.00",
-          "stock": "15",
+          "stock": "14",
           "url": "https://cn.cohcigars.com/cigars-bolivar"
         },
         "cohcigars:9586:10232": {
@@ -4651,7 +4651,7 @@
           "url": "https://cn.cohcigars.com/cigars-montecristo"
         }
       },
-      "last_checked": "2026-11-25T11:44:18+00:00",
+      "last_checked": "2026-11-25T21:47:25+00:00",
       "last_count": 503,
       "last_error": null,
       "previous": {
@@ -4750,7 +4750,7 @@
           "id": "cohcigars:1106:24016",
           "name": "Quintero Y Hermano - Favoritos (5 盒)",
           "price": "$ 59.00",
-          "stock": "34",
+          "stock": "33",
           "url": "https://cn.cohcigars.com/cigars-quintero-y-hermano"
         },
         "cohcigars:11070:11720": {
@@ -5051,7 +5051,7 @@
           "id": "cohcigars:142:212",
           "name": "Partagas - Shorts (25 盒)",
           "price": "$ 299.00",
-          "stock": "19",
+          "stock": "18",
           "url": "https://cn.cohcigars.com/cigars-partagas"
         },
         "cohcigars:148:21471": {
@@ -5100,7 +5100,7 @@
           "id": "cohcigars:1544:1739",
           "name": "Quintero Y Hermano - Petit Quintero (25 盒)",
           "price": "$ 156.00",
-          "stock": "33",
+          "stock": "32",
           "url": "https://cn.cohcigars.com/cigars-quintero-y-hermano"
         },
         "cohcigars:154:227": {
@@ -5639,14 +5639,14 @@
           "id": "cohcigars:21860:22614",
           "name": "Cohiba - Vitosos Travel Humidor (6x10 盒)",
           "price": "$ 245.00",
-          "stock": "72",
+          "stock": "71",
           "url": "https://cn.cohcigars.com/cigars-cohiba"
         },
         "cohcigars:21860:24390": {
           "id": "cohcigars:21860:24390",
           "name": "Cohiba - Vitosos Travel Humidor (6x2 盒)",
           "price": "$ 79.00",
-          "stock": "54",
+          "stock": "53",
           "url": "https://cn.cohcigars.com/cigars-cohiba"
         },
         "cohcigars:21:38": {
@@ -6213,7 +6213,7 @@
           "id": "cohcigars:2503:25293",
           "name": "Cohiba - Robustos A/T (10x3 盒)",
           "price": "$ 65.00",
-          "stock": "54",
+          "stock": "53",
           "url": "https://cn.cohcigars.com/cigars-cohiba"
         },
         "cohcigars:2503:2790": {
@@ -6269,7 +6269,7 @@
           "id": "cohcigars:2568:2858",
           "name": "Guantanamera - Puritos (50 x 2 盒)",
           "price": "$ 137.00",
-          "stock": "10",
+          "stock": "9",
           "url": "https://cn.cohcigars.com/cigars-guantanamera"
         },
         "cohcigars:2569:2859": {
@@ -6367,7 +6367,7 @@
           "id": "cohcigars:263:24306",
           "name": "Jose L. Piedra - Petit Cetros (5x2 盒)",
           "price": "$ 59.00",
-          "stock": "98",
+          "stock": "97",
           "url": "https://cn.cohcigars.com/cigars-jose-l.-piedra"
         },
         "cohcigars:26428:27330": {
@@ -7130,7 +7130,7 @@
           "id": "cohcigars:397:20574",
           "name": "Cohiba - Siglo IV (3 盒)",
           "price": "$ 345.00",
-          "stock": "32",
+          "stock": "31",
           "url": "https://cn.cohcigars.com/cigars-cohiba"
         },
         "cohcigars:4049:4349": {
@@ -7417,7 +7417,7 @@
           "id": "cohcigars:4779:5166",
           "name": "San Cristobal De La Habana - Harimau Malaya RE Malasia 2020 (10 盒)",
           "price": "$ 660.00",
-          "stock": "13",
+          "stock": "12",
           "url": "https://cn.cohcigars.com/cigars-san-cristobal-de-la-habana"
         },
         "cohcigars:48:76": {
@@ -7466,7 +7466,7 @@
           "id": "cohcigars:5381:5818",
           "name": "Saint Luis Rey - Herfing RE Medio Oriente 2017 (10 盒)",
           "price": "$ 455.00",
-          "stock": "86",
+          "stock": "85",
           "url": "https://cn.cohcigars.com/cigars-saint-luis-rey"
         },
         "cohcigars:53:86": {
@@ -7529,7 +7529,7 @@
           "id": "cohcigars:615:743",
           "name": "Punch - Punch (10 盒)",
           "price": "$ 290.00",
-          "stock": "88",
+          "stock": "87",
           "url": "https://cn.cohcigars.com/cigars-punch"
         },
         "cohcigars:62:99": {
@@ -7963,7 +7963,7 @@
           "id": "cohcigars:908:17330",
           "name": "Cohiba - Siglo III A/T (3 盒)",
           "price": "$ 205.00",
-          "stock": "42",
+          "stock": "41",
           "url": "https://cn.cohcigars.com/cigars-cohiba"
         },
         "cohcigars:908:951": {
@@ -8005,7 +8005,7 @@
           "id": "cohcigars:911:28370",
           "name": "Montecristo - Master A/T (3x2 盒)",
           "price": "$ 155.00",
-          "stock": "21",
+          "stock": "20",
           "url": "https://cn.cohcigars.com/cigars-montecristo"
         },
         "cohcigars:913:956": {
@@ -8138,7 +8138,7 @@
           "id": "cohcigars:9585:10231",
           "name": "Bolivar - 5 Pack- Bolivar Belicosos Finos (5 盒)",
           "price": "$ 180.00",
-          "stock": "15",
+          "stock": "14",
           "url": "https://cn.cohcigars.com/cigars-bolivar"
         },
         "cohcigars:9586:10232": {
@@ -9411,7 +9411,7 @@
           "url": "https://www.ihavanas.com/details.php?ptype=cigars&pid=Partagas"
         }
       },
-      "last_checked": "2026-11-25T11:44:00+00:00",
+      "last_checked": "2026-11-25T21:47:04+00:00",
       "last_count": 180,
       "last_error": null,
       "previous": {
