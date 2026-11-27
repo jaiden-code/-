@@ -2673,7 +2673,7 @@
           "id": "cohcigars:293:17329",
           "name": "Cohiba - Siglo II A/T (3 盒)",
           "price": "$ 109.00",
-          "stock": "32",
+          "stock": "30",
           "url": "https://cn.cohcigars.com/cigars-cohiba"
         },
         "cohcigars:293:412": {
@@ -3824,6 +3824,13 @@
           "stock": "3",
           "url": "https://cn.cohcigars.com/cigars-cohiba"
         },
+        "cohcigars:4994:5408": {
+          "id": "cohcigars:4994:5408",
+          "name": "Vintage - La Gloria Cubana Medaille D`or No.3 - 2002 (25 盒)",
+          "price": "$ 2550.00",
+          "stock": "10",
+          "url": "https://cn.cohcigars.com/cigars-vintage"
+        },
         "cohcigars:4:7": {
           "id": "cohcigars:4:7",
           "name": "H.Upmann - Magnum 46 (25 盒)",
@@ -4721,8 +4728,8 @@
           "url": "https://cn.cohcigars.com/cigars-montecristo"
         }
       },
-      "last_checked": "2026-11-27T08:44:53+00:00",
-      "last_count": 510,
+      "last_checked": "2026-11-27T09:05:53+00:00",
+      "last_count": 513,
       "last_error": null,
       "previous": {
         "cohcigars:1011:1082": {
@@ -6720,6 +6727,20 @@
           "stock": "23",
           "url": "https://cn.cohcigars.com/cigars-quai-dorsay"
         },
+        "cohcigars:28640:29554": {
+          "id": "cohcigars:28640:29554",
+          "name": "Vintage - Habanos Seleccion Piramides 2004 (5 盒)",
+          "price": "$ 850.00",
+          "stock": "100",
+          "url": "https://cn.cohcigars.com/cigars-vintage"
+        },
+        "cohcigars:28641:29555": {
+          "id": "cohcigars:28641:29555",
+          "name": "Vintage - Habanos Seleccion Robustos 2004 (5 盒)",
+          "price": "$ 700.00",
+          "stock": "100",
+          "url": "https://cn.cohcigars.com/cigars-vintage"
+        },
         "cohcigars:2865:3183": {
           "id": "cohcigars:2865:3183",
           "name": "Vintage - Montecristo Media Corona - 2016 (25 盒)",
@@ -6752,7 +6773,7 @@
           "id": "cohcigars:293:17329",
           "name": "Cohiba - Siglo II A/T (3 盒)",
           "price": "$ 109.00",
-          "stock": "32",
+          "stock": "30",
           "url": "https://cn.cohcigars.com/cigars-cohiba"
         },
         "cohcigars:293:412": {
@@ -7559,6 +7580,13 @@
           "price": "$ 2050.00",
           "stock": "3",
           "url": "https://cn.cohcigars.com/cigars-cohiba"
+        },
+        "cohcigars:4994:5408": {
+          "id": "cohcigars:4994:5408",
+          "name": "Vintage - La Gloria Cubana Medaille D`or No.3 - 2002 (25 盒)",
+          "price": "$ 2550.00",
+          "stock": "10",
+          "url": "https://cn.cohcigars.com/cigars-vintage"
         },
         "cohcigars:4:7": {
           "id": "cohcigars:4:7",
@@ -9530,7 +9558,7 @@
           "url": "https://www.ihavanas.com/details.php?ptype=cigars&pid=Partagas"
         }
       },
-      "last_checked": "2026-11-27T08:44:36+00:00",
+      "last_checked": "2026-11-27T09:05:38+00:00",
       "last_count": 180,
       "last_error": null,
       "previous": {
